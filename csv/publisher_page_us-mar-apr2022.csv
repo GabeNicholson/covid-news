@@ -1,0 +1,51 @@
+,publisher_name,total_published,publisher_prediction,page,total_page,page_prediction
+0,New York Times (Online),40264,-9878,None,311478,-52208
+1,Washington Post (Online) The,26510,-7916,A.1,97242,-17248
+2,Wall Street Journal (Online),18992,-2902,A.2,22706,-1478
+3,New York Times,18924,-5416,A.3,22664,-2106
+4,Daily Herald,18829,281,A.4,19360,-2406
+5,USA Today (Online),18254,-3456,B.1,16285,-2567
+6,Washington Post The,14973,-4509,1,14702,-1332
+7,Chicago Tribune (Online),14231,-1071,A.6,13512,-1906
+8,Washington Examiner,12649,-3703,A.5,11926,-1132
+9,Boston Globe (Online),12546,-950,A.7,10252,-1504
+10,Wall Street Journal,11317,-2159,A.8,8955,-1337
+11,Los Angeles Times (Online),10201,-2013,B.2,7483,-907
+12,Axios,9618,-402,A.9,7017,-1167
+13,Politico,8127,-1451,B.3,6111,-351
+14,Austin American Statesman,7997,-1135,1.A,4641,-835
+15,Los Angeles Times,7935,-1865,C.1,4335,-479
+16,Orlando Sentinel,7767,-1721,3,4326,198
+17,New Haven Register,7450,-216,2.B,3763,-475
+18,Chicago Tribune,7330,-1178,B.4,3742,-542
+19,Telegraph - Herald,7033,-1183,6,3656,-98
+20,South Florida Sun - Sentinel,6986,-1770,4,3184,-82
+21,Boston Globe,6842,-902,D.1,3052,-258
+22,USA TODAY,6606,-1092,A.10,2990,-972
+23,New York Daily News,6295,-789,A.11,2828,-776
+24,Portland Press Herald,6288,-1070,B.5,2686,-112
+25,Arizona Republic,6050,-708,2,2580,-222
+26,Newsday,5733,-51,8,2554,-376
+27,Honolulu Star - Advertiser,5479,-1269,5,2446,-4
+28,Hartford Courant (Online),5415,191,A.13,2056,-630
+29,Philadelphia Daily News,5249,-975,A.12,2050,-568
+30,Cincinnati Enquirer,5219,-365,7,2033,-227
+31,Baltimore Sun The,5083,-747,C.3,1711,-265
+32,Orlando Sentinel (Online),5001,-925,A.14,1650,-378
+33,Daily Times,4978,-140,A.15,1603,-471
+34,Morning Sentinel,4925,-863,9,1600,-296
+35,Baltimore Sun (Online) The,4847,-257,D.3,1487,-253
+36,Des Moines Register,4301,-669,B.6,1373,-147
+37,Insider,4297,-1569,A.16,1315,-313
+38,Palm Beach Post,4266,-1134,C.2,1299,-73
+39,Morning Call (Online) The,4257,-15,D.4,1277,-183
+40,Pittsburgh Post - Gazette,4216,-684,10,1274,-328
+41,Atlanta Journal - Constitution The,4157,-397,A.18,1262,-394
+42,Gleaner The,4050,-736,A.19,1260,-360
+43,Tennessean The,4037,-521,A.17,1199,-407
+44,Sun Journal,4025,-151,A1,1165,-25
+45,Tampa Bay Times (Online),3952,-808,B.7,1054,-54
+46,Asbury Park Press,3950,-464,C.4,1046,-26
+47,Kennebec Journal,3903,-567,A3,964,-48
+48,Salt Lake Tribune The,3891,-1075,A13,897,-167
+49,Star Tribune,3859,-295,A14,891,-185
