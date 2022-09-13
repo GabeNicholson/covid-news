@@ -15,13 +15,15 @@ df = pd.read_csv("covid_plot_data.csv")
 
 plot_pub = pd.read_csv('publisher_df.csv')
 plot_pub.loc[:,'Average Sentiment Score'] = plot_pub.loc[:, 'sentiment']
-plot_pub = px.bar(plot_pub, x='publisher_name', y="Average Sentiment Score", color='Average Sentiment Score')
+plot_pub = px.bar(plot_pub, x='publisher_name', y="Average Sentiment Score", color='Average Sentiment Score',
+		labels={'publisher_name': ''})
 plot_pub.update_layout(template='plotly_dark')
 
 axis_options = ['prediction', 'smoothed_prediction', 'positive_rate', 'smoothed_articles_per_day', 'new_vaccinations_smoothed']
 
 app.layout = dbc.Container([
-	dcc.Markdown('Covid-19 News Sentiment Analysis', style={'textAlign': 'center', 'font-size': '40px', 'color':'white'}, className='mb-3'),
+	dcc.Markdown('Covid-19 News Sentiment Analysis',style={'textAlign': 'center', 'font-size': '40px', 'color':'white', 'border-bottom':'1px black solid', 'border-color':'white'}, className='mb-3'),
+
 	dbc.Row([
 		dbc.Col([
 			dcc.Graph(id='Covid-Graph',
