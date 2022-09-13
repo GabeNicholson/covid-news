@@ -9,3 +9,4 @@ old_files/2)prediction_w_roberta.ipynb
 old_files/.DS_Store
 old_files/(1)TDM_data_preprocessing_exploratory.ipynb
 .DS_Store
+csv/owid-covid-data.json
