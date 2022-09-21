@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2400027216</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Doting grandmother at Sagepoint loved music, too</Title>
+      </TitleAtt>
+      <NumericDate>2020-05-09</NumericDate>
+      <StartDate>2020-05-09</StartDate>
+      <EndDate>2020-05-09</EndDate>
+      <AlphaDate>May 9, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post May 9, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.3</StartPage>
+         <DocSection>Metro</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_May92020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20200509DotinggrandmotheratSagepointlovedmusicto070f397a</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1300</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Chason, Rachel</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Rachel</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Rachel Chason</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Chason</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Rachel Chason</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Stroke</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="403" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Cynthia Whiting loved her only granddaughter so much that when the little girl pointed out places on a map that she wanted to go, Whiting would make it happen.&lt;/p&gt;
+&lt;p&gt;A water park in Wisconsin. The Mall of America in Minnesota. Walt Disney World in Florida, and Disneyland in California.&lt;/p&gt;
+&lt;p&gt;"She spoiled her grand-baby rotten," said her daughter, Angelica Whiting, 33. "Every time you saw my daughter, my mom was right there."&lt;/p&gt;
+&lt;p&gt;Now, Angelica Whiting is struggling to help 7-year-old Mackenzie understand that her grandmother is gone, and why she did not get to say goodbye.&lt;/p&gt;
+&lt;p&gt;Whiting, 66, died April 11 at Charles Regional Medical Center, her daughter said. She is one of 34 residents at Sagepoint Senior Living in La Plata who have been reported to have developed covid-19. The 165-bed facility has the most deaths of any nursing home in Maryland, according to state data.&lt;/p&gt;
+&lt;p&gt;Whiting, of Waldorf, is survived by her daughter, son Robert II, and her husband, Robert Sr. They would have celebrated their 40th anniversary in July. She grew up in Philadelphia and enjoyed making frequent trips back to visit family there, her daughter said.&lt;/p&gt;
+&lt;p&gt;Cynthia Whiting was a strict but caring mother who worked for years as an administrative assistant before retiring around 60, her daughter said.&lt;/p&gt;
+&lt;p&gt;She loved music, dancing and worship and was active in her church, New Life Christian Ministries International in Indian Head. She arrived at Sagepoint in late February after suffering a stroke. Whiting, who had dementia, was bedridden, so Angelica Whiting said she wants to know how her mother contracted the coronavirus.&lt;/p&gt;
+&lt;p&gt;Angelica Whiting said Sagepoint initially told the family that her mother had pneumonia and did not test her for the coronavirus. Then the family was told Sagepoint had tested her and the results were negative. But at the hospital, doctors said she tested positive. Covid-19 is listed as a contributing factor to her death, along with gastrointestinal bleeding, Angelica Whiting said.&lt;/p&gt;
+&lt;p&gt;Sagepoint is being fined $10,000 a day by state regulators for not using proper personal protective equipment and failing to separate residents with the coronavirus from those who had tested negative, among other things.&lt;/p&gt;
+&lt;p&gt;A spokeswoman for the facility did not respond to a request for comment about Whiting's death.&lt;/p&gt;
+&lt;p&gt;"We did not even get to see my mom in her final moments," Angelica Whiting said. "I want Sagepoint to pay for the mistakes that were made."&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;rachel.chason@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 9, 2020</AlphaDate>
+         <StartDate>2020-05-09</StartDate>
+         <EndDate>2020-05-09</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_May92020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2486058876</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Coronavirus variants, viral mutation and COVID-19 vaccines: The science you need to understand</Title>
+      </TitleAtt>
+      <NumericDate>2021-02-02</NumericDate>
+      <StartDate>2021-02-02</StartDate>
+      <EndDate>2021-02-02</EndDate>
+      <AlphaDate>Feb 2, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVIL_20210202_153771</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVIL_20210202_153771</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977982_Feb22021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Kuhn, Richard</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Richard</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Richard Kuhn</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Kuhn</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Richard Kuhn</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/153771/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Antibodies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Proteins</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Immune system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mutation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Viruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Viruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Target recognition</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Mutation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Kuhn, Richard</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United Kingdom--UK</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="85">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]it is important to monitor viruses for such new mutations that could make them more deadly, more transmissible or both.
+
+A single change in the spike protein - which is the region of the virus that attaches to human cells - is probably not going to be a big threat as the medical community rolls out the vaccines.
+
+The current vaccines induce the immune system to produce antibodies that recognize and target the spike protein on the virus, which is essential for invading human cells.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1230" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The SARS-CoV-2 virus mutates fast. That's a concern because these more transmissible variants of SARS-CoV-2 are now present in the U.S., U.K. and South Africa and other countries, and many people are wondering whether the current vaccines will protect the recipients from the virus. Furthermore, many question whether we will we be able to keep ahead of future variants of SARS-CoV-2, which will certainly arise.&lt;/p&gt;
+&lt;p&gt;In my laboratory I study the molecular structure of RNA viruses - like the one that causes COVID-19 - and how they replicate and multiply in the host. As the virus infects more people and the pandemic spreads, SARS-CoV-2 continues to evolve. This process of evolution is constant and it allows the virus to sample its environment and select changes that make it grow more efficiently. Thus, it is important to monitor viruses for such new mutations that could make them more deadly, more transmissible or both.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; RNA viruses evolve quickly &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The genetic material of all viruses is encoded in either DNA or RNA; one interesting feature of RNA viruses is that they change much more rapidly than DNA viruses. Every time they make a copy of their genes they make one or a few mistakes. This is expected to occur many times within the body of an individual who is infected with COVID-19.&lt;/p&gt;
+&lt;p&gt;One might think that making a mistake in your genetic information is bad - after all, that's the basis for genetic diseases in humans. For an RNA virus, a single change in its genome may render it "dead." That's not too bad if inside an infected human cell you're making thousands of copies and a few are no longer useful.&lt;/p&gt;
+&lt;p&gt;However, some genomes may pick up a change that is beneficial for the survival of the virus: Maybe the change allows the virus to evade an antibody - a protein that the immune system produces to catch viruses - or an antiviral drug. Another beneficial change may allow the virus to infect a different type of cell or even a different species of animal. This is likely the pathway that allowed SARS-CoV-2 to move from bats into humans.&lt;/p&gt;
+&lt;p&gt;Any change that gives the virus's descendants a competitive growth advantage will be favored - "selected" - and begin to outgrow the original parent virus. SARS-CoV-2 is demonstrating this feature now with new variants arising that have enhanced growth properties. Understanding the nature of these changes in the genome will provide scientists with guidance to develop countermeasures. This is the classic cat-and-mouse scenario.&lt;/p&gt;
+&lt;p&gt;In an infected patient there are hundreds of millions of individual virus particles. If you were to go in and pick out one virus at a time in this patient, you would find a range of mutations or variants in the mix. It's a question of which ones have a growth advantage - that is, which ones can evolve because they are better than the original virus. Those are the ones that are going to become successful during the pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Of the mutations that have been detected, is one of particular concern? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Any single variant or change in the virus is probably not that problematic. A single change in the spike protein - which is the region of the virus that attaches to human cells - is probably not going to be a big threat as the medical community rolls out the vaccines.&lt;/p&gt;
+&lt;p&gt;The current vaccines induce the immune system to produce antibodies that recognize and target the spike protein on the virus, which is essential for invading human cells. Scientists have observed the accumulation of multiple changes in the spike protein in the South African variant.&lt;/p&gt;
+&lt;p&gt;These changes allows SARS-CoV-2, for example, to attach more tightly to the ACE2 receptor and enter human cells more efficiently, according to preliminary unpublished studies. Those alterations could enable the virus to infect cells more easily and enhance its transmissibility. With multiple changes in the spike protein, the vaccines may no longer produce a strong immune response against these new variant viruses. That's a double whammy: a less effective vaccine and a more robust virus.&lt;/p&gt;
+&lt;p&gt;Right now, the public doesn't need to be concerned about the current vaccines. The leading vaccine manufacturers are monitoring how well their vaccines control these new variants and are ready to tweak the vaccine design to ensure that they will protect against these emerging variants. Moderna, for example, has stated that it will adjust the second or booster injection to more closely match the sequence of the South African variant. We'll have to just wait and see, as more people receive vaccinations, whether the transmission rates will drop.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Why is lowering transmission key? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A drop in transmission rates means fewer infections. Less virus replication leads to fewer opportunities for the virus to evolve in humans. With less opportunity to mutate, the evolution of the virus slows and there is a lower risk of new variants.&lt;/p&gt;
+&lt;p&gt;The medical community needs to make a big push and get as many people vaccinated and thus protected as possible. If not, the virus will continue to grow in large numbers of people and produce new variants.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; How the new variants are different &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The U.K. variant, known as B.1.1.7., seems to bind more tightly to the protein receptor called ACE2, which is on the surface of human cells.&lt;/p&gt;
+&lt;p&gt;I don't think we've seen clear evidence that these viruses are more pathogenic, which means more deadly. But they may be transmitted faster or more efficiently. That means that more people will be infected, which translates into more people who will be hospitalized.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;The South African variant, known as 501.V2, has multiple mutations in the gene that encodes the spike protein. These mutations help the virus evade an antibody response.&lt;/p&gt;
+&lt;p&gt;Antibodies have exquisite precision for their target, and if the target changes shape slightly, as with this variant - which virologists call an escape mutant - the antibody can no longer bind tightly, as it loses its power to protect.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Why do we need to monitor for mutations? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We want to make sure that the diagnostic tests are detecting all of the viruses. If there are mutations in the virus's genetic material, an antibody or PCR test may not be able to detect it as efficiently or at all.&lt;/p&gt;
+&lt;p&gt;To be sure that the vaccine is going to be effective, researchers need to know if the virus is evolving and escaping the antibodies that were triggered via the vaccine.&lt;/p&gt;
+&lt;p&gt;Another reason that monitoring for new variants is important is that people who've been infected might be infected again if the virus has mutated and their immune system can't recognize it and shut it down.&lt;/p&gt;
+&lt;p&gt;The best way to look for emerging variants in the population is to do random sequencing of the SARS-CoV-2 viruses from patient samples across diverse genetic backgrounds and geographical locations.&lt;/p&gt;
+&lt;p&gt;The more sequencing data researchers collect, the better vaccine developers will be able to respond in advance of major changes in the virus population. Many research centers around the U.S. and the world are ramping up their sequencing capabilities to accomplish this.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Richard Kuhn does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Richard Kuhn, Professor of Biological Sciences, Purdue University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Science + Technology</Title>
+         <MpubId>4977982</MpubId>
+         <SortTitle>Conversation : Science + Technology The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVIL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977982</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464264.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Sciences: Comprehensive Works</Subject>
+            <Subject>Technology: Comprehensive Works</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Science + Technology</Title>
+            <SortTitle>Conversation : Science + Technology The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977982</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464264.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 2, 2021</AlphaDate>
+         <StartDate>2021-02-02</StartDate>
+         <EndDate>2021-02-02</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977982_Feb22021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

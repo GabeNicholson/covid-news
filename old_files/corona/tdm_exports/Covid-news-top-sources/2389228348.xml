@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2389228348</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Looking for a Job? Big Tech Is Still Hiring; Coronavirus has ravaged the American job market, but tech giants remain on the hunt for cybersecurity experts and engineers; Facebook filling 10,000 roles in 2020</Title>
+      </TitleAtt>
+      <NumericDate>2020-04-14</NumericDate>
+      <StartDate>2020-04-14</StartDate>
+      <EndDate>2020-04-14</EndDate>
+      <AlphaDate>Apr 14, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2020 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>Tech</DocSection>
+         <ColumnHeader>Technology</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Apr142020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO202004142D4356E0D6A1D74E3E74565F8F6352C1</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1480</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Cutter, Chip</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Chip</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Chip Cutter</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Cutter</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Chip Cutter</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Thomas, Patrick</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Patrick</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Patrick Thomas</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Thomas</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Patrick Thomas</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="Editorial">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Facebook Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>518210</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>519130</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <PQBCompanyTerm TermSource="Editorial">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Facebook Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyTickerAtt>
+               <CompanyTicker>FB</CompanyTicker>
+            </CompanyTickerAtt>
+            <CompanyIDAtt TermVocab="BUSCORP">
+               <CompanyID>2127240</CompanyID>
+            </CompanyIDAtt>
+            <CompanyType>Public</CompanyType>
+            <CompanyHQLocation>United States</CompanyHQLocation>
+            <CompanyWebsite>http://www.facebook.com</CompanyWebsite>
+            <CompanyStockExchange>NASDAQ</CompanyStockExchange>
+         </PQBCompanyTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>54133</ClassCode>
+            <ClassExpansion>Engineering Services</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Software</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Computer security</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Athletic recruitment</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rentals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Interviews</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Engineers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Designers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Hiring</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Startups</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employees</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Layoffs</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>San Francisco California</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="966" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;The biggest players in tech are hoovering up talent in the midst of the 
+coronavirus pandemic.
+&lt;/p&gt;
+&lt;p&gt;As some of Silicon Valley's most-promising startups lay off workers and others freeze hiring, established companies including Apple Inc., Alphabet Inc.'s Google and Amazon.com Inc. are pursuing software engineers, data scientists, product designers and others. Facebook Inc. says usage has spiked during the coronavirus crisis and it is committed to policing platforms ahead of the 2020 presidential election, so it will hire more than 10,000 people this year for critical roles on its product and engineering teams.&lt;/p&gt;
+
+&lt;p&gt;The current moment may give well-capitalized tech companies a chance to poach skilled workers who until recently were gravitating to smaller upstarts, veteran technology recruiters say.&lt;/p&gt;
+&lt;p&gt;"This is a great time" for some of the industry's biggest players, says Martha Heller, chief executive of tech recruiting firm Heller Search Associates, noting that stability is a selling point now. "The big, 500-pound gorilla has always come in and hired from smaller, less-stable companies—you're just seeing the beginning of an increase in that."&lt;/p&gt;
+&lt;p&gt;Top Five Tech Jobs of the Moment&lt;/p&gt;
+&lt;p&gt;(As measured by new job postings from March 8 through April 8 on CareerBuilder.)&lt;/p&gt;
+&lt;p&gt;* Software engineer: 46,118&lt;/p&gt;
+&lt;p&gt;* Java developer: 13,199&lt;/p&gt;
+&lt;p&gt;* Project Manager*: 13,130&lt;/p&gt;
+&lt;p&gt;* Systems Engineer*: 11,646&lt;/p&gt;
+&lt;p&gt;* IT Help Desk Specialist: 8,580&lt;/p&gt;
+&lt;p&gt;* Computer &amp;amp; Mathematics&lt;/p&gt;
+&lt;p&gt;Source: CareerBuilder&lt;/p&gt;
+&lt;p&gt;Facebook is hiring designers, researchers and engineering talent, along with professionals to work in its policy, legal and global operations teams as it tries to combat misinformation and focus on social issues such as election integrity, says Miranda Kalinowski, a vice president of recruiting at the social-networking company.&lt;/p&gt;
+&lt;p&gt;Apple hired aggressively during the financial crisis, current and former employees say, and Chief Executive Tim Cook has indicated in communication with staff that it will do so again, according to people close to the company.&lt;/p&gt;
+&lt;p&gt;Amazon in March reached out to Cornell University's SC Johnson Graduate School of Management, requesting additional resumes, a sign the company may be looking to hire additional students, says Drew Pascarella, associate dean of M.B.A. programs at the school. The school is sending 12 M.B.A.s from the class of 2020 to Amazon. The company says as of April 10 it had 20,000 open tech jobs.&lt;/p&gt;
+&lt;p&gt;"Given the level of uncertainty we face, working for Apple, with its $200 billion cash pile, or Amazon, which can deliver the world to a socially distanced customer base, seems more comforting than working for a startup burning cash," he says.&lt;/p&gt;
+&lt;p&gt;Prashay Deo, a 29-year-old in Austin, Texas, is among those considering tech giants for his next opportunity. Until last month, Mr. Deo worked as a city launcher for the buzzy San Francisco rental startup Sonder, an Airbnb-like company that last year hit a billion-dollar valuation. Mr. Deo traveled the world, helping to quickly hire staffers and launch rentals in cities such as Dubai and Vancouver, British Columbia. The position "was a dream come true," Mr. Deo says. Last month, he was let go with hundreds of others.&lt;/p&gt;
+&lt;p&gt;Mr. Deo, who has also worked for Apple, says he has submitted about 30 applications so far to a range of employers. He also established a Slack channel to help former co-workers connect and network. Already, some of his laid-off colleagues have been hired by Facebook.&lt;/p&gt;
+&lt;p&gt;"I do think most people will end up landing at bigger companies," Mr. Deo says.&lt;/p&gt;
+&lt;p&gt;Interviewing in the era of coronavirus lockdowns means getting to know companies from a distance. Slack Technologies Inc., based in San Francisco, previously brought candidates to its offices for four or five hours of face-to-face meetings with hiring managers, says Robby Kwok, the company's senior vice president of people. Now it conducts interviews by videoconference, and is breaking up interviews across multiple days.&lt;/p&gt;
+&lt;p&gt;Recruiters tell candidates that it is OK if a child appears or the background isn't quiet. "All of us understand," Mr. Kwok says.&lt;/p&gt;
+&lt;p&gt;Slack, which is experiencing a surge in usage, says it is sticking to staffing plans made before the pandemic. The company has more than 200 open positions and is seeing a "noticeable" increase in applications and employee referrals for those, Mr. Kwok says. Anecdotally, he is hearing of employees from startups and other previously fast-growing businesses gravitating to Slack now. The company, which employed 2,045 people as of Jan. 31, is also accelerating some hiring for customer-support roles to keep up with a surge in inquiries.&lt;/p&gt;
+&lt;p&gt;Recruiters say technology roles exist at plenty of non-consumer-facing companies, too. Cybersecurity firm CrowdStrike Holdings Inc., which provides cloud-based security technology, is hiring for a variety of engineering and sales positions. Applications have risen for some of its roughly 250 job openings, says Alexis Neville, vice president of talent acquisition.&lt;/p&gt;
+&lt;p&gt;"We are getting an influx of people that have either been laid off or are very nervous about the industry they are in," she says.&lt;/p&gt;
+&lt;p&gt;Most of Crowdstrike's roles are for remote workers. Positions that do require employees to relocate will be allowed to start from home until it is safe for them to come in, says J.C. Herrera, the company's chief human resources officer.&lt;/p&gt;
+&lt;p&gt;Companies in a position to hire may benefit in the long term, according to veterans of past economic downturns. One tech recruiter noted Google has posted many new openings in the past few weeks. The company didn't respond to a request for comment. Laszlo Bock, the former head of human resources at Google who now runs behavioral-change startup Humu Inc., says some of Google's key early hires came onboard after being laid off elsewhere during the dot-com bust.&lt;/p&gt;
+&lt;p&gt;"If you have a lot of resources and you're hiring and other companies are struggling, that's when you pick off the right people," Mr. Bock says.&lt;/p&gt;
+&lt;p&gt;Tripp Mickle contributed to this article.&lt;/p&gt;
+&lt;p&gt;Credit: By Chip Cutter and Patrick Thomas &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Apr 14, 2020</AlphaDate>
+         <StartDate>2020-04-14</StartDate>
+         <EndDate>2020-04-14</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Apr142020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

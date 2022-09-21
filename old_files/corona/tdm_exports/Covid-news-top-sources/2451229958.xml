@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2451229958</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>As Twitter and Facebook Clamp Down, Republicans Claim ‘Election Interference’</Title>
+      </TitleAtt>
+      <NumericDate>2020-10-15</NumericDate>
+      <StartDate>2020-10-15</StartDate>
+      <EndDate>2020-10-15</EndDate>
+      <AlphaDate>Oct 15, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Oct 15, 2020</CopyrightData>
+      </Copyright>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Oct152020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>NYT20201015kwnPgW8Qf9YP8IrOZfnYQ</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1650</LexileScore>
+      <DateLine>2020-10-15 @ 22:22</DateLine>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Isaac, Mike</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Mike</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Mike Isaac</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Isaac</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Mike Isaac</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Conger, Kate</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Kate</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Kate Conger</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Conger</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Kate Conger</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>House of Representatives-Judiciary, Committee on the</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>New York Post</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="Editorial">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Facebook Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>518210</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>519130</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political campaigns</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Conservatism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>False information</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Presidential elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Subpoenas</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Biden, Hunter</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Business</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Criminal Justice</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Courts And The Judiciary</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Regulation And Deregulation Of Industry</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Constitutions</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Constitutional Amendments</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Bill Of Rights (Us)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Video Recordings And Downloads</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Social Conditions And Trends</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Elections</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Media</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Human Rights And Human Rights Violations</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Science And Technology</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Computer Security</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Politics And Government</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>United States</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Ukraine</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Texas</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Tennessee</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>San Francisco (Calif)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Russia</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Ohio</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Missouri</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Chapel Hill (Nc)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Twitter</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Google Inc</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Facebook Inc</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>YoutubeCom</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>University Of North Carolina</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Senate Committee On Commerce, Science, And Transportation</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Senate</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Republican Party</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>New York Post</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>House Of Representatives</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>House Committee On The Judiciary</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Harvard University</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Fox Broadcasting Co</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Federal Election Commission</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Federal Communications Commission</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Zuckerberg, Mark E</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Trump, Donald J</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Pichai, Sundar</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Pai, Ajit</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Mcenany, Kayleigh</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Jordan, Jim (1964  )</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Dorsey, Jack</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Cruz, Ted</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Blackburn, Marsha</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Biden, Joseph R Jr</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Biden, Hunter</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Privacy</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>First Amendment (Us Constitution)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Antitrust Laws And Competition Issues</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Instant Replay (Sports)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Suits And Litigation (Civil)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Presidential Elections (Us)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Primaries And Caucuses</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Law And Legislation</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Rumors And Misinformation</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>News And News Media</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Conservatism (Us Politics)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Polls And Public Opinion</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Cyberattacks And Hackers</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Presidential Election Of 2020</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>United States Politics And Government</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Computers And The Internet</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Freedom Of Speech And Expression</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Censorship</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1489" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;FILE -- The headquarters of Twitter in San Francisco, Oct. 27, 2016. On Thursday, simmering discontent from Republicans over the power that Facebook and Twitter wield over public discourse erupted into open acrimony. (Jason Henry/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+&lt;p&gt;SAN FRANCISCO — President Donald Trump called Facebook and Twitter “terrible” and “a monster” and said he would go after them. Sens. Ted Cruz and Marsha Blackburn said they would subpoena the chief executives of the companies for their actions. And on Fox News, prominent conservative hosts blasted the social media platforms as “monopolies” and accused them of “censorship” and election interference.&lt;/p&gt;
+&lt;p&gt;On Thursday, simmering discontent among Republicans over the power that Facebook and Twitter wield over public discourse erupted into open acrimony. Republicans slammed the companies and baited them a day after the sites limited or blocked the distribution of an unsubstantiated New York Post article about Hunter Biden, son of Democratic presidential nominee Joe Biden.&lt;/p&gt;
+&lt;p&gt;The criticism did not stop the companies. Twitter locked the personal account of Kayleigh McEnany, the White House press secretary, late Wednesday after she posted the article, and Thursday it briefly blocked a link to a House Judiciary Committee webpage. The Trump campaign said Twitter had also locked its official account after it tried promoting the article. Twitter then doubled down by prohibiting the spread of a different New York Post article about the Bidens.&lt;/p&gt;
+&lt;p&gt;The actions brought the already frosty relationship between conservatives and the companies to a new low point, less than three weeks before the Nov. 3 presidential election, in which the social networks are expected to play a significant role. It offered a glimpse at how online conversations could go awry on Election Day and underlined how the companies have little handle on how to consistently enforce what they will allow on their sites.&lt;/p&gt;
+&lt;p&gt;“There will be battles for control of the narrative again and again over coming weeks,” said Evelyn Douek, a lecturer at Harvard Law School who studies social media companies. “The way the platforms handled it is not a good harbinger of what’s to come.”&lt;/p&gt;
+&lt;p&gt;Facebook declined to comment Thursday and pointed to its comments Wednesday when it said the New York Post article, which made unverified claims about Hunter Biden’s business in Ukraine, was eligible for third-party fact-checking.&lt;/p&gt;
+&lt;p&gt;In a tweet, Twitter said, “We recognize that Twitter is just one of many places where people can find information online, and the Twitter Rules are intended to protect the conversation on our service, and to add context to people’s experience where we can.”&lt;/p&gt;
+&lt;p&gt;The service went down Thursday evening in the United States and elsewhere; Twitter said it was investigating an issue with its software.&lt;/p&gt;
+&lt;p&gt;Trump said on Twitter on Wednesday that “it is only the beginning” for the social media companies. He followed up Thursday by saying he wanted to “strip them” of some of their liability protections.&lt;/p&gt;
+&lt;p&gt;For years, Trump and other Republicans have accused Facebook and Twitter, which have headquarters in liberal Silicon Valley, of anti-conservative bias. In 2018, Trump said the companies, along with Google, “have to be careful” and claimed, without evidence, that they were intentionally suppressing conservative news outlets supportive of his administration.&lt;/p&gt;
+&lt;p&gt;That issue has since come up repeatedly at Capitol Hill hearings, including in July when the chief executives of Facebook and Google, Mark Zuckerberg and Sundar Pichai, testified on antitrust issues.&lt;/p&gt;
+&lt;p&gt;Tensions have also been running high for Twitter and Facebook as they aim to avoid a replay of the 2016 election, when Russians used their sites to spread inflammatory messages to divide Americans. In recent weeks, the companies have said they will clamp down on misinformation before and after Election Day, such as by banning content related to the pro-Trump conspiracy theory QAnon and slowing down the way information flows on their networks.&lt;/p&gt;
+&lt;p&gt;But with Trump trailing Biden in the polls, the companies’ handling of the New York Post article has ruptured any truce they had managed to strike with conservatives.&lt;/p&gt;
+&lt;p&gt;Sen. Josh Hawley, R-Mo., asked the Federal Election Commission in a letter Wednesday to investigate whether the companies’ actions could be considered an in-kind contribution to Biden’s campaign.&lt;/p&gt;
+&lt;p&gt;“I think it really is a new frontier,” Hawley said in an interview. “It will also lead to a new openness on the Republican side to think about what we are going to do about their monopoly power.”&lt;/p&gt;
+&lt;p&gt;Cruz, of Texas, and Blackburn, of Tennessee, said Thursday that they would subpoena Zuckerberg and Jack Dorsey, Twitter’s chief executive, for a hearing on what they deemed “election interference.”
+&lt;/p&gt;&lt;p&gt;
+“I’m looking forward to asking Jack and Mark about silencing media that go against their political beliefs,” Blackburn said in a tweet.&lt;/p&gt;
+&lt;p&gt;Rep. Jim Jordan, R-Ohio, ranking member of the House Judiciary Committee, sent Dorsey a letter excoriating Twitter for blocking the article and asking for a detailed summary of the process behind the decision.&lt;/p&gt;
+&lt;p&gt;
+Pichai, Zuckerberg and Dorsey have already agreed to testify before the Senate Commerce Committee on Oct. 28 about the federal law that shields their platforms from lawsuits. Conservatives have called for changes to the law, Section 230 of the Communications Decency Act, which makes it impossible to sue web platforms over much of the content posted by their users or how they choose to moderate it.&lt;/p&gt;
+&lt;p&gt;Ajit Pai, Republican chairman of the Federal Communications Commission, said Thursday that he planned to move forward with a proceeding to clarify the law.
+&lt;/p&gt;&lt;p&gt;
+“Social media companies have a First Amendment right to free speech,” Pai said in a statement. “But they do not have a First Amendment right to a special immunity denied to other media outlets, such as newspapers and broadcasters.”&lt;/p&gt;
+&lt;p&gt;Trump was even more pointed, saying in a tweet Thursday that the companies needed to be deprived of their Section 230 protections “immediately.”&lt;/p&gt;
+&lt;p&gt;
+Others applauded the aggressiveness of the social media companies.&lt;/p&gt;
+&lt;p&gt;“The actions taken by Facebook, Twitter and Google show that these platform companies are indeed willing to enforce their existing policies, in particular around ‘hack and leak’ material,” said Shannon McGregor, senior researcher with the Center for Information, Technology and Public Life at the University of North Carolina at Chapel Hill.&lt;/p&gt;
+&lt;p&gt;Unlike previous criticism of Facebook and Twitter for acting too slowly in taking down content, the uproar this time has centered on how they may have acted too hastily. (The exception was Google’s YouTube, which said after about 36 hours that it would allow a New York Post video about the article to remain up without restrictions.)&lt;/p&gt;
+&lt;p&gt;The speed with which Facebook moved was uncharacteristic, fueled by how quickly the article took off online and the sensitivity of the material, according to two Facebook employees, who were not authorized to speak publicly.&lt;/p&gt;
+&lt;p&gt;Within three hours after The New York Post published its article Wednesday, Facebook said it would reduce the distribution of the piece across the network so that it would appear less frequently in users’ individual News Feeds, one of the most highly viewed sections of the app.&lt;/p&gt;
+&lt;p&gt;The company billed it as part of its “standard process to reduce the spread of misinformation,” said Andy Stone, a Facebook spokesman. That process included spotting some “signals” that a piece of content might be false, according to Facebook’s guidelines for content moderation. The company has not clarified what those signals were.&lt;/p&gt;
+&lt;p&gt;Twitter then went further by blocking people from linking to the article altogether. That meant the article could not circulate at all on Twitter, even in private messages between users.&lt;/p&gt;
+&lt;p&gt;Because the article contained images of purported personal emails from Hunter Biden, Twitter said sharing it violated its policy against the distribution of hacked material. The emails also showed private contact information, a violation of Twitter’s privacy policies.
+&lt;/p&gt;&lt;p&gt;
+The backlash was instant. Republicans immediately tested the limits of Twitter’s rules, with some tweeting screenshots of the article. Francis Brennan, director of strategic response for the Trump campaign, posted the entire article in a string of 44 tweets. The article was also copied and published on the webpage of the House Judiciary Committee’s Republican minority.&lt;/p&gt;
+&lt;p&gt;Twitter scrambled to keep up. If tweets with the screenshots showed the emails, the company removed them. Brennan’s tweets were allowed to remain because they did not include the emails.&lt;/p&gt;
+&lt;p&gt;
+Late Wednesday, as the furor grew, Twitter tried to address it. “We know we have more work to do to provide clarity in our product when we enforce our rules in this manner,” a spokesman tweeted.&lt;/p&gt;
+&lt;p&gt;Twitter also said people whose accounts were locked could easily change that by simply deleting the offending tweet.&lt;/p&gt;
+&lt;p&gt;Also late Wednesday, Dorsey weighed in to criticize his company’s communication about the decision. “Blocking URL sharing via tweet or DM with zero context as to why we’re blocking: unacceptable,” he wrote on Twitter.&lt;/p&gt;
+&lt;p&gt;Internally, Dorsey griped to employees that users hadn’t been shown a sufficient explanation when prevented from sharing the New York Post article, a person with knowledge of the comments said.
+&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>FILE -- The headquarters of Twitter in San Francisco, Oct. 27, 2016. On Thursday, simmering discontent from Republicans over the power that Facebook and Twitter wield over public discourse erupted into open acrimony. (Jason Henry/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 15, 2020</AlphaDate>
+         <StartDate>2020-10-15</StartDate>
+         <EndDate>2020-10-15</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Oct152020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2456694282</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>After Assault Claims, Art World Steps Back From Iranian Painter</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[Foreign Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2020-11-03</NumericDate>
+      <StartDate>2020-11-03</StartDate>
+      <EndDate>2020-11-03</EndDate>
+      <AlphaDate>Nov 3, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Nov 3, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.12</StartPage>
+         <Pagination>A.12</Pagination>
+         <DocSection>A</DocSection>
+         <ColumnNumber>0</ColumnNumber>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Nov32020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>196053-20201103</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <FullTextLinkID>https://www.nytimes.com/2020/11/01/world/canada/iran-metoo-aghdashloo-reaction.html</FullTextLinkID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1500</LexileScore>
+      <Desk>Foreign Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Fassihi, Farnaz</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Farnaz</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Farnaz Fassihi</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Fassihi</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Farnaz Fassihi</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Porter, Catherine</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Catherine</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Catherine Porter</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Porter</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Catherine Porter</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <DocUrl>https://www.nytimes.com/2020/11/01/world/canada/iran-metoo-aghdashloo-reaction.html</DocUrl>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Art galleries &amp; museums</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Artists</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Auctions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Workshops</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Motion picture directors &amp; producers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>International relations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Art exhibits</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Sex crimes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Petitions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Festivals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Painting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Canada</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Iran</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1240" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;In Iran, an exhibit of Aydin Aghdashloo's work was canceled and a prominent auction is considering dropping him. In Canada, a petition calls for an art festival to cut ties with him.&lt;/p&gt;&lt;p&gt;A famous and well-connected Iranian artist who has been accused by at least 13 women of sexual misconduct is starting to see signs of repercussions in the art world that once exalted him, both in Iran and Canada, where he has dual citizenship.&lt;/p&gt;&lt;p&gt;The artist, Aydin Aghdashloo, whose work has been auctioned and shown around the world, is the most prominent figure to be accused in Iran's burgeoning #MeToo movement. He has denied wrongdoing and taken legal action against at least one of the women.&lt;/p&gt;&lt;p&gt;But their accounts, detailed in an Oct. 22 New York Times article, have been widely shared in Iran and generated more criticism of the artist. Mr. Aghdashloo's Instagram account appears to have restricted comments since the Times article was published.&lt;/p&gt;&lt;p&gt;Through his lawyers, Mr. Aghdashloo has demanded a retraction of the article. The Times is standing by it.&lt;/p&gt;&lt;p&gt;A solo exhibition of Mr. Aghdashloo's work that had been planned for a Saturday opening at the Dastan art gallery in Tehran was canceled by the artist's representatives in late August, a few days after the first allegation surfaced on Iranian social media, Hormoz Hematian, the founder of the gallery, said this past week. Mr. Hematian also said the gallery has a zero-tolerance policy for sexual misconduct that extends to artists it showcases.&lt;/p&gt;&lt;p&gt;Tehran Auction, an important annual venue for Iran's art where Mr. Aghdashloo's work is prominently featured every year, said it was considering withdrawal of his two paintings set for showing at the auction tentatively planned for Dec. 11.&lt;/p&gt;&lt;p&gt;"I recommended to the team to pull the paintings out," said Homa Taraji, head of international relations for Tehran Auction. "We do care about these allegations. Including him in the auction is going to create a negative perception about Tehran Auction and affect our work internationally."&lt;/p&gt;&lt;p&gt;A documentary about Mr. Aghdashloo written and directed by his daughter, Tara, is also facing uncertainty. The film was described by the executive producer as part love letter, part confrontation between father and daughter. But the film's completion predated the allegations of sexual misconduct, said the executive producer, Mahyad Tousi, a Los Angeles-based writer and producer who has mentored Ms. Aghdashloo.&lt;/p&gt;&lt;p&gt;"I believe women. Period. Ever since the allegations, my recommendation to Tara has been to find a way to include them," Mr. Tousi said. If the film is released as is, he said, "I would have to withdraw my name and affiliation with it."&lt;/p&gt;&lt;p&gt;Representatives of Mr. Aghdashloo and his daughter did not respond to emailed requests for comment.&lt;/p&gt;&lt;p&gt;Mr. Aghdashloo's supporters, including some of his former students, have taken to social media to reject the allegations and recount positive memories of their experience in his workshops. On Wednesday, his 80th birthday, they shared photographs of previous parties with Mr. Aghdashloo surrounded by female students and a birthday cake.&lt;/p&gt;&lt;p&gt;"I learned great lessons in life and art from you, happy birthday dear teacher," Sanaz Barzegar, an artist, wrote on her Instagram page with a photo of Mr. Aghdashloo.&lt;/p&gt;&lt;p&gt;In Canada, a petition started by a handful of women in August has now garnered more than 800 signatures calling for the hugely popular biannual Iranian-Canadian Tirgan cultural festival, which drew 160,000 people last year, to announce publicly that it will no longer invite Mr. Aghdashloo.&lt;/p&gt;&lt;p&gt;The festival's chief executive and board have remained noncommittal about the accusations.&lt;/p&gt;&lt;p&gt;"Our board decided this has nothing to do with Tirgan," said the chief executive, Mehrdad Ariannejad. "We invite as many artists as we can to our gatherings and performances. Are they going to ask all the organizations, all the museums around the world, all the people that have been in contact with Mr. Aghdashloo to come out and take a position?"&lt;/p&gt;&lt;p&gt;In 2017, an interview with Mr. Aghdashloo at the festival was posted to the Tirgan YouTube channel.&lt;/p&gt;&lt;p&gt;"I personally, definitely, condemn any violence against women. I've always supported women's rights," said Mr. Ariannejad, adding that he believed the accounts should be investigated by an independent judicial body before any conclusions are drawn. "You can't go out and condemn this person," he said.&lt;/p&gt;&lt;p&gt;Mr. Ariannejad also co-owns an art gallery with one of Mr. Aghdashloo's former wives, Fay Athari, in the trendy Distillery District of Toronto. The Arta Gallery is known as the cultural heart of the city's small Iranian community, hosting book launches, art shows and lectures.&lt;/p&gt;&lt;p&gt;In August, just as public accusations against Mr. Aghdashloo were coming out on Iranian social media, the gallery highlighted Aghdashloo works and publicized art workshops with him over three days, stating, "Are you ready for a workshop with a legend?"&lt;/p&gt;&lt;p&gt;The workshops were canceled because of concerns around Covid-19, Mr. Ariannejad said.&lt;/p&gt;&lt;p&gt;Found at the gallery, Ms. Athari said she had no comment, other than that she was "disappointed" by the Times article outlining the allegations against her former husband. Though divorced, they are regularly photographed in public together. She posted a photo of herself outside the gallery with him on her private Instagram account on Aug. 26.&lt;/p&gt;&lt;p&gt;Mr. Ariannejad said the gallery would not host Mr. Aghdashloo now, in the aftermath of the allegations. "We are not taking a position," he said. "But we try to avoid the noise."&lt;/p&gt;&lt;p&gt;Hajar Moradi, an Iranian-Canadian artist in Toronto who helped create the petition, said it was impossible for women to get justice in Iran, where they can be criminalized for simply reporting sexual assault, because extramarital relations are illegal. It was in Canada, she said, that she expected some kind of public support for the aggrieved women.&lt;/p&gt;&lt;p&gt;"Is it not enough that these women came out with their own names, putting their own pictures on the news and doing interviews in Farsi media as well, saying this happened to me?" Ms. Moradi asked. Referring to Mr. Ariannejad, she said, "Why does he not believe the women?"&lt;/p&gt;&lt;p&gt;Other Iranian-Canadian women also criticized Mr. Ariannejad's refusal to emphatically dissociate the Tirgan festival from Mr. Aghdashloo.&lt;/p&gt;&lt;p&gt;"What does it say about him, this is who he works with?" said Safaneh Mohaghegh Neyshabouri, a Canadian-Iranian professor at the University of Calgary who helped create the petition. "I don't think the Tirgan festival can morally afford to not take a stand. Not taking a stand in this case means the festival is not a safe space for women."&lt;/p&gt;&lt;p&gt;In Iran, the allegations against Mr. Aghdashloo have led to fiery criticism of him on social media, setting off conversations within families about the nature of sexual abuse and the meaning of consent, including in conservative religious households where discussions about sex are ordinarily taboo.&lt;/p&gt;&lt;p&gt;Abdulreza Davari, a senior adviser to former President Mahmoud Ahmadinejad, said he had discussed the subject with his own wife and daughter because of the Times article about Mr. Aghdashloo, which he described as having created "a huge impact on public opinion about Iran's MeToo movement."&lt;/p&gt;&lt;p&gt;Some Iranian artists and cartoonists have also publicly criticized Mr. Aghdashloo through their work. A sketch by the artist Behzad Kambouzia of Toronto, for example, depicts a female student of Mr. Aghdashloo's covering a portrait of his face with black marks. A Tehran-based writer and artist, Fazel Torkaman, posted a message on his Instagram account chastising Mr. Aghdashloo's defenders and saying his accusers deserve to be heard.&lt;/p&gt;&lt;p&gt;"Truth has a way of finding its way out, in the long run it will crash down from the sky," he wrote.&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;photo_caption&gt;Aydin Aghdashloo has been accused of sexual misconduct. (PHOTOGRAPH BY FARHAD IRANI)&lt;/photo_caption&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 3, 2020</AlphaDate>
+         <StartDate>2020-11-03</StartDate>
+         <EndDate>2020-11-03</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Nov32020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

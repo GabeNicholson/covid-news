@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2616834647</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Beloved coastal arch falls in storms; Locals lament the loss of rock formation, a landmark since at least the 1870s.</Title>
+      </TitleAtt>
+      <NumericDate>2022-01-06</NumericDate>
+      <StartDate>2022-01-06</StartDate>
+      <EndDate>2022-01-06</EndDate>
+      <AlphaDate>Jan 6, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Los Angeles Times Jan 6, 2022</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.1</StartPage>
+         <Pagination>B.1</Pagination>
+         <DocSection>California; Part B; Metro Desk</DocSection>
+         <DocEdition>HOME EDITION</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7683</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7683_Jan62022</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>LATMLATM20220106344</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>LATMLATM20220106344</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1410</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Smith, Hayley</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Hayley</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Hayley Smith</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Smith</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Hayley Smith</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Storms</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>State parks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coasts</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rain</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>San Luis Obispo California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>San Luis Obispo County California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Montana</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>SAN LUIS OBISPO COUNTY</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>BEACHES</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>COASTAL AREAS</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>LANDMARKS</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>STORMS</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="628" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;December's record-breaking storms provided a much-needed burst of rain and snow in California, but they also came at a cost. A beloved rock arch along the coast of San Luis Obispo County crumbled in the recent rains, officials said.&lt;/p&gt;
+&lt;p&gt;The arch at Spooner's Cove near Montana de Oro State Park was a landmark for residents and visitors. But after December's deluge, locals began reporting that it had collapsed.&lt;/p&gt;
+&lt;p&gt;"We were just there in late November and took a bunch of pictures, and a little over a month later, it's gone. There's nothing," said Helena Yungbluth, who has been visiting the arch with her husband since the late 1960s. "Every time we'd go there, we'd admire it. It was an icon to everybody."&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Eric Hjelstrom, chief ranger for the San Luis Obispo Coast District of California State Parks, said the sandstone cliffs that line the area are home to many natural features, including caves and arches that are formed over time by crashing waves.&lt;/p&gt;
+&lt;p&gt;They're part of "what gives you the allure of this part of California," he said. But time, rain and wind all take a toll, and "the same force that creates the arch eventually destroys it."&lt;/p&gt;
+&lt;p&gt;Many locals shared similar takeaways.&lt;/p&gt;
+&lt;p&gt;"This event is another reminder of the fragility of our coastal environs," said Los Osos resident Dan Kleck. "As this crumbling sedimentary rock architecture clearly shows, the strength of nature's water, wind, tides and even the human element in the erosion we're witnessing are not to be taken lightly."&lt;/p&gt;
+&lt;p&gt;Others took to social media to lament the loss.&lt;/p&gt;
+&lt;p&gt;"I have many fond memories wading across the water and hanging out under there watching the waves crash on the rocks," Shane Yee wrote on Instagram.&lt;/p&gt;
+&lt;p&gt;Dan Kreiger, a professor emeritus of history at Cal Poly, said there are records of the arch dating to when the Spooner family homesteaded the land in the 1870s. The land first belonged to the Northern Chumash and Salinan tribes.&lt;/p&gt;
+&lt;p&gt;The arch was not noted on an 1837 land grant map, but that doesn't mean it wasn't there then -- and, in fact, it could have been there for centuries before, he said.&lt;/p&gt;
+&lt;p&gt;But Kreiger doesn't only study the area -- he also considers himself among the many locals who loved the arch. He used to take long bike rides there while working on his dissertation in the 1970s, and still gives tours of the area today.&lt;/p&gt;
+&lt;p&gt;"I knew that it was fragile," he said. "I just fell in love with it, and when I heard it was gone, I felt a sense of loss."&lt;/p&gt;
+&lt;p&gt;San Luis Obispo, like much of California, received substantial rain and wind in recent weeks. December rainfall totals in the county were between 10 and 12 inches, the National Weather Service said.&lt;/p&gt;
+&lt;p&gt;On Wednesday, the county's coastal area was under a high-surf advisory warning residents of dangerous rip currents and breaking waves of 10 to 12 feet, with the largest waves crashing on west-facing beaches.&lt;/p&gt;
+&lt;p&gt;Hjelstrom said it's all part of the cycle in California, adding that he has seen many natural and geological features "come and go" during his 20 years working in state parks.&lt;/p&gt;
+&lt;p&gt;"The geology is pushing the continental plate out toward the ocean, and the ocean is pushing back, and the two interact," he said.&lt;/p&gt;
+&lt;p&gt;A similar arch in Santa Barbara County was knocked over by a storm about a decade ago, he said.&lt;/p&gt;
+&lt;p&gt;Caption: PHOTO: THE ARCH at Spooner's Cove near Montana de Oro State Park in San Luis Obispo County, seen above in November 2021, and below, after recent storms.&lt;/p&gt;
+&lt;p&gt;PHOTOGRAPHER:Helena Yungbluth&lt;/p&gt;
+&lt;p&gt;PHOTO:THE ARCH at Spooner's Cove near Montana de Oro State Park in San Luis Obispo County, seen above in November 2021, and below, after recent storms.&lt;/p&gt;
+&lt;p&gt;PHOTOGRAPHER:Helena Yungbluth&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Los Angeles Times</Title>
+         <MpubId>46999</MpubId>
+         <SortTitle>Los Angeles Times</SortTitle>
+         <Qualifier>Los Angeles, Calif.</Qualifier>
+         <JournalCode>ANGE</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18860101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Los Angeles Times Communications LLC</PublisherName>
+            <PublisherAddress>
+               <City>Los Angeles</City>
+               <Province>CA</Province>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7683</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>04583035</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60200.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Los Angeles Times</Title>
+            <SortTitle>Los Angeles Times</SortTitle>
+            <Qualifier>Los Angeles, Calif.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7683</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>04583035</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60200.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Los Angeles Daily Times</Title>
+               <Qualifier>Los Angeles, Calif.</Qualifier>
+               <EndIssueDate>18861022</EndIssueDate>
+               <CatalogNum>60200.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Dec 4, 1996</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19961204</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 6, 2022</AlphaDate>
+         <StartDate>2022-01-06</StartDate>
+         <EndDate>2022-01-06</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7683_Jan62022</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

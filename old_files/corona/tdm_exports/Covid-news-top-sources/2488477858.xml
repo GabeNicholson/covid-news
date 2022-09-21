@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2488477858</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Shell to Wind Down Fossil-Fuel Output In Strategic Shift</Title>
+      </TitleAtt>
+      <NumericDate>2021-02-12</NumericDate>
+      <StartDate>2021-02-12</StartDate>
+      <EndDate>2021-02-12</EndDate>
+      <AlphaDate>Feb 12, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.1</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7510</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7510_Feb122021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>DWJNWSJ20210212wjco20210212000102</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1650</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>McFarlane, Sarah</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Sarah</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Sarah McFarlane</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>McFarlane</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Sarah McFarlane</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="Editorial">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Royal Dutch Shell PLC</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>213112</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>221210</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>324110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <PQBCompanyTerm TermSource="Editorial">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Royal Dutch Shell PLC</CompanyName>
+            </CompanyNameAtt>
+            <CompanyIDAtt TermVocab="BUSCORP">
+               <CompanyID>2033781</CompanyID>
+            </CompanyIDAtt>
+            <CompanyType>Public</CompanyType>
+            <CompanyHQLocation>The Netherlands</CompanyHQLocation>
+            <CompanyWebsite>http://www.shell.com</CompanyWebsite>
+         </PQBCompanyTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>22111</ClassCode>
+            <ClassExpansion>Electric Power Generation</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Prices</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Electricity</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Alternative energy sources</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Energy industry</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Renewable resources</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Production capacity</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fossil fuels</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Petroleum production</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Carbon</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="764" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;LONDON -- Royal Dutch Shell PLC said it would start reducing oil production, calling an end to a decades-old strategy centered on pumping more hydrocarbons as it and other energy companies seek to capitalize on a shift to low-carbon power.&lt;/p&gt;
+&lt;p&gt;The move marks a historic shift for the company, which after starting out importing seashells began selling kerosene in the 19th century and had sought to grow its oil business ever since. Until recent years, it pursued expensive, environmentally challenging projects in Canadian oil sands and Alaska, driven by fears the world could run out of oil. Now, it sees demand faltering long before oil runs out.&lt;/p&gt;
+
+&lt;p&gt;Shell said Thursday its oil production had peaked and it expects output to decline 1% to 2% a year, including from asset sales, reducing its exposure to commodity prices over the longer term. The company plans to cut its production of traditional fuels such as diesel and gasoline by 55% in the next decade. At the same time, the company said it would double the amount of electricity it sells and roll out thousands of new electric-vehicle charging points.&lt;/p&gt;
+&lt;p&gt;The strategy follows similar plans from BP PLC and Total SE to reduce their dependence on fossil fuels while expanding in renewable power such as wind and solar, partly in response to growth in regulatory and investor pressure.&lt;/p&gt;
+&lt;p&gt;U.S. companies Exxon Mobil Corp. and Chevron Corp. don't plan to invest substantially in electricity and both say the world will need vast amounts of fossil fuels for decades to come. Exxon does, though, plan to invest in technology to reduce carbon emissions.&lt;/p&gt;
+&lt;p&gt;However, the pivot to low-carbon energy is seen by analysts as challenging because it requires investments in areas where major oil companies don't necessarily have a competitive advantage and that have lower returns. Renewable-energy projects typically generate returns of around 10%, compared with the traditional 15% targeted on oil-and-gas projects.&lt;/p&gt;
+&lt;p&gt;As such, major oil companies' green ambitions have so far failed to ignite enthusiasm among investors, at a time when the energy industry is grappling with the fallout from the pandemic, which prompted BP and Shell to cut their dividends.&lt;/p&gt;
+&lt;p&gt;The share prices of Europe's three largest oil companies have fallen dramatically since the Covid-19 pandemic sapped demand and sent oil prices lower, with Shell down 35% over the past year, BP 45% lower and Total down 24%. Shell shares fell 2.7% on Thursday.&lt;/p&gt;
+&lt;p&gt;Shell sought to allay any concerns about its new strategy Thursday, saying fossil-fuel production would remain a material source of revenue into the 2030s, while reiterating its policy to increase its dividend by 4% each year.&lt;/p&gt;
+&lt;p&gt;"By accessing the enormous opportunities that the future of energy holds we will create the conditions for future share price appreciation," said Chief Executive Officer Ben van Beurden. "We expect to radically transform Shell over the next 30 years."&lt;/p&gt;
+&lt;p&gt;Unlike BP and Total, Shell didn't give targets for adding renewable energy production capacity. The company said it didn't necessarily need to own generation capacity to sell more power, and that it thought it could make more money focusing on areas like trading and selling the electricity.&lt;/p&gt;
+&lt;p&gt;Shell confirmed that from now it would allocate around 25% of its spending, or $5 billion to $6 billion, to renewable energy and marketing -- which includes its gas stations and lubricants business -- up from 11% previously.&lt;/p&gt;
+&lt;p&gt;The company aims to sell 560 terawatt hours of electricity a year by 2030, double its current sales, but stopped short of setting targets for power generation. Shell sells much more power than it produces. This is similar to its oil-and-gas business, where Shell sells around three times as much of the fuels as it produces.&lt;/p&gt;
+&lt;p&gt;In recent years, Shell has expanded outside of oil and gas with acquisitions of businesses including U.K. power supplier First Utility, electric-vehicle charging company Ubitricity and battery firm Sonnen.&lt;/p&gt;
+&lt;p&gt;At the same time, the company plans to invest $8 billion a year on oil-and-gas production, seeking particularly high-value projects, and an additional $4 billion a year on its so called integrated-gas business, which includes liquefied-natural gas. Shell will add seven million metric tons of LNG production capacity by the mid-2020s, including from projects already sanctioned in Canada and Nigeria.&lt;/p&gt;
+&lt;p&gt;European energy companies' plans to invest more in low-carbon power come at a time when they are still trying to reduce debt. Shell wants to cut its debt to $65 billion from $75.4 billion at the end of last year and targets annual asset sales of $4 billion to help meet its goal.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Credit: By Sarah McFarlane &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal</Title>
+         <MpubId>10482</MpubId>
+         <SortTitle>Wall Street Journal</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Eastern edition</Edition>
+         <JournalCode>WSJ</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19590101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7510</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>00999660</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60541.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics--Banking And Finance</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal</Title>
+            <SortTitle>Wall Street Journal</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Eastern edition</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7510</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>00999660</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60541.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Wall Street Journal</Title>
+               <SortTitle>Wall Street Journal The</SortTitle>
+               <Qualifier>New York</Qualifier>
+               <EndIssueDate>19590213</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>25749552</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>60541.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 2, 1984</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19840102</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 12, 2021</AlphaDate>
+         <StartDate>2021-02-12</StartDate>
+         <EndDate>2021-02-12</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7510_Feb122021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

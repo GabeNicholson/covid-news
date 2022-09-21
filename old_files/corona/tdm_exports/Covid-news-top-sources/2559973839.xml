@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2559973839</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Business &amp;amp; Finance</Title>
+      </TitleAtt>
+      <NumericDate>2021-08-11</NumericDate>
+      <StartDate>2021-08-11</StartDate>
+      <EndDate>2021-08-11</EndDate>
+      <AlphaDate>Aug 11, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.1</StartPage>
+         <DocSection>What's News</DocSection>
+         <ColumnHeader>Business &amp; Finance</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7510</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7510_Aug112021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>DWJNWSJ20210811wjco20210811000076</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1530</LexileScore>
+      <Terms>       
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="208" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;SoftBank's net profit dropped 40% in the latest quarter as the company said it is holding back on new investments in China while it sees how Beijing's move to tame its technology sector plays out.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+
+&lt;p&gt;Members of Biden's economic team generally support nominating Fed chief Powell to a second term, but resistance from prominent Democrats could lead to his replacement, according to people familiar with the matter.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;NortonLifeLock agreed to acquire and combine with Prague-based cybersecurity firm Avast in a cash-and-stock deal that would extend the U.S. company's focus on consumer software.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Fanatics raised a new round of funding valuing the online sports-merchandise retailer at $18 billion, roughly tripling its valuation from a year ago.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;BitMEX agreed to pay $100 million to resolve a regulatory lawsuit over its failure to follow U.S. rules while allowing Americans to access its trading platform.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Tether Holdings released the most detailed version yet of the assets backing its widely used digital currency, seeking to address regulatory concerns.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;The Dow and S&amp;amp;P 500 rose 0.5% and 0.1%, respectively, to close at records. The Nasdaq fell 0.5%.&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Hudson's Bay, the owner of Saks Fifth Avenue, is converting parts of department stores into co-working spaces with WeWork.&lt;/p&gt;
+
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal</Title>
+         <MpubId>10482</MpubId>
+         <SortTitle>Wall Street Journal</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Eastern edition</Edition>
+         <JournalCode>WSJ</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19590101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7510</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>00999660</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60541.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics--Banking And Finance</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal</Title>
+            <SortTitle>Wall Street Journal</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Eastern edition</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7510</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>00999660</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60541.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Wall Street Journal</Title>
+               <SortTitle>Wall Street Journal The</SortTitle>
+               <Qualifier>New York</Qualifier>
+               <EndIssueDate>19590213</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>25749552</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>60541.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 2, 1984</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19840102</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 11, 2021</AlphaDate>
+         <StartDate>2021-08-11</StartDate>
+         <EndDate>2021-08-11</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7510_Aug112021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

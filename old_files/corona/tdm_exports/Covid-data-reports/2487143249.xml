@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487143249</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>It's not just ABCs - preschool parents worry their kids are missing out on critical social skills during the pandemic</Title>
+      </TitleAtt>
+      <NumericDate>2020-11-25</NumericDate>
+      <StartDate>2020-11-25</StartDate>
+      <EndDate>2020-11-25</EndDate>
+      <AlphaDate>Nov 25, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20201125_150434</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20201125_150434</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Nov252020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Stites, Michele L</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Michele</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Michele L Stites</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Stites</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>L</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Michele L. Stites</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Sonnenschein, Susan</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Susan</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Susan Sonnenschein</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Sonnenschein</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Susan Sonnenschein</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/150434/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of Maryland</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Parents &amp; parenting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Preschool children</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Children &amp; youth</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Friendship</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Books</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Distance learning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Reading</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Social skills</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Baltimore County Maryland</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="64">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Two-thirds of parents said they supplemented the school lessons with in-home learning activities, although these primarily focused on reading, not math. ------------ ------------
+
+[...]reading a book together as a class over Zoom and sharing personal experiences prompts natural conversation.
+
+Michele L. Stites, Assistant Professor of Early Childhood Education, University of Maryland, Baltimore County Susan Sonnenschein, Professor, Applied Developmental Psychology, University of Maryland, Baltimore County&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="944" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;As COVID-19 cases once again spike across the country, parents in school districts like New York City and Detroit face another weeks long stretch of remote learning. This often includes preschool parents, whose children range in age from 3 to 6 and are often too young to manage virtual learning on their own.&lt;/p&gt;
+&lt;p&gt;Many of these parents worry their children are missing out on important parts of the preschool experience - particularly opportunities to develop social, emotional and behavioral skills through interactions with teachers and other children.&lt;/p&gt;
+&lt;p&gt;As researcherswho study children's educational development, we know that preschool helps children develop important academic and social skills they will need for later school success. In April, we surveyed 166 parents of preschool children to examine what they felt was working - and not working - with distance learning. While the data haven't been published yet, they give us important insights into virtual preschool.&lt;/p&gt;
+&lt;p&gt;Of the 166 parents who responded to our online survey, 73% said their preschool children were provided virtual learning opportunities during the COVID-19 crisis. The children were expected to devote 30 to 60 minutes a day to virtual classes. Two-thirds of parents said they supplemented the school lessons with in-home learning activities, although these primarily focused on reading, not math.&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;Thirty-seven percent of the parents felt children this age were too young to engage in online instruction without significant support from their caregivers. And 38% of parents reported not having the time to dedicate to distance learning while juggling the demands of work and other child care.&lt;/p&gt;
+&lt;p&gt;The parents we surveyed recognize that teachers and administrators are doing the best they can in this ever-changing and extraordinary situation. Their frustration and anxiety result from the virtual learning environment itself and the lack of resources to develop children's social, emotional and behavioral learning along with early academic skills.&lt;/p&gt;
+&lt;p&gt;Preschool classrooms provide opportunities to build social skills like taking turns, waiting until others finish speaking and displaying empathy. These skills enable children to develop friendships, cope with challenges and have conversations with other children and adults.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Suggestions for parents &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Based on the results of our survey, here are some ways parents can help make up for the shortcomings of virtual learning.&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Play games.&lt;/b&gt; Games often teach reading and math skills, but more importantly, they allow for social development. Model turn-taking for the child and how to handle losing.&lt;/p&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Take nature walks.&lt;/b&gt; Identifying objects and thinking about sounds, shapes and colors helps with early academics. But also take the time to have conversations. Talking about feelings is important, especially right now.&lt;/p&gt;
+&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Read.&lt;/b&gt; It's widely accepted that reading helps children, well, learn to read. But it also gives them world knowledge and makes for enjoyable interactions with others. And, it can be used as time to work on math skills like counting and shapes. (More math suggestions are available here.) From a social aspect, it's a good time to talk about a character's feelings and ask the child questions like, "How would you feel?" and "What would you do if you were this character?"&lt;/p&gt;
+&lt;p&gt;4.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Make video calls.&lt;/b&gt; Set up virtual play dates allowing your child to talk to friends or relatives. Ask a grandparent to read a book with the child on FaceTime. Have the child play a game with a friend over Zoom.&lt;/p&gt;
+&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Talk about your own feelings.&lt;/b&gt; Model coping and dealing with challenges with your child. Don't be afraid to tell your child when you are sad or worried. Ask the child what they would do if they were feeling sad.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Suggestions for teachers &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;And here are some ways that preschool teachers can support parents in their children's learning and development during COVID-19.&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Help develop social skills.&lt;/b&gt; The parents we surveyed wanted short exercises to build social skills while students learn remotely. These activities would help students develop friendships, social norms and emotional awareness. For example, reading a book together as a class over Zoom and sharing personal experiences prompts natural conversation. Another idea is to send home stories in which a specific social dilemma like anger is discussed. Children can read and discuss the stories with a caregiver.&lt;/p&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Offer supplementary materials.&lt;/b&gt; Parents said they are supplementing school lessons with in-home learning activities. However, these activities typically focused on reading, with less attention devoted to math. Over half of parents said they did reading activities on a regular basis, but only 33% said they worked on math skills - which often predict later school success. By supplying the resources and materials, teachers can take out the guesswork for parents.&lt;/p&gt;
+&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Combine reading, math and social growth in short activities.&lt;/b&gt; For example, when sending home suggestions for books, point out where math opportunities - like counting certain items - and social dilemmas occur in the story. Combining lessons also makes it more efficient for parents to cover all three areas, which is important when they are balancing so many additional responsibilities.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;Although academic instruction in preschool is important - and math especially should not be forgotten - teachers and parents agree that social interactions are critical at this age. And in a time of remote learning, social distancing and quarantines, keeping young children emotionally healthy, as well as physically healthy, is critical.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Michele L. Stites, Assistant Professor of Early Childhood Education, University of Maryland, Baltimore County&lt;/p&gt;&lt;p&gt;Susan Sonnenschein, Professor, Applied Developmental Psychology, University of Maryland, Baltimore County&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 25, 2020</AlphaDate>
+         <StartDate>2020-11-25</StartDate>
+         <EndDate>2020-11-25</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Nov252020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

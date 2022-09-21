@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487141412</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>In the time of the COVID-19 pandemic, what should you say to someone who refuses to wear a mask? A philosopher weighs in</Title>
+      </TitleAtt>
+      <NumericDate>2020-08-24</NumericDate>
+      <StartDate>2020-08-24</StartDate>
+      <EndDate>2020-08-24</EndDate>
+      <AlphaDate>Aug 24, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20200824_142898</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20200824_142898</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Aug242020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Marshall, Colin</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Colin</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Colin Marshall</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Marshall</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Colin Marshall</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/142898/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Standards</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Ethics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Morality</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Philosophers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Society</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="43">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;According to Kant, morality is ultimately about respect and love.
+
+According to ethicist Suzy Killmister, social dignity consists in someone living up to the standards that her community holds her to.
+
+According to her religious community's standards, it is shameful to dress immodestly.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="824" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Multiple studies have shown that masks reduce the transmission of virus-loaded droplets from people with COVID-19. However, according to a Gallup poll, almost a third of Americans say they rarely or never wear a mask in public.&lt;/p&gt;
+&lt;p&gt;This raises a question: Can the anti-maskers be persuaded to wear masks?&lt;/p&gt;
+&lt;p&gt;To some, it might appear that such a question has no ethical dimension. Wearing masks saves lives, so everyone should do it. Some even believe anti-maskers are simply selfish.&lt;/p&gt;
+&lt;p&gt;But as a philosopher who studies ethics and persuasion, I argue that things are more complicated than that.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Kant on love and respect &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To start, consider one of the most influential ethical frameworks in Western thought: that of the German philosopher Immanuel Kant.&lt;/p&gt;
+&lt;p&gt;According to Kant, morality is ultimately about respect and love. Respecting someone, Kant claims, is "limiting our self-esteem by the dignity of humanity in another person." In other words, we should refrain from undermining others' dignity.&lt;/p&gt;
+&lt;p&gt;Alongside respect, for Kant, we should also show others a certain type of love. To love others in the moral sense, he writes, is not about having a feeling, but is rather to "make others' ends my own (provided only that these are not immoral)."&lt;/p&gt;
+&lt;p&gt;That is, moral love requires that we help others achieve their aims, as long as those aims aren't immoral.&lt;/p&gt;
+&lt;p&gt;Altogether, this means that treating others well requires an understanding about what gives them their dignity and what things they are ultimately trying to achieve.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What is social dignity? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;One could ask why trying to persuade someone to wear a mask would threaten their dignity.&lt;/p&gt;
+&lt;p&gt;Consider one type of dignity in particular: social dignity. According to ethicist Suzy Killmister, social dignity consists in someone living up to the standards that her community holds her to. The specific standards that matter are those which the community sees as being "shameful" to violate.&lt;/p&gt;
+&lt;p&gt;Someone's social dignity can be damaged whether or not she accepts her society's standards. One way this can happen is if she is a member of different social groups with conflicting standards.&lt;/p&gt;
+&lt;p&gt;For example, imagine a teenager from a conservative religious community who attends a secular public school. According to her religious community's standards, it is shameful to dress immodestly. According to the standards of her classmates, however, it is shamefully unfashionable to dress conservatively. She faces a dilemma of dignity: No matter how she dresses, she cannot achieve full social dignity.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Shame and social standards &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Because a significant majority of Americans do wear masks, and because of its importance in protecting public health, mask-wearing has become a social standard connected to shame.&lt;/p&gt;
+&lt;p&gt;In response, epidemiologist Julia Marcus has recently cautioned that it is not effective to shame people who do not wear masks. Instead, she proposed approaching anti-maskers with empathy.&lt;/p&gt;
+&lt;p&gt;To see the ethical importance of Marcus' suggestion, consider another finding from a Gallup poll: While most groups do report always or often wearing masks in public, that is not true for Republicans. Over 50% of Republicans say they never, rarely, or only sometimes do. Similarly, other studies have found sharp regional differences in mask-wearing.&lt;/p&gt;
+&lt;p&gt;A Republican whose social group sees wearing a mask as shameful faces a dilemma of dignity. For example, a sheriff in Washington state told a cheering crowd that he would not enforce the state's mask mandate. His advice was: "Don't be a sheep."&lt;/p&gt;
+&lt;p&gt;Similarly, psychologist Peter Glick has suggested that wearing a mask is seen by some groups as "unmanly" because it appears to them as a weakness.&lt;/p&gt;
+&lt;p&gt;People in such communities are subject to anti-mask standards, even as their larger society's standards require masks. Their dignity is therefore in a precarious position. Ethically speaking, then, any respectful engagement with them calls for a recognition of that fact, not a blunt attempt at persuasion.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Making small efforts &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Remember that Kant says that, alongside respecting others' dignity, we must also help them achieve their aims, provided those aims are not immoral. Refusing to wear a mask might well be immoral.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;However, trying to maintain one's social status by living up to society's standards is not intrinsically immoral. If that is what is driving anti-maskers' refusals, then Kant's framework could help pro-maskers see the ethical nuance of the situation.&lt;/p&gt;
+&lt;p&gt;Appreciating this ethical challenge could also help those who are seeking to persuade anti-maskers. They might need to offer anti-maskers some way of maintaining their dignity in their anti-mask social groups while wearing a mask in other settings.&lt;/p&gt;
+&lt;p&gt;For example, they might find examples of conservatives, including President Trump, who wear a mask in some contexts but not others. After all, even small efforts in mask-wearing can save lives.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Colin Marshall does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Colin Marshall, Associate Professor of Philosophy, University of Washington&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 24, 2020</AlphaDate>
+         <StartDate>2020-08-24</StartDate>
+         <EndDate>2020-08-24</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Aug242020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

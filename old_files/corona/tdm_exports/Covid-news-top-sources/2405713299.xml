@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2405713299</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>U.S. Museums Are Reopening: To See Monet, Don a Mask [With graphic(s)]</Title>
+      </TitleAtt>
+      <NumericDate>2020-05-22</NumericDate>
+      <StartDate>2020-05-22</StartDate>
+      <EndDate>2020-05-22</EndDate>
+      <AlphaDate>May 22, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company May 22, 2020</CopyrightData>
+      </Copyright>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_May222020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>NYT2020052240RamYsYmv5ilezosLo8Ng</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1460</LexileScore>
+      <DateLine>2020-05-22 @ 15:45</DateLine>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Pogrebin, Robin</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Robin</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Robin Pogrebin</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Pogrebin</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Robin Pogrebin</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Cleveland Museum of Art</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>712110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Social distancing</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fine arts</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Art galleries &amp; museums</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical supplies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Masks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Ohio</Geographic>
+         </Term>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Entertainment</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Arts</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Epidemics</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Transportation</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Automobiles</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Parking</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Culture (Arts)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Politics And Government</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Medicine And Health</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Criminal Justice</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Crime And Criminals</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Wichita (Kan)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>United States</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Texas</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Ohio</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>New York State</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>New York City</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Minneapolis (Minn)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Houston (Tex)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Harris County (Tex)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Europe</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Dallas (Tex)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Bryan (Tex)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Boca Raton (Fla)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Whitney Museum Of American Art</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Walker Art Center</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>San Antonio Museum Of Art</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Perez, Jorge M, Art Museum Of Miami Dade County</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>New York Times</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Nasher Sculpture Center</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Museum Of Fine Arts (Houston)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Musee D'art Moderne De La Ville De Paris</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Milwaukee Art Museum</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Metropolitan Museum Of Art</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Cleveland Museum Of Art</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Assn Of Art Museum Directors</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Weinberg, Adam D</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Tinterow, Gary</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Sirmans, Franklin</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Richter, Gerhard</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Pogrebin, Robin</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Monet, Claude</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Modigliani, Amedeo</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Hammons, David</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Griswold, William M</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Dewine, Mike</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Ceruti, Mary</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Deaths (Fatalities)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>War Crimes, Genocide And Crimes Against Humanity</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>States (Us)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Restoration And Renovation</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Quarantines</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Coronavirus (2019 Ncov)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Traffic And Parking Signals And Signs</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Masks</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Protective Clothing And Gear</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Coronavirus Reopenings</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Sculpture</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Finances</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Museums</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1657" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Employee Madeline Carr, masked and behind an acrylic screen, in the gift shop of the Museum of Fine Arts, Houston, on May 20, 2020, the day before its reopening. As several states begin to reopen, their museums are carefully doing the same: MFAH will be the first major arts institution in the country to welcome the public back since the outbreak of the coronavirus pandemic. (Bryan Schutmaat/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+&lt;p&gt;You won’t be able to use the drinking fountains, check your coat or eat in the cafe. You will have to wear a mask, submit to a temperature check and agree to leave if you show signs of illness. These are the requirements set by the Museum of Fine Arts, Houston, when it reopens on Saturday, the first major arts institution in the country to welcome the public back since the outbreak of the novel coronavirus.&lt;/p&gt;
+&lt;p&gt;“We’re getting as many as 90 to 100 calls a day — ‘When are you opening? I want to see my favorite works of art,’” said Gary Tinterow, the museum’s director. “That’s our mission, that’s why we exist: to facilitate those encounters between works of art and individuals. And I fully believe that we can create as safe an environment as possible.”&lt;/p&gt;
+&lt;p&gt;As several states begin to reopen, their museums are carefully doing the same, with new policies and protocols in place: the San Antonio Museum of Art on May 28; the Boca Raton Museum of Art on June 3; the Wichita Art Museum on June 23; the Cleveland Museum of Art around June 30.&lt;/p&gt;
+&lt;p&gt;Their plans have been devised in consultation with state officials as well as in conversations with other museums. The Association of Art Museum Directors has helped connect institutions that have shared their reopening plans. Museums have organized themselves into working groups by region to strategize.&lt;/p&gt;
+&lt;p&gt;The Wichita Museum, for example, said it picked up from the Milwaukee Art Museum the idea of having visitors agree to a code of conduct that includes wearing masks and keeping 6 feet apart. Wichita also expects to remove benches from its galleries and to keep its cafe at under 50% capacity.&lt;/p&gt;
+&lt;p&gt;“It’s very important to have a plan,” said Patricia McDonnell, the museum’s director, “and it’s very important to be able to change that plan on a moment’s notice.”&lt;/p&gt;
+&lt;p&gt;The unpredictability of the coronavirus’s trajectory has made reopening dates something of a moving target. Wichita was originally going to reopen June 1, then decided to wait for three more weeks. The Metropolitan Museum of Art said in March that it would reopen in July; then on Tuesday it announced that the date had moved to mid-August, or possibly later.&lt;/p&gt;
+&lt;p&gt;The Met is scheduled to turn its Breuer building over to the Frick in July, so the short-lived Gerhard Richter show might not reopen.&lt;/p&gt;
+&lt;p&gt;Some museums have reopened in Europe, where coronavirus infections are declining. Museums in the United States are reopening even in states where infections are on the rise.&lt;/p&gt;
+&lt;p&gt;In Texas, for instance, museums were given permission to reopen as of May 1, although on May 16, the state recorded its largest single-day increase in virus cases. In Houston’s Harris County, which has had a comparatively low death rate, the Fine Arts museum waited until it had firmed up protocols and obtained necessary supplies, Tinterow said, including “500-gallon barrels of sanitizer, tens of thousands of masks and gloves for staff interacting with the public.”&lt;/p&gt;
+&lt;p&gt;The museum, which will have timed-entry ticketing to ensure that the number of visitors is capped below 25%, also coordinated with other institutions in the area, namely the Houston Museum of Natural Science, which opened on May 15, and the Holocaust Museum, which is reopening May 26.&lt;/p&gt;
+&lt;p&gt;The Children’s Museum of Houston plans to open June 1 without 48 interactive components, including a three-story climbing structure; with attendance limited to 560 a day, compared with its typical 5,000 to 6,000; and with a face mask requirement enforced by a uniformed off-duty officer.&lt;/p&gt;
+&lt;p&gt;The museum has developed a new “epic adventure” scavenger hunt with a clearly designated path and individual kits of crayons and paper. “Every child will have that bag and go home with it,” said Tammie Kahn, the executive director. “That prevents them from having to share a lot of materials.”
+&lt;/p&gt;&lt;p&gt;
+The Nasher Sculpture Center in Dallas, which plans to open around July 4, is also coordinating closely with its neighbors in the city’s art district. “We don’t see this as a race,” said Jeremy Strick, the director. “There is not necessarily glory to be found in being first.”&lt;/p&gt;
+&lt;p&gt;In addition to placing sneeze guards at the reception desk, the Nasher is considering installing motion-activated faucets in its restrooms and coating the door knobs in copper, which has antiviral properties. “I think everyone is assuming that there is going to be a learning curve,” Strick said. “If we can profit from that learning, that will be to everyone’s benefit. We want to do everything we can to get it right.”&lt;/p&gt;
+&lt;p&gt;Although Ohio’s bars and restaurants were permitted to reopen Thursday for dine-in service, the Cleveland Museum of Art is looking to state officials for guidance before determining an opening date. William Griswold, the museum’s director, said there wasn’t much he could say until Gov. Mike DeWine of Ohio “gives us a green light and issues his order making it clear exactly what we may and may not do.”&lt;/p&gt;
+&lt;p&gt;
+The Whitney Museum of American Art is also awaiting direction from New York’s governor, who has said cultural institutions will be in Phase 4 of the reopening. In the meantime, Adam Weinberg, the director, has been part of a reopening task force of about a dozen city museums — including the Met and the Museum of Modern Art — that meets weekly online to think through best practices. “This is the silver lining in this whole thing,” Weinberg said. “It’s encouraging all of us to be more cooperative and more collaborative.”&lt;/p&gt;
+&lt;p&gt;The Whitney is considering changing the traffic flow in its staircases (there will be one for people going up; one for those going down) and its elevators (the small one will be reserved for elderly visitors; the large one will require social distancing).&lt;/p&gt;
+&lt;p&gt;Weinberg predicts that museums, where possible, will emphasize outdoor sculpture (the Whitney is proceeding with a public art project by David Hammons on a reclaimed pier facing the museum) and at first expects to serve visitors from surrounding neighborhoods. Tourists aren’t expected back anytime soon.&lt;/p&gt;
+&lt;p&gt;“The first six months that we open, we are going to become quintessentially local organizations,” Weinberg said. “The majority of people are going to come by foot or by bike rather than public transportation.”
+&lt;/p&gt;&lt;p&gt;
+Although the Whitney is projecting a deficit, the first in his 17 years as director, Weinberg said he was considering making the museum pay-what-you-wish for all New Yorkers.&lt;/p&gt;
+&lt;p&gt;“It’s important for us to be here for the city,” Weinberg said. “I think we have to represent that in some way.”&lt;/p&gt;
+&lt;p&gt;The Walker Art Center in Minneapolis, which has performing arts and cinema spaces, is planning a phased reopening, starting with indoor galleries sometime this summer. “Once we can gather more people, we will see how things go,” said Mary Ceruti, its executive director.&lt;/p&gt;
+&lt;p&gt;The leaders of the Pérez Art Museum Miami, which is preparing to reopen on Sept. 1 with plans that include new digital ticketing, are feeling somewhat hamstrung. “We’re a place that’s pretty community-centered and we’re proud of that,” said Franklin Sirmans, the museum’s director. “When there is a hurricane down here, we collect supplies to help distribute to people in need. And with this crisis, we haven’t been able to do the kind of things we feel go above and beyond.”&lt;/p&gt;
+&lt;p&gt;
+But museums also see their role as a place to gather when people begin to venture out of their homes. “Hopefully, the arts are going to lead the way,” Weinberg said. “People are really isolated right now and they want community. Museums are a place where they can at least be in spaces with people, but not right next to or on top of people.&lt;/p&gt;
+&lt;p&gt;“They also want to get out of themselves, and art can take you to other places,” he continued. “They need to be transported both physically and psychically.”&lt;/p&gt;
+&lt;p&gt;These days, weaknesses can also become a strength. In Houston, Tinterow — who used to work as a Met curator — does not have to worry about social distancing for droves of returning visitors, given his museum’s limited tourist traffic.&lt;/p&gt;
+&lt;p&gt;“For eight years that I’ve been in Houston, I’ve been yearning for the crowds that I knew at the Metropolitan Museum of Art,” he said. “Now, for the first time, I’m grateful that I don’t have them.”
+&lt;/p&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="2"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Social distancing markers for people waiting to enter the Museum of Fine Arts, Houston, on May 20, 2020, the day before its reopening. As several states begin to reopen, their museums are carefully doing the same: MFAH will be the first major arts institution in the country to welcome the public back since the outbreak of the coronavirus pandemic. (Bryan Schutmaat/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="3"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;A sign announcing precautionary requirements for visitors at the Museum of Fine Arts, Houston, on May 20, 2020, the day before its reopening. As several states begin to reopen, their museums are carefully doing the same: MFAH will be the first major arts institution in the country to welcome the public back since the outbreak of the coronavirus pandemic. (Bryan Schutmaat/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="4"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;A digital sensor that will be used to check the body temperature of visitors at the Museum of Fine Arts, Houston, on May 20, 2020, the day before its reopening. As several states begin to reopen, their museums are carefully doing the same: MFAH will be the first major arts institution in the country to welcome the public back since the outbreak of the coronavirus pandemic. (Bryan Schutmaat/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>Employee Madeline Carr, masked and behind an acrylic screen, in the gift shop of the Museum of Fine Arts, Houston, on May 20, 2020, the day before its reopening. As several states begin to reopen, their museums are carefully doing the same: MFAH will be the first major arts institution in the country to welcome the public back since the outbreak of the coronavirus pandemic. (Bryan Schutmaat/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>Social distancing markers for people waiting to enter the Museum of Fine Arts, Houston, on May 20, 2020, the day before its reopening. As several states begin to reopen, their museums are carefully doing the same: MFAH will be the first major arts institution in the country to welcome the public back since the outbreak of the coronavirus pandemic. (Bryan Schutmaat/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>2</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>A sign announcing precautionary requirements for visitors at the Museum of Fine Arts, Houston, on May 20, 2020, the day before its reopening. As several states begin to reopen, their museums are carefully doing the same: MFAH will be the first major arts institution in the country to welcome the public back since the outbreak of the coronavirus pandemic. (Bryan Schutmaat/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>3</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>A digital sensor that will be used to check the body temperature of visitors at the Museum of Fine Arts, Houston, on May 20, 2020, the day before its reopening. As several states begin to reopen, their museums are carefully doing the same: MFAH will be the first major arts institution in the country to welcome the public back since the outbreak of the coronavirus pandemic. (Bryan Schutmaat/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>4</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 22, 2020</AlphaDate>
+         <StartDate>2020-05-22</StartDate>
+         <EndDate>2020-05-22</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_May222020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

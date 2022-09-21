@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487137799</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>How to be a good digital citizen during the election - and its aftermath</Title>
+      </TitleAtt>
+      <NumericDate>2020-10-30</NumericDate>
+      <StartDate>2020-10-30</StartDate>
+      <EndDate>2020-10-30</EndDate>
+      <AlphaDate>Oct 30, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVIL_20201030_148974</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVIL_20201030_148974</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977982_Oct302020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Koltai, Kolina</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Kolina</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Kolina Koltai</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Koltai</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Kolina Koltai</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/148974/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of Washington</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Absentee voting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Election results</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>False information</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Presidential elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Digital media</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Voting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="57">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The runup to the U.S. presidential election has sbeen an unprecedented amount of misinformation about the voting process and mail-in ballots.
+
+[...]trace claims, quotes and media back to their original contexts to see if things were taken out of context or manipulated.
+
+[...]you may want to share your own experience with voting this year on social media.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1059" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The runup to the U.S. presidential election has sbeen an unprecedented amount of misinformation about the voting process and mail-in ballots. It's almost certain that misinformation and disinformation will increase, including, importantly, in the aftermath of the election. Misinformation is incorrect or misleading information, and disinformation is misinformation that is knowingly and deliberately propagated.&lt;/p&gt;
+&lt;p&gt;While every presidential election is critical, the stakes feel particularly high given the challenges of 2020.&lt;/p&gt;
+&lt;p&gt;I study misinformation online, and I can caution you about the kind of misinformation you may see on Tuesday and the days after, and I can offer you advice about what you can do to help prevent its spread. A fast-moving 24/7 news cycle and social media make it incredibly easy to share content. Here are steps you can take to be a good digital citizen and avoid inadvertently contributing to the problem.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Election misinformation &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Recent reports by disinformation researchers highlight the potential for an enormous amount of misleading information and disinformation to spread rapidly on Election Day and the days following. People spreading disinformation may be trying to sway the election one way or the other or simply undermine confidence in the election and American democracy in general.&lt;/p&gt;
+&lt;p&gt;This report by the Election Integrity Partnership (EIP) details narratives meant to delegitimize the election and show how uncertainty creates opportunities for misinformation to flourish.&lt;/p&gt;
+&lt;p&gt;In particular, you may end up seeing misleading information shared about voting in person, mail-in ballots, the day-of voting experience and the results of the election. You may see stories online circulating about coronavirus outbreaks or infections at polling locations, violence or threats of intimidation at polling locations, misinformation about when, where and how to vote, and stories of voting suppression through long lines at polling stations and people being turned away.&lt;/p&gt;
+&lt;p&gt;We likely won't know the results on Election Day, and this delay is both anticipated and legitimate. There may be misinformation about the winner of the presidential election and the final counting of ballots, especially with the increase in mail-in ballots in response to the coronavirus pandemic. It will be important to know that not every state finalizes their official ballot count on Nov. 3, and there may be narratives that threaten the legitimacy of the election results, like people claiming their vote did not get counted or saying they found discarded completed ballots.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What if the source of misinformation is … you? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;There is a lot you can do to help reduce the spread of election misinformation online. This can happen both accidentally and intentionally, and there are both foreign and domestic actors who create disinformation campaigns. But ultimately, you have the power to not share content.&lt;/p&gt;
+&lt;p&gt;Sharing mis/disinformation gives it power. Regardless of your demographic, you can be susceptible to misinformation, and sometimes specifically targeted by disinformation. One of the biggest steps you can take to be a good digital citizen this election season is not to contribute to the sharing of misinformation. This can be surprisingly difficult, even with the best of intentions.&lt;/p&gt;
+&lt;p&gt;One type of misinformation that has been popular leading up to the election - and is likely to remain popular - is "friend of a friend" claims. These claims are often unverified stories without attribution that are quickly spread by people copy and pasting the same story across their networks.&lt;/p&gt;
+&lt;p&gt;You may see these claims as social media statuses like a Facebook post or an Instagram Story, or even as a bit of text forwarded to you in a group chat. They are often text-based, with no name attached to the story, but instead forwarded along by a "friend of a friend."&lt;/p&gt;
+&lt;p&gt;This type of misinformation is popular to share because the stories can center around the good intentions of wanting to inform others, and they often provide a social context, for example my friend's doctor or my brother's co-worker, that can make the stories seem legitimate. However, these often provide no actual evidence or proof of the claim and should not be shared, even if you believe the information is useful. It could be misleading.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; How to avoid spreading misinformation &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Many useful resources are available about how to identify misinformation, which can guide you on what to share and not to share. You can improve your ability to spot misinformation and learn to avoid being duped by disinformation campaigns.&lt;/p&gt;
+&lt;p&gt;A key approach is the Stop, Investigate, Find and Trace (SIFT) technique, a fact-checking process developed by digital literacy expert Mike Caulfield of Washington State University Vancouver.&lt;/p&gt;
+&lt;p&gt;Following this technique, when you encounter something you want to share online, you can stop and check to see if you know the website or source of the information. Then investigate the source and find out where the story is coming from. Then find trusted coverage to see if there is a consensus among media sources about the claim. Finally, trace claims, quotes and media back to their original contexts to see if things were taken out of context or manipulated.&lt;/p&gt;
+&lt;p&gt;Finally, you may want to share your own experience with voting this year on social media. Following the recommendation of Election Integrity Project, it is a good idea to share positive experiences about voting. Go ahead and share your "I voted" sticker selfie. Sharing stories about how people socially distanced and wore masks at polling locations can highlight the positive experiences of voting in-person.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;However, EIP cautions about posting about negative experiences. While negative experiences warrant attention, a heavy focus on them can stoke feelings of disenfranchisement, which could suppress voter turnout. Further, once you post something on social media, it can be taken out of context and used to advanced narratives that you may not support.&lt;/p&gt;
+&lt;p&gt;Most people care about the upcoming election and informing people in their networks. It is only natural to want to share important and critical information about the election. However, I urge you to practice caution in these next few weeks when sharing information online. While it's probably not possible to stop all disinformation at its source, we the people can do our part to stop its spread.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Kolina Koltai's funding comes from the Center for an Informed Public at the University of Washington, the Knight Foundation, and The University of Washington's Population Health Initiative. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Kolina Koltai, Postdoctoral Researcher of Information Studies, University of Washington&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Science + Technology</Title>
+         <MpubId>4977982</MpubId>
+         <SortTitle>Conversation : Science + Technology The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVIL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977982</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464264.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Sciences: Comprehensive Works</Subject>
+            <Subject>Technology: Comprehensive Works</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Science + Technology</Title>
+            <SortTitle>Conversation : Science + Technology The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977982</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464264.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 30, 2020</AlphaDate>
+         <StartDate>2020-10-30</StartDate>
+         <EndDate>2020-10-30</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977982_Oct302020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

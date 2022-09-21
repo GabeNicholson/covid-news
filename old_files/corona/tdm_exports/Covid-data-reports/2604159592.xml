@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2604159592</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Millions of Americans struggle to pay their water bills – here's how a national water aid program could work</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-29</NumericDate>
+      <StartDate>2021-11-29</StartDate>
+      <EndDate>2021-11-29</EndDate>
+      <AlphaDate>Nov 29, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20211129_169981</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20211129_169981</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Nov292021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Cook, Joseph</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Joseph</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Joseph Cook</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Cook</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Joseph Cook</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/169981/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Environmental Protection Agency--EPA</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>924110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Washington State University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Poverty</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Customers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Costs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Food stamps</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Water shortages</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Subsidies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Households</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Low income groups</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Chile</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="90">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;News reports suggest that for low-income households, this burden has increased during the pandemic.
+
+Since 1981, the federal government has helped low-income households with their energy costs through the Low-Income Home Energy Assistance Program.
+
+[...]in areas with high poverty, too many customers need help and there are not enough non-poor customers to foot the bill.
+
+Water utilities raised their rates by 34% to 142% between 1998 and 2015 to pay for this initiative.
+
+Because these rate increases outpaced growth in income, subsidies grew by 54% over the same time period.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1321" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Running water and indoor plumbing are so central to modern life that most Americans take them from granted. But these services aren’t free, and millions struggle to afford them. A 2019 survey found that U.S. households in the bottom fifth of the economy spent 12.4% of their disposable income on water and sewer services. News reports suggest that for low-income households, this burden has increased during the pandemic.&lt;/p&gt;
+&lt;p&gt;Since 1981, the federal government has helped low-income households with their energy costs through the Low-Income Home Energy Assistance Program. But there had not been a national water aid program until Congress created a temporary Low-Income Household Water Assistance Program as part of the COVID-19 response. Now the House-passed Build Back Better Act includes US$225 million for grants to states and tribes to help reduce the cost of water services for low-income households.&lt;/p&gt;
+&lt;p&gt;As an economist specializing in environmental and natural resource issues, I’m encouraged to see this idea gaining support. But I also know from analyzing efforts at the local level that these programs may be ineffective if they aren’t well designed. I believe the U.S. can learn lessons from Chile, which has run an effective national water assistance program for 30 years.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Flaws in US local aid programs&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;I have studied water and sewer customer assistance programs around the world and developed a database of examples run by U.S. utilities in cities including Seattle, Philadelphia and Baltimore. Although there are hundreds of these programs, three major problems undercut their effectiveness.&lt;/p&gt;
+&lt;p&gt;First, because utilities have to fund their assistance programs from their own budgets, they typically charge “non-poor” customers higher rates and use those payments to subsidize low-income customers. State regulations often forbid this, forcing utilities in those states to rely on voluntary donation programs to fund assistance.&lt;/p&gt;
+&lt;p&gt;Second, in areas with high poverty, too many customers need help and there are not enough non-poor customers to foot the bill.&lt;/p&gt;
+&lt;p&gt;Third, smaller and less well-funded utilities often do not have administrative capacity or expertise to design and implement their own customer assistance programs.&lt;/p&gt;
+&lt;p&gt;These challenges have spurred politicians and policy experts to call for a federal program – a step that the Environmental Protection Agency’s National Drinking Water Advisory Council recommended back in 2003.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Learning from Chile’s experience&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Agencies such as the World Bank often cite Chile’s water aid program as a model. Here’s how it works:&lt;/p&gt;
+&lt;p&gt;The program aims to ensure that households don’t pay more than 3% of their income for receiving a quantity of water to meet their essential needs. There is no consensus among experts on what this “lifeline” quantity of water should be, but Chile sets it at 15 cubic meters per month – about 4,000 gallons.&lt;/p&gt;
+&lt;p&gt;Eligible customers apply to their city government every three years. Once enrolled, they immediately see reductions in their bills, based on their poverty levels, for that first 15 cubic meters of water use. Each month, the water utility bills the city for subsidies it has provided to poor customers.&lt;/p&gt;
+&lt;p&gt;If households use more than 15 cubic meters of water per month, they pay unsubsidized prices for whatever they use above that level. This gives everyone an incentive to fix leaky pipes and appliances and conserve water. Regulators who set water prices are not involved in running the subsidy system or determining subsidy levels.&lt;/p&gt;
+&lt;p&gt;In the late 1990s, Chile launched a major expansion of its sewage treatment plants. Water utilities raised their rates by 34% to 142% between 1998 and 2015 to pay for this initiative. Because these rate increases outpaced growth in income, subsidies grew by 54% over the same time period. The takeaway: Chile found a way to pay for water and sewer investment while still protecting the poor.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How a US water aid program might work&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;If the U.S. creates a national water aid program, key questions will include who is eligible and how much water is an “essential” quantity for households. The EPA estimates that an average U.S. household uses approximately 9,000 gallons per month, but one-third of this is for gardens and lawns. Reliable national data on U.S. household water usage is nearly nonexistent, and there is no estimate of how much water low-income households use.&lt;/p&gt;
+&lt;p&gt;Program managers would need to collect information on utility water and sewer pricing structures, put it in a database and couple it with census data to estimate the number of eligible households in each state.&lt;/p&gt;
+&lt;p&gt;To estimate what a program like Chile’s might cost here, my team at Washington State University compiled a database of water and sewer rates as of December 2019. We included all U.S. cities with populations over 100,000, at least two cities per state, and made assumptions about rates for smaller cities and towns.&lt;/p&gt;
+&lt;p&gt;We estimate that a program covering the full cost of 4,500 gallons of water per month for households at or below the poverty line would cost approximately $11.2 billion annually if 70% of eligible households participate. In total, we estimate that 11.8 million households would receive an average subsidy of $67 per month.&lt;/p&gt;
+&lt;p&gt;Our project website includes a calculator tool to estimate the annual federal cost based on different assumptions about eligibility, participation, the “essential” water quantity and the percentage discount on water bills.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get our best science, health and technology stories.&lt;/i&gt; Sign up for The Conversation’s science newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Another approach: Add money to SNAP payments&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Public policy scholar Manny Teodoro has suggested another way to deliver water aid: topping up support that people receive to buy healthy food through the Supplemental Nutrition Assistance Program, or SNAP.&lt;/p&gt;
+&lt;p&gt;This idea builds on a well-known program with a long track record. Low-income households would not have to file new paperwork to receive benefits. Delivering water aid this way could help renters, whose water costs often are rolled into their rent, and rural residents who use well water and have to pay for water treatment and maintenance costs out of pocket.&lt;/p&gt;
+&lt;p&gt;It would place less of an administrative burden on the large number of small U.S. water systems serving fewer than 500 people. And it could be quickly implemented by adding water providers as approved vendors for electronic benefit transfer (EBT) card payments.&lt;/p&gt;
+&lt;p&gt;Eligibility for SNAP is set at 138% of the poverty line, and an estimated 84% of eligible households participate. With these parameters, we estimate that a program covering 100% of the cost of 4,500 gallons of water per month would cost $17 billion annually. The main weakness of this approach is that water and sewer rates vary across the country, so it risks providing too much or too little assistance to low-income households depending on where they live.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Getting water prices right for everyone&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Access to a safe and affordable water supply and sewer services is codified in the U.N.‘s Human Right to Water and Sanitation. The U.S. is a wealthy country, and my research group’s estimates show that the cost of a targeted program to help the poor pay their bills is reasonable.&lt;/p&gt;
+&lt;p&gt;Without federal funding, poor and marginalized households will continue to fall behind on their bills and experience the indignity and health risks of having their water turned off.&lt;/p&gt;
+&lt;p&gt;At the same time, the U.S. needs to make major investments in its water and sewer infrastructure and manage the effects of drought and climate change. Economists broadly agree that water should be more expensive in many places to give local governments and ratepayers incentive to conserve and plan for a water-scarce future. I believe Chile’s experience shows how a national program can preserve this signal while directing most of its water sector subsidies toward protecting the poor.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Research Assistant Nick Kraabel assisted in estimating the nationwide costs discussed in this article.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Joseph Cook has received funding to support research on customer affordability programs from the US Millennium Challenge Corporation. The opinions in this article do not represent views of MCC.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Joseph Cook, Associate Professor of Economic Sciences, Washington State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 29, 2021</AlphaDate>
+         <StartDate>2021-11-29</StartDate>
+         <EndDate>2021-11-29</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Nov292021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

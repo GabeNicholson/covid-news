@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487137776</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>An AI tool can distinguish between a conspiracy theory and a true conspiracy - it comes down to how easily the story falls apart</Title>
+      </TitleAtt>
+      <NumericDate>2020-11-13</NumericDate>
+      <StartDate>2020-11-13</StartDate>
+      <EndDate>2020-11-13</EndDate>
+      <AlphaDate>Nov 13, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVIL_20201113_146282</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVIL_20201113_146282</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977982_Nov132020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Tangherlini, Timothy R</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Timothy</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Timothy R Tangherlini</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Tangherlini</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>R</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Timothy R. Tangherlini</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/146282/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Wikileaks.org</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>519130</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Machine learning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Conspiracy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Early warning systems</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Narratives</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Narratives</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New Jersey</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="105">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Sturdy truth, fragile fiction To see if we could distinguish between a conspiracy theory and an actual conspiracy, we examined Bridgegate, a political payback operation launched by staff members of Republican Gov. Chris Christie's administration against the Democratic mayor of Fort Lee, New Jersey.
+
+[...]Bridgegate's graph survived having elements removed, implying that New Jersey politics would continue as a single, connected network even if key figures and relationships from the scandal were deleted.
+
+Developing an early warning system that tracks the emergence and alignment of conspiracy theory narratives could alert researchers - and authorities - to real-world actions people might take based on these narratives.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1230" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The audio on the otherwise shaky body camera footage is unusually clear. As police officers search a handcuffed man who moments before had fired a shot inside a pizza parlor, an officer asks him why he was there. The man says to investigate a pedophile ring. Incredulous, the officer asks again. Another officer chimes in, "Pizzagate. He's talking about Pizzagate."&lt;/p&gt;
+&lt;p&gt;In that brief, chilling interaction in 2016, it becomes clear that conspiracy theories, long relegated to the fringes of society, had moved into the real world in a very dangerous way.&lt;/p&gt;
+&lt;p&gt;Conspiracy theories, which have the potential to cause significant harm, have found a welcome home on social media, where forums free from moderation allow like-minded individuals to converse. There they can develop their theories and propose actions to counteract the threats they "uncover."&lt;/p&gt;
+&lt;p&gt;But how can you tell if an emerging narrative on social media is an unfounded conspiracy theory? It turns out that it's possible to distinguish between conspiracy theories and true conspiracies by using machine learning tools to graph the elements and connections of a narrative. These tools could form the basis of an early warning system to alert authorities to online narratives that pose a threat in the real world.&lt;/p&gt;
+&lt;p&gt;The culture analytics group at the University of California, which I and Vwani Roychowdhury lead, has developed an automated approach to determining when conversations on social media reflect the telltale signs of conspiracy theorizing. We have applied these methods successfully to the study of Pizzagate, the COVID-19 pandemic and anti-vaccination movements. We're currently using these methods to study QAnon.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Collaboratively constructed, fast to form &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Actual conspiracies are deliberately hidden, real-life actions of people working together for their own malign purposes. In contrast, conspiracy theories are collaboratively constructed and develop in the open.&lt;/p&gt;
+&lt;p&gt;Conspiracy theories are deliberately complex and reflect an all-encompassing worldview. Instead of trying to explain one thing, a conspiracy theory tries to explain everything, discovering connections across domains of human interaction that are otherwise hidden - mostly because they do not exist.&lt;/p&gt;
+&lt;p&gt;While the popular image of the conspiracy theorist is of a lone wolf piecing together puzzling connections with photographs and red string, that image no longer applies in the age of social media. Conspiracy theorizing has moved online and is now the end-product of a collective storytelling. The participants work out the parameters of a narrative framework: the people, places and things of a story and their relationships.&lt;/p&gt;
+&lt;p&gt;The online nature of conspiracy theorizing provides an opportunity for researchers to trace the development of these theories from their origins as a series of often disjointed rumors and story pieces to a comprehensive narrative. For our work, Pizzagate presented the perfect subject.&lt;/p&gt;
+&lt;p&gt;Pizzagate began to develop in late October 2016 during the runup to the presidential election. Within a month, it was fully formed, with a complete cast of characters drawn from a series of otherwise unlinked domains: Democratic politics, the private lives of the Podesta brothers, casual family dining and satanic pedophilic trafficking. The connecting narrative thread among these otherwise disparate domains was the fanciful interpretation of the leaked emails of the Democratic National Committee dumped by WikiLeaks in the final week of October 2016.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; AI narrative analysis &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We developed a model - a set of machine learning tools - that can identify narratives based on sets of people, places and things and their relationships. Machine learning algorithms process large amounts of data to determine the categories of things in the data and then identify which categories particular things belong to.&lt;/p&gt;
+&lt;p&gt;We analyzed 17,498 posts from April 2016 through February 2018 on the Reddit and 4chan forums where Pizzagate was discussed. The model treats each post as a fragment of a hidden story and sets about to uncover the narrative. The software identifies the people, places and things in the posts and determines which are major elements, which are minor elements and how they're all connected.&lt;/p&gt;
+&lt;p&gt;The model determines the main layers of the narrative - in the case of Pizzagate, Democratic politics, the Podesta brothers, casual dining, satanism and WikiLeaks - and how the layers come together to form the narrative as a whole.&lt;/p&gt;
+&lt;p&gt;To ensure that our methods produced accurate output, we compared the narrative framework graph produced by our model with illustrations published in The New York Times. Our graph aligned with those illustrations, and also offered finer levels of detail about the people, places and things and their relationships.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Sturdy truth, fragile fiction &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To see if we could distinguish between a conspiracy theory and an actual conspiracy, we examined Bridgegate, a political payback operation launched by staff members of Republican Gov. Chris Christie's administration against the Democratic mayor of Fort Lee, New Jersey.&lt;/p&gt;
+&lt;p&gt;As we compared the results of our machine learning system using the two separate collections, two distinguishing features of a conspiracy theory's narrative framework stood out.&lt;/p&gt;
+&lt;p&gt;First, while the narrative graph for Bridgegate took from 2013 to 2020 to develop, Pizzagate's graph was fully formed and stable within a month. Second, Bridgegate's graph survived having elements removed, implying that New Jersey politics would continue as a single, connected network even if key figures and relationships from the scandal were deleted.&lt;/p&gt;
+&lt;p&gt;The Pizzagate graph, in contrast, was easily fractured into smaller subgraphs. When we removed the people, places, things and relationships that came directly from the interpretations of the WikiLeaks emails, the graph fell apart into what in reality were the unconnected domains of politics, casual dining, the private lives of the Podestas and the odd world of satanism.&lt;/p&gt;
+&lt;p&gt;In the illustration below, the green planes are the major layers of the narrative, the dots are the major elements of the narrative, the blue lines are connections among elements within a layer and the red lines are connections among elements across the layers. The purple plane shows all the layers combined, showing how the dots are all connected. Removing the WikiLeaks plane yields a purple plane with dots connected only in small groups.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Early warning system? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;There are clear ethical challenges that our work raises. Our methods, for instance, could be used to generate additional posts to a conspiracy theory discussion that fit the narrative framework at the root of the discussion. Similarly, given any set of domains, someone could use the tool to develop an entirely new conspiracy theory.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;However, this weaponization of storytelling is already occurring without automatic methods, as our study of social media forums makes clear. There is a role for the research community to help others understand how that weaponization occurs and to develop tools for people and organizations who protect public safety and democratic institutions.&lt;/p&gt;
+&lt;p&gt;Developing an early warning system that tracks the emergence and alignment of conspiracy theory narratives could alert researchers - and authorities - to real-world actions people might take based on these narratives. Perhaps with such a system in place, the arresting officer in the Pizzagate case would not have been baffled by the gunman's response when asked why he'd shown up at a pizza parlor armed with an AR-15 rifle.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Timothy R. Tangherlini does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Timothy R. Tangherlini, Professor of Danish Literature and Culture, University of California, Berkeley&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Science + Technology</Title>
+         <MpubId>4977982</MpubId>
+         <SortTitle>Conversation : Science + Technology The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVIL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977982</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464264.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Sciences: Comprehensive Works</Subject>
+            <Subject>Technology: Comprehensive Works</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Science + Technology</Title>
+            <SortTitle>Conversation : Science + Technology The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977982</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464264.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 13, 2020</AlphaDate>
+         <StartDate>2020-11-13</StartDate>
+         <EndDate>2020-11-13</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977982_Nov132020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

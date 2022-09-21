@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2593479341</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Family, friends continue search for DePaul alum [Corrected 11/06/2021]</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-05</NumericDate>
+      <StartDate>2021-11-05</StartDate>
+      <EndDate>2021-11-05</EndDate>
+      <AlphaDate>Nov 5, 2021</AlphaDate>
+      <RawAlphaDate>20211105</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Nov 5, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>7</StartPage>
+         <DocSection>News</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Nov52021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2021110520211105499941396</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2021110520211105499941396</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1360</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Goodman, Sylvia</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Sylvia</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Sylvia Goodman</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Goodman</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Sylvia Goodman</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Swimming</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Identification documents</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Chicago Illinois</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Lake Michigan</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Nigeria</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="482" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;It wasn't unusual for Oribi Kontein, 26, to swim in the lake on a random Tuesday. An avid swimmer, Kontein even frequented Friday Morning Swim Club, where Chicagoans grab a cup of coffee at 7 a.m. and jump into a freezing Lake Michigan.  &lt;/p&gt;&lt;p&gt;But something about Oct. 26 was different. According to Kontein's sister, Ibi Kontein, surveillance cameras show her brother parking his black 2016 Toyota Corolla about 3:30 p.m. at the 31st Street Beach, walking west across DuSable Lake Shore Drive and not coming back.&lt;/p&gt;&lt;p&gt;That was the last time Oribi Kontein, who emigrated from Nigeria in 2017, was seen.&lt;/p&gt;&lt;p&gt;He's described by Chicago police as a Black man with brown eyes and black hair. He is 5-foot-10 and weighs about 160 pounds.&lt;/p&gt;&lt;p&gt;Kontein graduated from DePaul University with a degree in criminology, his sister said, but he went back to school for massage therapy, a field he later found work in.&lt;/p&gt;&lt;p&gt;Ibi Kontein, who still lives in Nigeria, found out her brother was missing Oct. 28.&lt;/p&gt;&lt;p&gt;Since then, she has worked with his wife and friends in the United States to coordinate group searches and spread information via social media.&lt;/p&gt;&lt;p&gt;According to Ibi Kontein, her brother's car was broken into two days after he left it at the beach. She said the camera footage shows two men throwing away trash in a public trash can and looking into his car window before breaking in. Then they stole his suitcase, which contained his laptop, green card and passport.&lt;/p&gt;&lt;p&gt;Ibi Kontein said the suitcase later was found on the side of the road, with the green card and passport still inside.&lt;/p&gt;&lt;p&gt;"My family and his friends do not think it was a case of opportunism," Ibi Kontein said. "The whole process took less than a minute. And no, it's not a coincidence."&lt;/p&gt;&lt;p&gt;She said police aren't following up on the footage or trying to locate the men.&lt;/p&gt;&lt;p&gt;When asked about the search for the two men, Chicago police responded with a missing person flyer for Oribi Kontein, saying that is all the information they can share.&lt;/p&gt;&lt;p&gt;Chicago Fire Department divers recovered a body about 11 a.m. Thursday from Lake Michigan near the beach where Oribi Kontein's car was found. The Cook County medical examiner's office had not yet released any information about the man's identify or physical characteristics by Thursday afternoon.&lt;/p&gt;&lt;p&gt;Tena Guwor, who went to DePaul with Kontein and graduated the same year, is charged with managing the ground searches. He is planning a second search over the weekend and getting expert opinions on the most efficient and useful way to conduct them. Guwor said his friend was a "warm, friendly" person who loved to play pool and meditate on the beach.&lt;/p&gt;&lt;p&gt;"He was very responsible and hardworking," Ibi Kontein said of her brother. "He was always the person you go to to fix things. I don't know how we're going to fix this without him."&lt;/p&gt;&lt;p&gt;----------&lt;/p&gt;&lt;p&gt;sygoodman@chicagotribune.com&lt;/p&gt;&lt;p&gt;CAPTION: Photo: (Oribi) Kontein&lt;/p&gt;&lt;p&gt;CREDIT: By Sylvia Goodman, Chicago Tribune&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 5, 2021</AlphaDate>
+         <RawDate>20211105</RawDate>
+         <StartDate>2021-11-05</StartDate>
+         <EndDate>2021-11-05</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Nov52021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

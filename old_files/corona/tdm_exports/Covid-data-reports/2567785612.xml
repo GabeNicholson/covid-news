@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2567785612</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Even with the eviction moratorium, landlords continued to find ways to kick renters out</Title>
+      </TitleAtt>
+      <NumericDate>2021-08-31</NumericDate>
+      <StartDate>2021-08-31</StartDate>
+      <EndDate>2021-08-31</EndDate>
+      <AlphaDate>Aug 31, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210831_166810</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210831_166810</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Aug312021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Fowle, Matthew</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Matthew</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Matthew Fowle</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Fowle</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Matthew Fowle</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Fyall, Rachel</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Rachel</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Rachel Fyall</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Fyall</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Rachel Fyall</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/166810/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of Washington</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Moratoriums</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rents</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Evictions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Homeless people</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Low income groups</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public policy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Tenants</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="117">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Some prevented landlords from filing eviction lawsuits in housing court, while others suspended only the final stage of eviction: the removal of tenants and their possessions by law enforcement.
+
+Tactics such as changing front door locks to prevent tenant access and removing tenants’ possessions are illegal, but many renters don’t have the knowledge or resources to fight violations in a housing court and end up deciding to leave, even though they have the legal right to stay.
+
+Vulnerable to coercive landlords The Supreme Court’s decision to block the federal eviction moratorium leaves millions of renters in states that have no similar protection in place at risk of eviction, especially those who have not yet received rental assistance.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1103" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Millions of renters in the U.S. lost a key protection keeping them in their homes on Aug. 26, 2021, with a Supreme Court ruling ending a national moratorium on eviction.&lt;/p&gt;
+&lt;p&gt;The federal stay on evictions was put in place during the coronavirus pandemic to protect renters falling behind on monthly payments and therefore in danger of needing to stay at homeless shelters or with friends or relatives. This pandemic response was designed to keep tenants in their housing, prevent overcrowding in shelters and homes, and reduce the spread of COVID-19.&lt;/p&gt;
+&lt;p&gt;In early August, 7.9 million renter households reported being in arrears, with 3.5 million saying they were at risk of eviction within two months. The large number of tenants with rental debt and susceptible to displacement underscores the importance of protecting vulnerable renters during the pandemic.&lt;/p&gt;
+&lt;p&gt;As academic experts on homelessness and low-income housing at the University of Washington, we studied the housing experiences of low-income renters during the coronavirus pandemic. Our research found that even when a ban on evictions was in place, landlords still had ways to force, or at least encourage, renters to leave. Indeed, these so-called “informal evictions” – in which landlords harass tenants out of their homes – may even have increased as a result of the stay on evictions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Different levels of protection&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The federal eviction moratorium imposed by the Centers for Disease Control and Prevention in September 2020 – along with similar actions by 43 states and dozens of cities and counties – undoubtedly saved many families from being evicted. Analysis of court records has found these moratoriums prevented millions of eviction filings during the pandemic.&lt;/p&gt;
+&lt;p&gt;Each moratorium gave tenants different levels of protection. Some prevented landlords from filing eviction lawsuits in housing court, while others suspended only the final stage of eviction: the removal of tenants and their possessions by law enforcement.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Forced out of homes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We studied the experiences of low-income renters between October 2020 and February 2021 in the state of Washington, considered to have one of the strongest eviction moratoriums in the country. Put in place on March 18, 2020, it prohibited landlords from filing, or threatening to file, evictions for unpaid rent – and banned rent increases and late fees.&lt;/p&gt;
+&lt;p&gt;Despite these protections, we found that some low-income renters were still being forced out of their homes, outside the formal legal process.&lt;/p&gt;
+&lt;p&gt;Landlords use a variety of tactics that put pressure on tenants to leave, such as harassing tenants through verbal abuse or making repeated requests to inspect or enter the rental unit, often without proper notice. Other landlords refuse to make necessary repairs or, conversely, initiate noncrucial construction work on the unit, disrupting things while the tenant is living there.&lt;/p&gt;
+&lt;p&gt;Such practices can put low-income tenants in an unenviable position: Either they leave their home or they continue to face nuisances and harassment from their landlord. Those who opt to remain may find themselves facing even more severe pressure.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Illicit eviction tactics&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The moratorium on evictions offered legal cover to tenants who refused their landlord’s order to leave. Tenants could contact the Washington State Attorney General’s Office for assistance in preventing an unlawful eviction. However, there are no substantive consequences for landlords who tell tenants to vacate their rental units – prosecutions are very rare.&lt;/p&gt;
+&lt;p&gt;Tactics such as changing front door locks to prevent tenant access and removing tenants’ possessions are illegal, but many renters don’t have the knowledge or resources to fight violations in a housing court and end up deciding to leave, even though they have the legal right to stay.&lt;/p&gt;
+&lt;p&gt;We spoke with an older couple who had rented from the same landlord for more than a decade. During the early months of the pandemic, they could manage to make only partial, but consistent, rent payments. In June 2020 – two weeks after asking for an extension on the next month’s rent – they came home to find that their landlord had changed the locks on their front door without informing them. He then refused to allow the couple to retrieve their possessions, leaving them to sleep in their car until they found a new place to live.&lt;/p&gt;
+&lt;p&gt;A low-income single mother with two children told us her landlord refused to fix a leaking roof that caused a severe problem with black mold. She believed the refusal was a result of her having missed multiple months of rent.&lt;/p&gt;
+&lt;p&gt;Another tenant we interviewed was visited by their landlord, sometimes with only 20 minutes’ notice, more than a dozen times in a few weeks shortly after they lost their job and could no longer pay full rent.&lt;/p&gt;
+&lt;p&gt;In all, with support from Violet Lavatai, executive director of the Tenants Union of Washington State, we spoke to 25 low-income tenants and analyzed 410 survey responses. All of our respondents had reached out to a tenants’ rights hotline at least once in the past few years.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 110,000 readers rely on The Conversation’s newsletter to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;In 2017, a national study estimated that 4.5% of all renters faced an informal eviction that year. For every one formal eviction there were up to 5.5 informal evictions.&lt;/p&gt;
+&lt;p&gt;Our research suggests that the stays on evictions during the pandemic might actually be driving an increase in informal evictions. Results of our survey indicate that informal evictions more than doubled during the pandemic compared with the prior year.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Vulnerable to coercive landlords&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Supreme Court’s decision to block the federal eviction moratorium leaves millions of renters in states that have no similar protection in place at risk of eviction, especially those who have not yet received rental assistance. Even for renters who are protected by state moratoriums, these protections are set to expire before the end of September 2021, including in Washington state.&lt;/p&gt;
+&lt;p&gt;Our research suggests that stays of evictions alone are not the solution to housing insecurity. Tenants who find themselves unable to pay rent are still vulnerable to the unlawful tactics of landlords determined to force them out.&lt;/p&gt;
+&lt;p&gt;The imposition of clear penalties for illicit evictions and greater support for low-income tenants could help many more low-income tenants stay in their homes.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;The study received funding support from the West Coast Poverty Center and Population Health Initiative at the University of Washington.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Rachel Fyall does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Matthew Fowle, Ph.D. Candidate in Public Policy and Governance, University of Washington&lt;/p&gt;&lt;p&gt;Rachel Fyall, Associate Professor of Public Policy &amp;amp; Governance, University of Washington&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 31, 2021</AlphaDate>
+         <StartDate>2021-08-31</StartDate>
+         <EndDate>2021-08-31</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Aug312021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

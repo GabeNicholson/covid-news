@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2555217578</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Kids' grip strength is improving, but other measures of muscle fitness are getting worse</Title>
+      </TitleAtt>
+      <NumericDate>2021-07-26</NumericDate>
+      <StartDate>2021-07-26</StartDate>
+      <EndDate>2021-07-26</EndDate>
+      <AlphaDate>Jul 26, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210726_164295</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210726_164295</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jul262021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Tomkinson, Grant R</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Grant</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Grant R Tomkinson</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Tomkinson</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>R</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Grant R. Tomkinson</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Lang, Justin J</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Justin</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Justin J Lang</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Lang</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>J</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Justin J. Lang</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/164295/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Overweight</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Physical fitness</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Abdomen</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Trends</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Strength training</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Income inequality</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Teenagers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Kinesiology</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="92">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Findings like these are why both the World Health Organization and U.S. Department of Health and Human Services now recommend that kids aged 5 to 17 years participate in muscle- and bone-strengthening activities at least three days a week.
+
+To explain these findings, our research team looked at several national trends in each country, including trends in muscle fitness, physical activity levels, body size and income inequality.
+
+A recent review of studies on resistance training among children and adolescents found that it improves muscle fitness, body composition, sports performance, self-confidence and self-esteem.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1007" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Physical fitness in kids refers to their ability to perform physical activity. Their fitness level is not only important for success in sports and athletics, but also for good health.&lt;/p&gt;
+&lt;p&gt;Aerobic fitness – the ability to supply oxygen to the body’s big muscles during continuous physical activities, such as running, biking or swimming – has long been known as important to health in kids as well as adults. Muscle fitness refers to the ability of the muscles to produce force maximally, quickly and repeatedly – otherwise known as strength, power and endurance.&lt;/p&gt;
+&lt;p&gt;Research on the health benefits of muscle fitness for children and adolescents has increased significantly in the past decade. One systematic review of this research found that low muscle fitness was associated with high body fat, poor bone health and low self-esteem, as well as a high risk of developing heart disease in later life.&lt;/p&gt;
+&lt;p&gt;Findings like these are why both the World Health Organization and U.S. Department of Health and Human Services now recommend that kids aged 5 to 17 years participate in muscle- and bone-strengthening activities at least three days a week.&lt;/p&gt;
+&lt;p&gt;We are a professor of kinesiology and an epidemiologist who conduct research that focuses on physical fitness and health. In 2019, our research team published a study that compiled more than 30 years of aerobic fitness data on 1 million kids from 19 high- and upper-middle-income countries such as Australia, Canada and the United States. We found that the aerobic fitness of kids in these countries significantly declined from 1981 to about 2000, with little change ever since.&lt;/p&gt;
+&lt;p&gt;This research got us wondering: Has kids’ muscle fitness also declined? So we decided to take a look at that as well.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The muscle fitness of today’s kids&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Our research team reviewed hundreds of studies. They contained decades of data on the muscle fitness of tens of millions of kids aged 9 to 17 years, mostly from high- and upper-middle-income countries. We focused on the measurements of grip strength, standing long jump for leg power and sit-ups for abdominal endurance, because these are the most common ways researchers worldwide measure kids’ muscle fitness.&lt;/p&gt;
+&lt;p&gt;We found that in most of these countries, grip strength has progressively improved since the 1960s. We also found that leg power and abdominal endurance had improved to about the year 2000, then declined.&lt;/p&gt;
+&lt;p&gt;So it appears that today’s kids have better grip strength than their parents and grandparents had when they were kids. Their leg power and abdominal endurance is better than what their grandparents had, but the same or worse than their parents.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What’s the cause?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To explain these findings, our research team looked at several national trends in each country, including trends in muscle fitness, physical activity levels, body size and income inequality.&lt;/p&gt;
+&lt;p&gt;We found no significant links between muscle fitness trends and trends in either body size or income inequality. But our research showed that countries with the largest declines in physical activity levels also had the largest declines in leg power and abdominal endurance. For example, physical activity levels and abdominal endurance have recently declined in kids from Slovakia, Switzerland and the United Kingdom. On the other hand, both have recently increased in kids from Poland, Slovenia and Spain.&lt;/p&gt;
+&lt;p&gt;This suggests that kids’ muscle fitness might be improved by increasing their physical activity levels, like when achieving the U.S. government’s recommended physical activity guidelines. For school-aged children and adolescents, they include doing 60 minutes or more a day of moderate- or vigorous-intensity aerobic activities, along with muscle and bone-strengthening activities at least three days a week.&lt;/p&gt;
+&lt;p&gt;This is particularly important during the COVID-19 pandemic, because lockdowns appear to have dramatically reduced kids’ fitness levels. For instance, Slovenian kids’ fitness levels dropped by 13% to a 30-year low after only two months of self-isolation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kids get diverse benefits from muscle fitness&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A growing amount of research suggests that kids of all ages can benefit from properly supervised resistance training. A recent review of studies on resistance training among children and adolescents found that it improves muscle fitness, body composition, sports performance, self-confidence and self-esteem. Building muscle fitness requires at least three sessions a week lasting more than 30 minutes and steady increases in weight.&lt;/p&gt;
+&lt;p&gt;Although there may be fears among parents that such activities are unsafe for growing children, research also shows that participation in a properly supervised resistance training program does not stunt kids’ growth or damage developing growth plates.&lt;/p&gt;
+&lt;p&gt;Improving muscle fitness makes it easier for any kid to move and lift things and play sports. Our research suggests that resistance training may especially benefit overweight and obese adolescents who may be unwilling or unable to perform aerobic activities. In a different study we published in 2014, we found that six months of supervised resistance training made overweight and obese adolescent boys stronger and more confident about exercising.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What can kids do to improve their muscle fitness?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Muscles get bigger and stronger from doing weight-bearing or “resistance” physical activities. These are exercises that cause a muscle or a group of muscles to contract against an external resistance, such as a barbell, exercise band or one’s own body weight.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 100,000 readers rely on The Conversation’s newsletter to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;Although often performed in a gym, resistance training can be performed anywhere using different activities and equipment. Jumping, climbing on playground equipment, push-ups, squats, lifting weights and yoga are all weight-bearing activities.&lt;/p&gt;
+&lt;p&gt;As their muscle fitness improves, kids can try increasing the time or difficulty of their favorite physical activity, or doing activities more often.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Grant Tomkinson has received funding from the Public Health Agency of Canada and the National Health and Medical Research Council related to children's fitness.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Justin J. Lang does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Grant R. Tomkinson, Professor of Kinesiology, University of North Dakota&lt;/p&gt;&lt;p&gt;Justin J. Lang, Adjunct Professor, L’Université d’Ottawa/University of Ottawa&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 26, 2021</AlphaDate>
+         <StartDate>2021-07-26</StartDate>
+         <EndDate>2021-07-26</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jul262021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

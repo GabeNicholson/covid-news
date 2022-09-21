@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2595747695</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>How parents can foster 'positive creativity' in kids to make the world a better place</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-10</NumericDate>
+      <StartDate>2021-11-10</StartDate>
+      <EndDate>2021-11-10</EndDate>
+      <AlphaDate>Nov 10, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20211110_169990</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20211110_169990</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Nov102021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Karami, Sareh</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Sareh</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Sareh Karami</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Karami</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Sareh Karami</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Ghahremani, Mehdi</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Mehdi</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Mehdi Ghahremani</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Ghahremani</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Mehdi Ghahremani</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="3">
+            <Author>
+               <NormalizedDisplayForm>Sternberg, Robert</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Robert</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Robert Sternberg</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Sternberg</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Robert Sternberg</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/169990/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Mississippi State University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Empathy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Creativity</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Educational psychology</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Mississippi</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="93">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Cybercriminals, for example, used their creativity to take advantage of the disruption and fears caused by the pandemic to attack countries, businesses and institutions and steal personal information from people.
+
+Ethical hackers use their creativity to help companies locate weaknesses and vulnerabilities of their information systems by using the same skills and tactics of criminal hackers.
+
+[...]people who specialize in internet security can use their training either to protect the security of people’s information stored in their computers or to try to access that information to steal the victim’s money or identity. 5.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="860" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Creativity involves the production of ideas that are both new and also useful or effective. This definition makes it sound as though creativity is quite positive. And often it is.&lt;/p&gt;
+&lt;p&gt;During the pandemic, creativity gave birth to new ways to work, attend school, tour museums, experience concerts and more – not to mention to develop vaccines and cutting-edge COVID-19 treatments.&lt;/p&gt;
+&lt;p&gt;As university professors who have collectively studied creativity for over 50 years, we know the many personal and social benefits of creativity.&lt;/p&gt;
+&lt;p&gt;But we also know that there is a dark side of creativity, too.&lt;/p&gt;
+&lt;p&gt;Cybercriminals, for example, used their creativity to take advantage of the disruption and fears caused by the pandemic to attack countries, businesses and institutions and steal personal information from people.&lt;/p&gt;
+&lt;p&gt;Or think about how hydroxychloroquine or ivermectin were promoted as COVID-19 treatments. Some people gained something from these novel treatment ideas – perhaps money, power or the prospect of reelection – but the drugs had no empirical support and people who took them may have bypassed drugs that could have actually helped them.&lt;/p&gt;
+&lt;p&gt;The point is, creativity is not always socially desirable. So, merely teaching kids to be creative does not cut it in the modern age. Here we offer tips for parents and caregivers on how to minimize the negative forms of creativity in children – and themselves – and foster positive creativity instead.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. Identify the purpose of a new product or idea&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Discuss with children the objectives of innovations – their own or ones they use in everday life. Assess the objectives not only for novelty and usefulness or meaningfulness, but also for how they contribute to the common good. Like criminal hacking, creativity can be used to benefit the inventor but harm other individuals. Hacking itself is not bad unless done with the wrong intention. Ethical hackers use their creativity to help companies locate weaknesses and vulnerabilities of their information systems by using the same skills and tactics of criminal hackers.&lt;/p&gt;
+&lt;p&gt;Encourage kids to think about what the common good is – not just what’s good for the members of one’s own team – and how to reach it. These discussions apply to the projects or activities that kids are involved in, too. How will the project contribute, even in a small way, to a better world? For example, if the child is writing a short story for a class in school, might there be a beneficial lesson in the short story that readers could take away?&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. Probe for unintended consequences&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Discuss different ways people can use a product or idea. Most ideas or products can be used in a positive way at one time or in one place but have a negative effect in another. Or it may be some of each at any given time. For example, social media outlets allow for communication, connection and community-building in a way that was never possible before their advent. But people can also use social media to spread misinformation and hate.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. Think long-term too&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Discuss both short-term and long-term consequences of creative products and ideas. When plastics were first invented over a century ago, they were seen as miracle products for their strength, flexibility, durability and insulation. Today, however, much of that plastic is used once and thrown away. Plastics that don’t biodegrade break down into small pieces that can be toxic and ruin ecosystems.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. Provide examples of positive creativity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Parents and children together can come up with examples of positive creative ideas and projects. Discuss how creators came up with those ideas and how they influenced people’s lives. Compare examples of positive creators with examples of negative creators. For example, people who specialize in internet security can use their training either to protect the security of people’s information stored in their computers or to try to access that information to steal the victim’s money or identity.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. Promote perspective-thinking and empathy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;There are plenty of books and other creative activities for children that aim to promote empathy and perspective-taking along with creativity. Creative empathy involves feeling as someone else feels whom you do not know or know only vaguely. Creatively taking multiple perspectives means putting yourself in the place of someone – perhaps someone of a different culture, race or ethnic group, or simply someone you do not know – and asking why they may see a problem, such as of racism, differently from the way you see it. Role-playing is a great way to teach these skills, as it involves actively embracing a role rather than just passively reading about it.&lt;/p&gt;
+&lt;p&gt;We believe the best future for the world lies not with those who are merely creative, but rather with those who are positively creative.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get the best of The Conversation, every weekend.&lt;/i&gt; Sign up for our weekly newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Sareh Karami, Assistant Professor of Educational Psychology, Mississippi State University&lt;/p&gt;&lt;p&gt;Mehdi Ghahremani, Assistant Professor of Educational Psychology, Mississippi State University&lt;/p&gt;&lt;p&gt;Robert Sternberg, Professor of Psychology, Cornell University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 10, 2021</AlphaDate>
+         <StartDate>2021-11-10</StartDate>
+         <EndDate>2021-11-10</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Nov102021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

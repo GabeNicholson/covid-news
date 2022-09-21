@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2353194794</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Canadian National Railway Threatens to Shut Down Corridors Blocked by Protests; Demonstrators say they are backing indigenous groups opposed to construction of pipeline in British Columbia</Title>
+      </TitleAtt>
+      <NumericDate>2020-02-11</NumericDate>
+      <StartDate>2020-02-11</StartDate>
+      <EndDate>2020-02-11</EndDate>
+      <AlphaDate>Feb 11, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2020 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>Business</DocSection>
+         <ColumnHeader>Business</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Feb112020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO20200211C7BDAE9640A5A32B3965F295D3FDAFFC</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1490</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <DisplayForm>Kim Mackrael</DisplayForm>
+               <OriginalFormAtt>
+                  <OriginalForm>Kim Mackrael</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Vieira, Paul</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Paul</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Paul Vieira</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Vieira</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Paul Vieira</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Canadian National Railway Co</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>482111</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>926120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Canadian Pacific Railway Ltd</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>482111</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>485112</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>487110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <PQBCompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Canadian National Railway Co</CompanyName>
+            </CompanyNameAtt>
+            <CompanyTickerAtt>
+               <CompanyTicker>CNR</CompanyTicker>
+            </CompanyTickerAtt>
+            <CompanyIDAtt TermVocab="BUSCORP">
+               <CompanyID>316191</CompanyID>
+            </CompanyIDAtt>
+            <CompanyType>Public</CompanyType>
+            <CompanyHQLocation>Canada</CompanyHQLocation>
+            <CompanyWebsite>https://cn.ca</CompanyWebsite>
+            <CompanyStockExchange>Toronto</CompanyStockExchange>
+         </PQBCompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Railroad transportation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Moratoriums</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Demonstrations &amp; protests</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pipelines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Natural gas</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Chicago Illinois</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Montreal Quebec Canada</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>Canada</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Garneau, Marc</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>British Columbia Canada</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Asia</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="671" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;OTTAWA—Canadian National Railway Co. said Tuesday it would shut down large parts of its network unless anti-pipeline protesters thwarting rail traffic along two key corridors were removed.&lt;/p&gt;
+&lt;p&gt;The move marks an escalation after days of protests targeting ports and rail lines and dozens of arrests. Canadian National warned shipments covering an array of commodities and consumer goods could be affected, and the country's manufacturers said the protests were already having ramifications for the economy.&lt;/p&gt;
+
+&lt;p&gt;The Montreal-based railroad said the blockades, which were first set up several days ago, had prevented trains from moving through eastern Ontario and part of northern British Columbia. Protesters say they are blocking the trains as a show of support for an indigenous group opposing the construction of a natural-gas pipeline in northern British Columbia.&lt;/p&gt;
+&lt;p&gt;Canadian National chief executive Jean-Jacques Ruest said the company had limited space to park trains across its network. As a result, he said, "CN will have no choice but to temporarily discontinue service in key corridors unless the blockades come to an end."&lt;/p&gt;
+&lt;p&gt;The company said it had obtained court injunctions to have the protesters removed. It added it had been working with local law-enforcement agencies about having the court orders enforced. Attempts to contact the group blocking the railway weren't immediately successful.&lt;/p&gt;
+&lt;p&gt;Before Canadian National's announcement, the country's Transport Minister, Marc Garneau, said it was up to regional law-enforcement authorities to enforce respective court orders. A spokeswoman for Mr. Garneau didn't respond to a request for comment following Canadian National's announcement.&lt;/p&gt;
+&lt;p&gt;Canadian National operates the country's biggest rail network, stretching from Vancouver to Halifax and in the U.S. from Chicago to New Orleans. It carries everything from Canada's crude-oil exports to automobiles headed to U.S. and Canadian cities.&lt;/p&gt;
+&lt;p&gt;The company's share price fell sharply after Canadian National unveiled plans to close its network. It finished Tuesday's session down 49 Canadian cents (37 U.S. cents) to C$125.32.&lt;/p&gt;
+&lt;p&gt;Canada's other major rail company, Canadian Pacific Railway Ltd., said Tuesday its freight traffic had been affected by the blockades, and that it continues to monitor the situation.&lt;/p&gt;
+&lt;p&gt;The blockades also have affected passenger-rail service between Toronto and Montreal and Toronto and Ottawa. On Tuesday, government-owned Via Rail canceled more than 30 trains due to blockades.&lt;/p&gt;
+&lt;p&gt;Protests escalated across Canada last week after police began enforcing a court order to remove people who were attempting to prevent construction of the natural-gas pipeline in northern British Columbia. The Coastal GasLink pipeline, owned by TC Energy Corp., is intended to carry gas from an area in northeastern British Columbia to the west coast for shipment to markets in Asia.&lt;/p&gt;
+&lt;p&gt;The company says it has signed agreements with elected representatives from 20 indigenous communities along the pipeline's 400-mile route. It faces opposition, however, from a group of traditional leaders in the area and their supporters.&lt;/p&gt;
+&lt;p&gt;Other protests have taken place outside the British Columbia legislature and on the roads leading to the Port of Vancouver, on Canada's west coast. On Monday, police in Vancouver arrested 43 people who were blocking access to the port after a provincial court issued an order to have the protesters removed.&lt;/p&gt;
+&lt;p&gt;Canadian National said the Port of Prince Rupert, on the northwest coast of British Columbia, has effectively shut down as a result of the rail blockades. Ports in Montreal and Halifax, on Canada's east coast, have also been affected, the company said.&lt;/p&gt;
+&lt;p&gt;The blockades are the second significant disruption in Canadian rail service in recent months. Last fall, 
+a strike shut down Canadian National
+operations for eight days, and the work stoppage weighed on economic growth in the fourth quarter.&lt;/p&gt;
+&lt;p&gt;Canadian Manufacturers and Exporters said Tuesday that interruptions caused by the pipeline protests were already weighing on economic activity and being felt across the supply chain. Mr. Ruest, of Canadian National, said the protests and impact on Canada's logistical network threatened to harm "the country's reputation as a stable and viable supply-chain partner."&lt;/p&gt;
+&lt;p&gt;Write to Kim Mackrael at 
+kim.mackrael@wsj.com
+and Paul Vieira at 
+paul.vieira@wsj.com
+&lt;/p&gt;
+&lt;p&gt;Credit: By Kim Mackrael and Paul Vieira &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 11, 2020</AlphaDate>
+         <StartDate>2020-02-11</StartDate>
+         <EndDate>2020-02-11</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Feb112020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2535079326</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>SPAC Pullback Pressures Creators to Find Quality Mergers; Many SPAC teams are wooing startups to finish deals within two years</Title>
+      </TitleAtt>
+      <NumericDate>2021-06-01</NumericDate>
+      <StartDate>2021-06-01</StartDate>
+      <EndDate>2021-06-01</EndDate>
+      <AlphaDate>Jun 1, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>Markets</DocSection>
+         <ColumnHeader>Finance</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Jun12021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO20210601WP-WSJ-0000029367</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1660</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Ramkumar, Amrith</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Amrith</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Amrith Ramkumar</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Ramkumar</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Amrith Ramkumar</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Stock prices</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Going public</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Initial public offerings</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Investments</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Startups</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Special purpose acquisition companies</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="997" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Competition among so-called blank-check companies to find mergers is already stiff. Share-price declines and a ticking clock to take companies public are ratcheting up the pressure.&lt;/p&gt;
+&lt;p&gt;The new challenges for creators of special-purpose acquisition companies, or SPACs, result in part from the abundance of the deals that raised money early in 2021 . Looming over these firms is a two-year deadline to do a deal or hand back cash to investors.&lt;/p&gt;
+
+&lt;p&gt;Now that shares of many SPAC-related companies have fallen, fewer startups are interested in going public through a SPAC . That mismatch is intensifying competition between some blank-check firms for the same private firms, known by some on Wall Street as a "SPAC-off."&lt;/p&gt;
+&lt;p&gt;SPACs are shell companies that raise money and list on an exchange with the sole intent of merging with a private firm to take it public . The private company, often a startup, then gets the SPAC's place in the stock market. Blank-check mergers let companies going public make future business projections—which aren't allowed in regular IPOs—one reason they took Wall Street by storm this winter and have raised a record $105 billion this year, according to SPAC Research.&lt;/p&gt;
+&lt;p&gt;But with SPAC shares in retreat, many blank-check firms now trade below their debut price. Many companies in recent months have said that several different SPACs have asked them about mergers, a trend that contributed to the frenzy in the sector.&lt;/p&gt;
+&lt;p&gt;The pressure to execute deals at realistic valuations could get even more intense in the months ahead because nearly 260 blank-check companies with about $87 billion on hand face merger deadlines in the first three months of 2023, according to a Methuselah Advisors analysis of SPAC Research figures.&lt;/p&gt;
+&lt;p&gt;While such deadlines can be extended, they can pressure SPAC teams that often need several months to finish deals and now face turbulent market conditions.&lt;/p&gt;
+&lt;p&gt;"There is an awful lot of capital sitting there that has to find a home," said John Chachas, co-managing principal at Methuselah, a boutique investment bank. "You're going to see a fair number of less-than-desirable deals done just because they have to get done."&lt;/p&gt;
+&lt;p&gt;Private companies open to SPAC mergers should focus on their business, then begin exploring blank-check options next year, Mr. Chachas said. By then, many SPAC teams could be desperate to finish deals before their deadlines and make generous offers.&lt;/p&gt;
+&lt;p&gt;With investors retreating in recent weeks from early-stage investments , shares of many companies tied to SPACs—including those taking genetic-testing firm 23andMe Inc., electric-vehicle battery maker Microvast Inc. and flying-taxi startup Joby Aviation public—have fallen about 30% or more since mid-February.&lt;/p&gt;
+
+&lt;p&gt; Signs that regulators are taking a stricter stance on the once-hot sector also have pressured the stocks. Regulatory questions have slowed the timeline for finishing mergers and cut new issuance of blank-check companies to a fraction of the record levels from earlier this year. Just two of the 23 SPACs that announced deals in May were trading above their initial public offering price at the end of the month, figures from data provider SPAC Research show.&lt;/p&gt;
+&lt;p&gt;If no deal is done by the final date—after any extensions—the SPAC creators have to return money to investors and lose what they put in up front to create the shell companies, typically several million dollars for underwriting fees and other expenses. In that scenario, they also don't get the deeply discounted shares that let them make several times their initial investment, on average.&lt;/p&gt;
+&lt;p&gt;Those incentives explain why many blank-check mergers will still get done in the months ahead—even if they are completed at lower valuations or the SPAC teams have to give away some of the discounted shares to complete the deals.&lt;/p&gt;
+&lt;p&gt;Because of the market reversal, some analysts now expect private companies and investors in SPAC mergers to have more leverage when negotiating deal terms with blank-check firms. The shift shows how many on Wall Street and in Silicon Valley are grappling with the unprecedented market environment created by SPACs, which were a rarely used alternative to traditional initial public offerings before late 2020 and are now evolving quickly.&lt;/p&gt;
+&lt;p&gt;"People are getting a lot more choosy," said Kristi Marvin, founder of data and research provider SPACInsider.&lt;/p&gt;
+&lt;p&gt;Many investors say smaller SPACs will likely face the most pressure, while the most well known backers such as venture capitalist Chamath Palihapitiya continue to churn out deals.&lt;/p&gt;
+&lt;p&gt;Because investors can typically withdraw at that low IPO price per share, plus a tiny bit of interest, before SPAC mergers are completed, low share prices mean many are likely to do so to eliminate the possibility of taking a loss. That can leave the SPAC with much less money, potentially forcing executives to find other sources of cash or renegotiate some terms of the deal.&lt;/p&gt;
+&lt;p&gt;"They are going to have to be more careful with what the valuation is and what they are agreeing to," said Patrick Galley, a SPAC investor and CEO of RiverNorth Capital Management.&lt;/p&gt;
+&lt;p&gt;Investors who put money into SPAC mergers through a fundraising round called a private investment in public equity, or PIPE, could particularly benefit. Large PIPE investors include funds managed by asset management giants BlackRock Inc. and Fidelity Investments Inc. Their money is critical to deals and is added to the cash held by the blank-check company to complete a merger several times as large as the SPAC itself.&lt;/p&gt;
+&lt;p&gt;In one sign that PIPE investors could now get better terms, mobile entertainment firm Jam City recently said PIPE investors bought into the company at $8.42 a share in its roughly $1.2 billion SPAC merger, including debt. That is a discounted price unavailable to other investors.&lt;/p&gt;
+&lt;p&gt;Still, some analysts say momentum in the market could quickly change once again, particularly if some strong deals draw investors back into the space.&lt;/p&gt;
+&lt;p&gt;"Three months from now, the market could look very different," Ms. Marvin said. "It could be game on again."&lt;/p&gt;
+&lt;p&gt;Write to Amrith Ramkumar at amrith.ramkumar@wsj.com &lt;/p&gt;
+&lt;p&gt; SPAC Pullback Pressures Creators to Find Quality Mergers &lt;/p&gt;
+&lt;p&gt;Credit: By Amrith Ramkumar &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jun 1, 2021</AlphaDate>
+         <StartDate>2021-06-01</StartDate>
+         <EndDate>2021-06-01</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Jun12021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

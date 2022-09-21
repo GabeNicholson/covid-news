@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2486490294</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>How do pandemics end? History suggests diseases fade but are almost never truly gone</Title>
+      </TitleAtt>
+      <NumericDate>2020-10-14</NumericDate>
+      <StartDate>2020-10-14</StartDate>
+      <EndDate>2020-10-14</EndDate>
+      <AlphaDate>Oct 14, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVCO_20201014_146066</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVCO_20201014_146066</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977987_Oct142020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Varlik, Nükhet</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Nükhet</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Nükhet Varlik</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Varlik</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Nükhet Varlik</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/146066/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infectious diseases</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Malaria</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pathogens</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Severe acute respiratory syndrome coronavirus 2</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Epidemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Measles</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Smallpox</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="135">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;All these months in, with over 37 million COVID-19 cases and more than 1 million deaths globally, you may be wondering, with increasing exasperation, how long this will continue.
+
+Since the beginning of the pandemic, epidemiologists and public health specialists have been usingmathematicalmodels to forecast the future in an effort to curb the coronvirus's spread.
+
+Mass vaccination campaigns led by the World Health Organization in the 1960s and 1970s were successful, and in 1980, smallpox was declared the first - and still, the only - human disease to be fully eradicated.
+
+There were about 228 million malaria cases and 405,000 deaths worldwide in 2018.
+
+Since 1955, global programs to eradicate malaria, assisted by the use of DDT and chloroquine, brought some success, but the disease is still endemic in many countries of the Global South.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1062" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;When will the pandemic end? All these months in, with over 37 million COVID-19 cases and more than 1 million deaths globally, you may be wondering, with increasing exasperation, how long this will continue.&lt;/p&gt;
+&lt;p&gt;Since the beginning of the pandemic, epidemiologists and public health specialists have been usingmathematicalmodels to forecast the future in an effort to curb the coronvirus's spread. But infectious disease modeling is tricky. Epidemiologists warn that "[m]odels are not crystal balls," and even sophisticated versions, like those that combine forecasts or use machine learning, can't necessarily reveal when the pandemic will end or how many people will die.&lt;/p&gt;
+&lt;p&gt;As a historian who studies disease and public health, I suggest that instead of looking forward for clues, you can look back to see what brought past outbreaks to a close - or didn't.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Where we are now in the course of the pandemic &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In the early days of the pandemic, many people hoped the coronavirus would simply fade away. Some argued that it would disappear on its ownwith the summer heat. Others claimed that herd immunity would kick in once enough people had been infected. But none of that has happened.&lt;/p&gt;
+&lt;p&gt;A combination of public health efforts to contain and mitigate the pandemic - from rigorous testing and contact tracing to social distancing and wearing masks - have been proven to help. Given that the virus has spread almost everywhere in the world, though, such measures alone can't bring the pandemic to an end. All eyes are now turned to vaccine development, which is being pursued at unprecedented speed.&lt;/p&gt;
+&lt;p&gt;Yet experts tell us that even with a successful vaccine and effective treatment, COVID-19 may never go away. Even if the pandemic is curbed in one part of the world, it will likely continue in other places, causing infections elsewhere. And even if it is no longer an immediate pandemic-level threat, the coronavirus will likely become endemic - meaning slow, sustained transmission will persist. The coronavirus will continue to cause smaller outbreaks, much like seasonal flu.&lt;/p&gt;
+&lt;p&gt;The history of pandemics is full of such frustrating examples.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Once they emerge, diseases rarely leave &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Whether bacterial, viral or parasitic, virtually every disease pathogen that has affected people over the last several thousand years is still with us, because it is nearly impossible to fully eradicate them.&lt;/p&gt;
+&lt;p&gt;The only disease that has been eradicated through vaccination is smallpox. Mass vaccination campaigns led by the World Health Organization in the 1960s and 1970s were successful, and in 1980, smallpox was declared the first - and still, the only - human disease to be fully eradicated.&lt;/p&gt;
+&lt;p&gt;So success stories like smallpox are exceptional. It is rather the rule that diseases come to stay.&lt;/p&gt;
+&lt;p&gt;Take, for example, pathogens like malaria. Transmitted via parasite, it's almost as old as humanity and still exacts a heavy disease burden today: There were about 228 million malaria cases and 405,000 deaths worldwide in 2018. Since 1955, global programs to eradicate malaria, assisted by the use of DDT and chloroquine, brought some success, but the disease is still endemic in many countries of the Global South.&lt;/p&gt;
+&lt;p&gt;Similarly, diseases such as tuberculosis, leprosy and measles have been with us for several millennia. And despite all efforts, immediate eradication is still not in sight.&lt;/p&gt;
+&lt;p&gt;Add to this mix relatively younger pathogens, such as HIV and Ebola virus, along with influenza and coronaviruses including SARS, MERS and SARS-CoV-2 that causes COVID-19, and the overall epidemiological picture becomes clear. Research on the global burden of disease finds that annual mortality caused by infectious diseases - most of which occurs in the developing world - is nearly one-third of all deaths globally.&lt;/p&gt;
+&lt;p&gt;Today, in an age of global air travel, climate change and ecological disturbances, we are constantly exposed to the threat of emerging infectious diseases while continuing to suffer from much older diseases that remain alive and well.&lt;/p&gt;
+&lt;p&gt;Once added to the repertoire of pathogens that affect human societies, most infectious diseases are here to stay.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Plague caused past pandemics - and still pops up &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Even infections that now have effective vaccines and treatments continue to take lives. Perhaps no disease can help illustrate this point better than plague, the single most deadly infectious disease in human history. Its name continues to be synonymous with horror even today.&lt;/p&gt;
+&lt;p&gt;Plague is caused by the bacterium &lt;i&gt;Yersinia pestis&lt;/i&gt;. There have been countless local outbreaks and at least three documented plague pandemics over the last 5,000 years, killing hundreds of millions of people. The most notorious of all pandemics was the Black Death of the mid-14th century.&lt;/p&gt;
+&lt;p&gt;Yet the Black Death was far from being an isolated outburst. Plague returned every decade or even more frequently, each time hitting already weakened societies and taking its toll during at least six centuries. Even before the sanitary revolution of the 19th century, each outbreak gradually died down over the course of months and sometimes years as a result of changes in temperature, humidity and the availability of hosts, vectors and a sufficient number of susceptible individuals.&lt;/p&gt;
+&lt;p&gt;Some societies recovered relatively quickly from their losses caused by the Black Death. Others never did. For example, medieval Egypt could not fully recover from the lingering effects of the pandemic, which particularly devastated its agricultural sector. The cumulative effects of declining populations became impossible to recoup. It led to the gradual decline of the Mamluk Sultanate and its conquest by the Ottomans within less than two centuries.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;That very same state-wrecking plague bacterium remains with us even today, a reminder of the very long persistence and resilience of pathogens.&lt;/p&gt;
+&lt;p&gt;Hopefully COVID-19 will not persist for millennia. But until there's a successful vaccine, and likely even after, no one is safe. Politics here are crucial: When vaccination programs are weakened, infections can come roaring back. Just look at measles and polio, which resurge as soon as vaccination efforts falter.&lt;/p&gt;
+&lt;p&gt;Given such historical and contemporary precedents, humanity can only hope that the coronavirus that causes COVID-19 will prove to be a tractable and eradicable pathogen. But the history of pandemics teaches us to expect otherwise.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Nükhet Varlik does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Nükhet Varlik, Associate Professor of History, University of South Carolina&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : COVID-19</Title>
+         <MpubId>4977987</MpubId>
+         <SortTitle>Conversation : COVID-19 The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVCO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977987</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464268.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Health Facilities And Administration</Subject>
+            <Subject>Medical Sciences</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : COVID-19</Title>
+            <SortTitle>Conversation : COVID-19 The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977987</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464268.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 14, 2020</AlphaDate>
+         <StartDate>2020-10-14</StartDate>
+         <EndDate>2020-10-14</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977987_Oct142020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

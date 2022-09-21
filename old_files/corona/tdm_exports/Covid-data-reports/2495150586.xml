@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2495150586</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>COVID-19 costs could push hospitals to rethink billions of dollars in wasted supplies</Title>
+      </TitleAtt>
+      <NumericDate>2021-03-02</NumericDate>
+      <StartDate>2021-03-02</StartDate>
+      <EndDate>2021-03-02</EndDate>
+      <AlphaDate>Mar 2, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVEB_20210302_154328</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVEB_20210302_154328</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977986_Mar22021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Nair, Anand</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Anand</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Anand Nair</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Nair</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Anand Nair</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/154328/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>62211</ClassCode>
+            <ClassExpansion>General Medical and Surgical Hospitals</ClassExpansion>
+         </ClassTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>33911</ClassCode>
+            <ClassExpansion>Medical Equipment and Supplies Manufacturing</ClassExpansion>
+         </ClassTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>56191</ClassCode>
+            <ClassExpansion>Packaging and Labeling Services</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hospitals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical wastes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Surgeons</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Recycling</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical supplies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Surgery</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Costs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Packaging</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Supply chain management</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="78">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The approvals hospitals received from the Centers for Disease Control and Prevention to decontaminate some disposable items could become long-term safe methods to reduce waste.
+
+Being able to reuse personal protective equipment could not only reduce waste in landfills, lower the environmental footprint of supply production and delivery, and save money, but it could also strengthen health care organizations’ ability to be prepared for supply chain breakdowns in future pandemics.
+
+[...]only 15% of health care wastes are hazardous.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="818" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The United States spends more on health care than any other nation. What many people don’t realize is that a large portion of this spending goes to waste.&lt;/p&gt;
+&lt;p&gt;Every year, an estimated US$760 billion to $935 billion is wasted through overtreatment, poor coordination and other failures, amounting to about a quarter of total U.S. health care spending, research has shown. Medical supplies and equipment are part of that. One study estimated that nearly $1,000 in unused supplies are wasted on average during each neurosurgery procedure.&lt;/p&gt;
+&lt;p&gt;With hospitals under financial pressure from COVID-19 and medical waste volumes even higher, the pandemic could finally trigger a much-needed reset in how health care organizations and hospitals think about supply-related waste. That includes how they reuse supplies, how they plan for surgeries and what they look for in prepackaged surgical supplies.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Decontaminating and reusing supplies safely&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;It’s important to recognize that not all single-use equipment and supplies are safer. Cleaning, sterilizing and reusing equipment can be safe and cost less in the long run. For example, the U.S. Food and Drug Administration points out that surgical instruments such as clamps and forceps can be reprocessed and reused, but they are often thrown away after a single use.&lt;/p&gt;
+&lt;p&gt;New sterilization methods can help. For example, N-95 masks that were sterilized and sanitized with ethylene oxide and vaporized hydrogen peroxide were able to retain their more than 95% filtration efficiency. The approvals hospitals received from the Centers for Disease Control and Prevention to decontaminate some disposable items could become long-term safe methods to reduce waste.&lt;/p&gt;
+&lt;p&gt;Being able to reuse personal protective equipment could not only reduce waste in landfills, lower the environmental footprint of supply production and delivery, and save money, but it could also strengthen health care organizations’ ability to be prepared for supply chain breakdowns in future pandemics.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ways to cut waste in the operating room&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Operating rooms are a source of large amounts of hospital supply waste. They account for over 50% of hospital revenues and 25% of their expenses.&lt;/p&gt;
+&lt;p&gt;Supplies and materials in operating rooms average nearly half of operating room spending and account for 70% of the 4 billion pounds of health care waste produced in the United States annually.&lt;/p&gt;
+&lt;p&gt;A big part of that waste happens when there is a mismatch between the supplies requested and those actually needed during surgery. Surgeons submit a physician preference card that lists all the supplies they believe they will need in the operating room. In one study, my colleagues and I found that more frequent updates to those preference cards before surgery can reduce unplanned costs.&lt;/p&gt;
+&lt;p&gt;We estimated that the unplanned costs in operating rooms averaged about $1,800 per surgery, adding up to tens of millions of dollars. These costs include both supplies that are opened but go unused and additional supplies brought in during surgery that make it harder to manage supply use efficiently. We found that as the frequency of updating physician preference cards increased, waste and costs initially went up but then came down as surgeons were able to narrow down the supplies actually needed. This learning can translate into an annual cost reduction of millions of dollars.&lt;/p&gt;
+&lt;p&gt;Just understanding how supplies are being wasted can help. When surgeons in a San Francisco hospital were given information about their supply use and an incentive to reduce it, they cut their supply waste by 6.5%.&lt;/p&gt;
+&lt;p&gt;Rethinking packaging, including working with suppliers to reformulate surgical packs, could also reduce waste. Supplies used in the operating room often come in surgical packs, which include items typically needed during a procedure, but not all are used.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ramping up recycling&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Hospitals can also increase their recycling. A survey conducted across four Mayo Clinic locations across the United States in 2018 found that single-use plastics made up at least 20% of medical waste generated in the hospitals. Among the more than 500 hospital staff members surveyed, 57% didn’t know which items used in operating theaters could be recycled; 39% said they either sometimes or never recycled; and 48% said the greatest barrier to recycling was “lack of knowledge.”&lt;/p&gt;
+&lt;p&gt;In fact, only 15% of health care wastes are hazardous. The remaining 85% include packaging materials that can be recycled and gloves. Gloves worn to inspect a noninfectious patient are not hazardous and can be reused.&lt;/p&gt;
+&lt;p&gt;The pandemic-triggered awareness of supply waste in health care could provide an impetus for a fresh look at health care supply chain management. The result can benefit patients, hospitals and the environment, as well.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Expertise in your inbox. Sign up for The Conversation’s newsletter and get expert takes on today’s news, every day.&lt;/i&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Anand Nair does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Anand Nair, Eli Broad Endowed Professor, Department of Supply Chain Management, Michigan State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation :  Economy + Business</Title>
+         <MpubId>4977986</MpubId>
+         <SortTitle>Conversation :  Economy + Business The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVEB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977986</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464265.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation :  Economy + Business</Title>
+            <SortTitle>Conversation :  Economy + Business The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977986</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464265.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Mar 2, 2021</AlphaDate>
+         <StartDate>2021-03-02</StartDate>
+         <EndDate>2021-03-02</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977986_Mar22021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

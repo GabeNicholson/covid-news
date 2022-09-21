@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2528603031</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Engineers and economists prize efficiency, but nature favors resilience – lessons from Texas, COVID-19 and the 737 Max</Title>
+      </TitleAtt>
+      <NumericDate>2021-05-18</NumericDate>
+      <StartDate>2021-05-18</StartDate>
+      <EndDate>2021-05-18</EndDate>
+      <AlphaDate>May 18, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVIL_20210518_152670</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVIL_20210518_152670</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977982_May182021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Vardi, Moshe Y</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Moshe</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Moshe Y Vardi</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Vardi</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>Y</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Moshe Y. Vardi</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/152670/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Software</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Scientists</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Aircraft industry</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Control algorithms</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Computer science</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Resilience</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Insurance</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Genes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Society</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Equilibrium</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Efficiency</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Winter storms</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Algorithms</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Reproduction (biology)</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Automobile insurance</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Climate change</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Efficiency</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Economics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Texas</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="138">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Takeaways: * The damage from Winter Storm Uri, the economic devastation from the COVID-19 pandemic and the fatal Boeing 737 Max accidents show the price society pays for a relentless pursuit of efficiency. * Modern society has prioritized free-market economics and efficient computer systems to the detriment of other priorities. * Studies of algorithms show that efficiency can come at a high cost. * Sexual reproduction and car insurance highlight the benefits of resilience. ------------ 
+
+In particular, natural selection favors genes that work well with a greater diversity of other genes, and this makes the species more adaptable to disruptive environmental changes – that is to say, more resilient.
+
+[...]in the interest of long-term survival, nature prioritized resilience over efficiency.
+
+Car insurance and climate change The bottom line is that resilience is a fundamental but underappreciated societal need.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1371" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Takeaways:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The damage from Winter Storm Uri, the economic devastation from the COVID-19 pandemic and the fatal Boeing 737 Max accidents show the price society pays for a relentless pursuit of efficiency.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Modern society has prioritized free-market economics and efficient computer systems to the detriment of other priorities.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Studies of algorithms show that efficiency can come at a high cost.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Sexual reproduction and car insurance highlight the benefits of resilience.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;There is a trade-off between efficiency and resilience. Efficiency requires optimal adaptation to an existing environment, while resilience is an ability to adapt to large or sudden changes in the environment. Society’s emphasis on short-term gains has long tipped the balance in favor of efficiency.&lt;/p&gt;
+&lt;p&gt;However, the relentless pursuit of efficiency removes hurdles to the speed and reach of transactions, hurdles that also serve as buffers against shocks. Buffers provide resilience in the face of ecological, geopolitical and financial crises.&lt;/p&gt;
+&lt;p&gt;As a computer scientist, I look at how algorithms provide a way to test assumptions about resilience, even as the field of computing itself shares the bias toward efficiency. Three recent crises – the 2021 winter storm in Texas, the COVID-19 pandemic and the Boeing 737 Max software failure – highlight the cost of valuing efficiency over resilience and provide lessons for bringing society into balance.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Economists and engineers ❤️ efficiency&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Economics has long been obsessed with efficiency. Economic efficiency means that goods and production are distributed or allocated to their most valuable uses and waste is eliminated or minimized.&lt;/p&gt;
+&lt;p&gt;Free-market advocates argue that through individual self-interest and freedom of production and consumption, economic efficiency is achieved and the best interests of society, as a whole, are fulfilled. But this conflates efficiency with the best outcome.&lt;/p&gt;
+&lt;p&gt;The intense focus on efficiency at the expense of resilience plagues not only business and economics but also technology. Society has educated generations of computer scientists that analyzing algorithms, the step-by-step instructions at the heart of computer software, boils down to measuring their computational efficiency.&lt;/p&gt;
+&lt;p&gt;“The Art of Computer Programming,” one of the founding texts of computer science, is dedicated to the analysis of algorithms, which is the process of figuring out the amount of time, storage or other resources needed to execute them. In other words, efficiency is the sole concern in the design of algorithms, according to this guide.&lt;/p&gt;
+&lt;p&gt;But what about resilience? Designing resilient algorithms requires computer scientists to consider in advance what can go wrong and build effective countermeasures into their algorithms. Without designing for resilience, you get efficient but brittle algorithms.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;A storm, a plague and some bad software&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Brittle systems are more likely than resilient systems to break down when crises strike. Cold temperatures and blackouts during Winter Storm Uri killed nearly 200 people in February 2021 in Texas. The storm damaged the power grid and water systems, which lacked the weatherproofing features common to utility infrastructure in much of the rest of the country.&lt;/p&gt;
+&lt;p&gt;The harsh economic consequences of failing to prepare for a pandemic, despite many early warnings, provoke questions about whether the obsessive pursuit of efficiency, which has dominated standard business orthodoxy for decades, has made the global economic system more vulnerable to disruptive changes.&lt;/p&gt;
+&lt;p&gt;A stark example of a system designed for efficiency and not resilience is the flight-control algorithm for the Boeing 737 Max. Boeing retrofitted the 737, a passenger aircraft first produced more than half a century ago, with more efficient engines. This retrofitting caused some flight instability, which the flight-control algorithm was designed to overcome.&lt;/p&gt;
+&lt;p&gt;But the algorithm relied on data from a single sensor, and when the sensor failed, the algorithm incorrectly determined that the plane was stalling. In response, the algorithm caused the plane to dive as an emergency measure to recover from a stall that wasn’t happening.&lt;/p&gt;
+&lt;p&gt;The result was two horrific crashes and hundreds of the aircraft being grounded for nearly two years. In retrospect, the engineers overly optimized for fuel economy and time to market at the expense of safety.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The price of anarchy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;If brittle systems are prone to disasters, why is society filled with them? One explanation is that, short of disasters, systems that emphasize efficiency can achieve a kind of stability. A fundamental theorem in economics states that under certain assumptions a market will tend toward a competitive balance point, known as the Pareto-optimal equilibrium, in which economic efficiency is achieved.&lt;/p&gt;
+&lt;p&gt;But how well does such an equilibrium serve the best interests of society? A team of computer scientists studied how beneficial or detrimental equilibria can be from a computational perspective. The researchers studied systems in which uncooperative agents share a common resource, the mathematical equivalent of roadways or fisheries.&lt;/p&gt;
+&lt;p&gt;They came up with a ratio between the worst possible equilibrium – traffic congestion or overfishing – and the social optimum, a ratio dubbed the “Price of Anarchy” because it measures how far from optimal such uncooperative systems can be. They showed that this ratio can be very high. In other words, economic efficiency does not guarantee that the best interests of society are fulfilled.&lt;/p&gt;
+&lt;p&gt;Another team of researchers asked how long it takes until economic agents converge to an equilibrium. By studying the computational complexity of computing such equilibria, the researchers showed that there are systems that take an exceedingly long time to converge to an equilibrium.&lt;/p&gt;
+&lt;p&gt;The implication is that economic systems are very unlikely ever to be in an equilibrium, because the underlying variables – such as prices, supply and demand – are very likely to change while the systems are making their slow way toward convergence. In other words, economic equilibrium, a central concept in economic theory, is a mythical rather than a real phenomenon. This is not an argument against free markets, but it does require a pragmatic view of them.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;When sex is best&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;It is interesting to consider how nature deals with the trade-off between efficiency and resilience. This issue was addressed in a computer science paper titled “Sex as an Algorithm.” Computer scientists know that search techniques allowing individual steps that are less than optimal but could lead to an overall better solution are, in general, computationally superior to search techniques that mimic natural selection by creating “offspring” of previous solutions and adding random mutations.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;The Conversation’s most important coronavirus headlines, weekly in a science newsletter&lt;/i&gt;]&lt;/p&gt;
+&lt;p&gt;Why, then, has nature chosen sexual reproduction as the almost exclusive reproduction mechanism in animals? The answer is that sex as an algorithm offers advantages other than good performance.&lt;/p&gt;
+&lt;p&gt;In particular, natural selection favors genes that work well with a greater diversity of other genes, and this makes the species more adaptable to disruptive environmental changes – that is to say, more resilient. Thus, in the interest of long-term survival, nature prioritized resilience over efficiency.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Car insurance and climate change&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The bottom line is that resilience is a fundamental but underappreciated societal need. But both computing and economics have underemphasized resilience. In general, markets and people are quite bad at preparing for very low-probability or very long-term events.&lt;/p&gt;
+&lt;p&gt;For example, people have to be forced to buy car insurance, because buying insurance is not efficient. After all, in the aggregate, the insurance business is profitable for the insurers, not for the insured. The purpose of insurance is increased resilience. This example shows that ensuring resilience requires societal action and cannot be left to markets.&lt;/p&gt;
+&lt;p&gt;The economic impact of the pandemic shows the cost of society’s failure to act. And COVID-19 may be just the warmup act for the much bigger impending climate crisis, so focusing on resilience is becoming more and more important.&lt;/p&gt;
+&lt;p&gt;There seems to be a broad recognition that the incalculable suffering and trauma of COVID-19 offers societies ways to change for the better. Similar lessons can be drawn from Winter Storm Uri and the Boeing 737 Max.&lt;/p&gt;
+&lt;p&gt;Focusing on resilience is a way for societies to change for the better. In the meantime, the steady flow of news events – like a pipeline company that appears to have underinvested in security – continues to underscore the cost of prizing efficiency over resilience.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Moshe Y. Vardi is affiliated with the Baker Institute for Public Policy.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Moshe Y. Vardi, Professor of Computer Science, Rice University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Science + Technology</Title>
+         <MpubId>4977982</MpubId>
+         <SortTitle>Conversation : Science + Technology The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVIL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977982</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464264.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Sciences: Comprehensive Works</Subject>
+            <Subject>Technology: Comprehensive Works</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Science + Technology</Title>
+            <SortTitle>Conversation : Science + Technology The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977982</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464264.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 18, 2021</AlphaDate>
+         <StartDate>2021-05-18</StartDate>
+         <EndDate>2021-05-18</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977982_May182021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

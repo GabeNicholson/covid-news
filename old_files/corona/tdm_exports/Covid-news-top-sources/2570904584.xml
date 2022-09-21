@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2570904584</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>World News: Merkel Playbook Lifts Center-Left --- Germany's SPD leads chancellor's candidates before vote by shifting to a centrist platform</Title>
+      </TitleAtt>
+      <NumericDate>2021-09-10</NumericDate>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2021-09-10</EndDate>
+      <AlphaDate>Sep 10, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.8</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7510</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7510_Sep102021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>DWJNWSJ20210910wjco20210910000100</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1510</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Pancevski, Bojan</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Bojan</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Bojan Pancevski</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Pancevski</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Bojan Pancevski</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="Editorial">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Social Democratic Party-Germany</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813940</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Conservatism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Polls &amp; surveys</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Elections</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Germany</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Merkel, Angela</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="598" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Angela Merkel's conservatives could lose the Sept. 26 election to a resurgent center-left energized by a new approach: imitating Angela Merkel.&lt;/p&gt;
+&lt;p&gt;Less than three weeks before the vote, polls show the center-left Social Democratic Party ahead of Ms. Merkel's conservative bloc for the first time in years.&lt;/p&gt;
+
+&lt;p&gt;The rebound coincides with a change in strategy. After years of tilting ever further to the left -- and seeing its ratings drop -- the party, known by its German initials SPD, is running a centrist campaign, the very strategy Ms. Merkel deployed to win election after election.&lt;/p&gt;
+&lt;p&gt;The party now enjoys a comfortable poll lead at 25%, while the conservatives have slumped to a historic low of 19%, followed by the environmentalist Greens, another center-left party that is polling at 17%, and the pro-market Free Democrats at 13%, according to a Sept. 7 Forsa poll.&lt;/p&gt;
+&lt;p&gt;The chancellor herself, who rules in a coalition with the SPD, remains popular, with approval ratings around 80%, but she isn't running.&lt;/p&gt;
+&lt;p&gt;Olaf Scholz, the SPD candidate, is now the most likely contender to become chancellor. A moderate close to the more business-friendly wing of his party, Mr. Scholz has run a statesmanlike campaign, using his current role as finance minister to project competence and authority.&lt;/p&gt;
+&lt;p&gt;Mr. Scholz's campaign message has emphasized social justice and climate-friendly policies while promising continuity in supporting a strong industry and keeping Germany anchored in the West. He has done so while maintaining a truce between centrists and left-wingers in the party after years of internecine war.&lt;/p&gt;
+&lt;p&gt;Mr. Scholz has even emulated Ms. Merkel's body language: In a recent newspaper interview, he was pictured sporting Ms. Merkel's trademark diamond hand gesture -- both hands resting on the stomach linked by index fingers and thumbs. One Scholz campaign poster proclaims: "He can do Chancellor," using the female form for chancellor.&lt;/p&gt;
+&lt;p&gt;This has enabled Mr. Scholz to project a message of stability, signaling to risk-averse voters that his chancellorship wouldn't disrupt but extend the Merkel era, said Thorsten Benner, director of the Berlin-based think tank Global Public Policy Institute.&lt;/p&gt;
+&lt;p&gt;"Scholz has made a very effective claim to Merkel's legacy, and this is by no means counterintuitive, because Merkel herself adopted many social-democratic policies during their coalition, such as minimum wage and same-sex marriage," said Mr. Benner, an expert on the SPD.&lt;/p&gt;
+&lt;p&gt;When governing with the SPD for 12 out of her 16 years in office, Ms. Merkel won most of the political credit from her partner's political initiatives, he said. Now, with the popular chancellor departing, Mr. Scholz had managed to turn the tables.&lt;/p&gt;
+&lt;p&gt;Mr. Scholz has focused his campaign on incremental improvements to policies introduced during Ms. Merkel's reign, promising a rise in the minimum wage, stable pensions and more affordable housing.&lt;/p&gt;
+&lt;p&gt;The SPD's campaign team has also sought to boost the candidate's appeal to conservative voters. Party officials have depicted Mr. Scholz as driven by Protestant values, though he has left his Protestant church and isn't practicing.&lt;/p&gt;
+&lt;p&gt;Ms. Merkel herself has pushed back against the appropriation attempt. In a recent speech, she said comparisons between herself and Mr. Scholz were a homage to conservative policy achievements, but warned a Scholz chancellorship wouldn't offer continuity.&lt;/p&gt;
+&lt;p&gt;Mr. Scholz, she said, might form a left-of-center coalition with the Greens and the radical Left Party, taking the country into a new and dangerous direction.&lt;/p&gt;
+&lt;p&gt;Like his model, Mr. Scholz has limited charisma and has tried to project competence and dependability. "He looks boring, but reliable and experienced -- and these are qualities appreciated by German voters," Mr. Benner said.&lt;/p&gt;
+
+&lt;p&gt;Credit: By Bojan Pancevski &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal</Title>
+         <MpubId>10482</MpubId>
+         <SortTitle>Wall Street Journal</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Eastern edition</Edition>
+         <JournalCode>WSJ</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19590101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7510</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>00999660</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60541.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics--Banking And Finance</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal</Title>
+            <SortTitle>Wall Street Journal</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Eastern edition</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7510</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>00999660</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60541.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Wall Street Journal</Title>
+               <SortTitle>Wall Street Journal The</SortTitle>
+               <Qualifier>New York</Qualifier>
+               <EndIssueDate>19590213</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>25749552</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>60541.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 2, 1984</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19840102</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Sep 10, 2021</AlphaDate>
+         <StartDate>2021-09-10</StartDate>
+         <EndDate>2021-09-10</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7510_Sep102021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

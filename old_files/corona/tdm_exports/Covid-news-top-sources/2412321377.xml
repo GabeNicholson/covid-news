@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2412321377</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>European Soccer's Experimental Television Marathon; As leagues in Spain and England return to empty stadiums, broadcasters wonder how much technology is too much technology</Title>
+      </TitleAtt>
+      <NumericDate>2020-06-12</NumericDate>
+      <StartDate>2020-06-12</StartDate>
+      <EndDate>2020-06-12</EndDate>
+      <AlphaDate>Jun 12, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2020 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>Life</DocSection>
+         <ColumnHeader>Soccer</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Jun122020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO2020061205D1736F12D9D8A2C716DF1222F674D9</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1370</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Robinson, Joshua</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Joshua</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Joshua Robinson</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Robinson</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Joshua Robinson</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>71121</ClassCode>
+            <ClassExpansion>Spectator Sports</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Noise</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Professional soccer</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Soccer</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>England</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Spain</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United Kingdom--UK</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="658" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;The stands teemed with color and the air was full of noise when Spanish soccer resumed in Seville on Thursday night—at least if you were watching on television.&lt;/p&gt;
+&lt;p&gt;From piped-in crowd noise to digitally-rendered supporters in their seats, the first La Liga broadcast in three months, between Sevilla and Real Betis, came with as many ornaments as you can tack onto a silent game in an empty stadium. There was even a simulated pre-match display from the stands.&lt;/p&gt;
+
+&lt;p&gt;They had watched German soccer 
+come back last month
+and were determined to go one better. What La Liga got was a cross between real soccer and a glitchy videogame.&lt;/p&gt;
+&lt;p&gt;"It's very important for us to offer something that is as similar as possible to the football fans are used to, with full stands," La Liga president Javier Tebas said.&lt;/p&gt;
+&lt;p&gt;This is a week of great experimentation for the two most popular soccer leagues in the world. Hot on the heels of Spain, the English Premier League returns on June 17 with its own brand of technical jury-rigging.&lt;/p&gt;
+&lt;p&gt;From an audio standpoint, La Liga succeeded. Using old recordings of crowds from that same stadium, it covered the unsettling silence of 22 men kicking a ball surrounded by 44,000 vacant seats. The familiar noise did its job by being easy to ignore.&lt;/p&gt;
+&lt;p&gt;The visuals were harder to tune out. As the players charged around the field in their real-life high-definition, the fans cheering them on—and designed by EA Sports—existed only as digital blotches of color superimposed on the stands. Anyone who played soccer videogames in the 1990s would have felt immediate nostalgia. La Liga didn't say if it plans to roll out the digital hooligans for all of its remaining games.&lt;/p&gt;
+&lt;p&gt;The Premier League is taking a more low-tech approach. Clubs are simply covering the lower tiers of their stands with customized tarps. A few could supplement that by beaming virtual watch parties to their in-stadium big screens.&lt;/p&gt;
+&lt;p&gt;For broadcast purposes, England will follow Germany and Spain by offering matches with crowd noise—the technical term is Enhanced Atmospheric Audio.&lt;/p&gt;
+&lt;p&gt;Many sticklers had expected to hate it. Anything artificial, they felt, detracted from the high-purity talent on the field. But after watching Bundesliga matches both with and without crowd noise, they quickly changed their minds. Soccer that sounded like it was played in a library was just too weird. That's why NBC's lead Premier League announcer, Arlo White, will go as far as having the crowd noise piped into his headset when he resumes calling matches from inside English stadiums next week.&lt;/p&gt;
+&lt;p&gt;"You don't notice the echoes and you don't notice that it sounds like a practice match," he said, though he added he'll have to alter his style and timing a little during his play-by-play. "It will be odd. You're used to raising your voice or lowering it to the rhythms and sounds of the crowd."&lt;/p&gt;
+&lt;p&gt;But for both leagues—and their broadcasters—those are ultimately picayune details. The most important thing for both sides was to have matches to show at all. If they had failed, La Liga and the Premier League would have been on the hook for refunds to rights holders of up to $1 billion.&lt;/p&gt;
+&lt;p&gt;Instead, they can now go about flooding the sports landscape while other major leagues are still dormant. La Liga has spread out its remaining games over 32 consecutive days. The Premier League, meanwhile, has 35 broadcast dates over 40 days between next week and the end of July. And in the U.S., the market both leagues are most desperate to impress, they will have almost no competition for airtime.&lt;/p&gt;
+&lt;p&gt;NBC's English soccer producer Pierre Moossa expects to reach plenty of new fans. Still working from home, he figures they're no longer bound by inconvenient details, like whether or not it's Saturday morning.&lt;/p&gt;
+&lt;p&gt;"I don't think weekends and weekdays are different anymore," he said.&lt;/p&gt;
+&lt;p&gt;Write to Joshua Robinson at 
+joshua.robinson@wsj.com
+&lt;/p&gt;
+&lt;p&gt;Credit: By Joshua Robinson &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jun 12, 2020</AlphaDate>
+         <StartDate>2020-06-12</StartDate>
+         <EndDate>2020-06-12</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Jun122020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487141518</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Georgia's election disaster shows how bad voting in 2020 can be</Title>
+      </TitleAtt>
+      <NumericDate>2020-07-21</NumericDate>
+      <StartDate>2020-07-21</StartDate>
+      <EndDate>2020-07-21</EndDate>
+      <AlphaDate>Jul 21, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20200721_141678</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20200721_141678</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jul212020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Jones, Adrienne</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Adrienne</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Adrienne Jones</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Jones</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Adrienne Jones</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/141678/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Voting Rights Act</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Electoral reform</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Election results</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Voting machines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Democracy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Georgia</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="102">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[Get the best of The Conversation, every weekend.Sign up for our weekly newsletter.] Some polling places, especially in majority Black areas, had major delays because new voting machines weren't working correctly.
+
+A pattern of vote suppression Early in the day, Brad Raffensperger, Georgia's Republican secretary of state, blamed the mayhem on the counties, which administer the election, for not properly preparing for the state's new electronic voting system.
+
+In their 5-4 Shelby County v. Holder decision, the justices removed the federal government's power to evaluate, preapprove or block discriminatory voting laws in states like Georgia that have long histories of voter discrimination.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1117" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;As the nation mourns civil rights icon John Lewis, a congressman and lifelong advocate of voting rights, the mayhem in his home state's most recent election serves as another egregious example of how a citizen's most sacred act in a democracy - voting - was undermined and even denied after a federal law protecting voters' rights was abandoned by a 2013 Supreme Court ruling.&lt;/p&gt;
+&lt;p&gt;Georgia's presidential primary election on June 9 was a nightmare mix of inefficiency and discrimination that shows how difficult it is for many Americans - particularly Black Americans - to participate in their democracy.&lt;/p&gt;
+&lt;p&gt;Hundreds of voters, many in majority Black areas, waited four, five and even seven hours to cast their ballots. Some even faced down police seeking to send them home without having voted.&lt;/p&gt;
+&lt;p&gt;I am a scholar who studies voting rights and voter suppression. When I spoke to longtime Georgia voters throughout the day, each one of them remarked that they "had never seen an election like this in the state of Georgia."&lt;/p&gt;
+&lt;p&gt;The state's primary was an example of what should not happen in a democratic country. It is an experience that has implications beyond Georgia, and that carries warnings for problems with the November presidential election and the legitimacy of the results.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Not enough places, ballots or help &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Georgia's primary election was postponed twice from its original March 24 date, because of fears of spreading the coronavirus pandemic through in-person voting.&lt;/p&gt;
+&lt;p&gt;A million and a half Georgians applied to get absentee ballots that would have let them vote by mail. But an unknown number of them never received their ballots and were forced to vote in person to ensure that their votes would be counted. Ultimately only 943,000 ballots were cast by mail.&lt;/p&gt;
+&lt;p&gt;Georgians didn't always know where to go to vote: 10% of polling places - including 80 in the state's most populous county alone - were closed because of the COVID-19 pandemic. The state-run website that let voters look up where they should vote was down for several hours in the morning and worked only intermittently throughout the day. When the site was up and running, some voters still could not find their correct polling locations and visited precincts where poll workers told them they couldn't vote.&lt;/p&gt;
+&lt;p&gt;Experienced poll workers were ill or feared getting sick, so the state had to recruit, train and dispatch new ones right before the election. Many poll workers were insufficiently trained and uninformed, especially about when voters were entitled to absentee, emergency and provisional ballots.&lt;/p&gt;
+&lt;p&gt;There weren't enough polling places, either. Several sites that normally serve 2,000 to 3,000 voters had to accommodate as many as 10,000 because of the consolidation.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get the best of The Conversation, every weekend.&lt;/i&gt;Sign up for our weekly newsletter.]&lt;/p&gt;
+&lt;p&gt;Some polling places, especially in majority Black areas, had major delays because new voting machines weren't working correctly. Many polling places across the state opened two and three hours late. The new systems, including printers, scanners and tablets, had trouble throughout the day, causing additional delays.&lt;/p&gt;
+&lt;p&gt;Precincts ran out of provisional ballots and envelopes and printer paper. County governments, the NAACP and other civil-rights groups appealed to county courts to get orders extending polling hours beyond the usual 7 p.m. to make up for the delays. One precinct didn't close until 10:10 p.m.&lt;/p&gt;
+&lt;p&gt;As if that weren't enough, it rained on voters in long lines with no shelter.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; A pattern of vote suppression &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Early in the day, Brad Raffensperger, Georgia's Republican secretary of state, blamed the mayhem on the counties, which administer the election, for not properly preparing for the state's new electronic voting system. County officials responded that the state was the problem.&lt;/p&gt;
+&lt;p&gt;The state's Republican leadership did nothing to prevent this democratic disaster from happening, even though it had happened before, just two years ago.&lt;/p&gt;
+&lt;p&gt;In the 2018 election, Republican Brian Kemp, then Georgia's secretary of state, was running for governor. As the state's chief election officer, since 2017 he prepared for the election by using a variety of voter-suppression tactics that could influence the results.&lt;/p&gt;
+&lt;p&gt;In 2017 Kemp purged more than half a million voters from the rolls under the state's rule that voters who have not voted in two or more previous elections could be required to re-register before voting again. And he applied another rule that disqualified voters whose names in election rolls did not exactly match their identification documents.&lt;/p&gt;
+&lt;p&gt;In addition, for the 2018 election, Georgia had fewer polling places open than usual, reduced the availability of early voting and required proof of citizenship before a person could register to vote.&lt;/p&gt;
+&lt;p&gt;Kemp's efforts paid off. He won the election against Democrat Stacey Abrams by a nose in the closest governor's race since 1966.&lt;/p&gt;
+&lt;p&gt;That narrow victory may have reinforced Georgia Republicans' fear, shared by President Donald Trump, that if it's easier for people to vote, the GOP will lose more elections nationwide.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The end of federal supervision &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;All these manipulations and changes are legal. That's because in 2013, the U.S. Supreme Court gutted the Voting Rights Act, removing the provision that protected people's right to vote free from discrimination.&lt;/p&gt;
+&lt;p&gt;In their 5-4 Shelby County v. Holder decision, the justices removed the federal government's power to evaluate, preapprove or block discriminatory voting laws in states like Georgia that have long histories of voter discrimination. That means there is no more federal oversight to ensure that qualified voters can gain access to the polls, and no recourse beyond state governments for voters who fear they have been unfairly denied their rights to vote.&lt;/p&gt;
+&lt;p&gt;In Georgia and other Republican-led states, officials have used the freedom provided by the Shelby decision to take official actions that make it harder for Americans to vote, and more likely that future elections will look like Georgia's did on June 9.&lt;/p&gt;
+&lt;p&gt;Despite all those barriers, though, Democratic voters and Black Georgians turned out in record numbers last month. Enough of them waited, and cast their ballots, to surpass the 1.06 million votes cast in the 2008 primary when Barack Obama beat Hillary Clinton.&lt;/p&gt;
+&lt;p&gt;Whatever the reason for such large numbers overcoming such significant obstacles, it is thanks to the determination of countless individual voters - and not state or county election officials - that Georgians were able to vote in meaningful numbers.&lt;/p&gt;
+&lt;p&gt;With the Voting Rights Act gutted, other states may feel freer to suppress their citizens' voting rights the way Georgia did. Voters across the nation may face similar circumstances in their communities - but there is still time for them to demand better from their officials.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Adrienne Jones has served as a volunteer for the Georgia Democratic Party.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Adrienne Jones, Assistant Professor of Political Science, Morehouse College&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 21, 2020</AlphaDate>
+         <StartDate>2020-07-21</StartDate>
+         <EndDate>2020-07-21</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jul212020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

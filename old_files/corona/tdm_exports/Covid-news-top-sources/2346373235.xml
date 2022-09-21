@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2346373235</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Africa Debt Boom May Store Up Trouble for the Future; Cheap borrowing has fueled bond issuance, but repayment deadlines in coming years are raising concerns</Title>
+      </TitleAtt>
+      <NumericDate>2020-01-28</NumericDate>
+      <StartDate>2020-01-28</StartDate>
+      <EndDate>2020-01-28</EndDate>
+      <AlphaDate>Jan 28, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2020 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>Markets</DocSection>
+         <ColumnHeader>Credit Markets</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Jan282020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO20200128F0116ED04787A4CDA94FD1F48F71463A</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1490</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Isaac, Anna</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Anna</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Anna Isaac</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Isaac</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Anna Isaac</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Neuberger Berman</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>523120</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>523930</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Institute of International Finance Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813910</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>International finance</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Debt</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Mozambique</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>South Africa</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Ivory Coast</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Kenya</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Zambia</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Nigeria</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Angola</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Africa</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>China</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Gabon</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>East Africa</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="658" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;African countries have loaded up on dollar debt, leading some to worry that a tightening of global financial conditions could trigger borrowing problems in coming years.&lt;/p&gt;
+&lt;p&gt;In the decade through 2019, 
+debt levels in sub-Saharan countries
+excluding South Africa have risen 23 percentage points to around 50% of gross domestic product, according to the Institute of International Finance, a banking industry research group. Much of that issuance has occurred in dollar- or euro-denominated bonds issued in the past three years.&lt;/p&gt;
+
+&lt;p&gt;Driving the issuance: copious demand from international investors for higher-yielding debt, combined with a slide in local currencies and commodity prices that has crimped government revenues.&lt;/p&gt;
+&lt;p&gt;The oil-rich West African nation of Gabon is looking to be the latest issuer of an international bond from the region. The country is canvassing investors this week to gauge interest in a $1 billion of bonds, according to a person familiar with the sale.&lt;/p&gt;
+&lt;p&gt;"What worries me is whether or not we've put these countries into a new kind of debt problem," said Elina Ribakova, deputy chief economist at the IIF.&lt;/p&gt;
+&lt;p&gt;She noted that repayments of African sovereign bonds will start to cluster in 2024. The concern is pressure will build on already heavily indebted countries, particularly if foreign investors turn sour on the region or retreat to home markets in a broad market downturn.&lt;/p&gt;
+&lt;p&gt;Countries such as Zambia are showing signs of starting to struggle, she said. For instance, Zambia's dollar bonds due in 2027, yield more than 17%, up from around 9% when issued, according to FactSet. The country has 
+entered into talks with China
+about how to renegotiate the terms of bilateral debts.&lt;/p&gt;
+&lt;p&gt;"They need supportive, calm climates in financial markets because most investors don't know these countries," said Ms. Ribakova.&lt;/p&gt;
+&lt;p&gt;As bond yields in developed economies have touched record lows, investor demand for higher-yield assets has risen, helping to support demand for the flood of bond issuance by countries such as Nigeria, Ivory Coast, and Angola, especially in the past few years.&lt;/p&gt;
+&lt;p&gt;"Overall, high growth and higher yields still appeal," said Kaan Nazli, portfolio manager for emerging markets debt at Neuberger Berman.&lt;/p&gt;
+&lt;p&gt;Mr. Nazli said he had favored Ivory Coast in recent years due to its sound economic management, but was concerned about levels of public debt in Angola and 
+Mozambique
+.&lt;/p&gt;
+&lt;p&gt;Sub-Saharan African bond repayments are set to peak in 2024 and 2025, at $6.6 billion and $7.4 billion, respectively, according to the IIF.&lt;/p&gt;
+&lt;p&gt;Meanwhile, among the IIF's sixteen-country sample, collective interest costs have climbed from $1.6 billion five years ago to $4.3 billion in 2020.&lt;/p&gt;
+&lt;p&gt;Borrowing costs have been mostly steady. An S&amp;amp;P index of dollar-denominated debt issued by African nations shows an average yield of around 5.8%, similar to three years ago. The index's spread over Treasurys, a measure of the risk markets assign these bonds compared with 
+safe U.S. government debt
+, is around 4 percentage points, about 0.4 percentage points higher than before the bond issuance boom started in 2017.&lt;/p&gt;
+&lt;p&gt;SHARE YOUR THOUGHTS&lt;/p&gt;
+&lt;p&gt;Do you think sub-Saharan Africa can hold foreign investors' attention? Why or why not? Join the conversation below.&lt;/p&gt;
+&lt;p&gt;However, because the debts are denominated in foreign currencies, the bonds expose the countries to foreign exchange risks. High fiscal and current-account deficits mean that countries will need to attract more investment from overseas or risk sharp depreciations in their currencies, adding to the cost of debt repayments.&lt;/p&gt;
+&lt;p&gt;Investors should be checking how the money is being used, said Jacques Nel, chief economist for South and East Africa at South Africa-based NKC African Economics.&lt;/p&gt;
+&lt;p&gt;"The most obvious way to see if this money has been spent well, is if the infrastructure is working. Are we seeing rail, roads, being completed on time?" he said, adding that the train line from Kenya's capital Nairobi to the port of Mombasa was an example of a project that has faced revenue generation problems.&lt;/p&gt;
+&lt;p&gt;Write to Anna Isaac at 
+anna.isaac@wsj.com
+&lt;/p&gt;
+&lt;p&gt;Credit: By Anna Isaac &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 28, 2020</AlphaDate>
+         <StartDate>2020-01-28</StartDate>
+         <EndDate>2020-01-28</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Jan282020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

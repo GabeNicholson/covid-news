@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2471980919</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>U.S. News: FBI Says Iran Behind Site Urging U.S. Unrest</Title>
+      </TitleAtt>
+      <NumericDate>2020-12-23</NumericDate>
+      <StartDate>2020-12-23</StartDate>
+      <EndDate>2020-12-23</EndDate>
+      <AlphaDate>Dec 23, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2020 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.4</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7510</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7510_Dec232020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>DWJNWSJ20201223wjco20201223000082</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1830</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Volz, Dustin</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Dustin</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Dustin Volz</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Volz</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Dustin Volz</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Federal Bureau of Investigation--FBI</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>922120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>92111</ClassCode>
+            <ClassExpansion>Executive Offices</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Presidential elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fraud</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Iran</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="Editorial" TermVocab="PERS">
+            <Personal>Wray, Christopher A</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="336" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;WASHINGTON -- The Federal Bureau of Investigation has determined that Iran is responsible for an online attempt this month to incite violence against FBI Director Chris Wray and federal and state officials who pushed back on election-fraud claims advanced by President Trump and some of his supporters, according to people familiar with the matter.&lt;/p&gt;
+&lt;p&gt;A website called "Enemies of the People" and some associated social-media accounts surfaced about two weeks ago that alleged Mr. Wray and about a dozen officials had engaged in treason because they "aided and abetted the fraudulent election against" Mr. Trump.&lt;/p&gt;
+
+&lt;p&gt;The website, which is no longer online, featured crosshairs over photos of people it said should be targeted for reprisal because they defended the election result declaring President-elect Joe Biden the winner as legitimate. It also included photos of homes and street addresses where the individuals lived as well as personal email addresses.&lt;/p&gt;
+&lt;p&gt;The FBI declined to comment. The bureau was in the process of briefing targeted individuals and planned an announcement with the Cybersecurity and Infrastructure Security Agency on Wednesday, the people said. The Washington Post earlier reported that the FBI had concluded Iran was responsible for the operation.&lt;/p&gt;
+&lt;p&gt;A spokesman for the Iranian mission to the United Nations didn't respond to a request for comment.&lt;/p&gt;
+&lt;p&gt;There is no evidence of widespread fraud in the 2020 election, and various federal and state organizations have said the contest was the most secure in U.S. history.&lt;/p&gt;
+&lt;p&gt;The attempt to promote potential violence in the U.S. around the election result follows an effort to interfere in the presidential contest by Iran, U.S. security officials say.&lt;/p&gt;
+&lt;p&gt;The administration in October announced that Iran was behind an election-interference operation that sent threatening emails to registered Democrats in several states. Those emails sought to incite social unrest by appearing to be sent by the far-right group the Proud Boys and by telling recipients to vote for Mr. Trump "or we will come after you."&lt;/p&gt;
+&lt;p&gt;---&lt;/p&gt;
+&lt;p&gt;Alexa Corse contributed to this article.&lt;/p&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Credit: By Dustin Volz &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal</Title>
+         <MpubId>10482</MpubId>
+         <SortTitle>Wall Street Journal</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Eastern edition</Edition>
+         <JournalCode>WSJ</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19590101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7510</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>00999660</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60541.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics--Banking And Finance</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal</Title>
+            <SortTitle>Wall Street Journal</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Eastern edition</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7510</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>00999660</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60541.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Wall Street Journal</Title>
+               <SortTitle>Wall Street Journal The</SortTitle>
+               <Qualifier>New York</Qualifier>
+               <EndIssueDate>19590213</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>25749552</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>60541.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 2, 1984</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19840102</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 23, 2020</AlphaDate>
+         <StartDate>2020-12-23</StartDate>
+         <EndDate>2020-12-23</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7510_Dec232020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

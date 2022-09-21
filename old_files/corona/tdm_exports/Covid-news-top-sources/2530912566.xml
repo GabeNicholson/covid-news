@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2530912566</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Engel set for rehab stint</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>Outfielder will start assignment Tuesday at Triple-A Charlotte</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2021-05-24</NumericDate>
+      <StartDate>2021-05-24</StartDate>
+      <EndDate>2021-05-24</EndDate>
+      <AlphaDate>May 24, 2021</AlphaDate>
+      <RawAlphaDate>20210524</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC May 24, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>3</StartPage>
+         <DocSection>Sports</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_May242021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2021052420210523483229733</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2021052420210523483229733</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1370</LexileScore>
+      <DateLine>NEW YORK</DateLine>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Pope, LaMond</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>LaMond</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>LaMond Pope</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Pope</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>LaMond Pope</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Baseball</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Engel, Adam</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="582" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The White Sox could soon receive more outfield help as Adam Engel prepares for a rehab assignment.  &lt;/p&gt;&lt;p&gt;Engel's next step in his return begins Tuesday with Triple-A Charlotte.&lt;/p&gt;&lt;p&gt;"I'm just excited to be playing some meaningful baseball here, can't wait to get back with the team," Engel said during a conference call before Sunday's game against the New York Yankees.&lt;/p&gt;&lt;p&gt;"I wasn't envisioning my first game of the year to be in Norfolk, Virginia (against the Norfolk Tides), but that's what it is so I'm going to go out there and get ready to come back."&lt;/p&gt;&lt;p&gt;Engel suffered a strained right hamstring March 20 while making a running catch in the eighth inning of a Cactus League game against the Cleveland Indians.&lt;/p&gt;&lt;p&gt;He had a setback during the rehab.&lt;/p&gt;&lt;p&gt;"Essentially I started with a Grade 2 plus strain and then rehabbing, running, hard normal rehab finish, just tearing my muscle off the tendon there," he said. "There for a while, it was frustrating because I didn't realize I finished tearing it off. I thought I was having setbacks when in reality, it was just really early in a timeline as far as going to a Grade 3 strain.&lt;/p&gt;&lt;p&gt;"I didn't realize it was a Grade 3 strain until a little bit later when we were struggling to get past a certain point of the rehab. Once I got the MRI and saw it was a Grade 3, it made a little more sense. It was a lot of question marks and frustration going on once I got to that 80% mark. My running, I couldn't get past that hump. Once we got the MRI, it made a little more sense why that was."&lt;/p&gt;&lt;p&gt;Sox manager Tony La Russa said Engel's impending return would be a "boost in every direction."&lt;/p&gt;&lt;p&gt;"No. 1, he's a really good player, going to help us win offensively and defensively," La Russa said. "He's also one of the strong chemistry guys, family guys on this team. There's a lot of games that we've played where he's been out rehabbing, and when he's around, like he has been, it's better. It's going to be a big day the day he comes back. It's real clear the priority: The day he gets back, we need to keep him back."&lt;/p&gt;&lt;p&gt;Engel will play primarily center field. The Sox have been without starter Luis Robert since he suffered a complete tear of his right hip flexor May 2 against the Indians. The team announced the next day that Robert would not participate in baseball activities for 12 to 16 weeks.&lt;/p&gt;&lt;p&gt;"The first priority is, when (Engel) comes back, what's his regimen for activity?" La Russa said. "Watch him close. I know, no matter what he does, starting (Tuesday), it won't be spring training. So you're going to have to be careful, lean on him about being honest about how he feels. I'm sure he doesn't want to get hurt again. How often he plays, we're going to watch it carefully day to day."&lt;/p&gt;&lt;p&gt;Engel was glad he got to do some traveling with the team while rehabbing.&lt;/p&gt;&lt;p&gt;"Just being with this club, it makes things a lot easier to bear," Engel said. "And obviously, we're winning baseball games, it doesn't feel like I'm doing the team a disservice by not being healthy. The team is playing really good baseball and I can't wait to get back to these guys."&lt;/p&gt;&lt;p&gt;CAPTION: Photo: Adam Engel walks between practice fields during spring training at Camelback Ranch in Glendale, Ariz. ARMANDO L. SANCHEZ/CHICAGO TRIBUNE&lt;/p&gt;&lt;p&gt;CREDIT: By LaMond Pope, Chicago Tribune&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 24, 2021</AlphaDate>
+         <RawDate>20210524</RawDate>
+         <StartDate>2021-05-24</StartDate>
+         <EndDate>2021-05-24</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_May242021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

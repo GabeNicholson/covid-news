@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2540599168</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>8 ways to manage body image anxiety after lockdown</Title>
+      </TitleAtt>
+      <NumericDate>2021-06-14</NumericDate>
+      <StartDate>2021-06-14</StartDate>
+      <EndDate>2021-06-14</EndDate>
+      <AlphaDate>Jun 14, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20210614_162224</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20210614_162224</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Jun142021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Tylka, Tracy</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Tracy</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Tracy Tylka</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Tylka</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Tracy Tylka</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/162224/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hunger</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mindfulness</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Self image</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Anxieties</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Body image</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Activities of daily living</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="80">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Pandemic stress has led many people to turn to other coping mechanisms, with some harmful to both physical and mental health.
+
+Situations that provoke negative body image – like not fitting into formerly comfortable clothes, noticing age-related changes in appearance, seeing an unflattering picture of yourself and comparing your body to a social media influencer – are called body image threats.
+
+Engage with nature Interacting with nature is associated with a variety of health benefits, including higher positive body image.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1129" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Being able to socialize again may bring enthusiasm and a sense of normalcy – but it may also increase anxiety over how your body might have changed.&lt;/p&gt;
+&lt;p&gt;I am a psychologist who has studied body image for over 20 years, and I’ve seen how the COVID-19 pandemic could affect health and well-being in numerous ways, including body image. Gyms were closed. Self-care rituals may have fallen by the wayside as stress and hardships like homeschooling and strained finances piled up. The pandemic also took away a major way people cope: Social support through physical contact.&lt;/p&gt;
+&lt;p&gt;Pandemic stress has led many people to turn to other coping mechanisms, with some harmful to both physical and mental health. In one study of 5,469 adults in Australia, 35% reported increased binge eating, or eating large amounts of food in a short amount of time, due to pandemic life. In another study of 365 adults in Italy, 25.7% reported increased emotional eating over the course of lockdown. And in a survey of 3,000 adults in the U.S., 61% experienced undesired weight changes since the start of the pandemic. It’s no wonder that people may feel anxiety over what others think about their changed appearance.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What is body image?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Body image is a person’s “inside view” – or feelings, perceptions, thoughts and beliefs – of their body. Body image can be positive, neutral or negative, and it can fluctuate. Situations that provoke negative body image – like not fitting into formerly comfortable clothes, noticing age-related changes in appearance, seeing an unflattering picture of yourself and comparing your body to a social media influencer – are called body image threats.&lt;/p&gt;
+&lt;p&gt;Body image threats have been part of the COVID-19 experience for many people. The pandemic has also seen an increase in struggles with eating too much or too little, preoccupation with food, and anxiety about weight and body shape.&lt;/p&gt;
+&lt;p&gt;Fortunately, there are healthy ways to manage body anxiety and cultivate a positive body image while reemerging from the pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. Focus on what you appreciate about your body&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Rather than focusing on what has changed or what you don’t like about your body, focus on what your body does for you. This is different for everyone. For example, my arms allow me to hug my dogs, my legs allow me to take them for walks, my stomach allows me to digest food so I have energy and my brain helped me write this article. Your body is much more than its appearance. Appreciating your body and what it does for you is central to cultivating positive body image.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. Engage with others who accept and appreciate all bodies&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Be selective with who you want to spend time with after the pandemic. Start with people who are “body accepting,” meaning they don’t talk badly about your body, their body or anyone else’s body – they may not even focus on appearance at all. Positive body image increases when people engage with others who are body accepting. You can also practice being a person who shows body acceptance to others and pay it forward.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. Practice self-compassion&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;People’s bodies have helped them survive the trauma of a global pandemic. It’s important to be kind to yourself and your body if your appearance has changed. Self-compassion is being as kind to yourself as you would to a loved one going through a hard situation. Many studies have found that self-compassion is linked to higher positive body image, and self-judgment is linked to a higher negative body image. Try to be mindful, or aware, of your experiences without judging them, and understand that others are in these difficult experiences with you.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. Engage in mindful movement&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;If you are able, move your body in ways that bring you joy and rejuvenation and help you connect with and listen to your body. Bodies and abilities are different, and what is mindful movement for someone else may not be for you. Some activities, such as yoga, have been shown to promote positive body image as long as they don’t focus on appearance. Move in ways that help you focus on how much you enjoy moving rather than how you look while moving.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. Practice self-care&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ask your body what it needs every day. Bodies need a regular supply of fuel, hydration, relaxation, stimulation and sleep. Self-care can be hard to fit into a schedule, but it is very important to plan actions and activities that restore you to your best self.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;6. Engage with nature&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Interacting with nature is associated with a variety of health benefits, including higher positive body image. Activities that engage with nature, like hiking, may help you focus less on your appearance and more on how your body functions. Experiencing the beauty of nature can also help create opportunities for self-care, such as through rejuvenation and mindful movement.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;7. Refrain from body comparison&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;It’s common for people to compare themselves to others. However, when they frequently compare their appearance to others perceived as more attractive, their body image becomes more negative. Body comparison can occur in many settings, and not just through social media – it can also happen in commonplace settings such as the beach, supermarket and school. When you find yourself comparing your body to others and start to feel negatively about your body, try one of the strategies above to restore a positive body image.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;8. Avoid the diet hype&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Studies show that dieting does not work: It is not associated with long-term weight loss and often decreases overall well-being. Instead, focus on fueling your body when you are hungry with foods that provide your body with lasting energy. Eating intuitively – using your natural hunger, appetite and satiety cues to determine when, what and how much to eat – is linked to health and well-being.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Reemerging from the pandemic with confidence&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;There are many strategies to help build a positive body image, and resources are available to help you find one that works best for you. For those struggling with an eating disorder or severe negative body image, professional help is the best path forward.&lt;/p&gt;
+&lt;p&gt;Positive body image isn’t just about feeling good about your appearance – it’s also accepting and loving your body regardless of how it looks, and engaging in self-care to attend to its needs. Practice these strategies regularly to promote and maintain positive body image as you safely and confidently reenter your social world.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Like what you’ve read? Want more?&lt;/i&gt; Sign up for The Conversation’s daily newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Tracy Tylka does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Tracy Tylka, Professor of Psychology, The Ohio State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jun 14, 2021</AlphaDate>
+         <StartDate>2021-06-14</StartDate>
+         <EndDate>2021-06-14</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Jun142021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

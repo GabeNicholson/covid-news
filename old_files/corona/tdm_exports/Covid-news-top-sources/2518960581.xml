@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2518960581</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>ATL Partners-Led Group Invests More Than $300 Million in Arrive Logistics; The group became the largest investor in the freight-brokerage company, while early backer Lead Edge Capital sold a portion of its stake</Title>
+      </TitleAtt>
+      <NumericDate>2021-04-28</NumericDate>
+      <StartDate>2021-04-28</StartDate>
+      <EndDate>2021-04-28</EndDate>
+      <AlphaDate>Apr 28, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>WSJ Pro</DocSection>
+         <ColumnHeader>Pro PE Deals</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Apr282021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO202104281B55FB006B0BCF8201F1A3730D74B5D0</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1680</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Garcia, Luis</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Luis</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Luis Garcia</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Garcia</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Luis Garcia</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="Editorial">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>ATL Partners</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>523920</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Investments</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Logistics</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="450" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;ATL Partners led a group backing a $300 million-plus investment in Arrive Logistics, giving the group the largest stake in the freight-brokerage company.&lt;/p&gt;
+&lt;p&gt;Boston-based hedge-fund manager Baupost Group, Canadian pension fund British Columbia Investment Management Corp. and Singapore sovereign wealth investor Temasek Holdings also were part of the investor group, according to a news release.&lt;/p&gt;
+
+&lt;p&gt;Lead Edge Capital, a New York-based growth stage-investment firm that initially backed Arrive in 2018, sold a portion of its stake in the Austin, Texas-based company, said Frank Nash, ATL's founder and managing member.&lt;/p&gt;
+&lt;p&gt;Mr. Nash said that his firm was drawn to the company, which helps connect shippers that have freight to haul with logistics carriers capable of transporting that freight, partly because of the rapid growth it has achieved since its formation in 2014.&lt;/p&gt;
+&lt;p&gt;The freight broker, which until now had raised a total of $50 million from Lead Edge and other investors, expects to generate more than $1.2 billion in revenue this year, the release said. That is a 48% increase from $810 million in revenue last year and more than double the $530 million recorded in 2019.&lt;/p&gt;
+&lt;p&gt;New York-based ATL also was attracted to the technology Arrive developed to connect to its roughly 5,000 shipping customers and the more than 70,000 trucking carriers with which it works. The company expects to spend $20 million on technology improvements this year and plans to invest an additional $30 million annually over the subsequent five years, said Matt Pyatt, Arrive's chief executive and co-founder.&lt;/p&gt;
+&lt;p&gt;Arrive also plans to use the latest investment to expand its service offerings, including partial truck load shipments and shipments to Canada and Mexico, Mr. Pyatt said. In addition, the company is seeking to increase its presence in the busiest shipping routes, he added.&lt;/p&gt;
+&lt;p&gt;"The ability to have the balance sheet to work with the biggest shippers in the country that drive a lot of consistent volume will be a big game changer for us," he said.&lt;/p&gt;
+&lt;p&gt;Mr. Pyatt added that Arrive benefited from increased demand for shipments in sectors such as construction, as the coronavirus pandemic prompted more people to leave big cities and settle elsewhere, he said. Arrive intermediates as many as 3,000 freight loads a day, according to Mr. Pyatt.&lt;/p&gt;
+&lt;p&gt;"Lumber is a market that's unbelievably strong right now," he said. "Retail and e-commerce are just exploding."&lt;/p&gt;
+&lt;p&gt;Founded in 2014, ATL focuses on the aerospace, transportation and logistics sectors. The firm invested in Arrive from its second fund, Aerospace Transportation &amp;amp; Logistics Fund II LP, which closed in 2019 with $575 million in capital commitments.&lt;/p&gt;
+&lt;p&gt;Write to Luis Garcia at luis.garcia@wsj.com &lt;/p&gt;
+&lt;p&gt; ATL Partners-Led Group Invests More Than $300 Million in Arrive Logistics &lt;/p&gt;
+&lt;p&gt;Credit: By Luis Garcia &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Apr 28, 2021</AlphaDate>
+         <StartDate>2021-04-28</StartDate>
+         <EndDate>2021-04-28</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Apr282021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

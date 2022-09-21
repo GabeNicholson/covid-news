@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2526437216</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Why is the FDA funded in part by the companies it regulates?</Title>
+      </TitleAtt>
+      <NumericDate>2021-05-13</NumericDate>
+      <StartDate>2021-05-13</StartDate>
+      <EndDate>2021-05-13</EndDate>
+      <AlphaDate>May 13, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20210513_160444</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20210513_160444</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_May132021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>White, C Michael</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>C</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>C Michael White</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>White</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>Michael</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>C. Michael White</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/160444/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Food &amp; Drug Administration--FDA</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>922190</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Congress</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical equipment</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Human immunodeficiency virus--HIV</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Acquired immune deficiency syndrome--AIDS</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>FDA approval</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>User fees</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="169">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Manufacturers pay these fees when submitting applications to the FDA for drug review and annual user fees based on the number of approved drugs they have on the market.
+
+Performance measures include things such as how quickly the FDA responds to meeting requests, how quickly it generates correspondence, and how long it takes from submission of a new drug application until the FDA approves or refuses to approve a drug or product.
+
+Because of the additional funding generated by user fees and performance measures that the FDA has to meet, the FDA is quicker and more willing to discuss what it wants to see in an application with manufacturers.
+
+Some potential reasons that more adverse effects are coming to light after drug approval include senior FDA officials overturning scientist recommendations, a lower burden of proof for medication approval, and more clinical data in new drug applications coming from foreign clinical trial sites that require additional time to assess in an environment where regulators are rushing to meet tight deadlines.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1243" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The Food and Drug Administration has moved from an entirely taxpayer-funded entity to one increasingly funded by user fees paid by manufacturers that are being regulated. Today, close to 45% of its budget comes from these user fees that companies pay when they apply for approval of a medical device or drug.&lt;/p&gt;
+&lt;p&gt;As a pharmacist and medication and dietary supplement safety researcher, I understand the vital role that the FDA plays in ensuring the safety of medications and medical devices.&lt;/p&gt;
+&lt;p&gt;But I, along with many others, now wonder: Was this move a clever win-win for the manufacturers and the public, or did it place patient safety second to corporate profitability? It is critical that the U.S. public understand the positive and negative ramifications so the nation can strike the right balance.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The FDA blocks thalidomide&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Americans in the early 20th century were outraged when they found out that manufacturers used poor-quality methods for producing food and medication, and used unsafe, ineffective and undisclosed addictive ingredients in medications. The resulting Food, Drug and Cosmetic Act of 1938 gave the taxpayer-funded Food and Drug Administration new authority to protect the U.S. consumer.&lt;/p&gt;
+&lt;p&gt;One of the FDA’s most shining successes occurred in the late 1950s when the agency refused to approve thalidomide. By 1960, 46 countries allowed pregnant women to use thalidomide to treat morning sickness, but the FDA refused on the grounds that the studies were insufficient to demonstrate safety. Debilitating birth defects resulting from thalidomide arose in Europe and elsewhere in 1961. President John F. Kennedy heralded the FDA in 1962 for its stance. An FDA driven by the data – and not corporate pressure – prevented a major tragedy.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How AIDS changed how the FDA is funded&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The FDA continued its work fully funded by U.S. taxpayers for many years until this model was upended by a new infectious disease. The first U.S. case of HIV-induced AIDS occurred in 1981. It was rapidly spreading, with devastating complications like blindness, dementia, severe respiratory diseases and rare cancers. Well-known sports stars and celebrities died of AIDS-related complications. AIDS activists were incensed about long delays in getting experimental HIV drugs studied and approved by the FDA.&lt;/p&gt;
+&lt;p&gt;In 1992, in response to intense pressure, Congress passed the Prescription Drug User Fee Act. It was signed into law by President George H.W. Bush.&lt;/p&gt;
+&lt;p&gt;With the act, the FDA moved from a fully taxpayer-funded entity to one funded through tax dollars and new prescription drug user fees. Manufacturers pay these fees when submitting applications to the FDA for drug review and annual user fees based on the number of approved drugs they have on the market. However, it is a complex formula with waivers, refunds and exemptions based on the category of drugs being approved and the total number of drugs in the manufacturers portfolio.&lt;/p&gt;
+&lt;p&gt;Over time, other user fees for generic, over-the-counter, biosimilar, animal and animal generic drugs, as well as for medical devices, were created. As time passed, the FDA’s funding has increasingly come from the industries that it regulates. Of the FDA’s total US$5.9 billion budget, 45% comes from user fees, but 65% of the funding for human drug regulatory activities are derived from user fees. These user fee programs must be reauthorized every five years by Congress, and the current agreement remains in effect through September 2022.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Have user fees worked?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The FDA and the drug or device manufacturers negotiate the user fees. They also negotiate performance measures that the FDA has to meet to collect them, and proposed changes in FDA processes. Performance measures include things such as how quickly the FDA responds to meeting requests, how quickly it generates correspondence, and how long it takes from submission of a new drug application until the FDA approves or refuses to approve a drug or product.&lt;/p&gt;
+&lt;p&gt;Because of the additional funding generated by user fees and performance measures that the FDA has to meet, the FDA is quicker and more willing to discuss what it wants to see in an application with manufacturers. It also offers clearer guidance for manufacturers. In 1987, it took 29 months from the time a new drug application was filed by the manufacturer for the FDA to decide whether to approve a medication in the U.S. In 2014, it only took 13 months and by 2018, it was down to 10 months.&lt;/p&gt;
+&lt;p&gt;Changes in more recent years have also increased the number of standard new drug applications approved the first time around by the FDA from 38% in 2005 to 61% in 2018. In diseases where there are not many medication options for patients, the FDA has a priority review process, where 89% of new drug applications were approved the first time around and the approvals were completed in eight months in 2018. All this occurred while the number of new drug applications have been increasing over time.&lt;/p&gt;
+&lt;p&gt;Most recently, the COVID-19 pandemic has seen the FDA provide emergency use authorization for potential treatments in a matter of weeks, not months. The infrastructure and capacity to review the available information so rapidly is due in large part to the funding from user fees.&lt;/p&gt;
+&lt;p&gt;While the number and speed of drug approvals have been increasing over time, so have the number of drugs that end up having serious safety issues coming to light after FDA approval. In one assessment, investigators looked at the number of newly approved medications that were subsequently removed from the market or had to include a new black box warning over 16 years from the year of approval. These black box warnings are the highest level of safety alert that the FDA can employ, warning users that a very serious adverse event could occur.&lt;/p&gt;
+&lt;p&gt;Before the user fee act was approved, 21% of medications were removed or had new black box warnings as compared to 27% afterwards.&lt;/p&gt;
+&lt;p&gt;Some potential reasons that more adverse effects are coming to light after drug approval include senior FDA officials overturning scientist recommendations, a lower burden of proof for medication approval, and more clinical data in new drug applications coming from foreign clinical trial sites that require additional time to assess in an environment where regulators are rushing to meet tight deadlines.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Lack of money limits FDA&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;User fees are a viable way to shift some of the financial burden to manufacturers who stand to make money from the approval and sale of drugs in the lucrative U.S. market. Successes have occurred and provided U.S. citizens with medication more quickly than before.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 100,000 readers rely on The Conversation’s newsletter to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;However, without careful consideration of what is being negotiated, the FDA can become weak and ineffective, unable to protect its citizens from the next thalidomide. There are some signs that the pendulum may be swinging too far in the direction of the manufacturers. Additionally, while drug approval functions at the FDA are well funded, the FDA is insufficiently funded to protect consumers from other issues such as counterfeit drugs and dietary supplements because they cannot collect user fees to do so. In my view, these functions need to be identified and require additional taxpayer funding.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;C. Michael White does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;C. Michael White, Distinguished Professor and Head of the Department of Pharmacy Practice, University of Connecticut&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 13, 2021</AlphaDate>
+         <StartDate>2021-05-13</StartDate>
+         <EndDate>2021-05-13</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_May132021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

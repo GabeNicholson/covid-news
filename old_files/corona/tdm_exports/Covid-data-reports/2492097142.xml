@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2492097142</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Child poverty in the U.S. could be slashed by monthly payments to parents – an idea proved in other rich countries and proposed by a prominent Republican decades ago</Title>
+      </TitleAtt>
+      <NumericDate>2021-02-22</NumericDate>
+      <StartDate>2021-02-22</StartDate>
+      <EndDate>2021-02-22</EndDate>
+      <AlphaDate>Feb 22, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVEB_20210222_155015</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVEB_20210222_155015</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977986_Feb222021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Misra, Joya</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Joya</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Joya Misra</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Misra</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Joya Misra</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/155015/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Social Security Administration</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>923130</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>92313</ClassCode>
+            <ClassExpansion>Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Parents &amp; parenting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Poverty</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social security</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Low income groups</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Families &amp; family life</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Taxes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Children &amp; youth</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Tax credits</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Massachusetts</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="101">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Some 18% of U.S. children live in poverty, far above the 12% average for the 37 wealthy and middle-income countries that belong to the Organization for Economic Development and Cooperation.
+
+Biden’s proposal Biden’s plan, also proposed by Massachusetts Democrat Rep. Richard Neal, chair of the tax-writing House Ways and Means committee, would increase the maximum payment for 2021 to $3,600 for children under 6.
+
+While Biden and congressional Democrats are calling for a new version of the child tax credit, which the Internal Revenue Service would continue to manage, Romney’s plan would provide monthly flat-rate checks from the Social Security Administration.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1114" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Which former president pitched a Family Assistance Plan to the American people that would have provided many families with children a monthly stipend?&lt;/p&gt;
+&lt;p&gt;It may surprise you that it came in 1969 from Richard Nixon, a Republican who embraced cultural conservativism.&lt;/p&gt;
+&lt;p&gt;The House of Representatives twice passed his unprecedented plan to strengthen the safety net before it stalled in the Senate. Fifty years later, Congress and the nation are again debating a major boost in government support for families with children.&lt;/p&gt;
+&lt;p&gt;As a scholar who studies poverty and inequality, I have been contemplating that chapter in U.S. history while following recent proposals from President Joe Biden and other Democrats, and Sen. Mitt Romney – a Republican – to help cover the costs of raising children.&lt;/p&gt;
+&lt;p&gt;While the success of one of these measures or something similar is not assured, I believe that, thanks to the pandemic, there’s a good a chance the United States will finally begin building the foundation that Nixon called for and that families still need.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;An outlier&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The U.S. has long been an outlier in its lack of support for families with children.&lt;/p&gt;
+&lt;p&gt;That helps explain why child poverty in the U.S. is comparable to that in Mexico and Chile, and far higher than child poverty in other wealthy countries. Some 18% of U.S. children live in poverty, far above the 12% average for the 37 wealthy and middle-income countries that belong to the Organization for Economic Development and Cooperation.&lt;/p&gt;
+&lt;p&gt;One reason most industrialized countries have lower child poverty rates is that they make monthly payments to families with children. These payments are standard in Europe and have been since around World War II.&lt;/p&gt;
+&lt;p&gt;Canada, for example, provides families raising children up to age 18 with a tax-free benefit that averages a total of about US$5,000 per year. The United Kingdom provides families with more than $1,500 yearly per child, which it phases out for people with higher incomes. The German government’s allowance for families amounts to more than $3,000 yearly per child. It offers additional benefits, depending on the circumstances. These benefits continue until children turn 25, as long as they stay in school or get vocational training.&lt;/p&gt;
+&lt;p&gt;Researchers have determined that these payments boost academic achievement and improve the health of children and their mothers. Many U.S. experiments have shown that kids here likewise tend to fare better at school when their family’s income rises. Much later, research indicates, adults whose families got income assistance when they were young have better career prospects and health.&lt;/p&gt;
+&lt;p&gt;And now Americans have become more familiar with broadly distributed direct payments. Similar benefits were included in coronavirus relief packages passed in 2020 and under consideration in 2021.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The current system&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To be sure, the U.S. currently does provide many families with kids a child tax credit of up to $2,000 per child until they turn 17.&lt;/p&gt;
+&lt;p&gt;Families earning at least $2,500 in income qualify for at least some portion of this credit, which is phased out for single parents with incomes of $200,000 or more and $400,000 for married parents who file their taxes together. Up to $1,400 can be refunded – meaning that it’s paid out to families – if their federal tax bill is smaller than the credit they receive.&lt;/p&gt;
+&lt;p&gt;Yet 1 in 3 of all U.S. children, and more than half of Black and Latino children, are not eligible for the full child tax credit because their parents earn too little. And, because of the way this tax credit works, some families with very low incomes, who arguably have the greatest need for help, get nothing at all.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Biden’s proposal&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Biden’s plan, also proposed by Massachusetts Democrat Rep. Richard Neal, chair of the tax-writing House Ways and Means committee, would increase the maximum payment for 2021 to $3,600 for children under 6. It also calls for $3,000 payments for children from 6 to 17 years old. Currently, the child tax credit isn’t available for 17-year-olds.&lt;/p&gt;
+&lt;p&gt;Increasing the money available to families would help, but what might help even more is the proposed change to how the child tax credit is administered. Currently, this is an annual benefit families may receive after filing income taxes. Instead, parents would get monthly per-child payments of $250 or $300, depending on the age of their children. Greater frequency could make a huge difference for cash-strapped parents who often run short of money needed to keep their pantries full and bills paid.&lt;/p&gt;
+&lt;p&gt;Some economists estimate that, if implemented on a permanent basis, as many Democrats would like to see, this new policy could lift 9.9 million children out of poverty, or at least bring them closer to the poverty line.&lt;/p&gt;
+&lt;p&gt;The Democrats’ current proposal, however, calls for this expansion of the child tax credit only through monthly payments to families in 2021.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Romney’s approach&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Romney’s proposal similarly provides monthly payments to families with children. His plan would permanently replace the child tax credit with $350 monthly payments, per child, for families with infants and children under 5, with the first payment arriving four months before a baby’s due date. Payments for children ages 6 to 17 would be $250.&lt;/p&gt;
+&lt;p&gt;While the higher monthly payments in Romney’s plan may sound more generous, his approach might not be more helpful for the poor. That’s because he wants cuts to other programs that assist low-income American families, such as the Supplemental Nutrition Assistance Program, formerly known as food stamps, to cover some of the cost.&lt;/p&gt;
+&lt;p&gt;While Biden and congressional Democrats are calling for a new version of the child tax credit, which the Internal Revenue Service would continue to manage, Romney’s plan would provide monthly flat-rate checks from the Social Security Administration. Given that many poor people don’t file taxes and that the Social Security Administration already processes monthly payments to millions of Americans, I think this distribution approach would work better.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Like what you’ve read? Want more?&lt;/i&gt; Sign up for The Conversation’s daily newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;A lasting legacy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Clearly, the coronavirus pandemic and the economic distress it’s causing have devastated many families with children.&lt;/p&gt;
+&lt;p&gt;The Census Bureau found that up to 12 million children did not get enough to eat in 2020 because of a lack of money, and millions more face the risk of eviction. Black and Latino families with children have been disproportionately affected.&lt;/p&gt;
+&lt;p&gt;In my view, making monthly payments to U.S. families with children could, finally, signal a shift in U.S. spending priorities and reduce childhood poverty dramatically. Ample evidence indicates that investing in children works.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Joya Misra receives funding from The National Science Foundation and the Washington Center for Equitable Growth. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Joya Misra, Professor of Sociology &amp;amp; Public Policy, University of Massachusetts Amherst&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation :  Economy + Business</Title>
+         <MpubId>4977986</MpubId>
+         <SortTitle>Conversation :  Economy + Business The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVEB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977986</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464265.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation :  Economy + Business</Title>
+            <SortTitle>Conversation :  Economy + Business The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977986</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464265.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 22, 2021</AlphaDate>
+         <StartDate>2021-02-22</StartDate>
+         <EndDate>2021-02-22</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977986_Feb222021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

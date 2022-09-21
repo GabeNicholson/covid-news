@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2387540698</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>CITY &amp;amp; STATE; Angelenos see 'an existential crisis'; Vast majority are anxious about health and economic threat of pandemic, poll says.</Title>
+      </TitleAtt>
+      <NumericDate>2020-04-09</NumericDate>
+      <StartDate>2020-04-09</StartDate>
+      <EndDate>2020-04-09</EndDate>
+      <AlphaDate>Apr 9, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Los Angeles Times Apr 9, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.3</StartPage>
+         <Pagination>B.3</Pagination>
+         <DocSection>California; Part B; Metro Desk</DocSection>
+         <DocEdition>HOME EDITION</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7683</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7683_Apr92020</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>LATMLATM202004097318</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>LATMLATM202004097318</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1680</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Stiles, Matt</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Matt</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Matt Stiles</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Stiles</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Matt Stiles</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Researchers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>LOS ANGELES COUNTY</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>CORONAVIRUS</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>COVID 19 (VIRUS)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>SOCIAL DISTANCING</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>HEALTH</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>ECONOMY</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="315" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;A new poll of Angelenos reflects the region's unnerving descent into sudden urban desolation as the coronavirus pandemic spreads.&lt;/p&gt;
+&lt;p&gt;Overwhelming numbers of Los Angeles County residents express deep anxiety about contracting COVID-19, the disease caused by the virus, and are worried about the financial costs of staying at home, according to the poll by researchers at the UCLA Luskin School of Public Affairs that was released Wednesday.&lt;/p&gt;
+&lt;p&gt;Overall, 78% of county residents surveyed told researchers they were "very" or "somewhat" concerned that they or a family member might catch the virus, which has infected more than 7,500 in the county and slowed to a crawl economic activity in a region that is home to 10 million people.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Even more, 83%, say they fear the economic effect of those closures, which are expected to continue for weeks.&lt;/p&gt;
+&lt;p&gt;"People view this as an existential crisis," said Zev Yaroslavsky, a retired L.A. County supervisor and onetime L.A. City Councilman who oversaw the poll. "They wouldn't be adhering to this protocol of staying cooped up in their homes if they didn't think there was a good reason for it."&lt;/p&gt;
+&lt;p&gt;The survey also found county residents have significantly more confidence in the response of local government to the crisis than the federal government.&lt;/p&gt;
+&lt;p&gt;The results were largely consistent across all demographic groups.&lt;/p&gt;
+&lt;p&gt;"It's overwhelming," Yaroslavsky said.&lt;/p&gt;
+&lt;p&gt;The poll of 1,500 residents is part of the school's annual quality-of-life survey, which this year included four questions about the coronavirus. The results appear consistent with what's evident across the county, where residents have largely heeded warnings to stay home, and in the city of L.A., where residents are to begin wearing protective masks in public.&lt;/p&gt;
+&lt;p&gt;The poll also showed that older women were more likely to be worried than other demographic groups, with about 62% of those older than age 50 saying they were "very" concerned about contracting the virus, Yaroslavsky said.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Los Angeles Times</Title>
+         <MpubId>46999</MpubId>
+         <SortTitle>Los Angeles Times</SortTitle>
+         <Qualifier>Los Angeles, Calif.</Qualifier>
+         <JournalCode>ANGE</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18860101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Los Angeles Times Communications LLC</PublisherName>
+            <PublisherAddress>
+               <City>Los Angeles</City>
+               <Province>CA</Province>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7683</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>04583035</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60200.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Los Angeles Times</Title>
+            <SortTitle>Los Angeles Times</SortTitle>
+            <Qualifier>Los Angeles, Calif.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7683</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>04583035</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60200.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Los Angeles Daily Times</Title>
+               <Qualifier>Los Angeles, Calif.</Qualifier>
+               <EndIssueDate>18861022</EndIssueDate>
+               <CatalogNum>60200.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Dec 4, 1996</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19961204</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Apr 9, 2020</AlphaDate>
+         <StartDate>2020-04-09</StartDate>
+         <EndDate>2020-04-09</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7683_Apr92020</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

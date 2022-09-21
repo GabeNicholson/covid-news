@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2544338355</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Prince William County home sales</Title>
+      </TitleAtt>
+      <NumericDate>2021-06-24</NumericDate>
+      <StartDate>2021-06-24</StartDate>
+      <EndDate>2021-06-24</EndDate>
+      <AlphaDate>Jun 24, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Jun 24, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>L.8</StartPage>
+         <DocSection>LocalLiving</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Jun242021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20210624PrinceWilliamCountyhomesalescec35d7e</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>420</LexileScore>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Black Knight Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511210</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>541511</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>541512</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>541513</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Real estate sales</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="852" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;b&gt;Prince William County&lt;/b&gt;
+&lt;p&gt;
+These sales data recorded by the Prince William County Real Estate Assessments Office in December were provided by Black Knight Inc. For home sales elsewhere in the Washington area, go to washingtonpost.com/homesales.
+&lt;/p&gt;
+&lt;b&gt;BRISTOW AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;America Dr., &lt;/em&gt;13629, $665,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Bourne Pl., &lt;/em&gt;13096, $535,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Erroll Lane, &lt;/em&gt;12528, $623,500.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Kimilwick Pl., &lt;/em&gt;13370, $576,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Maitland Loop, &lt;/em&gt;9770, $335,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Rainbow Falls Dr., &lt;/em&gt;9259, $650,923.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Solitary Pl., &lt;/em&gt;9839, $609,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Victory Lakes Loop, &lt;/em&gt;12677, $588,000.&lt;/p&gt;
+&lt;b&gt;DALE CITY AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;Akron St., &lt;/em&gt;2997, $640,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Andover Heights Dr., &lt;/em&gt;15660, $511,500.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Barksdale St., &lt;/em&gt;14725, $286,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Belvedere Dr., &lt;/em&gt;14448, $260,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Briggs Way, &lt;/em&gt;15209, $599,900.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Cardinal Crest Dr., &lt;/em&gt;3989, $500,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Chrysler Ct., &lt;/em&gt;14841, $349,900.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Del Mar Dr., &lt;/em&gt;14506, $420,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Duran Dr., &lt;/em&gt;14521, $416,321.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Ely Ct., &lt;/em&gt;14628, $385,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Fallbrook Lane, &lt;/em&gt;14046, $295,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Fontana Ct., &lt;/em&gt;14293, $365,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;General Washington Dr., &lt;/em&gt;14508, $580,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Golden Ct., &lt;/em&gt;14016, $305,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Jarrell Pl., &lt;/em&gt;15065, $350,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Kerrman Ct., &lt;/em&gt;13000, $350,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Kramer Pl., &lt;/em&gt;14098, $395,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Meadowbrook Rd., &lt;/em&gt;13763, $380,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Morrison Ct., &lt;/em&gt;14122, $297,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Palm Rd., &lt;/em&gt;13714, $452,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Pierre Ct., &lt;/em&gt;15739, $520,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Rainer Ct., &lt;/em&gt;13817, $500,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Salt Pond Pl., &lt;/em&gt;5192, $330,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Spriggs Tree Lane, &lt;/em&gt;15013, $652,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Swallow Ct., &lt;/em&gt;14857, $301,500.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Torrence Pl., &lt;/em&gt;4402, $335,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Vireo Ct., &lt;/em&gt;14966, $340,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Whitaker Pl., &lt;/em&gt;4673, $267,000.&lt;/p&gt;
+&lt;b&gt;DUMFRIES AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;Belle Isle Dr., &lt;/em&gt;17135, $910,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Fort Pemberton Ct., &lt;/em&gt;2016, $280,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Myrtlewood Dr., &lt;/em&gt;2836, $584,500.&lt;/p&gt;
+&lt;b&gt;GAINESVILLE AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;Alderwood Way, &lt;/em&gt;6504, $579,900.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Breeders Cup Dr., &lt;/em&gt;14020, $635,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Darbey Knoll Dr., &lt;/em&gt;7099, $520,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Gaffney Cir., &lt;/em&gt;15010, $490,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Kona Dr., &lt;/em&gt;7020, $392,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Loftridge Lane, &lt;/em&gt;17088, $489,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Moss Ledge Ct., &lt;/em&gt;14509, $988,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Roxborough Loop, &lt;/em&gt;8353, $755,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Sharpshinned Dr., &lt;/em&gt;14252, $582,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Snickersville Dr., &lt;/em&gt;14136, $650,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Tackhouse Loop, &lt;/em&gt;8404, $380,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Victory Gallop Way, &lt;/em&gt;13480, $425,000.&lt;/p&gt;
+&lt;b&gt;HAYMARKET AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;Fishers Hill Way, &lt;/em&gt;5413, $1.11 million.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Jordan Crest Ct., &lt;/em&gt;16158, $776,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Lowdermilk Pl., &lt;/em&gt;15950, $537,500.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Painters Cove Way, &lt;/em&gt;15447, $484,900.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Rothschild Ct., &lt;/em&gt;15721, $789,900.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Scotts Valley Dr., &lt;/em&gt;15700, $820,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Verde Pl., &lt;/em&gt;14351, $475,000.&lt;/p&gt;
+&lt;b&gt;MANASSAS AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;Brewer Creek Pl., &lt;/em&gt;8906, $380,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Commonwealth Ct., &lt;/em&gt;6531, $685,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Englewood Farms Dr., &lt;/em&gt;8906, $480,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Flager Cir., &lt;/em&gt;7869, $365,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Garrett Way, &lt;/em&gt;8923, $440,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Heritage Crossing Ct., &lt;/em&gt;8321, $374,500.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Impalla Dr., &lt;/em&gt;8404, $450,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Kahns Rd., &lt;/em&gt;12604, $435,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;King George Dr., &lt;/em&gt;9720, $440,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Lafayette Ave., &lt;/em&gt;9432, $389,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Meadowgate Dr., &lt;/em&gt;7822, $720,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Pinnacle Ridge Dr., &lt;/em&gt;8025, $760,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Smithfield Rd., &lt;/em&gt;11902, $447,501.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Thomas Dr., &lt;/em&gt;8515, $462,500.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Westmoreland Ave., &lt;/em&gt;9405, $355,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Wilmer Way, &lt;/em&gt;7466, $526,483.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Wortham Crest Cir., &lt;/em&gt;11205, $270,000.&lt;/p&gt;
+&lt;b&gt;MANASSAS PARK AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;Courtland Cir., &lt;/em&gt;7441, $340,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Knollwood Dr., &lt;/em&gt;10527, $605,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Manassas Dr., &lt;/em&gt;7830, $455,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Towering Oak Way, &lt;/em&gt;8093, $545,000.&lt;/p&gt;
+&lt;b&gt;MONTCLAIR AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;Ashmere Cir., &lt;/em&gt;4122, $294,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Camellia Lane, &lt;/em&gt;15047, $445,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Edgewood Dr., &lt;/em&gt;15901, $629,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Huntgate Lane, &lt;/em&gt;15017, $449,900.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Shadow Woods Ct., &lt;/em&gt;4744, $435,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Taconic Cir., &lt;/em&gt;16190, $228,500.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Waters Edge Ct., &lt;/em&gt;15331, $330,000.&lt;/p&gt;
+&lt;b&gt;NOKESVILLE AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;Bluegrass Ct., &lt;/em&gt;11991, $475,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Frost Dr., &lt;/em&gt;13548, $473,000.&lt;/p&gt;
+&lt;b&gt;OCCOQUAN AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;Fortress Way, &lt;/em&gt;403, $360,000.&lt;/p&gt;
+&lt;b&gt;TRIANGLE AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;Potomac Highlands Cir., &lt;/em&gt;4411, No. 123, $344,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Red Oak Lane, &lt;/em&gt;19008, $325,000.&lt;/p&gt;
+&lt;b&gt;WOODBRIDGE AREA&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;Augustus Ct., &lt;/em&gt;12992, $376,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Basin View Lane, &lt;/em&gt;2501, $375,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Belmont Bay Dr., &lt;/em&gt;500, No. 116, $415,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Bertram St., &lt;/em&gt;11583, $382,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Blue Sky Pl., &lt;/em&gt;12926, $516,190.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Boatswain Cir., &lt;/em&gt;16395, $595,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Cardamom Dr., &lt;/em&gt;12064, $204,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Chadwick Ct., &lt;/em&gt;2544, $345,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Chicacoan Dr., &lt;/em&gt;15502, $455,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Colby Dr., &lt;/em&gt;12901, $425,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Conquest Ct., &lt;/em&gt;3965, $347,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Derriford Ct., &lt;/em&gt;12120, $415,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Eagle Ridge Dr., &lt;/em&gt;3117, $530,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Featherstone Gate Dr., &lt;/em&gt;14614, $335,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Gangplank Lane, &lt;/em&gt;16363, $495,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Glenriver Way, &lt;/em&gt;2624, $390,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Grosbeak Ct., &lt;/em&gt;1528, $403,500.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Helmsman Lane, &lt;/em&gt;2671, $502,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Home Guard Dr., &lt;/em&gt;11971, $485,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Jedburg Lane, &lt;/em&gt;12607, $367,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Kempston Lane, &lt;/em&gt;12608, $305,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Lancashire Dr., &lt;/em&gt;15206, $330,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Maidstone Ct., &lt;/em&gt;12251, $295,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Mason Creek Cir., &lt;/em&gt;14697, $308,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Mulberry Ct., &lt;/em&gt;12301, $565,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Oak Farm Dr., &lt;/em&gt;13231, $509,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Oberlin Dr., &lt;/em&gt;2267, $315,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Pheasant Hunt Rd., &lt;/em&gt;2652, $555,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Powell Dr., &lt;/em&gt;2830, $580,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Spinnaker Ct., &lt;/em&gt;2275, $455,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Stoneford Dr., &lt;/em&gt;12119, $345,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Tiger Lily Cir., &lt;/em&gt;1788, $260,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Wadsworth Way, &lt;/em&gt;12325, $235,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Weymouth Ct., &lt;/em&gt;3291, $371,500.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Windjammer Dr., &lt;/em&gt;2203, $423,000.&lt;/p&gt;
+&lt;b&gt;Manassas&lt;/b&gt;
+&lt;p&gt;
+These were among homes sold in December in Manassas.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Beech Pl., &lt;/em&gt;9714, $245,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Butternut Cir., &lt;/em&gt;10328, $362,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Cannon Ridge Dr., &lt;/em&gt;8977, $331,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Charleston Dr., &lt;/em&gt;9202, No. 301, $300,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Fountain Cir., &lt;/em&gt;10275, No. 111, $335,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Greengate Ct., &lt;/em&gt;9219, $451,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Mock Orange Ct., &lt;/em&gt;9799, $295,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Oakenshaw Dr., &lt;/em&gt;9568, $467,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Placid St., &lt;/em&gt;9216, $345,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Ratcliffe Trail, &lt;/em&gt;10473, $359,990.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Sebastian Ct., &lt;/em&gt;9522, $450,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Tanglewood Lane, &lt;/em&gt;8838, $225,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Wenrich Trail, &lt;/em&gt;10513, $455,000.&lt;/p&gt;
+&lt;b&gt;Manassas Park&lt;/b&gt;
+&lt;p&gt;
+These were among homes sold in December in Manassas Park.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Kristy Dr., &lt;/em&gt;9248, $336,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Michael Ct., &lt;/em&gt;9300, $540,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Sandstone Way, &lt;/em&gt;8534, $270,100.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Woodhue Ct., &lt;/em&gt;8632, $225,000.&lt;/p&gt;
+&lt;b&gt;Stafford County&lt;/b&gt;
+&lt;p&gt;
+These sales data recorded by the Stafford County Real Estate Division of the Commissioner's Office in December were provided by Black Knight Inc. To find sale and assessment records for homes elsewhere in the Washington area, visit washingtonpost.com/homesales.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Alice Ct., &lt;/em&gt;20, $260,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Aston Ct., &lt;/em&gt;209, $320,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Barnum Dr., &lt;/em&gt;10, $359,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Blaisdell Lane, &lt;/em&gt;104, $765,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Canaan Ct., &lt;/em&gt;10, $470,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Cherry Blossom Lane, &lt;/em&gt;16, $350,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Clear Spring Lane, &lt;/em&gt;18, $502,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Deene Ct., &lt;/em&gt;4, $379,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Donovan Lane, &lt;/em&gt;221, $710,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Ellison Ct., &lt;/em&gt;26, $479,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Farragut Dr., &lt;/em&gt;2051, $327,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Hamstead Rd., &lt;/em&gt;50, $465,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Hidden Brook Dr., &lt;/em&gt;219, $330,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Holmes St., &lt;/em&gt;116, $355,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Indian Wood Lane, &lt;/em&gt;3, $453,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Jacobs Lane, &lt;/em&gt;36, $370,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Mayfair Pl., &lt;/em&gt;106, $275,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Monticello Dr., &lt;/em&gt;604, $720,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Palm Dr., &lt;/em&gt;9, $340,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Pine Tree Lane, &lt;/em&gt;6, $260,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Shore Dr., &lt;/em&gt;22, $714,900.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Spyglass Lane, &lt;/em&gt;124, $626,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Streamview Dr., &lt;/em&gt;214, $322,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Truslow Rd., &lt;/em&gt;277, $250,000.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Willow Glen Ct., &lt;/em&gt;22, $455,000.&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jun 24, 2021</AlphaDate>
+         <StartDate>2021-06-24</StartDate>
+         <EndDate>2021-06-24</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Jun242021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

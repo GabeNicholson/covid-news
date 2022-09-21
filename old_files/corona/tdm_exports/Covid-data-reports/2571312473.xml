@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2571312473</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Biden's pandemic plan overlooks mask mandates and vulnerable populations</Title>
+      </TitleAtt>
+      <NumericDate>2021-09-10</NumericDate>
+      <StartDate>2021-09-10</StartDate>
+      <EndDate>2021-09-10</EndDate>
+      <AlphaDate>Sep 10, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210910_167667</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210910_167667</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Sep102021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Raifman, Julia</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Julia</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Julia Raifman</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Raifman</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Julia Raifman</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Skinner, Alexandra</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Alexandra</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Alexandra Skinner</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Skinner</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Alexandra Skinner</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/167667/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Boston University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Independent contractors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Federal employees</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Medicaid</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Immunization</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Low income groups</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Masks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="85">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Vaccine mandates may still miss population groups The administration’s plan includes a vaccine mandate for federal employees and health care workers at Medicaid and Medicare serving hospitals.
+
+While many federal employees, health care workers and higher-income workers are already vaccinated, even modest increases could make a difference, especially in regions with low vaccination rates.
+
+Sign up today.] The delta variant continues to spread rapidly through the U.S. State leaders can play an important role in speeding up vaccine delivery efforts at schools, neighborhoods and workplaces.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="827" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;President Joseph Biden on Sept. 9, 2021, unveiled his revamped strategy to confront the pandemic, outlining an approach that focuses heavily on attempting to reduce the number of unvaccinated Americans.&lt;/p&gt;
+&lt;p&gt;The new plan comes at a crucial time. The delta variant continues to spread in states across America. The virus is currently taking more than 1,500 lives each day, and new hospital admissions of children are higher now than at any other point during the pandemic. Concern is especially high in states with low vaccination rates. High transmission is also harming economic recovery as people stay home to avoid the virus.&lt;/p&gt;
+&lt;p&gt;As such, policies aimed at getting people vaccinated make sense – vaccination is a proven way to protect populations from hospitalizations and death from coronavirus infection.&lt;/p&gt;
+&lt;p&gt;To encourage vaccination, the president is mandating that employees at companies with more than 100 workers are either vaccinated or test for the virus every week. His new plan also includes enhanced production of rapid tests and making them available either free to Medicaid recipients or at cost via retailers such as Walmart and Amazon.&lt;/p&gt;
+&lt;p&gt;As leaders of a team of health policy researchers that track policy responses to COVID-19, we know there is no perfect approach to preventing the virus. It is certainly encouraging that the administration has acknowledged that more needed to be done – and the measures outlined by the president are likely to encourage vaccinations. But we believe they would work better if supplemented by further actions – be it at a federal or state level – that would protect vulnerable people through stronger mask mandates and improved vaccine delivery.&lt;/p&gt;
+&lt;p&gt;We are also concerned that the headline policy – mandating workplace vaccinations – may have only a limited impact in low-income communities where many workers are independent contractors like gig workers and agricultural workers. Analyses show unvaccinated rates tend to be higher in such communities.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;No federal mask policies&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Biden’s plan would continue to require the use of masks on interstate transit and federal property and doubles the fine for failure to comply. But it fell short of calling for universal mask policies.&lt;/p&gt;
+&lt;p&gt;This is despite internal documents from the Centers for Disease Control and Prevention in which scientists made clear that “universal masking is essential to reduce transmission.”&lt;/p&gt;
+&lt;p&gt;Stronger mask policies would be especially helpful for immediately reducing the transmission of the delta variant, especially in higher-risk indoor spaces and among children who are not eligible for vaccines. Hospitalizations in the U.S. of children went from record lows to record highs – and climbing – in a span of just four weeks.&lt;/p&gt;
+&lt;p&gt;Mask mandates can reduce community transmission, allowing more time to intensify vaccine delivery efforts and messaging.&lt;/p&gt;
+&lt;p&gt;A data-driven approach to mask mandates would supplement the measures Biden has laid out in his path out of the pandemic. Such a policy has been put to good use in Nevada, where mask mandates come into effect in counties with high numbers of infections and are then removed when cases fall below a certain level.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Vaccine mandates may still miss population groups&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The administration’s plan includes a vaccine mandate for federal employees and health care workers at Medicaid and Medicare serving hospitals. The administration also asked the Occupational Safety and Health Administration to develop a rule that would require these employers to provide paid time off for vaccination and recovery.&lt;/p&gt;
+&lt;p&gt;While many federal employees, health care workers and higher-income workers are already vaccinated, even modest increases could make a difference, especially in regions with low vaccination rates.&lt;/p&gt;
+&lt;p&gt;The new vaccine mandates are less likely to reach low-income workers, many of whom are considered independent contractors or who work in small restaurants or other businesses and as such will not be covered.&lt;/p&gt;
+&lt;p&gt;Research has shown that vaccination rates tend to be lower in lower-income communities. This may be because lower-paid workers are focused on meeting other needs like food, housing and child care for their families, have less time because they are working more than one job or cannot afford unpaid time off work to get a shot.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 100,000 readers rely on The Conversation’s newsletter to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;The delta variant continues to spread rapidly through the U.S. State leaders can play an important role in speeding up vaccine delivery efforts at schools, neighborhoods and workplaces. Efforts that are directed toward low-income communities and workers where vaccination rates remain lowest are more likely to yield greater results. And mask policies could slow the spread of COVID-19 until more adults and children can be vaccinated.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Julia Raifman receives funding from the NIH and Robert Wood Johnson Foundation&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Alexandra Skinner does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Julia Raifman, Assistant Professor of Health Law, Policy and Management, Boston University&lt;/p&gt;&lt;p&gt;Alexandra Skinner, Research Fellow of Health Law, Policy and Management, Boston University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Sep 10, 2021</AlphaDate>
+         <StartDate>2021-09-10</StartDate>
+         <EndDate>2021-09-10</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Sep102021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

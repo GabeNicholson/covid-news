@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2466676233</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Justices Ask for Review Of Limits on Churches</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[Foreign Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2020-12-04</NumericDate>
+      <StartDate>2020-12-04</StartDate>
+      <EndDate>2020-12-04</EndDate>
+      <AlphaDate>Dec 4, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Dec 4, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.8</StartPage>
+         <Pagination>A.8</Pagination>
+         <DocSection>A</DocSection>
+         <ColumnNumber>0</ColumnNumber>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Dec42020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>814547-20201204</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <FullTextLinkID>https://www.nytimes.com/2020/12/03/us/coronavirus-supreme-court-california-churches.html</FullTextLinkID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1600</LexileScore>
+      <Desk>Foreign Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Liptak, Adam</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Adam</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Adam Liptak</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Liptak</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Adam Liptak</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <DocUrl>https://www.nytimes.com/2020/12/03/us/coronavirus-supreme-court-california-churches.html</DocUrl>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="Editorial">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Supreme Court-US</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>922110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Supreme Court decisions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Religion</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Federal court decisions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Christianity</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Restrictions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Freedom of religion</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>California</Geographic>
+         </Term>
+         <Term TermSource="Editorial" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="Editorial" TermVocab="PERS">
+            <Personal>Bernal, Jesus G</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="736" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The move followed a decision last week lifting restrictions on religious services in New York.&lt;/p&gt;&lt;p&gt;WASHINGTON -- The Supreme Court on Thursday vacated a federal trial judge's ruling that had allowed California to impose restrictions on religious services to prevent the spread of the coronavirus.&lt;/p&gt;&lt;p&gt;The justices instructed Judge Jesus G. Bernal of the Federal District Court in Riverside, Calif., to reconsider his decision in light of the Supreme Court's ruling last month striking down similar limits in New York. The restrictions in California remain in place for now, but they may not survive a fresh look from Judge Bernal when he applies the new precedent.&lt;/p&gt;&lt;p&gt;The Supreme Court's brief order was unsigned and gave no reasons, and there were no noted dissents.&lt;/p&gt;&lt;p&gt;The New York decision was a change in the court's approach to restrictions on religious practices. Before the death of Justice Ruth Bader Ginsburg, the court had allowed restrictions in California and Nevada by 5 to 4 votes. In the case from New York, decided after Justice Amy Coney Barrett succeeded Justice Ginsburg, the court ruled the other way, also by a 5 to 4 vote.&lt;/p&gt;&lt;p&gt;The new case was brought by Harvest Rock Church, a Christian church in Pasadena, and its affiliates around the state. It said restrictions imposed by Gov. Gavin Newsom, a Democrat, violated the Constitution's protection of the free exercise of religion. The restrictions set varying limits on attendance at religious services, depending on a county's infection rate.&lt;/p&gt;&lt;p&gt;As of late November, with infection rates rising, most of the state was in "Tier 1," the most severe category, with the result that in-person indoor worship services are for now entirely barred.&lt;/p&gt;&lt;p&gt;In September, Judge Bernal upheld the framework for the restrictions. "Because religious activities are only restricted similarly to or less than comparable nonreligious activities," Judge Bernal wrote, the restrictions were lawful.&lt;/p&gt;&lt;p&gt;On Oct. 1, a divided three-judge panel of the United States Court of Appeals for the Ninth Circuit, in San Francisco, refused to block Judge Bernal's ruling while an appeal moved forward. "The orders apply the same restrictions to worship services as they do to other indoor congregate events, such as lectures and movie theaters," the majority said in an unsigned decision.&lt;/p&gt;&lt;p&gt;The majority relied on a concurring opinion from Chief Justice John G. Roberts Jr. in a 5-to-4 ruling in May that sustained an earlier version of the restrictions in California. That concurring opinion, which had been widely relied on by courts around the nation, was effectively rejected by the court's recent ruling in the case from New York.&lt;/p&gt;&lt;p&gt;In dissent in the new California case, Judge Diarmuid F. O'Scannlain said the restrictions treated comparable secular activities more favorably than religious ones.&lt;/p&gt;&lt;p&gt;"In 18 counties in California -- home to more than 15 million residents and including its most populous county, Los Angeles -- indoor religious worship services are completely prohibited," Judge O'Scannlain wrote of the restrictions then in place. "Yet, in these same counties, the state still allows people to go indoors to: spend a day shopping in the mall, have their hair styled, get a manicure or pedicure, attend college classes, produce a television show or movie, participate in professional sports, wash their clothes at a laundromat and even work in a meatpacking plant."&lt;/p&gt;&lt;p&gt;"All of these activities involve gatherings of people from different households for extended periods of time -- in many cases, hours on end," he wrote. "Many are carried out in close proximity with others including some -- like playing sports, receiving a haircut, getting a manicure, or acting out a scene in a movie -- that simply cannot be undertaken while also practicing six-foot social distancing and wearing a mask."&lt;/p&gt;&lt;p&gt;In the Supreme Court, lawyers for Mr. Newsom said "the restrictions on indoor worship activities are the same as -- or more permissive than -- those imposed on comparable secular gatherings that occur indoors and pose an equivalent threat to public health."&lt;/p&gt;&lt;p&gt;Apparently wary of an immediate ruling from the Supreme Court, the brief urged the justices to let the lower courts take account of the recent decision. "Before this court takes any action," the brief said, "it should allow the lower court an opportunity to promptly evaluate plaintiffs' arguments in light of" the New York case "and the current factual and legal circumstances in California, where Covid-19 is surging."&lt;/p&gt;&lt;p&gt;The Supreme Court accepted the suggestion.&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;photo_caption&gt;Visiting St. Patrick's Cathedral in New York, where limits on religious services were struck down. (PHOTOGRAPH BY SPENCER PLATT/GETTY IMAGES)&lt;/photo_caption&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 4, 2020</AlphaDate>
+         <StartDate>2020-12-04</StartDate>
+         <EndDate>2020-12-04</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Dec42020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

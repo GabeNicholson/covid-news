@@ -14,6 +14,7 @@ app = Dash(
     external_stylesheets=[dbc.themes.SLATE],
     title="Covid-News",
 )
+server = app.server
 
 df = pd.read_csv("covid_plot_data.csv", index_col=[0], parse_dates=['date'])
 
@@ -94,6 +95,15 @@ app.layout = dbc.Container(
                     ],
                     width=3,
                 ),
+
+				dbc.Col([
+					html.Div('Select Correlation Statistic:'),
+					dcc.Dropdown(
+						options = ['pearson', 'spearman'],
+						value='pearson',
+						id='corr-option'
+					)
+				], width={'size':2}, )
             ],
             align="left",
             justify="start",
@@ -101,12 +111,15 @@ app.layout = dbc.Container(
         
 		dbc.Row([
 			dbc.Col([
-				html.Div(id='summary-table', style={'padding-top':'30px'})
+				html.H3('Summary Statistics', style={'padding-top':'30px', 'color':'white'}),
+				html.Div(id='summary-table')
 			], width={'size': 4, 'offset':0}),
 			
 			dbc.Col([
-				html.Div(id='corr-table', style={'padding-top':'30px'})
-			], width={'offset':2, 'size':5})
+				html.H3('Correlation Table', style={'padding-top':'30px', 'color':'white'}),
+				html.Div(id='corr-table', )
+			], width={'offset':2, 'size':5}),
+
 		]),
 
 		dbc.Row(
@@ -162,7 +175,17 @@ def create_covid(left_axis, right_axis, start_date, end_date):
         go.Scatter(
             x=dataframe["date"],
             y=np.zeros(len(dataframe)),
-            name="neutral sentiment",
+            name="Neutral Sentiment",
+            visible="legendonly",
+        )
+    )
+
+    # Add Average Sentiment Line
+    fig.add_trace(
+        go.Scatter(
+            x=dataframe["date"],
+            y= np.ones(len(dataframe)) * dataframe['Sentiment Score'].mean(),
+            name="Avg News Sentiment",
             visible="legendonly",
         )
     )
@@ -211,7 +234,7 @@ def create_covid(left_axis, right_axis, start_date, end_date):
         	Input("date-range", "end_date"),])
 def create_summary_table(start_date, end_date):
 	dataframe = df[(df["date"] >= start_date) & (df["date"] <= end_date)]
-	dataframe = dataframe.describe().round(1)
+	dataframe = dataframe.describe().round(2)
 	dataframe.index = dataframe.index.rename('Summary Statistic')
 	dataframe.drop(['Sentiment Score', 'articles_per_day'],axis=1, inplace=True)
 	dataframe = dataframe.loc[["mean", "std", "min", "max"]]
@@ -220,13 +243,14 @@ def create_summary_table(start_date, end_date):
 
 @app.callback(Output('corr-table', 'children'),
 			[Input("date-range", "start_date"),
-        	Input("date-range", "end_date"),])
-def create_summary_table(start_date, end_date):
+        	Input("date-range", "end_date"),
+			Input('corr-option', 'value')])
+def create_summary_table(start_date, end_date, corr_type):
 	dataframe = df[(df["date"] >= start_date) & (df["date"] <= end_date)]
 	dataframe.drop(['articles_per_day', 'Sentiment Score'],axis=1,inplace=True)
-	dataframe = dataframe.corr().round(1)
+	dataframe = dataframe.corr(corr_type).round(2)
 	dataframe.columns = dataframe.columns.str.replace('_', ' ')
 	return dbc.Table.from_dataframe(df=dataframe, striped=True, bordered=True, hover=True, color="dark", index=True)
 
 if __name__ == "__main__":
-    app.run_server(debug=True, port=6555)
+    app.run_server()

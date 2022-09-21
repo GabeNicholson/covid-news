@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2354632310</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Down but not necessarily out [Corrected 02/14/2020]</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>Illini star Dosunmu after scare against Spartans: 'Be back soon'</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2020-02-13</NumericDate>
+      <StartDate>2020-02-13</StartDate>
+      <EndDate>2020-02-13</EndDate>
+      <AlphaDate>Feb 13, 2020</AlphaDate>
+      <RawAlphaDate>20200213</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Feb 13, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>1</StartPage>
+         <DocSection>Sports</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Feb132020</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2020021320200213424902779</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2020021320200213424902779</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1210</LexileScore>
+      <DateLine>CHAMPAIGN</DateLine>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Ryan, Shannon</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Shannon</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Shannon Ryan</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Ryan</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Shannon Ryan</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Games</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Seasons</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Maryland</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Michigan</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Underwood, Brad</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Illinois</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>East Lansing Michigan</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1156" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The sellout crowd's roar as it attempted to direct Illinois to a furious comeback turned silent in an instant.   &lt;/p&gt;&lt;p&gt;It was as if someone had pressed a mute button Tuesday night at the State Farm Center.&lt;/p&gt;&lt;p&gt;Suddenly, the result -- a 70-69 loss to Michigan State -- didn't matter.&lt;/p&gt;&lt;p&gt;Star guard Ayo Dosunmu was crumpled on the court in pain as the clock expired.&lt;/p&gt;&lt;p&gt;Fans watched as his left knee buckled awkwardly when he slipped while racing upcourt for a potential last-second game-winner. The band didn't play. The PA announcer didn't speak.&lt;/p&gt;&lt;p&gt;The handshake line paused as a few Michigan State players congratulated each other.&lt;/p&gt;&lt;p&gt;Illinois coach Brad Underwood checked on the sophomore, and his teammates hovered. Dosunmu was helped off the court without putting weight on his left leg.&lt;/p&gt;&lt;p&gt;"The game becomes secondary," Underwood told reporters.&lt;/p&gt;&lt;p&gt;The news was a little better Wednesday as Illinois announced an MRI showed no structural damage to Dosunmu's leg. The school did not disclose specifics about the injury, but Underwood said in a statement that the team's medical staff "will work with him around the clock on treatment and recovery."&lt;/p&gt;&lt;p&gt;Dosunumu, meanwhile, tweeted Wednesday: "Today it's back to work. Be back soon ..."&lt;/p&gt;&lt;p&gt;Dosunmu scored all but two of his 17 points after halftime as No. 22 Illinois (16-8, 8-5 Big Ten) sought to avenge a 20-point road loss to the Spartans earlier this season. The Illini now have lost three straight after winning seven in a row.&lt;/p&gt;&lt;p&gt;Michigan State (17-8, 9-5) snapped a three-game skid.&lt;/p&gt;&lt;p&gt;The Illini fell behind by 20 early in the second half but found a spark as they honed in on defense. It helped that Spartans star guard Cassius Winston was on the bench for long stretches because of foul trouble.&lt;/p&gt;&lt;p&gt;Illinois took a 61-60 lead with 5 minutes, 28 seconds remaining -- its first of the game -- on a Dosunmu layup as part of a 10-0 run.&lt;/p&gt;&lt;p&gt;Freshman center Kofi Cockburn -- a 68.2% free-throw shooter -- went to the line with 19.1 seconds and sank both for a 69-68 edge. On the next possession, Xavier Tillman rebounded a missed layup by Winston and dunked for the decisive points.&lt;/p&gt;&lt;p&gt;Dosunmu, on the game-ending play on which he was injured, turned the ball over with three seconds left.&lt;/p&gt;&lt;p&gt;Here are four takeaways from Illinois' loss.&lt;/p&gt;&lt;p&gt;1. What's next if Ayo Dosunmu can't play Saturday?&lt;/p&gt;&lt;p&gt;Despite the positive news Wednesday on Dosunmu, there's no guarantee he'll be available for Illinois' next game Saturday at Rutgers.&lt;/p&gt;&lt;p&gt;If not, the Illini need to find a way without their leading scorer.&lt;/p&gt;&lt;p&gt;More pressure would fall on guards Andres Feliz and Trent Frazier, but they've shown they can handle it. Feliz scored 15 points -- all but three after halftime -- against Michigan State. He's averaging 11.3 points and has been a spark off the bench.&lt;/p&gt;&lt;p&gt;"We'll figure all that out," Underwood said Tuesday night. "Everyone's got to do a little bit more when you replace a guy of Ayo's stature. But at this point, I don't know if we have to replace him or not.&lt;/p&gt;&lt;p&gt;"I can only coach who I have. You make adjustments and you get into practice and it's the next-man-up mentality. I like our group and we'll figure that out."&lt;/p&gt;&lt;p&gt;2. Brad Underwood wasn't pleased with a late call.&lt;/p&gt;&lt;p&gt;Dosunmu was called for a foul going for a loose ball with three minutes left and Illinois trailing 64-63.&lt;/p&gt;&lt;p&gt;Underwood looked like he might pass out from disbelief, putting both hands on his head and yelling, "Oh, my God!" His assistant coaches intervened before Underwood convinced them to let him speak to official Courtney Green.&lt;/p&gt;&lt;p&gt;He was nose-to-nose making his case, but Green didn't tag him with a technical foul. Underwood turned to the scorer's table as play was about to resume and said, "That was the worst call I've ever seen."&lt;/p&gt;&lt;p&gt;Asked to elaborate after the game, Underwood was more cautious.&lt;/p&gt;&lt;p&gt;"We practice loose-ball drills," he said. "I've never seen that call. I've never seen that. When a young guy dives on the floor for a loose ball, to not get rewarded because the other kid does it and tries to reach down and pick it up ... I'll leave it at that. With three minutes left in the game?"&lt;/p&gt;&lt;p&gt;Underwood shrugged.&lt;/p&gt;&lt;p&gt;3. Giorgi Bezhanishvili needs to get back on track.&lt;/p&gt;&lt;p&gt;Underwood started Alan Griffin in the second half ahead of Bezhanishivili, who played one of his more confounding games.&lt;/p&gt;&lt;p&gt;The sophomore forward tied a career low with two points in a career-low 13 minutes. Bezhanishvili finished with a minus-19 rating after shooting 1 of 7, including missing all three of his 3-point attempts.&lt;/p&gt;&lt;p&gt;He showed frustration on the court, chirping at an official before Underwood put him on the bench.&lt;/p&gt;&lt;p&gt;Before he checked into the game in the second half, he hollered to Underwood, "Watch! I've got you, Coach!" and then slapped his coach on the rear.&lt;/p&gt;&lt;p&gt;A few minutes later he picked up his third foul on an illegal screen and came to the bench despondently, asking Underwood, "Was that a foul?"&lt;/p&gt;&lt;p&gt;Underwood acknowledged that Bezhanishvili's boundless energy needs to be better channeled and his production needs to improve.&lt;/p&gt;&lt;p&gt;"We try to find that perfect balance," Underwood said. "We've seen G at his very best. Right now, things are a little tougher for him. You can try too hard. You can put too much pressure on yourself. We need him. We've got to get him back in a position to help our ball team down the stretch."&lt;/p&gt;&lt;p&gt;4. Illinois can't afford slow starts.&lt;/p&gt;&lt;p&gt;The Big Ten schedule is brutal. And that means Illinois needs to hustle from the start.&lt;/p&gt;&lt;p&gt;That wasn't the case against the Spartans.&lt;/p&gt;&lt;p&gt;Michigan State took a 20-point lead early in the second half, but really, the Spartans were in control from tipoff. They claimed a double-digit lead in the first nine minutes as Illinois appeared disjointed and hapless. By halftime, Michigan State led 37-20, bringing back memories of its 20-point victory in East Lansing, Mich., earlier this season.&lt;/p&gt;&lt;p&gt;"It was a tale of two halves," Underwood said. "I have yet to figure out why we can't play hard. We do that at times. I literally asked the (assistant) coaches (before the game), 'Are we ready?' It was almost like a somber funeral."&lt;/p&gt;&lt;p&gt;He said the team was too amped before Friday's loss to Maryland. So Underwood has to figure out how to manage the team's mood swings.&lt;/p&gt;&lt;p&gt;CAPTION: Photo: (Ayo Dosunmu) BRIAN CASSELLA/CHICAGO TRIBUNE ; Photo: Illinois guard Ayo Dosunmu is helped off after the game Tuesday in Champaign. BRIAN CASSELLA/CHICAGO TRIBUNE PHOTOS  ; Graphic: A DECADE OF DESPAIR IN THE BIG TEN   ; Illinois has a chance to finish with a winning record for the first time since the 2009-10 season. The Illini are 8-5 in Big Ten play (.615 winning percentage) and need to win three of the final seven games to get over the line. A look at their Big Ten winning percentage the last 10 seasons:   ; 2010-11: 9-9   ; 2011-12: 6-12   ; 2012-13: 8-10   ; 2013-14: 7-11   ; 2014-15: 9-9   ; 2015-16: 5-13   ; 2016-17: 8-10   ; 2017-18: 4-14   ; 2018-19: 7-13&lt;/p&gt;&lt;p&gt;CREDIT: By Shannon Ryan&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 13, 2020</AlphaDate>
+         <RawDate>20200213</RawDate>
+         <StartDate>2020-02-13</StartDate>
+         <EndDate>2020-02-13</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Feb132020</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

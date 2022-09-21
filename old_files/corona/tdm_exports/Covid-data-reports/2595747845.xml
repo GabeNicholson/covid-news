@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2595747845</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>What the world can learn from the Buddhist concept loving-kindness</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-10</NumericDate>
+      <StartDate>2021-11-10</StartDate>
+      <EndDate>2021-11-10</EndDate>
+      <AlphaDate>Nov 10, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20211110_171354</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20211110_171354</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Nov102021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Schedneck, Brooke</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Brooke</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Brooke Schedneck</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Schedneck</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Brooke Schedneck</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/171354/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Meditation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Buddhists</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Buddhism</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Tibet</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>India</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="102">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Loving-kindness teachings Some of the earliest Buddhist teachings developed in India – which are recorded in the Pali canon, the collection of scriptures in the Pali language – emphasized the idea of “metta,” or loving-kindness.
+
+In order to put these words into practice, several Buddhist teachers from North America teach meditation practices meant to develop one’s own metta, or loving-kindness.
+
+Get stories from The Conversation, AP and RNS.] Brooke Schedneck does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="787" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;As the world deals with the trauma caused by COVID-19, World Kindness Day, observed on Nov. 13 annually, is a good opportunity to reflect on the healing potential of both large and small acts of kindness. Indeed, it was the kind acts of essential workers that helped save many lives.&lt;/p&gt;
+&lt;p&gt;As a scholar of Buddhist studies, I have researched the ways in which Buddhist monks talk about kindness and compassion toward all beings.&lt;/p&gt;
+&lt;p&gt;The Dalai Lama has famously been quoted as saying “My true religion is kindness.” Although there is more to Buddhism than just kindness, Buddhism’s teachings and exemplary figures, I believe, have much to offer to a world experiencing intense suffering.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Loving-kindness teachings&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Some of the earliest Buddhist teachings developed in India – which are recorded in the Pali canon, the collection of scriptures in the Pali language – emphasized the idea of “metta,” or loving-kindness. One teaching from this collection of scriptures is the “Karaniya Metta Sutta,” where the Buddha exhorts the good and wise to spread loving-kindness by making these wishes toward all beings:&lt;/p&gt;
+&lt;p&gt;In gladness and in safety,&lt;/p&gt;
+&lt;p&gt;May all beings be at ease.&lt;/p&gt;
+&lt;p&gt;Whatever living beings there may be;&lt;/p&gt;
+&lt;p&gt;Whether they are weak or strong, omitting none,&lt;/p&gt;
+&lt;p&gt;The great or the mighty, medium, short or small,&lt;/p&gt;
+&lt;p&gt;The seen and the unseen,&lt;/p&gt;
+&lt;p&gt;Those living near and far away,&lt;/p&gt;
+&lt;p&gt;Those born and to-be-born —&lt;/p&gt;
+&lt;p&gt;May all beings be at ease!&lt;/p&gt;
+&lt;p&gt;In order to put these words into practice, several Buddhist teachers from North America teach meditation practices meant to develop one’s own metta, or loving-kindness.&lt;/p&gt;
+&lt;p&gt;During meditation sessions, practitioners can visualize people and chant wishes of loving-kindness using variations of phrases based on the Karaniya Metta Sutta. A commonly used version is from a well-known Buddhist meditation teacher, Sharon Salzberg.&lt;/p&gt;
+&lt;p&gt;May all beings everywhere be safe and well.&lt;/p&gt;
+&lt;p&gt;May all beings everywhere be happy and content.&lt;/p&gt;
+&lt;p&gt;May all beings everywhere be healthy and strong.&lt;/p&gt;
+&lt;p&gt;May all beings everywhere be peaceful and at ease.&lt;/p&gt;
+&lt;p&gt;Practitioners spread this kindness toward themselves, people close to them, people they do not know – even distant people or enemies – and finally all beings throughout the world. After visualizing this attitude of loving-kindness, practitioners find it is easier to radiate kindness toward others in real life.&lt;/p&gt;
+&lt;p&gt;In addition to metta, Buddhists also practice compassion (karuna), sympathetic joy (mudita) and equanimity (upekkha) for a peaceful state of mind.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Cultivating compassion&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Later forms of Buddhism in East Asia and Tibet developed the idea of compassion further through the figure of the bodhisattva.&lt;/p&gt;
+&lt;p&gt;The bodhisattva is a practitioner who has vowed to work selflessly for the enlightenment of other beings. The development of this state of mind is known as “bodhicitta.” Bodhicitta provides the motivation and commitment to this difficult path of putting others before oneself.&lt;/p&gt;
+&lt;p&gt;One practice for cultivating bodhicitta is exchanging self for others. In this practice, those on the bodhisattva path would regard the suffering of others as if it were their own and would offer help to others as if helping oneself.&lt;/p&gt;
+&lt;p&gt;As the Indian Buddhist monk Santideva writes in his classic eighth-century work on the path of the bodhisattva, “The Bodhicaryavatara,” one should meditate with this sentiment in mind: “all equally experience suffering and happiness. I should look after them as I do myself.”&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Many bodhisattvas and their meanings&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Buddhist figure most focused on kindness is the bodhisattva of compassion, known originally as Avalokiteshvara, who became popular in India by the sixth century A.D. A popular way to depict Avalokiteshvara is with 11 heads and 1,000 arms, which he uses to benefit all sentient beings. Tibetan Buddhists believe that all Dalai Lamas are manifestations of this bodhisattva.&lt;/p&gt;
+&lt;p&gt;This bodhisattva is known by various names across Asia. In Nepal, the bodhisattva is known as Karunamaya, and in Tibet as Lokesvara and Chenrezig. In China, the bodhisattva is a female figure called Guanyin and portrayed as a woman with long, flowing hair in white robes, who holds a vase tilted downward so she can drop the dews of compassion upon all beings.&lt;/p&gt;
+&lt;p&gt;Throughout East and Southeast Asia this is a popular figure. People make offerings to seek help, especially in regards to success in business and starting a family.&lt;/p&gt;
+&lt;p&gt;With practices that urge people to practice compassion toward others and with figures who can be asked to bestow it, Buddhism offers unique and diverse ways to think about and express kindness.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;3 media outlets, 1 religion newsletter.&lt;/i&gt; Get stories from The Conversation, AP and RNS.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Brooke Schedneck does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Brooke Schedneck, Assistant Professor of Religious Studies, Rhodes College&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 10, 2021</AlphaDate>
+         <StartDate>2021-11-10</StartDate>
+         <EndDate>2021-11-10</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Nov102021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

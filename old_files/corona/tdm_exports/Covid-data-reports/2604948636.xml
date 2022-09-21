@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2604948636</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>HIV prevention pill PrEP is now free under most insurance plans – but the latest challenge to the Affordable Care Act puts this benefit at risk</Title>
+      </TitleAtt>
+      <NumericDate>2021-12-01</NumericDate>
+      <StartDate>2021-12-01</StartDate>
+      <EndDate>2021-12-01</EndDate>
+      <AlphaDate>Dec 1, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20211201_171086</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20211201_171086</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Dec12021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Shafer, Paul</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Paul</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Paul Shafer</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Shafer</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Paul Shafer</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Stojanovski, Kristefer</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Kristefer</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Kristefer Stojanovski</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Stojanovski</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Kristefer Stojanovski</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/171086/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Robert Wood Johnson Foundation</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813211</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Centers for Disease Control &amp; Prevention--CDC</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>923120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Research methodology</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Human immunodeficiency virus--HIV</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Task forces</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Health care policy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>FDA approval</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Patient Protection &amp; Affordable Care Act 2010-US</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Health care expenditures</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease prevention</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Insurance policies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Preventive medicine</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical screening</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Immunization</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Medicare</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Insurance coverage</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease control</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="76">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Since the start of the HIV epidemic in 1981, over 700,000 Americans have lost their lives to AIDS.
+
+Because PrEP was only recently included as a required preventive service, there is limited evidence on how expanding PrEP coverage has affected access.
+
+Immunizations, like COVID-19 vaccines, require a recommendation from the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention, while women’s health services require approval from the Health Resources and Services Administration.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1139" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Since the start of the HIV epidemic in 1981, over 700,000 Americans have lost their lives to AIDS. Being infected used to be a death sentence. But now, 40 years later, the U.S. is on the precipice of eradicating HIV.&lt;/p&gt;
+&lt;p&gt;The U.S. Ending the HIV Epidemic initiative provides a road map to reduce new HIV infections by 90% by 2030. A key preventive strategy in this plan is preexposure prophylaxis, or PrEP, medicine that is almost 100% effective in preventing HIV infection when taken as prescribed.&lt;/p&gt;
+&lt;p&gt;Today, Medicaid and Medicare cover PrEP at zero or low cost, and there are assistance programs as a backstop. Just this year, PrEP was designated a required preventive service under the Affordable Care Act that almost all insurers must cover at no cost.&lt;/p&gt;
+&lt;p&gt;But the latest challenge to the ACA has put these gains at risk.&lt;/p&gt;
+&lt;p&gt;We are public health researchers who study the ACA’s effects on preventive health usage and costs and HIV prevention and LGBTQ health. Because PrEP was only recently included as a required preventive service, there is limited evidence on how expanding PrEP coverage has affected access. But given that removing financial barriers has been shown to significantly increase access to other types of preventive care, eliminating free HIV prevention would be a big step backward in the goal to eradicate HIV.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Barriers to PrEP access&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Although the Food and Drug Administration approved the use of PrEP to prevent HIV in 2012, insurance coverage was slow to build and faced regional disparities, primarily in the South. PrEP often required prior approval before it could be prescribed by a health care provider and is often documented in medical records with stigmatizing terms like “high-risk sexual behavior.” Some states also have public insurance policies like restrictive HIV testing requirements that create more barriers to PrEP access.&lt;/p&gt;
+&lt;p&gt;People who are socially and economically vulnerable face additional access barriers, like limited knowledge and awareness of PrEP, concerns about costs and provider unwillingness to write a prescription. Fear of stigma from the health care system and personal relationships further diminish its use.&lt;/p&gt;
+&lt;p&gt;People who face higher financial burdens benefit the most from making preventive care free. For example, low-income Medicare patients showed the greatest increase in colorectal cancer screening rates once it was made free compared with higher-income privately insured patients.&lt;/p&gt;
+&lt;p&gt;These same trends apply to PrEP. A recent study in a large California health system found that younger patients, people of color and those with lower incomes face significant disparities in obtaining and continuing PrEP. Removing the financial barrier for PrEP through the ACA was a huge win for HIV prevention and the marginalized populations that stand to benefit most.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Affordable Care Act and PrEP&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A popular piece of the Affordable Care Act is its requirement that preventive care services be covered at no cost in most commercial health insurance plans. Though it doesn’t work perfectly, sometimes leaving patients frustrated by unexpected bills, it has made a huge difference in reducing costs for services like well-child visits and mammograms, just to name a few.&lt;/p&gt;
+&lt;p&gt;Section 2713 of the law lays out a few ways a preventive service can qualify for full coverage. Immunizations, like COVID-19 vaccines, require a recommendation from the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention, while women’s health services require approval from the Health Resources and Services Administration. Most other preventive services require an A or B rating from the U.S. Preventive Services Task Force, an independent body of experts trained in research methods, statistics and medicine, and supported by the Agency for Healthcare Research and Quality.&lt;/p&gt;
+&lt;p&gt;The U.S. Preventive Services Task Force assigns letter grades to preventive services through a five-step review process that evaluates the strength of the scientific evidence supporting a service’s net health benefit. An A or B grade indicates “moderate” or “substantial net benefit” supporting the service’s being provided to patients when appropriate. C grades mean there is likely only a small benefit and the service should be considered on a case-by-case basis, while D indicates a recommendation against use. An I grade means there is insufficient evidence to make a recommendation.&lt;/p&gt;
+&lt;p&gt;PrEP received an A rating in June 2019. This paved the way for both PrEP and related services like clinic visits and lab tests to be covered at no cost for millions of commercially insured Americans.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;More than 140,000 readers get one of The Conversation’s informative newsletters.&lt;/i&gt; Join the list today.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What is at stake?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This preventive health benefit has become the latest front in the seemingly unending legal battle over the ACA. The plaintiffs in Kelley v. Becerra are arguing for the inclusion of religious and moral objections that would directly affect contraception and PrEP coverage. Kelley v. Becerra, which is currently pending at a Texas district court with Judge Reed O'Connor, may also strike out Section 2713 of the ACA altogether, eliminating other free preventive services. A decision is expected early next year.&lt;/p&gt;
+&lt;p&gt;The case rests on two legal technicalities that have nothing to do with whether PrEP or contraception deserves to be considered on equal footing with cancer screenings and childhood immunizations. It focuses on whether Congress needed to be more specific about what services could be covered under the law, and whether the power to select covered services could be delegated to groups like the U.S. Preventive Services Task Force.&lt;/p&gt;
+&lt;p&gt;There are well over a million people in the U.S. who could benefit from PrEP. But if Kelley v. Becerra eliminates free preventive care, over 170,000 current PrEP users and a million others who need it could be severely affected. Access to PrEP for Americans with commercial insurance – nearly two-thirds of the population under age 65 – was made easier with the removal of financial barriers. Now those barriers are at risk of being put back in place.&lt;/p&gt;
+&lt;p&gt;A future without HIV is possible and within reach for the U.S. But widely accessible PrEP is a big part of how the nation can get there. Losing preventive coverage through Kelley v. Becerra would be a huge setback to the goal of ending the HIV epidemic in the U.S.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Paul Shafer has received funding in the past three years from the Commonwealth Fund, Kate B. Reynolds Charitable Trust, Robert Wood Johnson Foundation, Horowitz Foundation for Social Policy, Starbucks Coffee Company, and Renova Health. He also previously worked in the Center for Evidence and Practice Improvement at the Agency for Healthcare Research and Quality, which provides support to the US Preventive Services Task Force.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Kristefer Stojanovski has been supported by funding from the Robert Wood Johnson Foundation, the National Institutes of Health, and the Centers for Disease Control and Prevention.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Paul Shafer, Assistant Professor of Health Law, Policy and Management, Boston University&lt;/p&gt;&lt;p&gt;Kristefer Stojanovski, Research Assistant Professor of Social, Behavioral and Population Sciences, Tulane University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 1, 2021</AlphaDate>
+         <StartDate>2021-12-01</StartDate>
+         <EndDate>2021-12-01</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Dec12021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

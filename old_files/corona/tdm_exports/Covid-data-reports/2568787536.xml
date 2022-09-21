@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2568787536</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Will having so many disasters happening at the same time affect donations? We asked an expert</Title>
+      </TitleAtt>
+      <NumericDate>2021-09-03</NumericDate>
+      <StartDate>2021-09-03</StartDate>
+      <EndDate>2021-09-03</EndDate>
+      <AlphaDate>Sep 3, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVEB_20210903_167083</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVEB_20210903_167083</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977986_Sep32021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Rooney, Patrick</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Patrick</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Patrick Rooney</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Rooney</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Patrick Rooney</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/167083/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Indiana University-Purdue University-Indianapolis</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>81321</ClassCode>
+            <ClassExpansion>Grantmaking and Giving Services</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Displaced persons</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Philanthropy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Government aid</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disaster relief</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disasters</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Earthquakes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Donations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>September 11 terrorist attacks-2001</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fraud</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Louisiana</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Afghanistan</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Haiti</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="83">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;In other words, donors who support causes linked to disasters keep on supporting their local food pantry, favorite animal shelter, alma mater, congregation and other usual causes.
+
+Americans gave, for example, an estimated $20 billion for COVID-19 relief in 2020 and funding from private sources for Puerto Rico following Hurricanes Irma and Maria in 2017 totaled at least $375 million.
+
+[...]new charities tend to arise after major disasters that exist only to address needs related to one hurricane, earthquake or other devastating event.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1041" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;i&gt;The scramble to assist the thousands of refugees who fled Afghanistan is on as the humanitarian crisis in that country grows more dire. Haiti’s recovery from an earthquake on Aug. 14, 2021, is off to a rocky start. The recovery from damage Hurricane Ida wrought in Louisiana and northeastern states could take years. Wildfires are raging in California and at least nine other states.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;All these disasters, plus many more, are unfolding while the toll of the COVID-19 pandemic continues to mount in both economic and health terms in the United States and around the world.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;It’s reasonable that people who would normally chip in to alleviate suffering in any of these situations might not know how to help. The Conversation U.S. asked Patrick Rooney, an economist at the Lilly Family School of Philanthropy who has studied disaster giving for decades, three questions to clear up some of the concerns that many donors might have.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. How long will donors give after disasters?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Generally, not long enough.&lt;/p&gt;
+&lt;p&gt;Given all of the disasters affecting the United States and the entire world at the same time, it’s reasonable for many people who want to donate to be unsure about what they should do. Whether you prefer to focus on the short run or the long run, I think it makes sense to donate now, but not necessarily to the most recent need that has come to your attention.&lt;/p&gt;
+&lt;p&gt;In the short run, refugees from Afghanistan and displaced people from Haiti, Louisiana and elsewhere all need “hots and cots” – disaster-speak for hot meals and somewhere to sleep.&lt;/p&gt;
+&lt;p&gt;In the long run, their needs will differ, but grow in terms of their significance and costs. Wherever refugees settle down, most families will need housing and their breadwinners will need jobs. Before becoming gainfully employed, many of those workers will require training and education.&lt;/p&gt;
+&lt;p&gt;Following these disasters, roads, bridges, utilities, schools and other infrastructure will need to be rebuilt, and people could take a long time to rebuild their lives. That’s why efforts to help with recovery need your help now and will need more help later this year, next year and possibly for a much longer period of time.&lt;/p&gt;
+&lt;p&gt;In studying disaster giving, my colleagues and I have generally found, with few exceptions, that roughly half of all the money raised through donations tends to be donated within the first four to six weeks after disasters. By the fifth or sixth month, donations usually slow to a trickle even as needs continue.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. Do people who donate after disasters give less to their favorite causes?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ample evidence indicates that this doesn’t usually happen.&lt;/p&gt;
+&lt;p&gt;My colleagues and I researched U.S. donations to causes tied to 9/11 disaster relief, as well as giving to other charities before and after the 2001 terrorist attacks. We found no evidence that giving related to 9/11 diminished support for other charities.&lt;/p&gt;
+&lt;p&gt;A team of philanthropy researchers has studied disaster relief giving in the United Kingdom using data garnered from more than 100,000 donors over a five-year period. They also found that disaster relief giving does not displace giving to other charities.&lt;/p&gt;
+&lt;p&gt;My IUPUI colleagues, the Center for Disaster Philanthropy and the philanthropy research group Candid collaborated on a survey of 1,243 households about their giving in 2017 and 2018. About 30% made donations annually that were tied to at least one disaster. Only 8% of these donors said that disaster giving led them to cut back on what they gave to other charities.&lt;/p&gt;
+&lt;p&gt;In other words, donors who support causes linked to disasters keep on supporting their local food pantry, favorite animal shelter, alma mater, congregation and other usual causes. And they generally do this in the same amounts as in other years.&lt;/p&gt;
+&lt;p&gt;However, things could be different this time around. There’s no precedent for so many disasters occurring simultaneously during a pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. Did 9/11 change how people give?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Yes.&lt;/p&gt;
+&lt;p&gt;The estimated US$2.8 billion that Americans gave to causes related to the harm caused by the terrorists attacks marked the beginning of new patterns in disaster philanthropy that persist today.&lt;/p&gt;
+&lt;p&gt;First, the magnitude of disaster giving after most major national and international disasters has grown. Americans gave, for example, an estimated $20 billion for COVID-19 relief in 2020 and funding from private sources for Puerto Rico following Hurricanes Irma and Maria in 2017 totaled at least $375 million. Donations following Hurricane Floyd in 1999, for example, were on a much smaller scale.&lt;/p&gt;
+&lt;p&gt;Second, new charities tend to arise after major disasters that exist only to address needs related to one hurricane, earthquake or other devastating event. Most of these pop-up charities, which typically fold after a few years, are legitimate.&lt;/p&gt;
+&lt;p&gt;Unfortunately, this trend has created the temptation for abuse and fraud: Misleading websites can amass donations intended for urgent needs that instead line the pockets of people who don’t need the money. While the actual dollar amounts lost to fraud is unknowable, philanthropy scholars do not believe they represent a large share of the billions of dollars raised annually for disaster relief.&lt;/p&gt;
+&lt;p&gt;To avoid scammers, I recommend giving directly to reputable, well-established charities with experience in disaster relief and recovery. Also watch out for sound-alike and look-alike fraudulent names – such as branding that resembles a familiar charity but isn’t connected to that trusted organization.&lt;/p&gt;
+&lt;p&gt;What has not changed is the need for giving that lasts years rather than months following a major disaster. For example, I see the devastation in the wake of Haiti’s 2021 earthquake as a graphic reminder that many of the infrastructure needs from the 2010 earthquake remain unmet despite the $13.5 billion in government and private aid spent in its aftermath – amid chronic mismanagement and even abuse.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 100,000 readers rely on The Conversation’s newsletter to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;Charities and government aid agencies may need stronger oversight. Another hurdle to overcome: figuring out how to keep donations flowing after the media stops covering a disaster.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Patrick Rooney does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Patrick Rooney, Glenn Family Chair of Economics and Philanthropic Studies, IUPUI&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation :  Economy + Business</Title>
+         <MpubId>4977986</MpubId>
+         <SortTitle>Conversation :  Economy + Business The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVEB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977986</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464265.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation :  Economy + Business</Title>
+            <SortTitle>Conversation :  Economy + Business The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977986</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464265.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Sep 3, 2021</AlphaDate>
+         <StartDate>2021-09-03</StartDate>
+         <EndDate>2021-09-03</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977986_Sep32021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

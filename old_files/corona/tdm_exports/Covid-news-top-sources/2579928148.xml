@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2579928148</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>U.S. News: Health Workers' Mandate Tested by New York Case</Title>
+      </TitleAtt>
+      <NumericDate>2021-10-08</NumericDate>
+      <StartDate>2021-10-08</StartDate>
+      <EndDate>2021-10-08</EndDate>
+      <AlphaDate>Oct 8, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.6</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7510</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7510_Oct82021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>DWJNWSJ20211008wjco20211008000049</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1510</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Vielkind, Jimmy</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jimmy</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jimmy Vielkind</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Vielkind</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jimmy Vielkind</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Thomas More Society</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>541110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>62211</ClassCode>
+            <ClassExpansion>General Medical and Surgical Hospitals</ClassExpansion>
+         </ClassTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>62311</ClassCode>
+            <ClassExpansion>Nursing Care Facilities (Skilled Nursing Facilities)</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Freedom of religion</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employees</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Restraining orders</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical personnel</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Nursing homes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Religious exemptions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hospitals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Supreme Court decisions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Immunization</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Government mandates</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>California</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="719" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Thousands of New York healthcare workers are in limbo as a federal judge considers whether the state's vaccination mandate must accommodate requests for religious exemptions, in a case that could guide similar policies in other states.&lt;/p&gt;
+&lt;p&gt;As written, New York's vaccine mandate applies to all people who work in hospitals and nursing homes, and it doesn't allow healthcare employees to opt out with weekly testing. There were provisions for medical exemptions but not exemptions based on religious beliefs.&lt;/p&gt;
+
+&lt;p&gt;Thousands of healthcare workers who refused vaccinations lost their jobs around the state when the mandate took effect, prompting hospitals to cancel elective surgeries and close operating rooms and outpatient clinics. Many nursing homes have stopped admitting new patients.&lt;/p&gt;
+&lt;p&gt;Workers filed several lawsuits last month to challenge the mandate before it took effect. Seventeen healthcare workers represented by the Thomas More Society, a legal group that advocates for religious liberty, said being forced to take the vaccine would violate their religious beliefs.&lt;/p&gt;
+&lt;p&gt;On Sept. 14, U.S. District Judge David Hurd in Utica, N.Y., issued a restraining order, preventing the state from sanctioning a facility that honored religious-exemption requests. Judge Hurd said he would rule on whether to convert the temporary restraining order to an injunction by next Tuesday.&lt;/p&gt;
+&lt;p&gt;Several healthcare workers who sought religious exemptions from the vaccine mandate said they were Christians who believed their body was sacred and that they avoid medicinal interventions. Others, including the plaintiffs in the Utica case, said they were Christians who opposed abortion and wouldn't take available Covid-19 vaccines because they were developed using fetal tissue.&lt;/p&gt;
+&lt;p&gt;Cell lines derived from fetal tissue that was aborted -- often decades ago -- are routinely used in medical research, including the development and production of the Covid-19 vaccines available in the U.S. Fetal cell lines have also played a role in the development of vaccines against diseases including polio, chickenpox, hepatitis A and shingles.&lt;/p&gt;
+&lt;p&gt;A spokesman for New York's Roman Catholic bishops said the Vatican has determined that in the absence of ethically irreproachable Covid-19 vaccines, it is morally acceptable to receive existing Covid-19 vaccines. The spokesman noted that Pope Francis has stated, "I believe that morally everyone must take the vaccine."&lt;/p&gt;
+&lt;p&gt;The judge's order didn't constrain specific employers, and hospital systems have since taken different approaches. Some have fired people who sought a religious exemption, while others have kept them on the payroll, often with additional testing requirements.&lt;/p&gt;
+&lt;p&gt;The state Health Department said Wednesday that 7,019 hospital workers and 2,934 nursing-home workers applied for nonmedical exemptions to the mandate. A spokeswoman declined to comment further, citing the pending litigation.&lt;/p&gt;
+&lt;p&gt;A similar lawsuit in Rhode Island, which also doesn't allow religious exemptions to its vaccine mandate, is also pending. On Sept. 30, U.S. District Judge Mary McElroy denied a request from several healthcare workers to bar the state's health department from forcing employers to deny religious exemptions.&lt;/p&gt;
+&lt;p&gt;New York's mandate applies to more than 665,000 employees of hospitals and nursing homes. When it took effect on Sept. 27, 92% of staff in those facilities were vaccinated -- and state data show vaccination rates among affected workers rose faster than the general population since the mandate was announced in August.&lt;/p&gt;
+&lt;p&gt;Christopher Ferrara, an attorney with the Thomas More Society, said the state would violate the First Amendment right to religious expression if it allowed for a medical exemption, which he described as secular, without offering a comparable religious exemption. He cited an April 2021 Supreme Court ruling that temporarily barred pandemic-related restrictions on the size of at-home religious gatherings in California.&lt;/p&gt;
+&lt;p&gt;Katherine Franke, a professor at Columbia Law School, said that the California case is one of several recent Supreme Court rulings that expand protections for religious liberty, and she expects cases rising up from state vaccine mandates could set a national precedent.&lt;/p&gt;
+&lt;p&gt;Lawyers for the state argued the mandate was consistent with longstanding vaccination requirements for health workers that don't allow for religious exemptions. Vaccination is a critical tool used to fight the pandemic, and federal courts have upheld vaccination requirements since 1905 as necessary to promote public health, they said.&lt;/p&gt;
+&lt;p&gt;New York Gov. Kathy Hochul has held firm on the mandate, and said Tuesday that employees of state facilities for the mentally ill and developmentally disabled will face a similar requirement.&lt;/p&gt;
+
+&lt;p&gt;Credit: By Jimmy Vielkind &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal</Title>
+         <MpubId>10482</MpubId>
+         <SortTitle>Wall Street Journal</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Eastern edition</Edition>
+         <JournalCode>WSJ</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19590101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7510</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>00999660</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60541.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics--Banking And Finance</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal</Title>
+            <SortTitle>Wall Street Journal</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Eastern edition</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7510</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>00999660</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60541.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Wall Street Journal</Title>
+               <SortTitle>Wall Street Journal The</SortTitle>
+               <Qualifier>New York</Qualifier>
+               <EndIssueDate>19590213</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>25749552</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>60541.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 2, 1984</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19840102</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 8, 2021</AlphaDate>
+         <StartDate>2021-10-08</StartDate>
+         <EndDate>2021-10-08</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7510_Oct82021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

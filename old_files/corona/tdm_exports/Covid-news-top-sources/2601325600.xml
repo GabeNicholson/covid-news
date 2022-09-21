@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2601325600</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>SHORTS [Corrected 11/24/2021]</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-24</NumericDate>
+      <StartDate>2021-11-24</StartDate>
+      <EndDate>2021-11-24</EndDate>
+      <AlphaDate>Nov 24, 2021</AlphaDate>
+      <RawAlphaDate>20211124</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Nov 24, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>6</StartPage>
+         <DocSection>Sports</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Nov242021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2021112420211124501809243</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2021112420211124501809243</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1480</LexileScore>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>National Football League--NFL</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>711211</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813990</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Ronaldo, Cristiano</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Goff, Jared</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="624" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Big deal: Rays set to reward Franco  &lt;/p&gt;&lt;p&gt;Wander Franco made it to the majors last season as a 20-year-old and quickly showed the talent to be a star for a long time. The Rays were impressed enough to invest -- at a record-breaking amount -- in his future, and are close to finalizing a 12-year contract that guarantees the shortstop around $185 million and could be worth up to $223 million, according to reports Tuesday. The deal will be the largest in Rays history, and for a player with less than one year of service time in the major leagues. Franco, who turns 21 on March 1, was called up from Triple A on June 22 and made a smashing debut. After a couple weeks to get adjusted, he showed the hype was real, leading all American League rookies after the All-Star break with a .314 average, 69 hits and 45 runs while striking out only three times in his last 97 plate appearances. Though Franco played in only 70 games, he finished third in the AL rookie of the year voting. Franco has been pegged for stardom since signing at age 16 for a $3.825 million bonus, and he was ranked the top prospect in the game for consecutive seasons.  &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Goff may return on Thanksgiving&lt;/p&gt;&lt;p&gt;The Lions may celebrate Thanksgiving with Jared Goff under center. Coach Dan Campbell said Tuesday that Goff is recovering well from the strained oblique that kept him out of last week's loss to the Browns and likely will play against the Bears on Thursday. "I thought he was better today," Campbell said. "I think it's leaning that way. We'll see." Goff injured his side early in a Week 10 tie with the Steelers and sat out last week's game in which Tim Boyle made his first career start. Goff went through an extensive throwing workout Monday and tested the injury again Tuesday before the team's walkthrough. Goff has missed just two games with injury in his six-year NFL career, one while with the Rams at the end of last season because of a broken throwing thumb, and last week. "He's tough," Campbell said. "And that's, honestly that's part of my concern is because I know how tough he is, ... and I know how bad he wants to play. ... But I do want to make sure he's definitely ready to go. And I do think it's trending that way." At 0-9-1, the Lions are the only winless team in the NFL.  &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Man U makes UCL knockout stage&lt;/p&gt;&lt;p&gt;A smart piece of improvisation by Cristiano Ronaldo helped send Manchester United into the last 16 of the Champions League as Michael Carrick's spell as the English club's interim manager began with a 2-0 win at Villarreal on Tuesday. Scoring his fifth goal of this group stage and 140th overall in the competition, Ronaldo, above, adjusted his feet and lobbed the goalkeeper with a first-time effort in the 78th minute after Fred won the ball back high up the field. Jadon Sancho then scored his first goal since his $100 million move to United, firing in off the underside of the crossbar in the 90th minute at the end of a sweeping counterattack that used to be a feature under Ole Gunnar Solskjaer. Solskjaer is gone, fired Sunday following a run of woeful results that culminated in a humiliating 4-1 loss at Watford in the Premier League. Carrick, one of Solskjaer's assistants, is filling in until a more long-term interim is found and he put his stamp on the team by dropping Bruno Fernandes and starting Donny van de Beek. United leads Group F with 10 points, three more than Villarreal.&lt;/p&gt;&lt;p&gt;CAPTION: Photo: (Wander Franco)   ; Photo: (Jared Goff)   ; Photo: (Cristiano Ronaldo)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 24, 2021</AlphaDate>
+         <RawDate>20211124</RawDate>
+         <StartDate>2021-11-24</StartDate>
+         <EndDate>2021-11-24</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Nov242021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

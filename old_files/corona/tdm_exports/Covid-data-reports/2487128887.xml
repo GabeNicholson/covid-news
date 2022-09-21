@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487128887</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>COVID-19 has resurrected single-use plastics - are they back to stay?</Title>
+      </TitleAtt>
+      <NumericDate>2020-07-14</NumericDate>
+      <StartDate>2020-07-14</StartDate>
+      <EndDate>2020-07-14</EndDate>
+      <AlphaDate>Jul 14, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVEN_20200714_140328</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVEN_20200714_140328</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977984_Jul142020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Heiges, Jessica</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jessica</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jessica Heiges</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Heiges</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jessica Heiges</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>O'Neill, Kate</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Kate</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Kate O'Neill</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>O'Neill</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Kate O'Neill</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/140328/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pollutants</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Stainless steel</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Restaurants</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coffee</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Plastics industry</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Plastics industry</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Coffee</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical supplies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Niches</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Stainless steels</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Plastics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Kitchen utensils</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Federal agencies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Stainless steel</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Cups</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Plastics industry</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Utensils</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Grocery stores</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>California</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="111">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;From plans to pandemic Over several decades leading up to 2020, many U.S. cities and states worked to reduce waste from single-use disposable objects such as straws, utensils, coffee cups, beverage bottles and plastic bags.
+
+Innovative startups targeting reusable foodware niches include Vessel, which partners with cafes, enabling customers to rent stainless steel to-go mugs, and DishCraft, which picks up dirty dishes from dine-in restaurants and to-go food outlets, cleans them with high-tech equipment and returns them ready for reuse.
+
+Subscribe now.] In a March 2020 letter to the U.S. Department of Health and Human Services, the Plastics Industry Association argued that single-use items were the "most sanitary" option for consumers.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1120" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;COVID-19 is changing how the U.S. disposes of waste. It is also threatening hard-fought victories that restricted or eliminated single-use disposable items, especially plastic, in cities and towns across the nation.&lt;/p&gt;
+&lt;p&gt;Our research group is analyzing how the pandemic has altered waste management strategies. Plastic-Free July, an annual campaign launched in 2011, is a good time to assess what has happened to single-use disposable plastics under COVID-19, and whether efforts to curb their use can get back on track.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; From plans to pandemic &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Over several decades leading up to 2020, many U.S. cities and states worked to reduce waste from single-use disposable objects such as straws, utensils, coffee cups, beverage bottles and plastic bags. Policies varied but included bans on Styrofoam, plastic bags and straws, along with taxes and fees on bottles and cups.&lt;/p&gt;
+&lt;p&gt;Social norms around plastic waste have evolved quickly in the past several years. Pre-COVID-19, "Bring your own" tote bags, mugs and other foodware had become part of daily life for many consumers. Innovative startups targeting reusable foodware niches include Vessel, which partners with cafes, enabling customers to rent stainless steel to-go mugs, and DishCraft, which picks up dirty dishes from dine-in restaurants and to-go food outlets, cleans them with high-tech equipment and returns them ready for reuse.&lt;/p&gt;
+&lt;p&gt;Just before COVID-19 lockdowns began in March 2020, the New Jersey senate adopted a bill that would have made the state the first to ban all single-use bags made of either paper or plastic. And U.S. Sen. Tom Udall of New Mexico and U.S. Rep. Alan Lowenthal of California introduced the Break Free from Plastic Pollution Act - the first federal measure limiting use of single-use disposable items.&lt;/p&gt;
+&lt;p&gt;COVID-19 shutdowns drastically changed all of this. In just a few weeks, plastic bags returned to grocery stores in states that had recently banned them. Even before lockdowns were official, restaurants and cafes started refusing personal reusables such as coffee mugs, reverting to plastic cups and lids, wrapped straws and condiment packets.&lt;/p&gt;
+&lt;p&gt;By late June, cities and states had temporarily suspended almost 50 single-use item reduction policies across the U.S. - mainly bans plastic bag bans. The pandemic also spurred demand for single-use personal protective equipment, such as masks and plastic gloves. These items soon began appearing in municipal solid waste streams and discarded on streets.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The plastic pandemic &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;With legislation restricting disposables suspended, many food vendors and grocery stores have shifted entirely to disposable bags, plates and cutlery. This switch has raised their operating costs and cut further into their already-low margins.&lt;/p&gt;
+&lt;p&gt;Grocery stores have sharply increased plastic bag usage. Households are generating up to 50% more waste by volume than they did pre-COVID-19. Anecdotal reports indicate that these waste streams contain more single-use disposable items.&lt;/p&gt;
+&lt;p&gt;The recycling industry has weighed in on the impacts of more single-use bags and higher residential waste volumes. Waste industry workers, who have been uniformly declared essential, work in closed spaces with many other people, so even if surface transmission of coronavirus is not a serious risk, the pandemic has increased person-to-person transmission risks in the waste industry.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Hygiene: A red herring &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The main rationale that states, cities and vendors have offered to justify switching from reusables back to disposables is hygiene. Plastic packaging, the argument goes, protects public health by keeping contents safe and sealed. Also, discarding items immediately after use protects consumers from infection.&lt;/p&gt;
+&lt;p&gt;This narrative handily dovetails with the plastics industry's ongoing effort to slow or derail bans and restrictions. The industry has loudly supported turning the clock back toward single-use disposable products.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;The Conversation's newsletter explains what's going on with the coronavirus pandemic. Subscribe now.&lt;/i&gt;]&lt;/p&gt;
+&lt;p&gt;In a March 2020 letter to the U.S. Department of Health and Human Services, the Plastics Industry Association argued that single-use items were the "most sanitary" option for consumers. Industry representatives are actively lobbying against the Break Free From Plastics Act.&lt;/p&gt;
+&lt;p&gt;However, studies show that these products are not necessarily safer than reusable alternatives with respect to COVID-19. The virus survives as long on plastic as it does on other surfaces such as stainless steel. What's more, studies currently cited by the plastics industry focus on other contaminants such as E.coli and listeria bacteria, not on coronaviruses.&lt;/p&gt;
+&lt;p&gt;Viewed more holistically, plastics generate pollutants upstream when their raw materials are extracted and plastic goods are manufactured and transported. After disposal - typically via landfills or incineration - they release pollutants that can seriously affect environmental and human health, including hazardous and endocrine disrupting chemicals.&lt;/p&gt;
+&lt;p&gt;All of these impacts are especially harmful to minority and marginalized populations, who are already more vulnerable to COVID-19. In our view, plastic goods are far from being the most hygienic or beneficial to public health, especially over the long term.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;States with enacted plastic bag legislation as of Jan. 24, 2020. Preemption means a state has adopted a law barring state or local regulation of plastic bags - measures often promoted by the affected industry. NCSL, CC BY-ND&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Building resilience &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Crises like the COVID-19 pandemic make it hard to see the bigger picture. No longer having to remember reusable tote bags or coffee mugs can be a relief. But the quick return of single-use disposable products shows that recent restrictions are precarious, and that industries don't cede profitable markets without a fight.&lt;/p&gt;
+&lt;p&gt;Waste reduction advocates, such as Upstream Solutions and #BreakFreeFromPlastic, are working to gather data, educate the public and prevent decision-making about plastics that is based on perception rather than scientific reasoning. On June 22, 115 health experts worldwide released a statement arguing that reusables are safe even under pandemic conditions.&lt;/p&gt;
+&lt;p&gt;Some governments are taking notice. In late June, California reinstated its statewide ban on single-use plastic bags and requirement for plastic bags to contain 40% recycled materials. Massachusetts quickly followed suit, lifting a temporary ban on reusable bags.&lt;/p&gt;
+&lt;p&gt;For the longer term, it is unclear how COVID-19 disruptions will affect consumerism and waste disposal practices. In our view, one important takeaway is that while mindful consumers are part of the solution to the plastics crisis, individuals cannot and should not carry the full burden.&lt;/p&gt;
+&lt;p&gt;We believe that at the local and federal levels, policymakers need to build cross-jurisdictional alliances, recognizing shared interests with the waste management industry and emerging businesses like Vessel and Dishcraft. To make progress on reducing plastic waste, advocates need to reinforce measures in place before the next crisis hits.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Jessica Heiges, PhD Candidate in Environmental Science, Policy, and Management, University of California, Berkeley&lt;/p&gt;&lt;p&gt;Kate O'Neill, Professor, Global Environmental Politics, University of California, Berkeley&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>States with enacted plastic bag legislation as of Jan. 24, 2020. Preemption means a state has adopted a law barring state or local regulation of plastic bags - measures often promoted by the affected industry. NCSL, CC BY-ND</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Environment + Energy</Title>
+         <MpubId>4977984</MpubId>
+         <SortTitle>Conversation : Environment + Energy The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVEN</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977984</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464270.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Energy</Subject>
+            <Subject>Environmental Studies</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Environment + Energy</Title>
+            <SortTitle>Conversation : Environment + Energy The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977984</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464270.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 14, 2020</AlphaDate>
+         <StartDate>2020-07-14</StartDate>
+         <EndDate>2020-07-14</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977984_Jul142020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

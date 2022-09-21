@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2579554333</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Inflation Worries Hit U.K. Markets as Energy Prices Soar; The U.K. is a more severe case of the same trends driving inflation higher in the U.S. and around the world</Title>
+      </TitleAtt>
+      <NumericDate>2021-10-07</NumericDate>
+      <StartDate>2021-10-07</StartDate>
+      <EndDate>2021-10-07</EndDate>
+      <AlphaDate>Oct 7, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>Markets</DocSection>
+         <ColumnHeader>Markets Main</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Oct72021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO20211007A11FF11E843732D0BC4EC360A7646718</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1460</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Hirtenstein, Anna</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Anna</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Anna Hirtenstein</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Hirtenstein</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Anna Hirtenstein</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Janus Henderson Group plc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>523120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Deutsche Bank AG</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>522110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>551111</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <PQBCompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Deutsche Bank AG</CompanyName>
+            </CompanyNameAtt>
+            <CompanyTickerAtt>
+               <CompanyTicker>DBK</CompanyTicker>
+            </CompanyTickerAtt>
+            <CompanyIDAtt TermVocab="BUSCORP">
+               <CompanyID>202485</CompanyID>
+            </CompanyIDAtt>
+            <CompanyType>Public</CompanyType>
+            <CompanyHQLocation>Germany</CompanyHQLocation>
+            <CompanyWebsite>https://www.db.com/company/index.htm</CompanyWebsite>
+            <CompanyStockExchange>XETRA</CompanyStockExchange>
+         </PQBCompanyTerm>
+         <PQBCompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Janus Henderson Group plc</CompanyName>
+            </CompanyNameAtt>
+         </PQBCompanyTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>52111</ClassCode>
+            <ClassExpansion>Monetary Authorities-Central Bank</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Shortages</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Trends</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Natural gas prices</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Interest rates</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Energy economics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Central banks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Consumer Price Index</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Government bonds</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Energy prices</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United Kingdom--UK</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="871" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Surging energy costs have spread fear among investors in recent weeks that inflation isn't going away. One place where the strains are being felt most acutely is the U.K., where bond markets have exhibited some wild moves .&lt;/p&gt;
+&lt;p&gt;The most dramatic swings took place with government bonds whose coupons are linked to inflation. Those bonds, and derivatives known as swaps, are seen as a measure of where investors believe inflation is headed. Yields on them surged to their highest levels in over a decade.&lt;/p&gt;
+
+&lt;p&gt;"It's extreme, I've never seen anything quite like it," said Bethany Payne, a global bonds portfolio manager at Janus Henderson. "What you're seeing in the U.K. is a broad rise in inflation expectations."&lt;/p&gt;
+&lt;p&gt;Inflation-linked gilts, as U.K. government bonds are known, signaled that the U.K.'s retail price index could jump to an annual rate of 7% by April 2022, according to Deutsche Bank.&lt;/p&gt;
+&lt;p&gt;The rate on one-year inflation swaps surged to 6.27% earlier this week, up from 5.77% last week, the highest level since at least 2005 and hovered close by on Thursday. The three-year inflation swap rate also jumped, approaching 5% in intraday trading.&lt;/p&gt;
+&lt;p&gt;The sharpness of the moves indicate that some investors may have been forced to sell as positions hit automatic sell orders known as stop losses, according to traders. There has also been a sudden higher demand from market players to use swaps to hedge against the risk of higher inflation.&lt;/p&gt;
+&lt;p&gt;The U.K. is a more severe case of the same trends driving inflation higher in the U.S. and around the world: supply-chain disruptions , labor shortages and surging energy prices. U.S. bond yields have also surged higher in recent days, though less dramatically than in the U.K.&lt;/p&gt;
+&lt;p&gt;The 10-year Treasury yield saw a 0.03 percentage-point rise this month so far at the highest point this week, before edging down to 1.515% on Thursday. The equivalent gilt yield rose over four times more in the same time frame.&lt;/p&gt;
+&lt;p&gt;The U.K.'s problems are being driven by an acute shortage of natural gas , which has sent energy prices to record levels. The energy issues have been amplified by the U.K.'s departure from the European Union, which shrunk the country's labor pool. One visible effect of a shortage of workers: a supply crisis at gas stations due to a shortage of tanker truck drivers.&lt;/p&gt;
+&lt;p&gt;"The concern is that if we remain with elevated inflation for a longer time, then that could result in second-round effects such as wage demands and effectively, inflation of a more permanent nature," said Jorge Garayo, a rates and inflation strategist at Société Générale.&lt;/p&gt;
+&lt;p&gt;Futures for natural gas in the U.K. have more than doubled over the past month and risen almost sixfold since the beginning of the year.&lt;/p&gt;
+&lt;p&gt;"To put things in context, accounting for relative energy usage in Europe for example, the natural gas price rise seen this year is equivalent to oil trading around $200 per barrel now," said George Saravelos, global head of FX research at Deutsche Bank. The importance of these moves on inflation and growth aren't to be underestimated, he said.&lt;/p&gt;
+&lt;p&gt;Inflation has already been on the rise. The consumer-price index in the U.K. rose at an annual rate of 3.2% in August, more than economists had forecast. The retail price index, another inflation gauge that is commonly used by the bond market as a benchmark, jumped 4.8%.&lt;/p&gt;
+&lt;p&gt;To be sure, some investors and economists have raised questions around whether forward-looking inflation gauges calculated from traded financial products such as swaps have the predictive value that many assume. But they remain closely watched by investors .&lt;/p&gt;
+&lt;p&gt;The U.K. has had a long history of troublesome bouts of inflation , including long stretches in the 1970s, and again in the early 1990s when it devalued the pound, triggering a surge in import prices.&lt;/p&gt;
+
+&lt;p&gt;The Bank of England signaled in recent weeks that it is increasingly likely to raise interest rates in the near future, rendering it among the most hawkish of major developed market central banks. Its quantitative easing program is planned to finish at the end of the year.&lt;/p&gt;
+&lt;p&gt;Some investors are betting that the central bank will have to move on rate increases sooner than previously thought to try to temper the recent jump in inflation. It is targeting an annual rate of 2%.&lt;/p&gt;
+&lt;p&gt;"They will have to look more reactionary to this data, they can't just sit back and look laissez-faire," Ms. Payne of Janus Henderson said.&lt;/p&gt;
+&lt;p&gt;In anticipation, investors have been selling out of U.K. government bonds with the yield on the benchmark 10-year gilt rising to 1.153% on Wednesday, the highest level since May 2019. Yields rise when prices fall. This move partly follows a broader rise in government bond yields spurred by expectations that the Federal Reserve will begin tapering bond purchases from next month.&lt;/p&gt;
+&lt;p&gt;"Investors are demanding a higher premium for buying U.K. debt because they're worried about how much of that fixed income is going to be eroded by inflation over time," said John Wraith, head of U.K. rates strategy at UBS.&lt;/p&gt;
+&lt;p&gt;Joe Wallace contributed to this article.&lt;/p&gt;
+&lt;p&gt;Write to Anna Hirtenstein at anna.hirtenstein@wsj.com &lt;/p&gt;
+&lt;p&gt; Inflation Worries Hit U.K. Markets as Energy Prices Soar &lt;/p&gt;
+&lt;p&gt;Credit: By Anna Hirtenstein &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 7, 2021</AlphaDate>
+         <StartDate>2021-10-07</StartDate>
+         <EndDate>2021-10-07</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Oct72021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

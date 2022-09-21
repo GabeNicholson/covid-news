@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2583942103</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>CDC Advisers Back Moderna, J&amp;amp;J Covid-19 Booster Shots; Panel also supports mixing-and-matching approach; now it is up to the CDC director to sign off on the extra doses</Title>
+      </TitleAtt>
+      <NumericDate>2021-10-21</NumericDate>
+      <StartDate>2021-10-21</StartDate>
+      <EndDate>2021-10-21</EndDate>
+      <AlphaDate>Oct 21, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>Politics</DocSection>
+         <ColumnHeader>Health Policy</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Oct212021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO20211021C7A86E025DDCD7634D6B6E37DB0A1B2C</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1600</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Schwartz, Felicia</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Felicia</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Felicia Schwartz</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Schwartz</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Felicia Schwartz</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Food &amp; Drug Administration--FDA</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>922190</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>BioNTech SE</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>541714</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Pfizer Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>325412</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>339113</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Johnson &amp; Johnson</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>325412</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>325611</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>325620</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>339113</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>339115</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <PQBCompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Pfizer Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyTickerAtt>
+               <CompanyTicker>PFE</CompanyTicker>
+            </CompanyTickerAtt>
+            <CompanyIDAtt TermVocab="BUSCORP">
+               <CompanyID>246651</CompanyID>
+            </CompanyIDAtt>
+            <CompanyType>Public</CompanyType>
+            <CompanyHQLocation>United States</CompanyHQLocation>
+            <CompanyWebsite>http://www.pfizer.com</CompanyWebsite>
+            <CompanyStockExchange>NYSE</CompanyStockExchange>
+         </PQBCompanyTerm>
+         <PQBCompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Johnson &amp; Johnson</CompanyName>
+            </CompanyNameAtt>
+            <CompanyTickerAtt>
+               <CompanyTicker>JNJ</CompanyTicker>
+            </CompanyTickerAtt>
+            <CompanyIDAtt TermVocab="BUSCORP">
+               <CompanyID>348138</CompanyID>
+            </CompanyIDAtt>
+            <CompanyType>Public</CompanyType>
+            <CompanyHQLocation>United States</CompanyHQLocation>
+            <CompanyWebsite>http://www.jnj.com</CompanyWebsite>
+            <CompanyStockExchange>NYSE</CompanyStockExchange>
+         </PQBCompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Immunization</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease control</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="923" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+
+&lt;p&gt;Under the FDA's latest authorizations, all three approved vaccines now have a booster shot. PHOTO: Landon Speers for The Wall Street Journal&lt;/p&gt;
+
+&lt;p&gt;A Centers for Disease Control and Prevention advisory panel endorsed booster doses of vaccines from Moderna Inc. and Johnson &amp;amp; Johnson and gave their support to mixing primary vaccines with a different booster dose.&lt;/p&gt;
+&lt;p&gt;The panel on Thursday didn't recommend any of the boosters over the others. However, some members said they wanted to see people who received a J&amp;amp;J vaccine get a booster from Pfizer Inc. and partner BioNTech SE or from Moderna.&lt;/p&gt;
+&lt;p&gt;The first vote passed 15-0, backing boosters six months after their second dose for Pfizer-BioNTech and Moderna vaccine recipients who are seniors, have underlying medical conditions or at high risk of Covid-19 because of where they work.&lt;/p&gt;
+&lt;p&gt;The second vote backing a booster of any kind for people 18 years and over, at least two months after receiving the Johnson &amp;amp; Johnson vaccine, also passed 15-0.&lt;/p&gt;
+&lt;p&gt;The panel's vote also backed mixing and matching for people who received the Pfizer-BioNTech vaccine.&lt;/p&gt;
+
+&lt;p&gt;The votes follow the Food and Drug Administration's authorization Wednesday of Moderna and Johnson &amp;amp; Johnson booster shots. The agency also said people can get an extra dose that is different from the vaccine they received for their primary series.&lt;/p&gt;
+&lt;p&gt;The CDC's signoff is the last step before the Moderna and J&amp;amp;J boosters become available. While the FDA regulates medical products, the CDC offers guidance about the practice of medicine, and many vaccination sites have been following the agency's direction.&lt;/p&gt;
+&lt;p&gt;Soon the CDC is expected to issue recommendations about who should get boosters and how many months people must wait before getting them.&lt;/p&gt;
+&lt;p&gt;The Biden administration has sought boosters to bolster vaccinated people's immune defenses, especially against the contagious Delta variant of the coronavirus. Some health experts, however, say there isn't enough evidence to support giving boosters widely.&lt;/p&gt;
+&lt;p&gt;"I can't say I am comfortable that anyone under 50, otherwise healthy, needs a booster at this time," said Sarah Long, a committee member who specializes in pediatric infectious diseases at Drexel University College of Medicine.&lt;/p&gt;
+&lt;p&gt;Some panel members said they would prefer that Johnson &amp;amp; Johnson vaccine recipients get an extra dose of Pfizer-BioNTech or Moderna rather than another J&amp;amp;J dose. They said another J&amp;amp;J dose could potentially cause a rare side effect, a blood clotting condition that is linked to the J&amp;amp;J vaccine, and that a messenger RNA dose might also offer stronger protection.&lt;/p&gt;
+&lt;p&gt;Regulators have already added warnings about the rare side effect, called thrombosis with thrombocytopenia syndrome or TTS, to the shot's label.&lt;/p&gt;
+&lt;p&gt;The booster campaign has been rolling out since August, starting with extra doses of either the Pfizer-BioNTech vaccine or the one from Moderna for people with compromised immune systems.&lt;/p&gt;
+&lt;p&gt;Then last month, seniors and high-risk people began getting an additional dose of the Pfizer-BioNTech vaccine at least six months after they had finished getting the two-dose primary series.&lt;/p&gt;
+&lt;p&gt;Under the FDA's latest authorizations, all three approved vaccines now have a booster shot.&lt;/p&gt;
+&lt;p&gt;In addition, any adult who got a J&amp;amp;J vaccine may get a booster from Pfizer-BioNTech, Moderna or J&amp;amp;J at least two months after the single-dose shot.&lt;/p&gt;
+&lt;p&gt;People who were initially vaccinated with a Pfizer-BioNTech or Moderna vaccine can get any booster at least six months after their second dose so long as they are seniors or at high risk because of underlying medical conditions or their workplace.&lt;/p&gt;
+&lt;p&gt;The shots will be free and available at pharmacies, doctors' offices and vaccination sites around the country. The U.S. will have enough shots to meet demand, people familiar with the matter said.&lt;/p&gt;
+&lt;p&gt; The J&amp;amp;J booster is the same dose as the first vaccine, and the Moderna booster, regardless of what vaccine a person received first, is half the dose as the first two shots.&lt;/p&gt;
+&lt;p&gt;The U.S. vaccine campaign is expected to continue to expand in the coming weeks. The FDA is expected to next clear Pfizer vaccines for children age 5 to 11 years old, and is also weighing whether to expand the booster campaign to people as young as 40 years old, according to people familiar with the matter.&lt;/p&gt;
+&lt;p&gt;More than 69 million people are fully vaccinated with the Moderna vaccine, and more than 15 million people have received the single-dose J&amp;amp;J vaccine, according to the CDC.&lt;/p&gt;
+&lt;p&gt;The panel also reviewed new information about the risks of myocarditis, particularly in young men, after vaccination with the Pfizer-BioNTech and Moderna vaccines that both use messenger RNA technology.&lt;/p&gt;
+&lt;p&gt;Some safety databases found a heightened risk of myocarditis among people ages 18-39, particularly men, after being vaccinated with the Moderna vaccine as compared with the Pfizer-BioNTech vaccine, according to analyses by a vaccine safety committee.&lt;/p&gt;
+&lt;p&gt; The FDA has delayed clearing Moderna's vaccine in adolescents while it assesses the risk of myocarditis, The Wall Street Journal has reported. Preliminary data on patients 18 to 39 years found that the cases are generally mild and resolve quickly, according to the analysis of the vaccine safety committee.&lt;/p&gt;
+&lt;p&gt;The committee also said there is limited data available about the risk of myocarditis after the third dose of Moderna, including at half the dosage of the first two shots. The smaller dose might lead to less risk of myocarditis, a committee group said. There is also limited safety data about a second J&amp;amp;J shot, but the group said the risks are unlikely to be greater than with the first shot.&lt;/p&gt;
+&lt;p&gt;Write to Felicia Schwartz at felicia.schwartz@wsj.com &lt;/p&gt;
+&lt;p&gt; CDC Advisers Back Moderna, J&amp;amp;J Covid-19 Booster Shots &lt;/p&gt;
+&lt;p&gt;Credit: By Felicia Schwartz &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 21, 2021</AlphaDate>
+         <StartDate>2021-10-21</StartDate>
+         <EndDate>2021-10-21</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Oct212021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

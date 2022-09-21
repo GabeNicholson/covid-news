@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2560970995</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Saving up for your first home? These services can help.</Title>
+      </TitleAtt>
+      <NumericDate>2021-08-14</NumericDate>
+      <StartDate>2021-08-14</StartDate>
+      <EndDate>2021-08-14</EndDate>
+      <AlphaDate>Aug 14, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Aug 14, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>T.11</StartPage>
+         <DocSection>RealEstate</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Aug142021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20210814SavingupforyourfirsthomeTheseservicescand58209ca</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1650</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Lerner, Michele</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Michele</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Michele Lerner</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Lerner</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Michele Lerner</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Credit bureaus</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Down payments</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Cost control</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Credit cards</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Loyalty programs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Deposit accounts</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="588" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Options include account geared toward down payment, rewards card&lt;/p&gt;
+&lt;p&gt;
+&lt;em/&gt;Many first-time home buyers cite saving for a down payment and closing costs as the biggest challenges they face when making the move from renter to owner.&lt;/p&gt;
+&lt;p&gt;The misconception that buyers need a 20 percent down payment persists despite loans that allow for a down payment as low as 3 or 3.5 percent and home buyer assistance programs that provide grants and no-interest loans to cover even that smaller down payment.&lt;/p&gt;
+&lt;p&gt;The median down payment in 2020 was 12 percent among all buyers, according to the 2021 Home Buyers and Sellers Generational Trends Report from the National Association of Realtors. Buyers ages 22 to 30 provided a median down payment of 6 percent.&lt;/p&gt;
+&lt;p&gt;Even with a smaller down payment requirement, home buyers need some cash to pay for closing costs to complete their transaction. Closing costs are typically 2 to 5 percent of the home purchase price. Two new options for saving, both launched earlier this spring and summer, are meant to assist renters who hope to become homeowners.&lt;/p&gt;
+&lt;p&gt;Lower.com, a home-buying platform that includes mortgage lending, insurance broker and deposit account services, recently introduced a mobile app and an FDIC-insured deposit account called "HomeFund." The savings account, which currently yields 0.75 percent, is designed to help consumers save for a down payment. HomeFund's accounts are held at Evolve Bank &amp;amp; Trust in Memphis.&lt;/p&gt;
+&lt;p&gt;Lower.com will match up to the first $500 saved in a HomeFund account with "HomeCash," which can be used as a credit for the down payment or closing costs when the consumers finance their home with Lower.com. HomeCash can also be earned as a reward for referring others or setting up recurring deposits.&lt;/p&gt;
+&lt;p&gt;While many consumers use a rewards credit card to gather points for travel or gift cards, Kairos, a financial services and health-care company, recently launched a rewards program called Bilt Rewards and a credit card known as Bilt Mastercard that will help renters earn rewards to pay their rent or save for a down payment.&lt;/p&gt;
+&lt;p&gt;Bilt Rewards partnered with several multiunit housing owners, such as the Blackstone Group, the Related Companies, Equity Residential and AvalonBay, to allow renters to earn points by paying their rent through Bilt. The Bilt Mastercard allows renters to use the credit card to pay rent with no fee at any apartment unit or rental home in the United States.&lt;/p&gt;
+&lt;p&gt;The Bilt Mastercard earns up to two points on rent payments and one point on other non-rent transaction purchases. The rewards program is free for tenants to join. Rewards points can be earned by paying rent through the app, with possible bonus rewards points for signing or renewing a lease or other incentives from Bilt Rewards or landlords.&lt;/p&gt;
+&lt;p&gt;Renters can sign up for BiltProtect, which pulls funds directly from their bank account to pay rent. That way the Bilt Mastercard credit line isn't being used to pay the rent.&lt;/p&gt;
+&lt;p&gt;Bilt Mastercard will report all rental payments to the credit bureaus to potentially boost renters' credit scores with on-time payments.&lt;/p&gt;
+&lt;p&gt;While many consumers may want to use their rewards points for a down payment, the points can also be redeemed for travel, fitness studios, home decor or to pay their rent when they've accumulated enough points. For those interested in homeownership, the rewards can be used toward a down payment on a loan insured or guaranteed by Fannie Mae or HUD that is originated by Bilt.&lt;/p&gt;
+&lt;p&gt;For more information on Bilt Rewards and Bilt Mastercard, visit &lt;em&gt;https://www.biltrewards.com/&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;realestate@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 14, 2021</AlphaDate>
+         <StartDate>2021-08-14</StartDate>
+         <EndDate>2021-08-14</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Aug142021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

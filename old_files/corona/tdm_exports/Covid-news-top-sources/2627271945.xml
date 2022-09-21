@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2627271945</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Panel Approves Transfer of Saudi Engineer From Guantánamo Bay</Title>
+      </TitleAtt>
+      <NumericDate>2022-02-10</NumericDate>
+      <StartDate>2022-02-10</StartDate>
+      <EndDate>2022-02-10</EndDate>
+      <AlphaDate>Feb 10, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Feb 10, 2022</CopyrightData>
+      </Copyright>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Feb102022______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>NYT202202102msTCV9aRBtFkfVskgRLQ</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1640</LexileScore>
+      <DateLine>2022-02-10 @ 23:19</DateLine>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Rosenberg, Carol</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Carol</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Carol Rosenberg</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Rosenberg</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Carol Rosenberg</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>New York Times Co</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511120</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515112</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>National security</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Prisoners</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Federal court decisions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Armed forces</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Trials</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Pakistan</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Austin, Lloyd</Personal>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Saudi Arabia</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Afghanistan</Geographic>
+         </Term>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>World</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Social Conditions And Trends</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Language And Languages</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>War And Armed Conflicts</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Conflict, War And Peace</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Defense And Military Forces</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Medicine And Health</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Lifestyle And Leisure</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Prisons And Prisoners</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Crime And Criminals</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Crime, Law And Justice</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Criminal Justice</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Courts And The Judiciary</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Human Interest</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Historic Buildings And Sites</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>House Of Representatives</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Phoenix (Ariz)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>New York City</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Zubaydah, Abu</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Iraq</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Alabama</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Arizona</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Austin, Lloyd J Iii</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>House Committee On Armed Services</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Al Qaeda</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Qahtani, Mohammed Al</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Punjab (Pakistan)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Israel</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Embry Riddle Aeronautical University Worldwide</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Defense Department</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Afghanistan</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Washington (Dc)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Pakistan</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Saudi Arabia</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Guantanamo Bay Naval Base (Cuba)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>United States</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>English Language</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>International Relations</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Mental Health And Disorders</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>World Trade Center (Manhattan, Ny)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Afghanistan War (2001  )</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>September 11 (2001)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>United States Politics And Government</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Politics And Government</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Military Tribunals</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Terrorism</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>United States Defense And Military Forces</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="896" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;FILE - Secretary of Defense Lloyd Austin on Capitol Hill in Washington, Sept. 28, 2021. A U.S. government review panel on Thursday approved the release with security guarantees of a Saudi prisoner at Guantánamo Bay who was captured in Pakistan and held as a suspected bomb maker. (Stefani Reynolds/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+&lt;p&gt;WASHINGTON — A U.S. government review panel on Thursday approved the release with security guarantees of a Saudi prisoner at Guantánamo Bay who was captured in Pakistan and held as a suspected bomb maker.&lt;/p&gt;
+&lt;p&gt;The decision in the case of Ghassan Abdullah al-Sharbi, who has been held for nearly 20 years, means most of the 39 detainees at the wartime prison have now been cleared for transfer, but must wait for U.S. diplomats to reach security agreements with countries willing to take them in.&lt;/p&gt;
+&lt;p&gt;Al-Sharbi, 47, was of particular interest to the United States because, according to a U.S. intelligence profile, he had taken flight school courses in Phoenix with two men who would become hijackers in the attacks of Sept. 11, 2001. He had also obtained an engineering degree, attended Embry-Riddle Aeronautical University in Arizona and was fluent in English.&lt;/p&gt;
+&lt;p&gt;The Periodic Review Board said in a short statement that al-Sharbi had unspecified “physical and mental health issues,” and that, with rehabilitation and security measures, including travel restrictions, he could be safely transferred to the custody of another country.&lt;/p&gt;
+&lt;p&gt;The board released the decision less than a week after disclosing that it had approved the repatriation of Mohammed al-Qahtani, a mentally ill Saudi prisoner who was considered to be al-Qaida’s intended 20th hijacker in the Sept. 11 attacks.&lt;/p&gt;
+&lt;p&gt;Last Friday, according to people familiar with the process, the Pentagon notified Congress that Defense Secretary Lloyd Austin had signed off on Saudi guarantees for security arrangements upon Qahtani’s return. The certification is required by law at least 30 days before transfer.&lt;/p&gt;
+&lt;p&gt;The initial reaction to the decision was muted. Then on Monday, the top Republican on the House Armed Services Committee, Rep. Mike D. Rogers of Alabama, responded to published reports about plans to transfer Qahtani by accusing the Biden administration of “an appalling capitulation to the far left.”&lt;/p&gt;
+&lt;p&gt;Al-Sharbi, a citizen of Saudi Arabia, may be able to go home sooner than other cleared detainees whose governments are considered too unstable or too untrustworthy to make satisfactory agreements with the United States.&lt;/p&gt;
+&lt;p&gt;Saudi Arabia has received about 140 Saudis and Yemenis from Guantánamo into a program created to help rehabilitate men who joined militant, jihadi movements in Afghanistan in the years before the Sept. 11 attacks.&lt;/p&gt;
+&lt;p&gt;But the board did not specifically recommend that al-Sharbi be sent to Saudi Arabia. Instead it called for the receiving country to monitor his activities, prevent him from traveling and continue to share information about him with U.S. authorities.&lt;/p&gt;
+&lt;p&gt;The case of al-Sharbi illustrated the challenges to successive U.S. administrations of putting suspected Qaida foot soldiers on trial at Guantánamo.&lt;/p&gt;
+&lt;p&gt;For a time, he was charged with “providing material support for terrorism” for allegedly helping to build car-bomb detonators in the Punjab region of Pakistan that were to be shipped to Afghanistan. He was captured in March 2002 with a “high-value detainee” known as Abu Zubaydah in a raid in Faisalabad, Pakistan.&lt;/p&gt;
+&lt;p&gt;But higher courts ruled that the charge of providing material support was not constitutional at the military commissions, making him and other low-value prisoners essentially ineligible for trial. He spent years as an indefinite detainee.&lt;/p&gt;
+&lt;p&gt;In his first years at Guantánamo Bay, al-Sharbi was considered a belligerent, unrepentant prisoner. At a hearing in 2004 or 2005 before a military board, which reviewed his status as an “enemy combatant,” he railed against capitalism, America, homosexuality, Israel and the war in Iraq.&lt;/p&gt;
+&lt;p&gt;In 2006, he was more soft-spoken but rejected the authority of the war court to put him on trial. He rebuffed his U.S. military defense lawyer in fluent English and derided the proceedings altogether as “same circus, different clown.”&lt;/p&gt;
+&lt;p&gt;Al-Sharbi apparently mellowed in recent years. An unidentified U.S. military officer who represented him at a board hearing in December said they had “many discussions” about how he would manage after Guantánamo. The U.S. officer said al-Sharbi “could assimilate well in either an Arabic- or English-speaking country.”&lt;/p&gt;
+&lt;p&gt;Sabrina P. Shroff, a federal public defender who has represented al-Sharbi in an unlawful detention case in U.S. District Court in Washington, D.C., for about a year, wrote to the board that he did not pose a threat to the national security of the United States. Shroff also said that she was “so confident of his goodness” that she would “welcome him in my home,” and gave him her New York City address.&lt;/p&gt;
+&lt;p&gt;That is not possible because former Guantánamo detainees are forbidden to enter the United States.&lt;/p&gt;
+&lt;p&gt;“He has no animus,” Shroff wrote. “Ghassan has frequently said that he has to look forward and the best way to look forward is with clear eyes, and an open and pure heart.”
+This article originally appeared in The New York Times.
+&lt;/p&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="2"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;EDS.: PHOTO HAS BEEN REVIEWED BY MILITARY CENSORS — FILE —The Detention Center Zone at Guantanamo Bay, Cuba, April 17, 2019. A U.S. government review panel on Thursday approved the release with security guarantees of a Saudi prisoner at Guantánamo Bay who was captured in Pakistan and held as a suspected bomb maker. (Doug Mills/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>FILE - Secretary of Defense Lloyd Austin on Capitol Hill in Washington, Sept. 28, 2021. A U.S. government review panel on Thursday approved the release with security guarantees of a Saudi prisoner at Guantánamo Bay who was captured in Pakistan and held as a suspected bomb maker. (Stefani Reynolds/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>EDS.: PHOTO HAS BEEN REVIEWED BY MILITARY CENSORS — FILE —The Detention Center Zone at Guantanamo Bay, Cuba, April 17, 2019. A U.S. government review panel on Thursday approved the release with security guarantees of a Saudi prisoner at Guantánamo Bay who was captured in Pakistan and held as a suspected bomb maker. (Doug Mills/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>2</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 10, 2022</AlphaDate>
+         <StartDate>2022-02-10</StartDate>
+         <EndDate>2022-02-10</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Feb102022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

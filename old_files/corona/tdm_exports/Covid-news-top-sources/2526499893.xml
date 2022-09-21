@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2526499893</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Lines, high prices and fisticuffs: The 1970s gas shortage</Title>
+      </TitleAtt>
+      <NumericDate>2021-05-14</NumericDate>
+      <StartDate>2021-05-14</StartDate>
+      <EndDate>2021-05-14</EndDate>
+      <AlphaDate>May 14, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post May 14, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.5</StartPage>
+         <DocSection>Metro</DocSection>
+         <DocEdition>RegionalgionalE</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_May142021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20210514LineshighpricesandfisticuffsThe1970sgass1e308502</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1290</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <DisplayForm>Reis Thebault</DisplayForm>
+               <OriginalFormAtt>
+                  <OriginalForm>Reis Thebault</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Organization of Petroleum Exporting Countries--OPEC</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813910</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Gasoline prices</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Presidents</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Energy shortages</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Automobile drivers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Nixon, Richard M</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1333" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;The line of cars stretches for blocks. Pumps run dry. Newspapers warn of a great "gas crunch." The president urges calm. Panicked motorists turn on one another.&lt;/p&gt;
+&lt;p&gt;Hackers? Ransomware? Cybercrime? Nah. This was the 1970s, an age of 12 miles per gallon and decidedly low-tech fuel shortage culprits: geopolitics, OPEC, the Iranian Revolution.&lt;/p&gt;
+&lt;p&gt;If the service station situation seems bad now, with a worsening fuel shortage in the Southeast, it's worth revisiting the pair of gasoline crises that bookended the "Me Decade" and incited an alarm that one historian said was worse than the pandemic.&lt;/p&gt;
+&lt;p&gt;To fully grasp the impact of the 1973 and 1979 shortages, contemporary readers must journey into that era's psyche. Meg Jacobs, a Princeton University historian who chronicled the tumultuous time, described the post-World War II scene as a golden age of highways, shopping malls and suburban sprawl. An energy emergency was not in the cards.&lt;/p&gt;
+&lt;p&gt;"The notion that Americans were going run out of gas was both new and completely terrifying. It came on so suddenly," said Jacobs, author of "Panic at the Pump: The Energy Crisis and The Transformation of American Politics in the 1970s." "At the same time, our cars were the size of living rooms."&lt;/p&gt;
+&lt;p&gt; Not only were cars large, but they also   played on outsize role in Americans' self-conception, she said.&lt;/p&gt;
+&lt;p&gt;"Everybody was completely dependent and in love with their cars as a symbol of American triumph and freedom," Jacobs said.&lt;/p&gt;
+&lt;p&gt;Then, the "oil shocks." First, in 1973, when Arab oil exporters imposed an embargo on the United States and many of its allies in retaliation for American support of Israel during the Yom Kippur War. An aide to President Richard M. Nixon called it "an energy Pearl Harbor." Then, after Iran ousted its shah in 1979, the country's oil production dipped and OPEC, the Organization of the Petroleum Exporting Countries, raised prices, triggering another shortage.&lt;/p&gt;
+&lt;p&gt;Both times, the reaction was similar. "Americans freaked out," Jacobs said. "And their response was to go line up at the pumps. . . . This was more than just a mad rush on toilet paper. Americans understood this as the lifeline of the country."&lt;/p&gt;
+&lt;p&gt;This wasn't just an empty tank; it was a blow to a treasured star-spangled mythos.&lt;/p&gt;
+&lt;p&gt;"The people out there are getting frantic," observed the protagonist in John Updike's novel of the period, "Rabbit is Rich." "They know the great American ride is ending."&lt;/p&gt;
+&lt;p&gt;Gas prices surged. Federal officials reduced the national speed limit to 55 mph. Gas stations flew a stoplight-themed array of flags to alert drivers about their fuel supplies. Red meant they were all out, yellow meant running low and green signaled they were stocked. One man, judging the system to be "un-American," burned the flags with acid.&lt;/p&gt;
+&lt;p&gt;Some drivers ventured out before sunrise to fill up. States instituted a rationing system based on car license plates - if you had an even number, you could only get gas on an even-numbered day. At least one man was arrested for pulling a gun on a gas station attendant who refused to fill his car because it was the wrong day.&lt;/p&gt;
+&lt;p&gt;Cars encircled city blocks as people waited more than an hour for their turn at the pump. A Washington Post headline on the front page of the June 9, 1979, newspaper announced: "Gas Lines Long, Tempers Short in Panic Buying." The article noted "occasional fistfights" and described one kerfuffle along the District's Connecticut Avenue, where two motorists cut in line at a BP station.&lt;/p&gt;
+&lt;p&gt;"According to witnesses, one of the culprits pulled in front of a 'very heavyset man' who angrily jumped from his car, opened the door of the line-jumper 'and began to curse royally,' " Post reporters wrote.&lt;/p&gt;
+&lt;p&gt;"Only the driver's white hair may have saved him from the violence," a bystander told them.&lt;/p&gt;
+&lt;p&gt;The news coverage was ceaseless and all-caps - in format and tone. Charles B. Seib, The Post's ombudsman at the time, dubbed it "our all-consuming concern."&lt;/p&gt;
+&lt;p&gt;The phrase "gas shortage" appeared in the pages of The Post more than 1,300 times from 1973 through 1979. Correspondents covered the people waiting in line - like D.C. Council Chair John Nevius, who was "just like the rest of us" - and those who skipped ahead, such as construction companies and car rental services.&lt;/p&gt;
+&lt;p&gt;They observed the wider economic fallout, such as the "beach cottages unrented in Ocean City" and the "ice cream cones not purchased at Montgomery Mall." And they followed the crisis to unusual locales: One therapist reported that "almost every patient" was voicing "frustration, anger and fantasies" about gasoline.&lt;/p&gt;
+&lt;p&gt;"Most of what I hear are fantasies of what they'd like to do to a person who cut in a gas line," he said. "They'd like to explode on [such] a person."&lt;/p&gt;
+&lt;p&gt;Turns out, Jacobs said, many Americans wound up exploding on their political leaders as well.&lt;/p&gt;
+&lt;p&gt;The 1973 embargo came just days before the infamous "Saturday Night Massacre," when Nixon purged his Justice Department, and oil issues would play an often overlooked part in his downfall.&lt;/p&gt;
+&lt;p&gt;"Watergate is what doomed Richard M. Nixon," Jacobs said, "but the energy crisis was really the nail in the coffin."&lt;/p&gt;
+&lt;p&gt;The administration had internal polling that told them the public was actually more upset about the gas shortage than the embattled president's political scandal, she said. In the end, he didn't have a good answer for either one.&lt;/p&gt;
+&lt;p&gt;Then, Democrat Jimmy Carter ran for office promising honesty and an end to the oil crisis. Once elected, he created the Energy Department, hoping to reduce dependence on foreign oil and fossil fuels. He attached solar panels to the White House roof and chastised Americans for their "self-indulgence and consumption." Yet, another shock came.&lt;/p&gt;
+&lt;p&gt;"He was promising a solution only to then fail miserably in the eyes of the public," Jacobs said.&lt;/p&gt;
+&lt;p&gt;Bumper stickers reading "Carter, Kiss My Gas" began appearing on the cars of disgruntled drivers. And he lost reelection.&lt;/p&gt;
+&lt;p&gt;Both panics helped fundamentally reshape American politics, Jacobs argued.&lt;/p&gt;
+&lt;p&gt;"If Vietnam and Watergate taught Americans to mistrust their leaders, the energy crisis taught them that government didn't work," she said.&lt;/p&gt;
+&lt;p&gt;All this raises an obvious question: How does what happened then compare to now? The country is witnessing the fallout of a cyberattack that shut down a major U.S. pipeline and has led to fuel shortages in the Southeast&lt;em&gt;.&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;But, Jacobs said, "in real terms, it is not as bad and this will clear up."&lt;/p&gt;
+&lt;p&gt;However, she added, forgive the nation for being on edge. Consider the coronavirus pandemic, which has had people cooped up for more than a year, eschewing planes and eager to road trip, either to see loved ones or just to get away.&lt;/p&gt;
+&lt;p&gt;"This is not like the 1970s, but we have lived through an unprecedented scarring event that makes the need to travel greater than ever," Jacobs said.&lt;/p&gt;
+&lt;p&gt;And today is different from a half-century ago for another reason: President Biden - whose first year in the Senate coincided with the 1973 shock - "is trying to enact a big change in how we organize our energy lives," Jacobs said, one that seeks to pair climate and economic policy.&lt;/p&gt;
+&lt;p&gt;It's an optimistic vision, she said, one that believes "in the power of government to fix our problems." In other words, one that seeks to overcome the failings of the 1970s.&lt;/p&gt;
+&lt;p&gt;But just like the shortages, optimism has a long history here. Writing a letter to The Post's editor in 1979, Michael R. Hoyt of Silver Spring, Md., hoped that the long lines and low tanks "may turn out to be a good thing."&lt;/p&gt;
+&lt;p&gt;"Perhaps during this crisis, we will all be forced to stay closer to home and get to know our family and friends better," he wrote. "Perhaps it is an opportunity for neighbors to become communities once again. If this happens, then indeed the gas shortage will be a blessing."&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;
+reis.thebault@washpost.com
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+‧ From Retropolis, a blog about the past, rediscovered, at washingtonpost.com/&lt;em&gt;retropolis&lt;/em&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 14, 2021</AlphaDate>
+         <StartDate>2021-05-14</StartDate>
+         <EndDate>2021-05-14</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_May142021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

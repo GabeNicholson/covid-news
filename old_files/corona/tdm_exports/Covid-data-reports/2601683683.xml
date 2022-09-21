@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2601683683</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>The NRA could be winning its long game even as it appears to be in dire straits</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-24</NumericDate>
+      <StartDate>2021-11-24</StartDate>
+      <EndDate>2021-11-24</EndDate>
+      <AlphaDate>Nov 24, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20211124_172030</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20211124_172030</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Nov242021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Spitzer, Robert</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Robert</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Robert Spitzer</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Spitzer</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Robert Spitzer</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/172030/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>National Rifle Association--NRA</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813410</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813940</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>New York State Rifle &amp; Pistol Association</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813410</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political campaigns</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Shootings</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Judicial appointments</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Firearm laws &amp; regulations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Firearms</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Litigation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="116">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]there’s no reason to believe that the NRA’s problems will influence how the courts treat gun-rights cases. 2 very different lawsuits are pending The Supreme Court case, New York State Rifle and Pistol Association v. Bruen, challenges a state law that requires authorities to exercise discretion when issuing concealed-carry pistol permits.
+
+The organization has not released clear information about how any of this has affected membership.
+
+Because the NRA gets 40% of its annual revenue from member dues, which are reportedly stagnant, this exposure could be affecting its bottom line.
+
+[...]arguably more important, recent Republican presidents have been remarkably successful in appointing to the federal court system a large number of young and very conservative jurists.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="913" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;No observer of contemporary gun politics could fail to notice a jarring disconnect between the two very different trajectories of the gun rights movement today.&lt;/p&gt;
+&lt;p&gt;On the one hand, more states are allowing Americans to carry weapons in public without permits, and the gun-rights movement could be on the verge of a major Supreme Court victory. On the other, the National Rifle Association, which advocates on behalf of gun owners, faces an existential crisis that’s mostly due to the NRA’s own missteps.&lt;/p&gt;
+&lt;p&gt;As a political scientist who has studied gun politics and policy for over 30 years, I’m confident that there is no precedent for this contradictory situation. Moreover, there’s no reason to believe that the NRA’s problems will influence how the courts treat gun-rights cases.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2 very different lawsuits are pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Supreme Court case, New York State Rifle and Pistol Association v. Bruen, challenges a state law that requires authorities to exercise discretion when issuing concealed-carry pistol permits. When justices heard oral arguments on Nov. 3, 2021, a majority of them appeared to be skeptical about the law’s constitutionality – despite the fact that it was first enacted in 1911 and has withstood legal challenges in the past.&lt;/p&gt;
+&lt;p&gt;Meanwhile, as it marks the 150th anniversary of its 1871 founding, the NRA looks like an organization in jeopardy.&lt;/p&gt;
+&lt;p&gt;Expensive and protracted litigation exposed a pattern of lavish perks for its top officials, including private jets, designer clothes and vacations at expensive resorts – as well as plenty of cronyism and sweetheart contracts.&lt;/p&gt;
+&lt;p&gt;Many of these allegations of misdeeds were crystallized in a 160-page lawsuit brought by the New York Attorney General’s office in August 2020. It called for the NRA’s dissolution and the removal of Wayne LaPierre as its CEO.&lt;/p&gt;
+&lt;p&gt;A nonprofit gun-control group led by former Rep. Gabby Giffords, who survived being shot at close range, is also suing the NRA. The Giffords group alleges financial misconduct and possible campaign finance law violations.&lt;/p&gt;
+&lt;p&gt;Also, some NRA board members have resigned in recent years due to their objections to the organization’s track record. In September 2021, a dissident board member called for the entire board to be replaced and for LaPierre’s removal.&lt;/p&gt;
+&lt;p&gt;And in November, a National Public Radio report on secret recordings of a 1999 conference call among the organization’s top leaders held immediately after the Columbine High School shootings further tarnished the NRA’s reputation.&lt;/p&gt;
+&lt;p&gt;The recordings revealed frank discussions of the organization’s public relations strategy and derided some of the organization’s more zealous members as “hillbillies” and “fruitcakes.”&lt;/p&gt;
+&lt;p&gt;The organization has not released clear information about how any of this has affected membership. Because the NRA gets 40% of its annual revenue from member dues, which are reportedly stagnant, this exposure could be affecting its bottom line.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What’s happening in court&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The NRA’s national reputation, however, might not matter that much.&lt;/p&gt;
+&lt;p&gt;First, while the NRA has long played a key role in Second Amendment litigation, many affiliated and unaffiliated organizations have taken on the task of challenging laws that restrict gun rights, such as the New York State Rifle and Pistol Association – the plaintiff in the pending Supreme Court case. Similar state-specific organizations exist throughout the country.&lt;/p&gt;
+&lt;p&gt;Second, and arguably more important, recent Republican presidents have been remarkably successful in appointing to the federal court system a large number of young and very conservative jurists. They have expressed great sympathy for an expansive reading of gun rights under the Second Amendment. Their interpretation goes further than the standard the court set out in its 2008 D.C. v. Heller ruling, when the court for the first time established that Americans have a right to own handguns for personal protection in their homes.&lt;/p&gt;
+&lt;p&gt;Even though he served for only one term, President Donald Trump was particularly successful in filling judicial vacancies, thanks in large measure to Republican Senate leader Mitch McConnell’s efforts.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Like what you’ve read? Want more?&lt;/i&gt; Sign up for The Conversation’s daily newsletter.]&lt;/p&gt;
+&lt;p&gt;The three conservative Supreme Court justices Trump appointed, Neil Gorsuch, Brett Kavanaugh and Amy Coney Barrett, had all previously expressed their support for the rights of gun owners. And Justices Clarence Thomas and Samuel Alito, who have been on the court far longer, have often expressed dissatisfaction that gun rights have not received sufficient deference in prior court rulings.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Public opinion is shifting&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;There’s another paradox that could matter too: Most Americans, especially Democrats, continue to support stricter gun laws, and yet people in the U.S. are buying guns, mostly handguns, at a record pace.&lt;/p&gt;
+&lt;p&gt;Notably, support for stricter gun control fell in the past year by 5 percentage points to 52%, according to a Gallup poll conducted in October 2021. That decline followed a 7-percentage-point drop Gallup measured a year earlier. Still, the poll reflects overwhelming support for existing gun laws: Only 11% favor making gun laws less strict.&lt;/p&gt;
+&lt;p&gt;A record-setting 1.2 million background checks, a proxy for gun sales, were conducted in two separate single weeks in March 2021. The buying spree was fanned by fears that arose during the COVID-19 pandemic, demonstrations tied to the Black Lives Matter movement and the 2020 elections.&lt;/p&gt;
+&lt;p&gt;However, only about 20% of these purchases were new gun owners. For the most part, the nation’s estimated 72 million gun owners are adding to their firearm collections.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Robert Spitzer is a member of the National Rifle Association and the Giffords organization.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Robert Spitzer, Distinguished Service Professor Emeritus of the Political Science Department, State University of New York College at Cortland&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 24, 2021</AlphaDate>
+         <StartDate>2021-11-24</StartDate>
+         <EndDate>2021-11-24</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Nov242021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

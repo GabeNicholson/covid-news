@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2444465620</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>In a year of change, taking a run at altering the NCAA</Title>
+      </TitleAtt>
+      <NumericDate>2020-09-22</NumericDate>
+      <StartDate>2020-09-22</StartDate>
+      <EndDate>2020-09-22</EndDate>
+      <AlphaDate>Sep 22, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Sep 22, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>D.1</StartPage>
+         <DocSection>Sports</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Sep222020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20200922InayearofchangetakingarunatalteringtheNC9c4ae748</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1390</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Giambalvo, Emily</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Emily</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Emily Giambalvo</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Giambalvo</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Emily Giambalvo</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>National Collegiate Athletic Association--NCAA</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813990</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Racism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>College campuses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Athletes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>College sports</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mental health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>College basketball</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>High school basketball</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Police brutality</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Black Lives Matter movement</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Arizona</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Colorado</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>San Francisco California</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1776" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;In spring 2019, Andrew Cooper and some other Pac-12 athletes arrived at a high-end resort in Phoenix. Ten pools and a golf course surrounded them on the scenic property. Cooper, a cross-country runner from Washington State, attended this event during which administrators were supposed to listen to athletes.&lt;/p&gt;
+&lt;p&gt;During one session, Kate Fagan, the author of a book about a college runner who died by suicide, addressed mental health and how colleges could better serve athletes. The year prior, Cooper watched as quarterback Tyler Hilinski's death by suicide rocked his campus community. Cooper called Fagan's discussion "one of the most powerful mental health talks I've ever witnessed." But he remembers the stark juxtaposition in the room: Athletes cried while some administrators continued working on their laptops.&lt;/p&gt;
+&lt;p&gt;"It just made me realize they don't care," Cooper said. "They don't &lt;em&gt;actually &lt;/em&gt;care about us. This is only going to change from the outside."&lt;/p&gt;
+&lt;p&gt;Cooper dedicated most of his time in college - and now his future - to helping athletes. He ran for Washington State, then the University of California Berkeley, where he's earning a master's degree. This fall would have been his final season competing if not for the novel coronavirus pandemic. In some ways, Cooper said, he still feels like an outsider looking in at college sports, thinking, "Wow, these guys are so cool." But his web of friends spans schools and sports. He listens to them with an intent to understand.&lt;/p&gt;
+&lt;p&gt;Cooper's graduate research focuses on the college sports system and its brokenness, giving him the tools to challenge the enterprise. Pac-12 football players became the spokesmen for their push for player rights this summer, but Cooper was deeply involved in the movement from its earliest days.&lt;/p&gt;
+&lt;p&gt;The Pac-12 players' initiative - which made demands related to health and safety, racial justice and economic rights - was the first public manifestation of ideas that floated inside Cooper's mind and in conversations with friends for years. Cooper will finish his graduate degree this winter, but he plans to stay in this realm of college sports reform as a career. He's writing his master's thesis on the systemic inequities in college sports - "specifically," he notes, "with the intent of solving them."&lt;/p&gt;
+&lt;b&gt;'I was all in'&lt;/b&gt;
+&lt;p&gt;Cooper joined a running club in elementary school; during 10th grade, he ditched other sports and committed to cross-country at Liberty High in Washington state. He wanted to be an Olympian and run professionally. Cooper watched videos of races and interviews, trying to understand the thoughts and routines of elite runners. Jacob Brueckman, who attended a nearby high school and now runs for Colorado State, remembers Cooper logging 70-mile weeks before he had even considered that type of mileage.&lt;/p&gt;
+&lt;p&gt;"Every moment of my life was occupied by running," Cooper said. " . . .  When I say I was all in, I quite literally mean I was all in."&lt;/p&gt;
+&lt;p&gt;A year after Cooper arrived at Washington State as a walk-on, a teammate asked whether he could attend the Pac-12's Student-Athlete Advisory Committee conference. His school needed a male representative for the event, so Cooper agreed to the free trip to San Francisco. &lt;/p&gt;
+&lt;p&gt;"I was just a random kid," Cooper said, adding that as Commissioner Larry Scott spoke, he thought: "What am I doing in this room? I have no business being in here."&lt;/p&gt;
+&lt;p&gt;But that weekend in 2017 sparked his desire to dismantle the status quo in college sports. Cooper learned about the national structure of SAAC, the entities that are supposed to give college athletes a voice. Cooper couldn't believe one athlete represents an entire conference. "Let's say that's me," he said. "I run cross-country at Washington State. How can I represent the interest of a basketball player at Arizona?" Cooper spent a few months designing a system that could better serve athletes, but he said his proposal went nowhere.&lt;/p&gt;
+&lt;p&gt;That fall, when these athletes convened in San Francisco, the conversations intensified about NFL quarterback Colin Kaepernick's protests of police brutality. The Pac-12 athletes discussed issues of racism on their campuses. Cooper, who grew up in the Seattle suburbs, was shocked and committed to use his privilege to help. Since then, he has staunchly supported the Black Lives Matter movement, and he felt overwhelmed with urgency as he marched this spring to protest George Floyd's killing.&lt;/p&gt;
+&lt;p&gt;Cooper served as Washington State's SAAC president during the 2018-19 school year, building on the mental health awareness campaign he started after Hilinski's death in January 2018. He remembers seeing Hilinski's mom crying while clutching her son's varsity jacket at the vigil. Cooper, whose father died just after he began his freshman year, later told the faculty adviser of his graduate program that he believes mental health is the most significant issue facing college sports.&lt;/p&gt;
+&lt;b&gt;'Reality of college athletics'&lt;/b&gt;
+&lt;p&gt;After training together during high school, Cooper and Brueckman grew close in college. Separated by 1,000 miles, they would play "Fortnite" while talking with each other over the microphone. Cooper shared ideas about college sports reform, so Brueckman said, "It was almost like I'd have a podcast with Andrew every time I'd play video games with him."&lt;/p&gt;
+&lt;p&gt;Cooper hates the term student-athlete because the NCAA created it decades ago to avoid paying workers' compensation benefits. Cooper explained how the system takes advantage of athletes, particularly the predominantly Black football and basketball players who generate millions for their schools. Obtaining economic rights for college athletes, Cooper said, would help address systemic racism and be a victory in the Black Lives Matter movement.&lt;/p&gt;
+&lt;p&gt;One of the NCAA's defenses is that its system also supports Olympic sports, and without amateurism, that model would crumble. Schools have already cut dozens of programs because of the financial ramifications of the pandemic. Cooper comes from a sport that isn't rolling in revenue, but he notes how economic rights encompass both protections and benefits, which would help all athletes.&lt;/p&gt;
+&lt;p&gt;Cooper often thinks about Jordan McNair, the Maryland lineman who died after suffering heatstroke at a team practice. "That's the reality of college athletics," Cooper said. "It's f----- up." And every four years, athletes cycle in and out of college sports, which Cooper said allows the NCAA to thrive on ignorance.&lt;/p&gt;
+&lt;p&gt;Kyler Little, a former Washington State runner, trained with Cooper a few days per week because they both had class schedules that forced them to miss practice. They would run a loop around Pullman, filling their time talking about mental health and the racial injustices rooted in college sports.&lt;/p&gt;
+&lt;p&gt;Cooper believes a work stoppage is the most favorable route toward progress. Throughout last fall, Cooper and Little discussed organizing athletes to strike the NCAA tournament, but then the coronavirus canceled the postseason. Months later, Cooper helped with the Pac-12 football players' movement in which they threatened to sit out if the conference didn't meet their demands.&lt;/p&gt;
+&lt;p&gt;When Cooper lists his closest friends, he names athletes from across the country who play a variety of sports. This summer, as Power Five football players banded together, Cooper sometimes served as a bridge between schools.&lt;/p&gt;
+&lt;p&gt;"He's highly connected, but he's done that on his own and it's out of that compassion," said Mason Ford, a former Arizona State track athlete who met Cooper at a SAAC conference. "With student-athlete rights, he wants to hear it from the horse's mouth."&lt;/p&gt;
+&lt;p&gt;Cooper's friends describe him as an empathetic person who makes others feel validated. Cooper attempts to FaceTime first, rather than calling or texting. Ford has been developing a party card game, and when he discusses his progress, Cooper treats it with respect and offers his attention. When something positive happens in Brueckman's life - a good workout, successful race or solid test score - Cooper is whom he wants to tell.&lt;/p&gt;
+&lt;p&gt;"He's everything you would want in somebody who's trying to build something greater than themselves," Ford said.&lt;/p&gt;
+&lt;b&gt;'This is not a sprint'&lt;/b&gt;
+&lt;p&gt;Before Cooper enrolled at Cal, he drove to Berkeley to meet the professor who directs the cultural studies of sport in education master's program. Derek Van Rheenen asked what Cooper hoped to pursue as a graduate student and beyond. Cooper said he wanted to dismantle the NCAA.&lt;/p&gt;
+&lt;p&gt;After the coronavirus forced universities to shift to online classes, Brueckman's apartment had an empty room, so Cooper lived in Colorado for the spring. Brueckman remembers a day when Cooper didn't leave his room for 24 hours, apart from one quick appearance to grab an energy bar. Cooper was on video conference calls with SAAC presidents all day, an effort that culminated in a letter urging the NCAA to grant eligibility relief to athletes whose seasons were cut short. The NCAA ultimately agreed to give the waiver.&lt;/p&gt;
+&lt;p&gt;"This felt like the first tangible success that he's been able to obtain for his movement," Brueckman said. "Up until this point, it's really just been networking, learning and understanding the landscape."&lt;/p&gt;
+&lt;p&gt;Football players returned to campuses months later. The pandemic upped the urgency in guaranteeing protections and exposed athletes' lack of a voice in the decision-making process. Conferences announced plans for the season, and schools devised safety protocols.&lt;/p&gt;
+&lt;p&gt;Jake Curhan, a Cal offensive lineman, and his roommate, Valentino Daltoso, had concerns about how well other schools were following proper health guidelines. The players connected with Cooper, who served as the SAAC co-president at Cal, and they eventually formed a group chat of more than 400 of their Pac-12 peers. Last month, they unveiled one of the most ambitious player rights movements in college football history. Malcolm Holland, a former Arizona football player and a close friend of Cooper's, doesn't have a Twitter account, but that morning, he kept checking the site and thought ESPN could one day turn this into a "30 for 30" documentary.&lt;/p&gt;
+&lt;p&gt;The Pac-12 punted on fall football, but the players' initiative sparked others to speak up and come together. The football players made the decisions, but Cooper offered important expertise after years of studying the NCAA.&lt;/p&gt;
+&lt;p&gt;"The fact that he's an endurance athlete is serving him well, because I think he can run for a really, really long time," Van Rheenen said. "He has the stamina and the drive to keep going, fighting what he sees as injustices. This is not a sprint for Andrew."&lt;/p&gt;
+&lt;p&gt;Despite the NCAA's flaws, which are abundant when Cooper lists them, the 22-year-old believes it's possible for college sports to exist in a fair and healthy way. He thinks a collective bargaining agreement is integral in giving athletes necessary protections. And it's going to take significant change and collaboration. The system won't fix itself. It might not even want to try. So maybe, Cooper hopes, he can.&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;emily.giambalvo@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Sep 22, 2020</AlphaDate>
+         <StartDate>2020-09-22</StartDate>
+         <EndDate>2020-09-22</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Sep222020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

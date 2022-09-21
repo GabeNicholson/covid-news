@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487136895</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>My university will be getting COVID-19 vaccines soon - here's how my team will get doses into arms</Title>
+      </TitleAtt>
+      <NumericDate>2020-12-11</NumericDate>
+      <StartDate>2020-12-11</StartDate>
+      <EndDate>2020-12-11</EndDate>
+      <AlphaDate>Dec 11, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20201211_151542</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20201211_151542</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Dec112020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Kotis, Desi</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Desi</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Desi Kotis</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Kotis</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Desi Kotis</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/151542/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Department of Public Health-California</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>923120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Pfizer Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>325412</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>339113</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Drug stores</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pharmacy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>San Francisco California</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="92">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Tracking, storage and preparation Before the CDC would give us any vaccine, the first thing I needed to do was register the UCSF health system with the California Department of Public Health.
+
+Once we begin vaccinating people, we will send the California Department of Public Health and the Centers for Disease Control and Prevention an accountability log of how many doses we administer each day.
+
+Right now, we are focusing on phase 1a, which broadly includes health care workers and first responders as well as high-risk patients and long-term care facility residents.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="898" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;In late October, I received an email from a member of the California Department of Public Health. I called the number in the email and a bright happy voice answered and asked if the University of California, San Francisco would be interested in the early release and distribution of the Pfizer COVID-19 vaccine. Of course, I said yes.&lt;/p&gt;
+&lt;p&gt;I am the chief pharmacy executive at UCSF Health and associate dean and clinical professor at the School of Pharmacy. My team and I are responsible for the distribution of all medications and vaccines throughout the health system, and I am also the person running much of the COVID-19 vaccine distribution for UCSF.&lt;/p&gt;
+&lt;p&gt;UCSF will be receiving our first allocation of the Pfizer vaccine around Dec. 15 and the Moderna vaccine sometime soon after that. We project that by the end of 2020, we will receive enough vaccine for all our staff, students, faculty and most of our high-risk patient populations. This news is incredibly exciting, but will take a lot of work to pull off smoothly. My colleagues and I are working to make sure that critical data tracking, complicated storage and the intricacies of actually administering doses all run smoothly so that these vaccines are distributed as equitably and efficiently as possible.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Tracking, storage and preparation &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Before the CDC would give us any vaccine, the first thing I needed to do was register the UCSF health system with the California Department of Public Health. I give them information on everything from the number of our medical workers who are qualified to administer the vaccine to the serial numbers of our freezers.&lt;/p&gt;
+&lt;p&gt;As a precaution, since many are considering this vaccine "liquid gold," our team needs to account for every dose at every step of the process due to the potential of diversion. We also aren't yet sure how much vaccine UCSF will be allocated in these first rounds, so we need to be prepared to store either a small or large supply.&lt;/p&gt;
+&lt;p&gt;The pharmacies storing the vaccine are highly regulated, monitored and secured spaces. The vaccines will not only be on a secure and backup power supply in case of electrical power outage but also electronically monitored for temperature.&lt;/p&gt;
+&lt;p&gt;Unlike the flu vaccine, both the Pfizer and Moderna COVID-19 vaccines have unique storage requirements, last at room temperature for only a short amount of time and require a lot of preparation.&lt;/p&gt;
+&lt;p&gt;First, you can't store either the Pfizer or Moderna vaccine on a refrigerator shelf. The Pfizer vaccine comes in a frozen liquid form that needs ultra-cold storage at minus 70 C. In this deep freeze, it is stable for six months, but it takes specific preparation before it is ready to give to people.&lt;/p&gt;
+&lt;p&gt;Pharmacists and technicians have to thaw the frozen liquid and then mix it into a solution of sterile, preservative-free saline. Each Pfizer vaccine vial contains five doses and is stable for only six hours at room temperature. The Moderna vaccine is supplied in liquid form with 10 doses per vial.&lt;/p&gt;
+&lt;p&gt;When it is time to give people the vaccine, each dose has to be prepared and labeled in a ready-to-use syringe. At each step of this process, our staff will document and track every dose. Once we begin vaccinating people, we will send the California Department of Public Health and the Centers for Disease Control and Prevention an accountability log of how many doses we administer each day.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Who gets vaccinated first? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Once UCSF receives our first vaccine shipment, we face the task of deciding who gets these precious vaccines first. Our team has utilized national guidelines from the CDC and the Advisory Committee on Immunization Practices as well as state guidance from the California Department of Public Health to follow the phased prioritization roll out. Right now, we are focusing on phase 1a, which broadly includes health care workers and first responders as well as high-risk patients and long-term care facility residents.&lt;/p&gt;
+&lt;p&gt;While the guidance says which groups should be prioritized, there is no way it could cover every decision. Our team has been working with doctors, ethicists and experts in health equity to further prioritize the most vulnerable first responders, high-risk staff and high-risk patients within the University of California system. We are looking at not only clinical health care workers, clinical students and patients, but anyone who could have prolonged, repeated potential exposure to body fluids and aerosols. That includes critical staff like medical transporters who get patients where they need to be, food service workers, police officers and environmental services workers in our hospitals and clinics.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Research into coronavirus and other news from science&lt;/i&gt;Subscribe to The Conversation's new science newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Going forward &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;On Dec. 3, California Governor Gavin Newsom announced that the state will receive 327,000 doses of the Pfizer vaccine by the middle of December and 2.2 million doses by the New Year.&lt;/p&gt;
+&lt;p&gt;Giving this vaccine to millions of Californians is going to be a massive undertaking. But our team and health systems throughout the country have been preparing so that this roll out is as effective, efficient and fair as possible.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Desi Kotis does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Desi Kotis, Associate Dean and Professor of Pharmacy, University of California, San Francisco&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 11, 2020</AlphaDate>
+         <StartDate>2020-12-11</StartDate>
+         <EndDate>2020-12-11</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Dec112020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

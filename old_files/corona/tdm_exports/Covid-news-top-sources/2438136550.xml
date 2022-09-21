@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2438136550</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Growing older at home with the right remodel</Title>
+      </TitleAtt>
+      <NumericDate>2020-08-29</NumericDate>
+      <StartDate>2020-08-29</StartDate>
+      <EndDate>2020-08-29</EndDate>
+      <AlphaDate>Aug 29, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Aug 29, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>T.9</StartPage>
+         <DocSection>RealEstate</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Aug292020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20200829Growingolderathomewiththerightremodelbffb8aae</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1730</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Lerner, Michele</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Michele</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Michele Lerner</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Lerner</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Michele Lerner</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Parents &amp; parenting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Families &amp; family life</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Architecture</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Houses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Wheelchairs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Aging in place</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Elevators &amp; escalators</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Age</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New Jersey</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1851" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p&gt;In 2010, Vanessa Piala and her husband Jim Belikove modified their home near Chevy Chase by digging out the basement and adding an in-law suite in anticipation of moving her parents there from New Jersey. &lt;/p&gt;
+&lt;p&gt;But after her mother had a stroke, Piala stayed with her parents in New Jersey for 18 months before moving them both to an assisted-living facility in Maryland. &lt;/p&gt;
+&lt;p&gt;"My mother was in a wheelchair before she passed away in 2016 and my father was in a wheelchair part time until he died at 97 years old in 2018," says Piala. "I used to bring them to our house, but the struggle with the wheelchairs up just a few steps was difficult and the in-law suite was inaccessible to them." &lt;/p&gt;
+&lt;p&gt;Now Piala and Belikove are in their mid-60s, and their experience with her mother has informed them on new modifications to their home. They've added a first-floor primary suite, a wheelchair-accessible bathroom and an open kitchen to accommodate mobility issues they anticipate facing in the future.  &lt;/p&gt;
+&lt;p&gt;"While we'd been talking about this plan for a little while, covid magnified the realization that we want to avoid assisted-living facilities if we can," says Piala. &lt;/p&gt;
+&lt;p&gt;More than three-quarters of adults age 50 and older want to stay in their homes as they age, according to a 2018 survey by AARP. Aging in place may be more appealing than ever with data showing that as much as 40 percent of the people who died of covid-19, the disease caused by the novel coronavirus, were residents or employees in nursing homes. &lt;/p&gt;
+&lt;p&gt;"We've seen an increase in customers wanting to modify their homes to bring their parents to live with them, people who want to increase accessibility in their own homes and people who want to create space for a caregiver in their home," says Jonas Carnemark, founder of Carnemark Design + Build, a remodeling and renovation firm in Bethesda. &lt;/p&gt;
+&lt;p&gt;Among the projects Carnemark has been working on recently are remodeling a kitchen with lower kitchen cabinets for easier accessibility and, in another home, adapting a master bathroom with a curbless shower. &lt;/p&gt;
+&lt;p&gt;"The idea is to be good stewards of a house and use good design to modify the space to make it livable for everyone, including grandparents and grandkids," says Carnemark. &lt;/p&gt;
+&lt;b&gt;Thinking ahead &lt;/b&gt;
+&lt;p&gt;For Ned and Susie Maguire, the plan to add an elevator to their four-level house in the District is a precautionary measure in case either one experiences increased mobility problems. &lt;/p&gt;
+&lt;p&gt;"My husband has some balance issues and we also have aging dogs, groceries and luggage to haul, so we're looking forward to being able to use the elevator," says Susie, a real estate agent with Washington Fine Properties. "This project was planned before the pandemic, but covid reinforced our feeling that this was the right thing to do. A lot of clients and friends are looking for safety in their homes and for ways to accommodate aging parents more easily." &lt;/p&gt;
+&lt;p&gt;The Maguires' elevator, which will be installed by InSite Builders &amp;amp; Remodeling of Bethesda, replaces part of their deck off the main level of the house and rises to a hallway in the upper level with a pocket door to their bedroom suite. &lt;/p&gt;
+&lt;p&gt;"Adding an elevator can cost as much as $15,000 to $25,000 per stop, so from the basement to the third floor could run as much as $100,000," says Jonathan Lerner, CEO of Meridian Homes in Bethesda. "It could run even more depending on how much of the house gets impacted by the construction." &lt;/p&gt;
+&lt;p&gt;Lerner recently upgraded the master bathroom to make it wheelchair-accessible in a house in Potomac that already had an elevator in place to increase the ability of the owners to age in place. &lt;/p&gt;
+&lt;p&gt;"We added a curbless shower and put in a vanity with knee room and made sure that the bedroom and bathroom are easily accessible from the elevator," says Lerner. &lt;/p&gt;
+&lt;p&gt;Finding the right location for an elevator can be difficult. &lt;/p&gt;
+&lt;p&gt;"You need space for the equipment and you want to find a way to install it with the least amount of damage to the house," says Jason Arce, an architect with Anthony Wilder Design/Build, the Cabin John-based company that remodeled the Piala-Belikove home. "An external elevator on the side of the house is sometimes an option but that doesn't always look aesthetically appealing." &lt;/p&gt;
+&lt;p&gt;At a house in McLean, Lerner and the homeowners opted to add an elevator rather than build a first-floor primary suite addition. &lt;/p&gt;
+&lt;p&gt;"The elevator took less time to install and cost less than an addition would have cost," Lerner says. "You also have to be aware of zoning restrictions. A house on a smaller lot might not have enough space to meet the zoning requirement even if there's technically enough room for an addition." &lt;/p&gt;
+&lt;p&gt;Not every project to simplify aging in place is expensive, says Stephen Gordon, president of InSite Builders &amp;amp; Remodeling, who is remodeling the Maguire home. &lt;/p&gt;
+&lt;p&gt;"We do things like add grab bars to a shower and handrails on both sides of a staircase to provide extra support," says Gordon. "Putting in nonslip flooring in the garage and using brightly colored paint can make it less likely that someone will slip and fall in the garage. We also increase lighting in different areas, particularly around steps and staircases." &lt;/p&gt;
+&lt;p&gt;In one household, Gordon added a railing down the middle of a short staircase to make it easier to notice and grab for balance. He says that railing can easily be removed if a future buyer doesn't want it. &lt;/p&gt;
+&lt;p&gt;"We also build extra blocking in the bathrooms for future grab bars to be installed more easily," says Gordon. &lt;/p&gt;
+&lt;b&gt;Maintaining value &lt;/b&gt;
+&lt;p&gt;If done well, accessibility features can increase the value of a home to future buyers, says Jennifer Naughton, executive vice president for personal risk services at the Chubb insurance company. &lt;/p&gt;
+&lt;p&gt;"Many modifications are not even noticeable, such as a spalike walk-in shower," says Naughton. "From the insurance perspective, we look at replacement costs and we want to see that all work is done in accordance with building codes and with the proper materials to stay in line with the architecture of the residence." &lt;/p&gt;
+&lt;p&gt;Larger projects that increase the size of the home, even though they are expensive, may add to the future value of the property, says Naughton. &lt;/p&gt;
+&lt;p&gt;"We recently did a first-floor addition in record time for a couple in their late 70s who wanted to keep their house in Bethesda to give to their kids one day," says Anthony Wilder, principal of Anthony Wilder Design/Build. "The house was level to the ground, so we were able to cut out a window and bridge the space between the kitchen and family room with a new laundry room and bathroom leading to their new bedroom. The bedroom has French doors to the backyard, so it could also work as a sunroom." &lt;/p&gt;
+&lt;p&gt;While an ideal remodel would create a first-floor master bedroom suite, that's not always possible depending on the configuration of the house and the land as well as the homeowner's budget. &lt;/p&gt;
+&lt;p&gt;"If you can add on a first-floor bedroom and bathroom near the kitchen and family room without taking away living space from that level, that's the best scenario," says Gordon. "Adding living space will usually add value to the house but taking away a dining room or living room to create a bedroom could hurt a home's value." &lt;/p&gt;
+&lt;p&gt;In addition, Gordon points out, not every buyer wants a first-floor primary suite. &lt;/p&gt;
+&lt;p&gt;"Young couples often prefer to be upstairs near their kids, while people in their 50s and 60s are more likely to be thinking about being empty-nesters," says Maguire. "But if the first-floor bedroom can be converted to a study, that can make it attractive to any buyer." &lt;/p&gt;
+&lt;p&gt;The Piala-Belikove house, built in 1915 in the town of Somerset, has been added onto three times and had a tree fall on it during its more than 100-year history. &lt;/p&gt;
+&lt;p&gt;"The age of the house and all the previous additions made this remodeling project more challenging because there are different ceiling heights, joists everywhere and narrow halls and doorways," says Arce. "We relocated the kitchen to create a more open room that would be wheelchair-accessible and added a master suite and a bathroom with a curbless shower." &lt;/p&gt;
+&lt;p&gt;Their  house required approvals and permits from the Montgomery County Historic Preservation Commission, the Montgomery County planning office and the town of Somerset, says Arce. &lt;/p&gt;
+&lt;p&gt;"We want the house to look aesthetically pleasing and yet be functional if one of us eventually needs a wheelchair," says Piala. "This is costing us well into six figures, but it would have been less if we just added the bedroom suite and didn't change the configuration of the kitchen." &lt;/p&gt;
+&lt;p&gt;They anticipate their project to be completed sometime next spring. &lt;/p&gt;
+&lt;p&gt;"It's important to take a thoughtful approach and design something that is both practical and beautiful rather than something that's a temporary fix," says Carnemark. &lt;/p&gt;
+&lt;p&gt;One difficulty for many homes is adding a ramp for wheelchair accessibility, says Lerner, especially if a home has multiple steps and a steep grade. In some cases, landscaping can be used to camouflage a temporary ramp. &lt;/p&gt;
+&lt;p&gt;Naughton emphasizes the importance of working with experts to evaluate your home and the options for aging in place modifications. &lt;/p&gt;
+&lt;p&gt;"Experts can be creative and understand how to retain your home's value," says Naughton. "For example, you may not want to convert your garage to living space because future buyers may want a garage." &lt;/p&gt;
+&lt;p&gt;In addition, Naughton recommends consulting your homeowner's insurance company when doing any home modification to see if additional insurance coverage will be needed. &lt;/p&gt;
+&lt;p&gt;"I think homes will be in a better position to support aging in place going forward, because many new homes are designed with a configuration to easily install an elevator in the future and with first-floor rooms that can be converted to a bedroom someday," says Carnemark. &lt;/p&gt;
+&lt;p&gt;"If you're remodeling or renovating a house, it's just as easy to design a barrier-free bathroom and to install good lighting to leverage the fact that you're already spending money on the project. Thinking about aging in place while you're doing this will add value in the long run." &lt;/p&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p&gt;
+&lt;p&gt;realestate@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;b&gt;Elements of universal design &lt;/b&gt;
+&lt;p&gt;While the needs of homeowners and their houses vary, some of the common features to accommodate aging in place include: &lt;/p&gt;
+&lt;p&gt;
+l  At least one no-step entrance to the house. &lt;/p&gt;
+&lt;p&gt;
+l  One-level living with a primary bedroom and bathroom on the same floor as the kitchen and laundry. &lt;/p&gt;
+&lt;p&gt;
+l  Accessible bathroom with a curbless shower with a seat and grab bars. &lt;/p&gt;
+&lt;p&gt;
+l  Wider halls and doorways for wheelchair accessibility. &lt;/p&gt;
+&lt;p&gt;
+l  An elevator if a first-floor primary bedroom is not an option. &lt;/p&gt;
+&lt;p&gt;
+l  Lever handles and rocker switches for easier opening of doors and operating lights. &lt;/p&gt;
+&lt;p&gt;
+l  Nonslip floors. &lt;/p&gt;
+&lt;p&gt;
+l   Enhanced illumination, including night lights, task lights and lighting along stairs and hallways. &lt;/p&gt;
+&lt;p&gt;
+l  Smart-house features to remotely manage the thermostat and lights. &lt;/p&gt;
+&lt;p&gt;
+l  Consistent flooring and extra lighting in areas that transition from one room to the next to avoid a tripping hazard. &lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 29, 2020</AlphaDate>
+         <StartDate>2020-08-29</StartDate>
+         <EndDate>2020-08-29</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Aug292020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

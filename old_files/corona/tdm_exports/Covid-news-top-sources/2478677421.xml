@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2478677421</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Silicon Valley braces for regulatory barrage</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-19</NumericDate>
+      <StartDate>2021-01-19</StartDate>
+      <EndDate>2021-01-19</EndDate>
+      <AlphaDate>Jan 19, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Jan 19, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.1</StartPage>
+         <DocSection>A-Section</DocSection>
+         <DocEdition>Suburban</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Jan192021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20210119SiliconValleybracesforregulatorybarrage3e575f1c</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1620</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Romm, Tony</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Tony</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Tony Romm</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Romm</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Tony Romm</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Dwoskin, Elizabeth</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Elizabeth</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Elizabeth Dwoskin</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Dwoskin</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Elizabeth Dwoskin</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Senate</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>US Capitol</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Congress</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rebellions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Regulation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Privacy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Presidential elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Democracy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political advertising</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political parties</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Silicon Valley-California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="2005" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Even before he won the White House, Joe Biden had been unsparing in his criticism of Silicon Valley, practically pleading with Facebook in June to stop President Trump from publishing "wild claims."&lt;/p&gt;
+&lt;p&gt;"Anything less," the Biden campaign said in an open letter, "will render Facebook a tool of misinformation that corrodes our democracy."&lt;/p&gt;
+&lt;p&gt;Seven months later, rioters descended on the U.S. Capitol, stormed the House and the Senate, and sought to overturn Biden's victory - mounting a deadly, failed insurrection that illustrated the corrosive power of Trump's false online screeds.&lt;/p&gt;
+&lt;p&gt;The aftermath of that attack now sets the stage for a political reckoning between Washington and Silicon Valley, as long- simmering frustrations with Facebook, Google, Twitter and their digital peers threaten to unleash the most aggressive regulatory assault against the tech industry in its history. On the eve of his inauguration, Biden and Democratic leaders in Congress are pledging to take aim at the country's largest social media platforms out of concern that they imperil the very fabric of American democracy - and the billions of people who use these digital services every day.&lt;/p&gt;
+&lt;p&gt;"The Biden administration knows we need to update our technology regulations for the 21st century," said Sen. Edward J. Markey (D-Mass.), who has long called for wide-ranging reform.&lt;/p&gt;
+&lt;p&gt;Democratic leaders for years have proposed a bevy of new legislation to shrink Silicon Valley's corporate footprint, restrict its insatiable appetite for data and stop the spread of falsehoods online. But the party's calls for regulation have grown more urgent in the days since Biden won the presidency, his party took control of the House and the Senate, and Trump and his allies further exposed the risks of a largely unregulated Web.&lt;/p&gt;
+&lt;p&gt;In the face of past scrutiny, Facebook, Google and other Silicon Valley giants have muscled up politically. Internet companies together spent more than $59 million in lobbying over the first nine months of 2020, according to an analysis of the most recent federal disclosures by the Center for Responsive Politics. Many are now bracing for another fresh battle in Washington, as they seek to stave off new efforts by Congress and the White House that might severely restrict the way they do business. Some, including Facebook, are scrambling to hire more Democrats after staffing up on Republican lobbyists during the Trump years.&lt;/p&gt;
+&lt;p&gt;"I think for the Internet industry, in particular, it's going to be tough sledding for the next two years at least," predicted Rob Atkinson, the president of the Information Technology and Innovation Foundation, a think tank that counts companies including Google and Microsoft on its board.&lt;/p&gt;
+&lt;p&gt;Spokespeople for Biden's transition team declined to comment. Facebook declined to comment.&lt;/p&gt;
+&lt;p&gt;The regulatory siege looming over Silicon Valley reflects Democrats' deep-seated frustration with an industry that the party thinks has not atoned for its many mistakes since the 2016 presidential election. In that race, Facebook, Google and Twitter were turned into agents of the Russian government, as the Kremlin spread disinformation on social media sites in an attempt to sow discord and send Trump to the White House. And it exposed major privacy risks across the tech sector, especially at Facebook, which had to pay a record-setting $5 billion penalty for mishandling millions of users' personal information.&lt;/p&gt;
+&lt;p&gt;The wave of scandals and missteps resulted in once-unfathomable scrutiny in Washington for Apple, Amazon, Facebook, Google and Twitter, whose executives were called to the Capitol to testify about their business practices repeatedly during Trump's four years in office. Trump, however, played a minimal role in many of those debates about antitrust, privacy and election security, choosing instead to pursue policies that aimed to punish Silicon Valley over unproven allegations that it censored conservatives online.&lt;/p&gt;
+&lt;p&gt;(Amazon chief executive Jeff Bezos owns The Washington Post.)&lt;/p&gt;
+&lt;p&gt;Facebook and its peers responded by instituting significant changes to their businesses, including new efforts to invest in artificial intelligence and hire thousands of workers to police their platforms for abuse. Facebook also created entire internal teams to respond to the government's growing belief that it had acted anti-competitively.&lt;/p&gt;
+&lt;p&gt;The industry's efforts ultimately helped shield the 2020 presidential race from major&lt;em&gt; &lt;/em&gt;foreign interference, but it was not without incident - as Trump and his online surrogates adopted the same tactics to stoke divisions and spread falsehoods that Russian provocateurs deployed so capably four years earlier. On Facebook, for example, the Trump campaign and its allies repeatedly purchased ads that spread conspiracy theories about Biden's son.&lt;/p&gt;
+&lt;p&gt;Incensed, Biden and his campaign spent months imploring Facebook to crack down. Democrats attacked the company repeatedly for allowing Republicans to spread falsehoods online without submitting the ads to fact checking. Even after the company tweaked its ad systems, Facebook did not follow all of Democrats' demands, leaving Biden to pledge to take regulatory aim at the tech industry if he won the election.&lt;/p&gt;
+&lt;p&gt;With that victory in hand, Biden and his aides have sought to lay the early groundwork for an administration that can meet its past promises. The team has signaled an interest in rethinking Section 230, long considered Silicon Valley's legal Holy Grail. The decades-old law spares a wide array of sites and services, including newspapers and social networks, from being held liable for the content posted by their users. The president-elect and his allies, however, contend that the law also has essentially allowed large technology companies to skirt accountability for their actions.&lt;/p&gt;
+&lt;p&gt;Biden at one point called on Congress during the campaign to repeal the law in full. Not even a month after his election, one of Biden's top new advisers signaled at an event at Georgetown Law that the incoming administration isn't backing down on its plans. Bruce Reed, the White House's incoming deputy chief of staff, stressed publicly that it is "long past time to hold social media companies accountable for what's published" on their sites and services.&lt;/p&gt;
+&lt;p&gt;Sen. Richard Blumenthal (D-Conn.), who co-sponsored a bill to revise Section 230, said he has spoken "extensively" with the Biden transition team about revisiting the rules and adopting "other steps to force greater responsibility on these big tech companies." Those conversations transpired in the weeks before rioters acting on Trump's viral online falsehoods stormed the U.S. Capitol, leaving one police officer and four rioters dead - a tragedy that Blumenthal said could further embolden the White House and Congress to act.&lt;/p&gt;
+&lt;p&gt;"I think the new Congress and new administration will share a very intense focus on reform," he said.&lt;/p&gt;
+&lt;p&gt;Facebook, in particular, has signaled that it is open to regulation: Its chief executive, Mark Zuckerberg, told lawmakers last year that he even supports changes to Section 230 - although people familiar with the company's thinking say they recognize that Congress may be hamstrung by the complexities of regulating political and hate speech. But the tech giant still faces formidable challenges in a Democrat-dominant Washington, a political reality that perhaps prompted the company to take once-unfathomable disciplinary action to ban Trump earlier this month.&lt;/p&gt;
+&lt;p&gt;"I think we're looking at all the options here," said Rep. Pramila Jayapal (D-Wash.), faulting Facebook and others for "opportunistic" moves to punish Trump online "two weeks before the next administration is going to come in."&lt;/p&gt;
+&lt;p&gt;"I think there have been plenty of hints that we, Democrats and Republicans and the next administration, are going to take very seriously the unregulated power of social media companies," she added.&lt;/p&gt;
+&lt;p&gt;"For a while, the tech industry took Democrats for granted," said Nu Wexler, a former Facebook, Twitter and Google communications official. "Now they confront a new political reality. Tech will still be in the crosshairs. But it will be for more substantive things like privacy, data collection and competition."&lt;/p&gt;
+&lt;p&gt;Facebook made an effort to hire and elevate conservatives at its Washington office over the past few years, to try to curry favor with the Trump administration. The company until this month - the day after Democrats regained control of Congress - had rarely sanctioned Trump, part of a strategy that sought to appease conservatives. Now, Facebook is shifting course and reevaluating its strategy, said people familiar with the company's thinking who spoke on the condition of anonymity because they weren't authorized to discuss the matter publicly. Facebook was one of the first major companies to freeze political donations to Republicans in the wake of the Capitol riot. Chief Operating Officer Sheryl Sandberg may play a larger role again, as she did during the Obama administration, two of the people said. Biden also has a longtime personal relationship with Nick Clegg, Facebook's vice president for global affairs and communications, who was Britain's deputy prime minister during the Obama years. Clegg was essentially Biden's counterpart, and Biden once appeared on Clegg's podcast.&lt;/p&gt;
+&lt;p&gt;Although the Biden team has ties to big tech, outreach has been fairly limited, particularly when it comes to sharing concrete plans with the companies, two of the people say. Trump, by contrast, invited tech executives to New York for a meeting before his inauguration. President Barack Obama also made early outreach during his administration.&lt;/p&gt;
+&lt;p&gt;But the expectation overall is that Biden will pick people who will be more aggressive in going after tech.&lt;/p&gt;
+&lt;p&gt;The incoming Biden administration already counts some of Silicon Valley's most effective critics among its ranks. Vanita Gupta, president of the Leadership Conference on Civil and Human Rights, and Kristen Clarke, president of the Lawyers' Committee for Civil Rights Under Law, played instrumental roles in challenging Facebook, Google and Twitter - and are set to assume leadership roles at the Justice Department. In their current roles, Gupta and Clarke successfully pressured social media companies to take down harmful, false content, including posts, photos and videos that discouraged people from voting. They also waged landmark legal cases charging algorithmic discrimination and bias.&lt;/p&gt;
+&lt;p&gt;"These hires are a good indication that the Biden administration is going to take tech seriously," said Peter Romer-Friedman, a civil rights lawyer who has sued Facebook and worked with Gupta and Clarke's organizations. "The last four years have shown Democratic leaders to be very skeptical of tech, which is very different from the Obama administration."&lt;/p&gt;
+&lt;p&gt;The incoming administration has not yet settled on its selections for other senior government positions overseeing the tech industry. That includes openings at the nation's top competition enforcement agencies, a critical set of picks at a time when the government is suing Facebook and Google, accusing them of violating federal antitrust laws. As Biden's government prepares to inherit those cases, Democrats said they had encouraged the incoming administration to pick tough watchdogs in a bid to reverse the deregulatory streak of Democratic and Republican governments past.&lt;/p&gt;
+&lt;p&gt;"I expect fairly strong antitrust enforcement from the administration," said Rep. Ro Khanna (D-Calif.), whose Bay Area district includes tech companies such as Apple.&lt;/p&gt;
+&lt;p&gt;On Capitol Hill, many congressional Democrats promised to forge ahead with their long-sought plans to bring Silicon Valley to heel now that they will have a supportive ally in the White House. The party's one-vote margin in the Senate may be slim, but they think their frustration with Facebook, Google and Twitter is likely to be bipartisan.&lt;/p&gt;
+&lt;p&gt;Sen. Ron Wyden (Ore.) pledged to advance new regulations around artificial intelligence to ensure that powerful, behind-the-scenes algorithms don't exhibit bias on the basis of race or gender. Sen. Brian Schatz (Hawaii) said he plans to try to revive his bill tackling online privacy. And Rep. Frank Pallone Jr. (N.J.), the leader of the tech-focused House Energy and Commerce Committee, said he intends to hold "online platforms accountable for the disinformation and misinformation that threatens our republic." That includes an investigation that will touch on the role social media sites played in stoking the Capitol riot, he said.&lt;/p&gt;
+&lt;p&gt;"We can actually work on these issues rather than use them as a talking point to hit each other over the head," Schatz said about the political push to come. "The silver lining about the last four years, from a tech policy standpoint, is that there's been a lot of thoughtful work. . . . We have no shortage of good ideas."&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;tony.romm@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;elizabeth.dwoskin@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 19, 2021</AlphaDate>
+         <StartDate>2021-01-19</StartDate>
+         <EndDate>2021-01-19</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Jan192021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

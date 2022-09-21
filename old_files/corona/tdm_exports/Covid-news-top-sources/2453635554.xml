@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2453635554</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Underwood top artist at CMT awards [Corrected 10/24/2020]</Title>
+      </TitleAtt>
+      <NumericDate>2020-10-23</NumericDate>
+      <StartDate>2020-10-23</StartDate>
+      <EndDate>2020-10-23</EndDate>
+      <AlphaDate>Oct 23, 2020</AlphaDate>
+      <RawAlphaDate>20201023</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Oct 23, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>2</StartPage>
+         <DocSection>Arts + Entertainment</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Oct232020</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2020102320201022457768994</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2020102320201022457768994</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1490</LexileScore>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Actors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Awards &amp; honors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Musicians &amp; conductors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Motion picture directors &amp; producers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Country music</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Musical performances</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Singers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Underwood, Carrie</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="546" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Carrie Underwood already had the most CMT Music Awards of any artist, but she'll need to make more room on her shelf. The superstar picked up two more trophies for video of the year and female video of the year in a remotely shot awards show.  &lt;/p&gt;&lt;p&gt;Underwood appeared on video to accept for "Drinking Alone" and thanked fans for voting for her during an unpredictable year when touring ground to a halt because of the COVID-19 pandemic.&lt;/p&gt;&lt;p&gt;"This one is all about you guys especially because we again haven't been together, but I feel so loved tonight," said Underwood.&lt;/p&gt;&lt;p&gt;Pop star Gwen Stefani won her first CMT Music Award for collaborative video of the year for her duet with Blake Shelton on "Nobody But You." "What is happening in my life?" Stefani exclaimed.&lt;/p&gt;&lt;p&gt;Taylor Swift, who won breakthrough video of the year 13 years ago, presented the award to Gabby Barrett, for her song "I Hope," which has been a No. 1 hit across both country and pop charts this year.&lt;/p&gt;&lt;p&gt;Barrett, who pretended to hold an imaginary award in her hand, thanked the fans.&lt;/p&gt;&lt;p&gt;Old Dominion won group video of the year for "One Man Band," while Chris Young won CMT performance of the year for his song "Drowning."&lt;/p&gt;&lt;p&gt;Luke Bryan won male video of the year for "One Margarita," while country duo Dan + Shay won for duo video of the year for their song "I Should Probably Go To Bed."&lt;/p&gt;&lt;p&gt;'Legally Blonde 3' gets release date: What, like it's hard? The cast of "Legally Blonde" had no trouble spilling the beans Tuesday about the hotly anticipated third film in the franchise during their virtual cast reunion, nearly two decades after the original film hit theaters.&lt;/p&gt;&lt;p&gt;"Legally Blonde 3," which will be penned by Mindy Kaling and "Brooklyn Nine-Nine" co-creator Dan Goor, will sashay its way into theaters in May 2022, the cast announced.&lt;/p&gt;&lt;p&gt;Reese Witherspoon, who starred as bubbly blond Harvard Law student Elle Woods, kicked off the reunion by noting that the 2001 romantic comedy "comes up more than any other" film she's made.&lt;/p&gt;&lt;p&gt;Pride to get lifetime achievement award: Trailblazing country music star Charley Pride will get a lifetime achievement award at the CMA Awards in November.&lt;/p&gt;&lt;p&gt;The rich baritone singer became the genre's first Black superstar, charting 29 No. 1 hits between the 1960s and 1980s, with songs like "Kiss An Angel Good Mornin' " and "Is Anybody Goin' to San Antone."&lt;/p&gt;&lt;p&gt;Pride, 82, will accept the Willie Nelson Lifetime Achievement Award on the CMA Awards on Nov. 11 on ABC.&lt;/p&gt;&lt;p&gt;Pride was named CMA entertainer of the year in 1971 and won male artist of the year in 1971 and 1972. He has three Grammy Awards and was inducted into the Country Music Hall of Fame in 2000. Pride was the first Black country artist to co-host the CMA Awards in 1975, alongside Glen Campbell.&lt;/p&gt;&lt;p&gt;Oct. 23 birthdays: Director Ang Lee is 66. Jazz singer Dianne Reeves is 64. Director-actor Sam Raimi is 61. Singer "Weird Al" Yankovic is 61. Bassist Robert Trujillo is 56.Actor John Huertasis 51. TV host Cat Deeley is 44. Actor Ryan Reynolds is 44. TV host Meghan McCain is 36. Singer Miguel is 35. Actor Emilia Clarke is 34.&lt;/p&gt;&lt;p&gt;CAPTION: Photo: Carrie Underwood accepts the female of the year award for "Drinking Alone" during the CMT awards Wednesday. CMT&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 23, 2020</AlphaDate>
+         <RawDate>20201023</RawDate>
+         <StartDate>2020-10-23</StartDate>
+         <EndDate>2020-10-23</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Oct232020</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

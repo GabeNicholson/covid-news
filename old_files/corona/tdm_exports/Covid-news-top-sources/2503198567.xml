@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2503198567</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>2 locales push for control in Va.</Title>
+      </TitleAtt>
+      <NumericDate>2021-03-21</NumericDate>
+      <StartDate>2021-03-21</StartDate>
+      <EndDate>2021-03-21</EndDate>
+      <AlphaDate>Mar 21, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Mar 21, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>C.1</StartPage>
+         <DocSection>Metro</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Mar212021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP202103212localespushforcontrolinVad54e2e92</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1580</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Olivo, Antonio</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Antonio</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Antonio Olivo</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Olivo</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Antonio Olivo</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Legislation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Local government</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Bureaucracy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Supervisors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Immunization</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Nurses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Virginia</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1112" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;VIRUS INACTION SOWS DISCONTENT&lt;/p&gt;
+&lt;b&gt;Loudoun, Pr. William vie to manage health systems&lt;/b&gt;
+&lt;p/&gt;
+&lt;p&gt;Two of Virginia's fastest-growing local jurisdictions are working to create their own health departments, a step that could move most of Northern Virginia out of the state system on key aspects of public health, including coronavirus vaccinations.&lt;/p&gt;
+&lt;p&gt;Both Loudoun and Prince William counties say they've been hampered in their ability to address the health needs of their communities under the system of state-run health districts that governs most of Virginia.&lt;/p&gt;
+&lt;p&gt;Some crucial jobs have been left vacant, while a lack of resources and too much bureaucracy have stalled efforts to open vaccination clinics in underserved areas, officials in those counties say.&lt;/p&gt;
+&lt;p&gt;"If anything good came out of the pandemic, I would say it exposed the soft underbelly of our public health department," said Ann Wheeler (D), chair of the county board in Prince William, where the state health district also covers the cities of Manassas and Manassas Park.&lt;/p&gt;
+&lt;p&gt;Legislation awaiting Gov. Ralph Northam's (D) signature would grant Prince William and Loudoun administrative control of their health departments, allowing them to join Fairfax and Arlington counties as the only localities in the state with such authority. A law is required before the move, under Virginia's 125-year-old status as a Dillon Rule state, under which the commonwealth retains legal authority that is not explicitly granted to a local government.&lt;/p&gt;
+&lt;p&gt;Fairfax County, which won control of its health department in 1995, broke away from the state on vaccination registration last month, declining to participate in Virginia's initially troubled centralized registration system. Arlington, which gained local control in 1988, is using the state program.&lt;/p&gt;
+&lt;p&gt;State Sen. Barbara A. Favola, who sponsored the legislation, said it makes sense for local governments with enough money for local health programs to have that freedom, particularly during a pandemic.&lt;/p&gt;
+&lt;p&gt;"Local government is much closer to the constituents," said Favola (D-Arlington), who sits on the Senate's committee for local government. "They have the people who know exactly what to do when there is a public health emergency."&lt;/p&gt;
+&lt;p&gt;Alena Yarmosky, Northam's spokesperson, said the governor is still reviewing the legislation but is supportive of efforts that will improve the public health infrastructure in the state.&lt;/p&gt;
+&lt;p&gt;Yarmosky said the governor recently signed a law aimed at steering more state money into state health districts.&lt;/p&gt;
+&lt;p&gt;"One of the major challenges has been an outdated funding formula for local health districts that hasn't been changed in a generation," Yarmosky said. &lt;/p&gt;
+&lt;p&gt;The bill before Northam originated in Loudoun. Phyllis J. Randall, chair of Loudoun's board, said discussions about local control began several years ago, when a discrepancy in the health district's pay structure made it harder to retain workers on the state health department payroll.&lt;/p&gt;
+&lt;p&gt;The districts' staffs are a mix of state and local employees who, besides responding to the pandemic, run locally funded programs such as mental health services and&lt;em&gt; &lt;/em&gt;restaurant inspections. Health district directors manage both sets of workers in a two-tiered operation that includes separate health benefits.&lt;/p&gt;
+&lt;p&gt;The workers paid by the state tend to make less than those on the county's payroll, even when they have the same titles and job functions, making it harder to retain&lt;em&gt; &lt;/em&gt;them, Randall (D) said.&lt;/p&gt;
+&lt;p&gt;For example, the average annual salary for a registered nurse employed by the state is about $74,000, while a county-employed nurse would make an average $87,000 per year, according to data provided by Loudoun officials.&lt;/p&gt;
+&lt;p&gt;"Because they can get paid more someplace else, we would lose the state employees," Randall said.&lt;/p&gt;
+&lt;p&gt;The pandemic added another complication.&lt;/p&gt;
+&lt;p&gt;Each time Loudoun's health district director David Goodfriend wanted to set up a coronavirus testing site or make vaccinations more widely available, he was required to get state approval, which could take a long time.&lt;/p&gt;
+&lt;p&gt;"It delayed things more than it needed to be," Randall said.&lt;/p&gt;
+&lt;p&gt;Prince William officials have been aggravated by the health district system, prompting them to ask Favola to include their county in the Loudoun bill.&lt;/p&gt;
+&lt;p&gt;Supervisors in the county, where people of color make up 58 percent of the population, have been frustrated over the vaccination rates in lower-income communities, with just 36 percent of doses administered so far given to African American, Latino or Asian residents.&lt;/p&gt;
+&lt;p&gt;"Our health district was offered opportunities to hold vaccination sites in different locations, but if you don't have the manpower to even manage it, how do you address that?" Wheeler said.&lt;/p&gt;
+&lt;p&gt;State officials said they have been pouring more resources into Prince William, including a federally funded mass vaccination site near the Potomac Mills shopping center that is scheduled to open  this week.  Yarmosky noted that site will be able to administer as many as 6,000 doses per day.&lt;/p&gt;
+&lt;p&gt;But the district has 23 unfilled positions, including six public health nurses and two nurse supervisors.&lt;/p&gt;
+&lt;p&gt;The vacancies in the health district have made it harder to respond to the pandemic, said Alison Ansher, the district's director.&lt;/p&gt;
+&lt;p&gt;Some nurses have recently been hired, she said. But, she added, "this has also impacted our pandemic response as they are still orienting."&lt;/p&gt;
+&lt;p&gt;With anxious constituents pleading for more vaccinations&lt;em&gt; &lt;/em&gt;in their communities, frustrated county supervisors have repeatedly pressed Ansher to do more.&lt;/p&gt;
+&lt;p&gt;"If those numbers are the same next month, people need to be fired," Supervisor Pete Candland (R-Gainesville) said to Ansher during a board meeting  this month about the lower vaccination rates in communities of color. Ansher, a state employee, did not respond.&lt;/p&gt;
+&lt;p&gt;Supervisor Margaret A. Franklin, who launched the county's effort to gain local control, said that kind of oversight would make it easier to develop a targeted response to health emergencies.&lt;/p&gt;
+&lt;p&gt;"That's the biggest challenge: We're the Board of County Supervisors, but we're not actually in charge," Franklin (D-Woodbridge) said. "It's left us vulnerable during the unforeseen case of having a pandemic."&lt;/p&gt;
+&lt;p&gt;Local government advocacy groups in the state say other jurisdictions have not sought similar control, though Virginia Beach has entertained the idea amid problems with vaccinations that city officials blame on having to share a local state health district director with the city of Norfolk, 20 miles away.&lt;/p&gt;
+&lt;p&gt;Virginia Beach Mayor Bobby Dyer asked Northam to allow the city to run its own vaccination program but was turned down. In response, Yarmosky pointed to the bill Northam recently signed that would put more state resources into the system.&lt;/p&gt;
+&lt;p&gt;Dyer said that even with more resources from the state, the city is pushing the state to hire a state health district director for Virginia Beach, adding that the question of seeking local authority is on the table.&lt;/p&gt;
+&lt;p&gt;"If we can eliminate the bureaucracy, that's optimal," he said. "The more autonomy we have as a city, the better." &lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;antonio.olivo@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Mar 21, 2021</AlphaDate>
+         <StartDate>2021-03-21</StartDate>
+         <EndDate>2021-03-21</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Mar212021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

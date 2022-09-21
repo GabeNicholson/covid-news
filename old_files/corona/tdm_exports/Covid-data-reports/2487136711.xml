@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487136711</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Dementia deaths rise during the summer of COVID, leading to concern</Title>
+      </TitleAtt>
+      <NumericDate>2020-10-14</NumericDate>
+      <StartDate>2020-10-14</StartDate>
+      <EndDate>2020-10-14</EndDate>
+      <AlphaDate>Oct 14, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20201014_146509</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20201014_146509</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Oct142020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Archbald-Pannone, Laurie</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Laurie</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Laurie Archbald-Pannone</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Archbald-Pannone</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Laurie Archbald-Pannone</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/146509/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Patients</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Social distancing</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Caregivers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Social isolation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Dementia</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="105">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;"There's something wrong, there's something going on and it needs to be sorted out," Robert Anderson, chief of mortality statistics at the U.S. Centers for Disease Control and Prevention, said in a recent interview with Politico.
+
+Socially isolated people have higher rates of not only dementia, but heart disease, high blood pressure, depression, cognitive decline and death.
+
+[Deep knowledge, daily.Sign up for The Conversation's newsletter.] If you know someone with dementia, whether they live at home or in a facility, check in on them.
+
+Because in-person visits are not the safest option, you can call to see how they're doing or if you can help.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="833" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Deaths from dementia during the summer of 2020 are nearly 20% higher than the number of dementia-related deaths during that time in previous years, and experts don't yet know why. An estimated 61,000 people have died from dementia, which is 11,000 more than usual within that period.&lt;/p&gt;
+&lt;p&gt;"There's something wrong, there's something going on and it needs to be sorted out," Robert Anderson, chief of mortality statistics at the U.S. Centers for Disease Control and Prevention, said in a recent interview with Politico. "This is highly unusual."&lt;/p&gt;
+&lt;p&gt;As a geriatrician, I find this statistic sad but not shocking. I care for dementia patients in my clinical practice. I see firsthand how the isolation caused by the pandemic has changed their lives, whether they're home alone, living with a caregiver, or in a long-term care facility.&lt;/p&gt;
+&lt;p&gt;Deciphering the statistics is a challenge. Hiding within them are many factors that have contributed to the deaths from dementia during the pandemic. Here are four of them.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Social isolation &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Social distancing - or staying at least 6 feet apart, wearing a mask and avoiding crowds - is a proven way to decrease COVID-19 risk, especially from people with the infection but without symptoms. But social distancing is different from social isolation, which leads to a sense of disconnection from the community. Social isolation, which essentially is little or no contact with others, is the last thing seniors with dementia need. But it's what many have received, as caregivers are forced to limit visits during the pandemic.&lt;/p&gt;
+&lt;p&gt;Social isolation is a risk for poor health outcomes, particularly as people age. And in the U.S., 28% of those over 65 (13.8 million) live alone. Socially isolated people have higher rates of not only dementia, but heart disease, high blood pressure, depression, cognitive decline and death.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Caregiver burnout &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;On the best of days, caregiving for a family member with dementia is difficult. Watching the decline of a loved one is hard. Having to help them with things that are basic and personal makes it even harder. The commitment, 24 hours a day, offers little time for breaks. Often the caregiver, unsung and overlooked, is suffering.&lt;/p&gt;
+&lt;p&gt;And during COVID-19, caregivers have been isolated too. What help they had from the outside is now probably gone. Burnout becomes more likely. For dementia patients to get the best care, their caregivers also need care and support.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Decreased access to medical care &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Throughout the U.S., hospitals and clinics have seen fewer people coming in. Many missed visits were for preventive care and treatment of chronic conditions. For dementia patients, accessing care may even be more problematic. Telemedicine, often an option for other patients, may not be manageable for those with dementia. Physicians and staff need to reach out to them. And agencies and volunteer groups are available in many communities to assist seniors who need access to technology.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Staying home &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Because of COVID-19, some of my patients choose to stay home. They've decided a medical issue is not worth the risk of leaving the house. I also have patients living in facilities who choose to use the care available there instead of going to the hospital.&lt;/p&gt;
+&lt;p&gt;This is a good example of something we doctors call goal-concordant care: when doctors understand a patient's health goals, and then provide them with the best they can within the scope of those goals.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Some advice &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Dementia is a complex medical condition with no cure. But that doesn't mean nothing can be done to make a patient's life better, even during COVID-19. With each challenge there are ways to provide help and support, not just to those with dementia, but for those who care for them.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;If you know someone with dementia, whether they live at home or in a facility, check in on them. Because in-person visits are not the safest option, you can call to see how they're doing or if you can help. You don't need the latest technology to connect; many with dementia may have challenges going online. Landlines and cellphones are just fine, allowing your elderly friend to hear a human voice. It does you good too: Building relationships with people who aren't our age gives us insights and perspectives we may have never considered.&lt;/p&gt;
+&lt;p&gt;Also, check in on the caregiver; call to chat and, most important, listen. You don't need to have the answers; just be supportive. If you are a caregiver, reach out to local agencies; many have easy-to-access virtual support groups.&lt;/p&gt;
+&lt;p&gt;And talk with loved ones about what you would want if you had dementia and couldn't speak effectively for yourself. Your primary care doctor can help you think through these types of situations. Such conversations are uncomfortable, but necessary.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Laurie Archbald-Pannone does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Laurie Archbald-Pannone, Associate Professor Medicine, Geriatrics, University of Virginia&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 14, 2020</AlphaDate>
+         <StartDate>2020-10-14</StartDate>
+         <EndDate>2020-10-14</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Oct142020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

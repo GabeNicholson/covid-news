@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2486058835</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>How food banks help Americans who have trouble getting enough to eat</Title>
+      </TitleAtt>
+      <NumericDate>2021-02-02</NumericDate>
+      <StartDate>2021-02-02</StartDate>
+      <EndDate>2021-02-02</EndDate>
+      <AlphaDate>Feb 2, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVEB_20210202_148150</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVEB_20210202_148150</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977986_Feb22021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Himmelgreen, David</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>David</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>David Himmelgreen</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Himmelgreen</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>David Himmelgreen</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Heuer, Jacquelyn</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jacquelyn</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jacquelyn Heuer</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Heuer</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jacquelyn Heuer</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/148150/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of South Florida</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Great Recession</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Food programs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Tampa Bay</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="102">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;In recent years, new policies and practices food banks embrace have helped ensure that food pantries regularly distribute healthier food, including fresh fruits and vegetables, in addition to shelf-stable items like canned soup and beans or bags of dried pasta.
+
+A growing number of food banks are partnering with social service and health care providers, insurance companies, universities and businesses to provide an array of support for people who are experiencing food insecurity.
+
+David Himmelgreen has received funding related to this article from the Humana Foundation, Hillsborough Community College Foundation, Feeding Tampa Bay, Juvenile Welfare Board, WellCare and All Faiths Food Bank.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="804" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Food banks, nonprofits that collect and distribute food to hunger relief organizations, have played an essential role in the distribution of emergency food relief throughout the United States for more than 50 years.&lt;/p&gt;
+&lt;p&gt;They have been more visible than ever before during the pandemic, with many organizing large drive-through pantries, where people line up in vehicles to receive boxes of food from mask-clad staff and volunteers.&lt;/p&gt;
+&lt;p&gt;This uptick in demand for their services is happening as an estimated 1 in 6 adults and 1 in 4 children are experiencing food insecurity during the pandemic - rates that are about 50% higher than before the coronavirus outbreak.&lt;/p&gt;
+&lt;p&gt;Food banks are getting a boost from the relief packages that Congress approved in 2020 and huge donations from some of the richest Americans. But, based on our research regardingfood banks, we're concerned that they still need more support to help everyone who can't get enough to eat.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; An innovation from the 1960s &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;John van Hengel, a devout Catholic who was deeply concerned about hunger, created what is widely considered to be the first food bank to efficiently distribute unmarketable food to people who otherwise might not get enough to eat when he opened the St. Mary's Food Bank Alliance in Phoenix, Arizona, in 1967. Van Hengel went on to establish a national umbrella group of food banks and food pantries initially called Second Harvest, which was later renamed Feeding America.&lt;/p&gt;
+&lt;p&gt;Today, it's the nation's largest hunger relief organization, with a network of 200 food banks and 60,000 food pantries. Food banks collect food through local and national partnerships and distribute it to people facing economic hardship.&lt;/p&gt;
+&lt;p&gt;Historically, food banks collected surplus food from suppliers and distributors. Unfortunately, this also included nutritionally low-quality foods, even including soda and candy.&lt;/p&gt;
+&lt;p&gt;In recent years, new policies and practices food banks embrace have helped ensure that food pantries regularly distribute healthier food, including fresh fruits and vegetables, in addition to shelf-stable items like canned soup and beans or bags of dried pasta.&lt;/p&gt;
+&lt;p&gt;In 2001, 2.8% of U.S. households obtained food from a food pantry at least once. By 2014, that share had doubled to 5.5%. The increased reliance on food banks is directly related to the Great Recession of 2008 and 2009, the sharp economic downturn spurred by a mortgage and financial crisis.&lt;/p&gt;
+&lt;p&gt;The Great Recession not only increased U.S. rates of poverty and food insecurity. It marked the first time that food insecurity rates exceeded poverty rates.&lt;/p&gt;
+&lt;p&gt;This indicates that more middle-class Americans are now struggling with food security - a problem that appears to be deepening today.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Unable to help everyone who needs a hand &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;U.S. food banks provided the equivalent of 4.2 billion meals between March and November 2020. At least 80% of them are supporting more people than they did before the pandemic.&lt;/p&gt;
+&lt;p&gt;Many people who have never visited a food bank before are relying on them now. For example, 4 in 10 people visiting food banks between March and June 2020 were first-time users, a number that will likely climb before the COVID-19 pandemic subsides and the economy improves.&lt;/p&gt;
+&lt;p&gt;While food banks have made progress on the task of feeding the millions of Americans who struggle to get enough to eat, they will fall short by an estimated 6-8 billion meals in 2021, leaving many people food-insecure.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Other efforts to address food insecurity &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Aside from the establishment of large food pantries, there are other efforts underway to help the massive growth in U.S. food insecurity.&lt;/p&gt;
+&lt;p&gt;These include scaled-up mobile food pantries, home food delivery programs, school-based food pantries and apps that help people make the most of the sometimes unfamiliar produce they may get from food pantries with recipes and cooking tips.&lt;/p&gt;
+&lt;p&gt;A growing number of food banks are partnering with social service and health care providers, insurance companies, universities and businesses to provide an array of support for people who are experiencing food insecurity.&lt;/p&gt;
+&lt;p&gt;This includes transporting people to food pantries and helping them enroll in federal and state food assistance programs as well as food prescription programs, health promotion and disease prevention programs, and job training.&lt;/p&gt;
+&lt;p&gt;Given that food insecurity is rooted in social, economic and political inequities, we believe that these multi-pronged approaches are essential for alleviating hunger in America.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;David Himmelgreen has received funding related to this article from the Humana Foundation, Hillsborough Community College Foundation, Feeding Tampa Bay, Juvenile Welfare Board, WellCare and All Faiths Food Bank. He is a board member of Feeding Tampa Bay.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Jacquelyn Heuer does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;David Himmelgreen, Professor of Anthropology, University of South Florida&lt;/p&gt;&lt;p&gt;Jacquelyn Heuer, Ph.D. Candidate in Anthropology and Public Health Education, University of South Florida&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation :  Economy + Business</Title>
+         <MpubId>4977986</MpubId>
+         <SortTitle>Conversation :  Economy + Business The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVEB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977986</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464265.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation :  Economy + Business</Title>
+            <SortTitle>Conversation :  Economy + Business The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977986</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464265.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 2, 2021</AlphaDate>
+         <StartDate>2021-02-02</StartDate>
+         <EndDate>2021-02-02</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977986_Feb22021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

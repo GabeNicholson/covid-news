@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2597986776</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>World News: Afghan Shiites Warily Accept Taliban Rule</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-17</NumericDate>
+      <StartDate>2021-11-17</StartDate>
+      <EndDate>2021-11-17</EndDate>
+      <AlphaDate>Nov 17, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.11</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7510</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7510_Nov172021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>DWJNWSJ20211117wjco20211117000060</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1460</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Trofimov, Yaroslav</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Yaroslav</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Yaroslav Trofimov</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Trofimov</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Yaroslav Trofimov</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Taliban</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813940</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Suicide bombings</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Massacres</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Insurgency</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Afghanistan</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="745" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;YAKAWLANG, Afghanistan -- Going house to house in January 2001, Taliban fighters rounded up hundreds of men in this Shiite town and nearby villages. Then they executed their captives, leaving piles of bodies in the snow-covered fields.&lt;/p&gt;
+&lt;p&gt;These days, a Shiite flag lauding Imam Hussain, Prophet Muhammad's grandson, flies next to the Taliban's white banner atopYakawlang'sdistrict government compound. Most of the Taliban fighters and officials here are local Shiites who joined the Sunni Islamist insurgency years ago, as the downfall of the American-backed Afghan republic became increasingly likely. Bitter memories of the 2001 killings, they say, influenced this switch.&lt;/p&gt;
+
+&lt;p&gt;"Last time, they came and did whatever they wanted here because they were strangers. People were really afraid of facing the same violence again, and so now we've come here to prevent it," said Mohammed Hassan Hamdard, a Shiite native of the area who said he joined the Taliban's Islamic Emirate of Afghanistan 12 years ago.&lt;/p&gt;
+&lt;p&gt;"We don't want other people to govern our people," he added, surrounded by a dozen Shiite gunmen. "We are accountable to the leaders of the Islamic Emirate and are committed to their rules and principles. On the other hand, they have also committed to preventing individuals from creating problems for our people."&lt;/p&gt;
+&lt;p&gt;In a way, this emergence of Shiite Taliban, here in Afghanistan's central Bamiyan province and other Shiite-populated areas, shows how the country's new rulers are trying to blunt the sectarian divide and position themselves as a pan-Afghan national-liberation movement that has ousted foreign occupiers. Most of Afghanistan's Shiites, roughly one-fifth of the country's population, belong to the Hazara ethnic group.&lt;/p&gt;
+&lt;p&gt;"We have never told anyone that they are Shiite or Sunni, we are saying that they all are our brothers. The discrimination is finished among the communities. We are here to serve everyone," said Bamiyan's newly appointed governor, Abdullah Sarhadi, a former inmate of Guantanamo Bay who served as the Taliban's security commander for the province in 2001.&lt;/p&gt;
+&lt;p&gt;As Mr. Sarhadi, an ethnic Pashtun, made the point in a reception room packed with gun-toting Taliban fighters, his aide Abdullah Ayubi added, "I am a Shiite and I am his soldier. There is no problem between Shiites and Sunnis in Bamiyan province." A Taliban gunman wearing a red Pashtun cap interrupted, "Not just in Bamiyan, there is no problem between the Shiites and Sunnis in the whole of Afghanistan."&lt;/p&gt;
+&lt;p&gt;Reality isn't as rosy, of course. The Taliban's main rival, the far-more-extremist Islamic State organization, considers Shiites to be heretics and seeks to physically exterminate them -- just as it had attempted to do in Syria and Iraq. The group has carried out suicide bombings targeting Shiite mosques, schools and hospitals throughout Afghanistan in recent months.&lt;/p&gt;
+&lt;p&gt;The Taliban's new outreach to the Shiite minority goes only so far. Hundreds of Hazara families were displaced by Pashtuns in parts of the Daikundi province in September. The community's sole representative in Afghanistan's new government, dominated by Pashtun Sunni clerics, is a deputy minister of health. In Bamiyan province, overwhelmingly populated by Shiites, the most senior Shiite official is Mawlawi Mahdi, the provincial director of intelligence. That is a far cry from the prominent role that Shiites enjoyed in the U.S.-backed Afghan republic.&lt;/p&gt;
+&lt;p&gt;"We have lost everything that we used to have," said Amir Kawsari, a Hazara civil-society activist in Bamiyan. "We are in political isolation and don't have any rights as a citizen."&lt;/p&gt;
+&lt;p&gt;In Yakawlang, set along a fast-running river fringed by snow-capped mountains, Mr. Hamdard, the Shiite Taliban security official, on a recent day engaged in a heated discussion with a group of Pashtun Taliban who arrived in a sport-utility vehicle with the plates from the eastern province of Nangarhar. Documents in hand, these men said they wanted to enforce the repayment of a debt by a local man. No such action should be taken without coordination withYakawlang'slocal authorities, Mr. Hamdard retorted. The Pashtun men eventually left.&lt;/p&gt;
+&lt;p&gt;Still, few local residents believe that the Shiite Taliban now in charge of the district, such as Mr. Hamdard, possess any real authority. "They are here just for show," scoffed Sayed Kazim, a 60-year-old merchant who lost 30 members of his extended family in the 2001 massacre. "The Taliban appointed locals who know this area so that they could collect taxes from local people."&lt;/p&gt;
+&lt;p&gt;Already, he said, Pashtun men from neighboring provinces have appeared inYakawlang, claiming ownership of the area's land -- a prelude to possible expulsions and confiscations.&lt;/p&gt;
+
+&lt;p&gt;Credit: By Yaroslav Trofimov &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal</Title>
+         <MpubId>10482</MpubId>
+         <SortTitle>Wall Street Journal</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Eastern edition</Edition>
+         <JournalCode>WSJ</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19590101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7510</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>00999660</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60541.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics--Banking And Finance</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal</Title>
+            <SortTitle>Wall Street Journal</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Eastern edition</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7510</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>00999660</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60541.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Wall Street Journal</Title>
+               <SortTitle>Wall Street Journal The</SortTitle>
+               <Qualifier>New York</Qualifier>
+               <EndIssueDate>19590213</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>25749552</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>60541.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 2, 1984</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19840102</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 17, 2021</AlphaDate>
+         <StartDate>2021-11-17</StartDate>
+         <EndDate>2021-11-17</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7510_Nov172021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

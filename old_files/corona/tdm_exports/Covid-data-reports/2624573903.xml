@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2624573903</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Some cancers are preventable with a vaccine – a virologist explains</Title>
+      </TitleAtt>
+      <NumericDate>2022-02-01</NumericDate>
+      <StartDate>2022-02-01</StartDate>
+      <EndDate>2022-02-01</EndDate>
+      <AlphaDate>Feb 1, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2022. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20220201_171540</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20220201_171540</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Feb12022______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Desrosiers, Ronald C</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Ronald</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Ronald C Desrosiers</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Desrosiers</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>C</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Ronald C. Desrosiers</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/171540/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Cervical cancer</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Womens health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Viruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Liver cancer</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Viral infections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Apoptosis</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Human papillomavirus</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Teenagers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hepatitis B</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Japan</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="68">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The human papillomavirus, commonly known as HPV and known to cause cervical cancer, is in the papilloma family.
+
+Vaccines save lives The numbers of cancers prevented and lives saved by the vaccines against the hepatitis B virus and human papillomavirus are enormous and indisputable.
+
+In Japan, the current rate of HPV vaccine coverage in adolescents is less than 1% because of false reports of adverse events in 2013.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="933" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;One-fifth. Nearly 20% of cancers worldwide are caused by a virus.&lt;/p&gt;
+&lt;p&gt;These viruses don’t cause cancer until long after they initially infect a person. Rather, the viruses teach the cells they take over how to escape the natural biological process of cell death. This strategy sets these altered cells on a path for other genetic changes that can cause full-blown cancer years down the road.&lt;/p&gt;
+&lt;p&gt;As a microbiologist and researcher of viruses, I seek to understand how viruses affect living cells and the health of the people who are infected. These particular viruses are unique and interesting, both for their effects on patients and because of the potential ways they might be treated or prevented.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The viral landscape&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;All known viruses can be categorized into one of 22 distinct families. Five of these families are called “persisting,” because once a person is infected, the virus remains in their body for life. One example is the herpes virus that causes chickenpox in children and can reappear later in life as shingles. This ability to survive over the long term helps the virus spread from person to person.&lt;/p&gt;
+&lt;p&gt;There are seven known viruses that can cause cancer. Five of them are members of persistent virus families. The human papillomavirus, commonly known as HPV and known to cause cervical cancer, is in the papilloma family. The Epstein-Barr virus, which causes Hodgkin lymphomas, and the Kaposi’s sarcoma-associated virus, are both in the herpes family. The human T-lymphotropic virus, which can cause a type of leukemia, is what’s known as a retrovirus. And Merkel cell polyoma virus, which causes Merkel cell carcinoma, is in the polyoma family.&lt;/p&gt;
+&lt;p&gt;All five of these viruses contain genetic code for one or more proteins that teach cells how to avoid cell death, effectively immortalizing them and promoting cell growth. The cancer cells that develop from these oncogenic viruses all contain their original viruses’ genetic information, even when they appear years after the initial infection. But only a small percentage of people who are infected with one of these five oncogenic viruses ultimately develop the full-blown cancer associated with it.&lt;/p&gt;
+&lt;p&gt;The other two viruses, hepatitis B, in the hepadna family, and hepatitis C, in the flavi family, are somewhat different. Most people infected with those viruses are able to fight the infection through their own immunity and eliminate the virus.&lt;/p&gt;
+&lt;p&gt;However, in people who are not able to fight off the infection, long-term infections of these viruses often cause extensive liver damage. These people are at risk of developing a type of liver cancer called hepatocellular carcinoma, because the body’s attempts to repair the damaged liver tissue increase the chance of a cancer-related mutation. The viruses themselves do not teach the liver cells to become immortal or transform themselves, the way the other five oncogenic viruses do to the cells they target.&lt;/p&gt;
+&lt;p&gt;These viral-induced cancers are serious health threats. Hepatocellular carcinoma, for instance, kills approximately 800,000 people a year, making it the third-deadliest cancer globally. About three-quarters of those killed have had hepatitis virus infections in the past.&lt;/p&gt;
+&lt;p&gt;HPV is similarly dangerous. The cervical cancer it causes kills some 311,000 people a year worldwide, making it the deadliest cancer in women until recently. That number includes 36,000 women in the U.S. But HPV doesn’t just put women at risk. A similar number of people in the U.S. die each year from anal and throat cancers linked to HPV.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Reasons for optimism&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The first viral vaccine to protect against HPV infection and its associated cancers was approved for use in the U.S. in 2006. It has proved to be highly effective at preventing both HPV infection and the subsequent development of cervical carcinoma.&lt;/p&gt;
+&lt;p&gt;HPV vaccines are now widely available around the globe. The HPV vaccine is safe, with very mild side effects. It is recommended for children starting at ages 11 to 12, since different individuals become sexually active at different ages. The protective effects of the vaccine last beyond 10 years, and booster shots are available.&lt;/p&gt;
+&lt;p&gt;Older people – typically up to 26 years of age – can also receive the HPV vaccine. By preventing infection in the first place, the vaccine also prevents the subsequent cancers that may result from a viral infection.&lt;/p&gt;
+&lt;p&gt;The vaccine for hepatitis B virus has been similarly successful over a longer time period. Introduced in 1986, it was recognized as the first anti-cancer vaccine. Since then, more than a billion people worldwide have received it. The vaccine has been shown to be extremely safe and effective.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Vaccines save lives&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The numbers of cancers prevented and lives saved by the vaccines against the hepatitis B virus and human papillomavirus are enormous and indisputable. Yet, as with the resistance to COVID-19 vaccines, vaccine hesitancy is an ongoing problem. In 2019, 46% of adolescents ages 13 to 17 in the U.S. had not received their recommended HPV vaccines. In 2020 in Mississippi, HPV vaccine coverage in adolescents reached a meager 32%.&lt;/p&gt;
+&lt;p&gt;But the U.S. is better off than some other industrialized nations. In Japan, the current rate of HPV vaccine coverage in adolescents is less than 1% because of false reports of adverse events in 2013. Despite repeated, definitive discrediting of these claims, vaccine uptake in Japan has not rebounded.&lt;/p&gt;
+&lt;p&gt;Vaccination campaigns have eradicated smallpox and effectively eliminated polio, measles and certain other infectious diseases. Let’s hope that ongoing vaccine efforts can make HPV-induced cancers and hepatitis B virus-induced cancers a thing of the past as well.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Ronald C. Desrosiers receives funding from the National Institutes of Health. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Ronald C. Desrosiers, Professor of Pathology, Vice-chair for Research, University of Miami&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 1, 2022</AlphaDate>
+         <StartDate>2022-02-01</StartDate>
+         <EndDate>2022-02-01</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Feb12022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

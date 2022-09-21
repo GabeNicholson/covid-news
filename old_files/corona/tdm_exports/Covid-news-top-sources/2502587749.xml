@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2502587749</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>CITY &amp;amp; STATE; More eligible to sit on panels; Santa Ana's thousands of undocumented residents now able to serve on city boards.</Title>
+      </TitleAtt>
+      <NumericDate>2021-03-19</NumericDate>
+      <StartDate>2021-03-19</StartDate>
+      <EndDate>2021-03-19</EndDate>
+      <AlphaDate>Mar 19, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Los Angeles Times Mar 19, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.3</StartPage>
+         <Pagination>B.3</Pagination>
+         <DocSection>California; Part B; Metro Desk</DocSection>
+         <DocEdition>HOME EDITION</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7683</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7683_Mar192021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>LATMLATM202103194909</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>LATMLATM202103194909</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1470</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Brazil, Ben</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Ben</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Ben Brazil</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Brazil</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Ben Brazil</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>SANTA ANA (CA)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>IMMIGRANTS</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>GOVERNMENT AGENCIES</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>ADVISORY COMMITTEES</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="166" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Santa Ana's thousands of undocumented residents will now be able to serve on city boards, commissions and committees.&lt;/p&gt;
+&lt;p&gt;The Santa Ana City Council this week voted to remove the requirement that residents must be "qualified electors," or be eligible to vote, to serve on the advisory bodies.&lt;/p&gt;
+&lt;p&gt;More than 100,000 undocumented immigrants live in Santa Ana, according to the Vera Institute of Justice. The Santa Ana rule received initial unanimous approval earlier this month and was passed Tuesday night as part of the consent calendar without any council discussion.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The city has 10 boards, commissions and committees. Two of the advisory bodies -- the Youth Commission and Measure X Citizens Oversight Committee -- have not required members to be qualified electors.&lt;/p&gt;
+&lt;p&gt;Undocumented residents will now be able to serve on the Arts and Culture Commission, Personnel Board, Community Development Commission, Planning Commission, Environmental and Transportation Advisory Commission, Historic Resources Commission, Workforce Development Board, and Board of Recreation and Parks.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Credit: Brazil writes for Times Community News.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Los Angeles Times</Title>
+         <MpubId>46999</MpubId>
+         <SortTitle>Los Angeles Times</SortTitle>
+         <Qualifier>Los Angeles, Calif.</Qualifier>
+         <JournalCode>ANGE</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18860101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Los Angeles Times Communications LLC</PublisherName>
+            <PublisherAddress>
+               <City>Los Angeles</City>
+               <Province>CA</Province>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7683</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>04583035</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60200.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Los Angeles Times</Title>
+            <SortTitle>Los Angeles Times</SortTitle>
+            <Qualifier>Los Angeles, Calif.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7683</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>04583035</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60200.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Los Angeles Daily Times</Title>
+               <Qualifier>Los Angeles, Calif.</Qualifier>
+               <EndIssueDate>18861022</EndIssueDate>
+               <CatalogNum>60200.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Dec 4, 1996</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19961204</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Mar 19, 2021</AlphaDate>
+         <StartDate>2021-03-19</StartDate>
+         <EndDate>2021-03-19</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7683_Mar192021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

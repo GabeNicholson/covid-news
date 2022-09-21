@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2586274592</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>SPORTS; 'Never say never, but never. OK?'</Title>
+      </TitleAtt>
+      <NumericDate>2021-10-27</NumericDate>
+      <StartDate>2021-10-27</StartDate>
+      <EndDate>2021-10-27</EndDate>
+      <AlphaDate>Oct 27, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Los Angeles Times Oct 27, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.9</StartPage>
+         <Pagination>B.9</Pagination>
+         <DocSection>California; Part B; Sports Desk</DocSection>
+         <DocEdition>HOME EDITION</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7683</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7683_Oct272021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>LATMLATM2021102718299</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>LATMLATM2021102718299</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1490</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <DisplayForm>J. BRADY McCOLLOUGH</DisplayForm>
+               <OriginalFormAtt>
+                  <OriginalForm>J. BRADY McCOLLOUGH</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>National Football League--NFL</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>711211</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813990</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>College football</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coaches &amp; managers</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Patrick, Dan</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Palmer, Carson</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Tomlin, Mike</Personal>
+         </Term>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>TOMLIN, MIKE</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>PALMER, CARSON</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>UNIVERSITY OF SOUTHERN CALIFORNIA</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>COACHES</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>PITTSBURGH STEELERS (FOOTBALL TEAM)</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="729" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;When Carson Palmer speaks, Trojans everywhere listen. He is not fellow USC Heisman Trophy winner Matt Leinart, who is freewheeling with his opinions and armed with a Fox microphone every Saturday morning and notoriously eager Twitter trigger fingers.&lt;/p&gt;
+&lt;p&gt;So Palmer's comments on "The Dan Patrick Show" on Monday -- that he is "as involved as they'll let me be" in finding USC its next coach, that Steelers coach Mike Tomlin is a "wild-card" candidate -- became immediately amplified amid the ongoing quiet of this search that just began its seventh week.&lt;/p&gt;
+&lt;p&gt;If you're the average USC fan, bored of waiting for concrete news on the search and hiding your eyes from the train wreck 2021 Trojans, it would be easy to convince yourself of Palmer's trustworthiness. He isn't known for just saying stuff, so there must be something to it, right?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Asked by Patrick whether Tomlin's name has been discussed, Palmer said, "I'm sure he has. I think anybody is a potential candidate right now. And that's what's so great about the job, is it can lure an NFL guy that's tired of their current situation and worried about, 'Is Ben Roethlisberger gone? Is he done? Who are we going to draft?' Does Mike Tomlin have to start over with a first-round, young rookie quarterback? ... Everything is on the table with that job being so big and so coveted."&lt;/p&gt;
+&lt;p&gt;Then Palmer asked Patrick whether this was the first he had heard of a Tomlin-USC pairing.&lt;/p&gt;
+&lt;p&gt;"Yeah," Patrick said.&lt;/p&gt;
+&lt;p&gt;"Uh-oh," Palmer said. "Oops."&lt;/p&gt;
+&lt;p&gt;By that point, Palmer was playing it up, making good TV. He hadn't let out of the bag some highly guarded secret that Tomlin was ready to give up guiding the Steelers out of the Roethlisberger era with a rookie quarterback like Mississippi's Matt Corral or Liberty's Malik Willis so he could spend the rest of his coaching career convincing 16-year-old quarterbacks in Southern California to stop choosing Alabama, Clemson and Oklahoma over USC.&lt;/p&gt;
+&lt;p&gt;This is classic coaching search fodder. Palmer's only potential "oops" here is that the last thing USC fans need is a legend like him floating unreasonable names and setting them up for disappointment when USC ends up hiring a lesser-known coach who is actually a logical candidate to turn the Trojans around such as Cincinnati's Luke Fickell, Baylor's Dave Aranda or Iowa State's Matt Campbell.&lt;/p&gt;
+&lt;p&gt;Haven't the USC faithful been tested enough the last decade? Trojans deserve to be legitimately excited for this hire, not pining for coaches who were never going to come.&lt;/p&gt;
+&lt;p&gt;Most of the diehards will understand that the odds of Tomlin -- or any entrenched NFL coach -- leaving his current job for an elite college position are nearly nonexistent. But others will hold Palmer's words in their hearts, letting them fuel false hope that USC athletic director Mike Bohn will land someone of Tomlin's ilk.&lt;/p&gt;
+&lt;p&gt;For his part, Tomlin issued the denial of denials Tuesday when asked about the USC rumor.&lt;/p&gt;
+&lt;p&gt;"Hey, guys, I don't have time for that speculation," Tomlin said. "I mean, that's a joke to me. I got one of the best jobs in all of professional sport. Why would I have any interest in coaching college football?&lt;/p&gt;
+&lt;p&gt;"That'll be the last time that I address it. And not only today, but moving forward. Never say never, but never. OK? Anybody else got any questions about any college jobs? There's not a booster with a big enough blank check."&lt;/p&gt;
+&lt;p&gt;The assumption here is that Palmer got a good chuckle out of Tomlin's spirited rebuttal. There's certainly no reason to use any more time further poking holes in Palmer's speculative interview with Patrick. We should all hope Palmer is somehow right that a coach who has achieved Tomlin's level of success could be interested in USC given where the program sits today.&lt;/p&gt;
+&lt;p&gt;But the most desperate among Trojans fans would do well to remove their emotions and see Monday for what it was. Carson Palmer was just a dude having a blast talking about an alma mater he deeply loves.&lt;/p&gt;
+&lt;p&gt;Caption: PHOTO: MIKE TOMLIN, whose name was floated by Carson Palmer as a possible USC candidate, shut down the speculation. "That's a joke," the Steelers coach said.&lt;/p&gt;
+&lt;p&gt;PHOTOGRAPHER:Justin Berl Associated Press&lt;/p&gt;
+&lt;p&gt;PHOTO:CARSON PALMER'S comments on "The Dan Patrick Show" might have gotten USC fans' hopes up.&lt;/p&gt;
+&lt;p&gt;PHOTOGRAPHER:Ross D. Franklin Associated Press&lt;/p&gt;
+&lt;p&gt;Credit: ON COLLEGE FOOTBALL&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Los Angeles Times</Title>
+         <MpubId>46999</MpubId>
+         <SortTitle>Los Angeles Times</SortTitle>
+         <Qualifier>Los Angeles, Calif.</Qualifier>
+         <JournalCode>ANGE</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18860101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Los Angeles Times Communications LLC</PublisherName>
+            <PublisherAddress>
+               <City>Los Angeles</City>
+               <Province>CA</Province>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7683</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>04583035</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60200.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Los Angeles Times</Title>
+            <SortTitle>Los Angeles Times</SortTitle>
+            <Qualifier>Los Angeles, Calif.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7683</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>04583035</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60200.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Los Angeles Daily Times</Title>
+               <Qualifier>Los Angeles, Calif.</Qualifier>
+               <EndIssueDate>18861022</EndIssueDate>
+               <CatalogNum>60200.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Dec 4, 1996</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19961204</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 27, 2021</AlphaDate>
+         <StartDate>2021-10-27</StartDate>
+         <EndDate>2021-10-27</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7683_Oct272021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

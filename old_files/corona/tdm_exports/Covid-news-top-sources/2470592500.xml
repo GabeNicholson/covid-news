@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2470592500</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Roku, Lennar, Bitcoin: What to Watch When the Stock Market Opens Today; U.S. stock futures rose, suggesting indexes could rise for a third straight day</Title>
+      </TitleAtt>
+      <NumericDate>2020-12-17</NumericDate>
+      <StartDate>2020-12-17</StartDate>
+      <EndDate>2020-12-17</EndDate>
+      <AlphaDate>Dec 17, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2020 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>Markets</DocSection>
+         <ColumnHeader>Today's Markets</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Dec172020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO20201217WP-WSJ-0000010880</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1400</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Frankl-Duval, Mischa</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Mischa</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Mischa Frankl-Duval</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Frankl-Duval</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Mischa Frankl-Duval</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Roku Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>334220</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>512120</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515210</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Warner Media LLC</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>512110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>517311</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>517312</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <PQBCompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Warner Media LLC</CompanyName>
+            </CompanyNameAtt>
+            <CompanyIDAtt TermVocab="BUSCORP">
+               <CompanyID>6577536</CompanyID>
+            </CompanyIDAtt>
+            <CompanyType>Public</CompanyType>
+            <CompanyHQLocation>United States</CompanyHQLocation>
+            <CompanyWebsite>https://www.warnermedia.com</CompanyWebsite>
+         </PQBCompanyTerm>
+         <PQBCompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Roku Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyTickerAtt>
+               <CompanyTicker>ROKU</CompanyTicker>
+            </CompanyTickerAtt>
+            <CompanyIDAtt TermVocab="BUSCORP">
+               <CompanyID>309320</CompanyID>
+            </CompanyIDAtt>
+            <CompanyType>Public</CompanyType>
+            <CompanyHQLocation>United States</CompanyHQLocation>
+            <CompanyWebsite>http://www.roku.com</CompanyWebsite>
+            <CompanyStockExchange>NASDAQ</CompanyStockExchange>
+         </PQBCompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Futures</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Stock prices</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Digital currencies</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="404" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Here's what we are watching as markets kick into gear Thursday.&lt;/p&gt;
+&lt;p&gt;—U.S. stock futures rose as investors cheered signs of progress toward a fresh stimulus package . New data showed 885,000 people made initial jobless claims last week, more than economists had expected . It marked a second consecutive week of increases, and suggested the economy was entering a winter slowdown.&lt;/p&gt;
+
+&lt;p&gt;Futures tied to the S&amp;amp;P 500 rose 0.4%, suggesting the benchmark stocks gauge may rise for a third-straight day at the opening bell. The S&amp;amp;P 500 closed at its second-highest level ever on Wednesday. Futures tied to the technology-focused Nasdaq-100 gained 0.5%.&lt;/p&gt;
+&lt;p&gt;The dollar is extending its recent decline after most Fed officials yesterday projected interest rates will stay near zero for at least three years.&lt;/p&gt;
+&lt;p&gt;What's Coming Up&lt;/p&gt;
+&lt;p&gt;—FedEx will report its quarterly earnings after the close.&lt;/p&gt;
+&lt;p&gt;—The Kansas City Fed's manufacturing survey for December, due at 11 a.m., is expected to fall to 10 from 11 a month earlier.&lt;/p&gt;
+&lt;p&gt;Market Movers to Watch&lt;/p&gt;
+&lt;p&gt;—Roku shares jumped 6.2% premarket after the company reached a deal on Wednesday with AT&amp;amp;T Inc.'s WarnerMedia to carry the HBO Max streaming service, ending an eight-month standoff between the companies.&lt;/p&gt;
+&lt;p&gt;—Shares of homebuilder Lennar 3.5% before the bell after the company said it expects first-quarter home deliveries and new orders to be better than analysts are predicting.&lt;/p&gt;
+&lt;p&gt;—Accenture shares rose 6.3% after the consulting firm posted profit and revenue that beat analysts' expectations.&lt;/p&gt;
+&lt;p&gt;—Moderna stock rose 0.5% in offhours trade. The chairman of a federal vaccine-advisory committee said the panel is likely to recommend that the Food and Drug Administration grant an emergency-use authorization for the company's new Covid-19 vaccine when the panel meets Thursday.&lt;/p&gt;
+&lt;p&gt;Market Fact&lt;/p&gt;
+&lt;p&gt;—Bitcoin surged another 7.6% Thursday to $22,857, according to CoinDesk, part of a furious rally that has seen the digital currency nearly triple this year.&lt;/p&gt;
+&lt;p&gt;Chart of the Day&lt;/p&gt;
+&lt;p&gt;Research shows that companies and governments that borrow using so-called green bonds can save a bit of money. The market for these bonds, which fund environmental objectives such as renewable power, is booming.&lt;/p&gt;
+&lt;p&gt;Must Reads Since You Went to Bed&lt;/p&gt;
+&lt;p&gt; Tesla-Style Rally Puts Chinese Electric-Vehicle Makers on Par With GM, Ford &lt;/p&gt;
+&lt;p&gt; StockX Snags $2.8 Billion Valuation in Latest Funding Round &lt;/p&gt;
+&lt;p&gt; Rio Tinto Names Stausholm New CEO, as It Seeks to Rebuild Reputation &lt;/p&gt;
+&lt;p&gt; Who Wins From Brexit? New York &lt;/p&gt;
+&lt;p&gt; BarkBox to Go Public in $1.6 Billion Deal &lt;/p&gt;
+&lt;p&gt;Credit: By Mischa Frankl-Duval &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 17, 2020</AlphaDate>
+         <StartDate>2020-12-17</StartDate>
+         <EndDate>2020-12-17</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Dec172020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

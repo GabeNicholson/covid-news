@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2353331004</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>On 'grit,' Klobuchar rises from bottom tier</Title>
+      </TitleAtt>
+      <NumericDate>2020-02-12</NumericDate>
+      <StartDate>2020-02-12</StartDate>
+      <EndDate>2020-02-12</EndDate>
+      <AlphaDate>Feb 12, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Feb 12, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.1</StartPage>
+         <DocSection>A-Section</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Feb122020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20200212OngritKlobucharrisesfrombottomtier53ea8300</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1450</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Johnson, Jenna</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jenna</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jenna Johnson</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Johnson</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jenna Johnson</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Primaries &amp; caucuses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Nominations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Local elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political campaigns</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>State elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Candidates</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Imprisonment</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New Hampshire</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Trump, Donald J</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Buttigieg, Pete</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Massachusetts</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Sanders, Bernard</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Maine</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Minnesota</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Warren, Elizabeth</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York City New York</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Nevada</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Klobuchar, Amy</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Cortez Masto, Catherine</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Biden, Joseph R Jr</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Iowa</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Las Vegas Nevada</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1223" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p/&gt;
+&lt;p&gt;
+CONCORD, N.H. " Before Sen. Amy Klobuchar left the debate stage in Manchester on Friday night, her staff could feel a new energy around her candidacy. Donations poured in " $1 million before midnight that night and then&lt;em&gt; &lt;/em&gt;another $2 million over the weekend.&lt;/p&gt;
+&lt;p&gt;Larger-than-usual crowds showed up to her campaign events " a record for her of 700 people at a Manchester university on Sunday afternoon, followed by a new record a few hours later of 1,100 people in a Nashua middle school gym. Meanwhile, she surged in two polls in the state.&lt;/p&gt;
+&lt;p&gt;After months of trying to find her place in this crowded field, Klobuchar (D-Minn.) seemed to have hit a stride. Her message was sharper, which she credited to hours of sitting in impeachment trial hearings and thinking about the status of the country. Her crowds laughed at the jokes she had been telling for months to mixed responses in Iowa. She could bounce between funny and sentimental in a single sentence. As her opponents were giving darkly somber speeches, her rallies radiated excitement.&lt;/p&gt;
+&lt;p&gt;Then, Tuesday night, came the stunning result: a third-place finish in New Hampshire, surpassing her better-funded and better-known rivals, former vice president Joe Biden and Sen. Elizabeth Warren (D-Mass.), and rocketing from the bottom tier of a crowded field to the center of the race for the Democratic presidential nomination.&lt;/p&gt;
+&lt;p&gt;'Tonight is about grit. And my story, like so many of yours, is one of resilience,' she told hundreds of supporters at a victory party in a hotel ballroom and many more watching her on television, perhaps for the first time. 'What we've done is steady. We've been strong, and we've never quit. I think that sounds pretty good for a president.'&lt;em&gt; &lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;Her challenge now is to keep that momentum building as the Democratic nominating contest moves to states where she has spent far less time campaigning " and where she will face higher-polling candidates with more money and larger campaign operations. &lt;/p&gt;
+&lt;p&gt;Her next announced campaign stop is a telling one: a fundraiser in New York City on Wednesday night.&lt;/p&gt;
+&lt;p/&gt;
+&lt;p&gt;Klobuchar's staff is hopeful she will resonate in Nevada, noting the popularity of Sen. Catherine Cortez Masto, a moderate Democrat elected in 2016. The campaign plans to begin airing commercials in Las Vegas and Reno on Wednesday. Though it didn't make its first hires in Nevada until late November, it now has 50 staffers there.  &lt;/p&gt;
+&lt;p&gt;Klobuchar has pitched herself as the candidate who can win over independent voters and Republicans horrified by President Trump's actions. Now, she must also prove she can gain the support of African American and Latino voters. Already, she is facing more scrutiny about her time as a prosecutor in Minnesota and her brash treatment of some staff members. &lt;/p&gt;
+&lt;p&gt;Her rise comes as Biden has suffered back-to-back embarrassing finishes and as former South Bend, Ind., mayor Pete Buttigieg has logged strong performances " including a second-place primary finish here "  despite his lack of governing experience, something Klobuchar has repeatedly highlighted. &lt;/p&gt;
+&lt;p&gt;Klobuchar has long pitched herself as a pragmatic centrist who has 'the receipts' to show that she can work with Republicans to get legislation passed. Her policies are not 'pipe dreams,' she says, but rather ideas that could actually be passed and implemented. &lt;/p&gt;
+&lt;p&gt;For months, Klobuchar has questioned the cost of policies proposed by Sen. Bernie Sanders (I-Vt.) " the primary winner " and Warren, especially their calls for Medicare-for-all and free public college tuition. &lt;/p&gt;
+&lt;p&gt;Over the weekend, Klobuchar said she is 'troubled' that Sanders, a self-described democratic socialist, has a shot at becoming the nominee. &lt;/p&gt;
+&lt;p&gt;It was a case that seemed to resonate " in the last few months, Klobuchar racked up endorsements from state lawmakers and newspapers. Though she threw herself into Iowa, visiting all 99 counties, she finished in fifth place in the caucuses last week, earning only one of the state's 41 delegates.-But that disappointment was largely lost in the chaos surrounding the caucuses.-&lt;/p&gt;
+&lt;p/&gt;
+&lt;p&gt;New Hampshire provided another chance. She had been visiting the state for months and-seemed to have hit it off with many of its voters, who are known for being brash and salty, just like her. In more than 70 events in the state over the past year, Klobuchar often noted the similarities between Minnesota and New Hampshire. She frequently reminded her audiences that she launched her campaign outside during a blizzard. And that she didn't need a hat.  Then came her standout debate performance last Friday, during which she spoke movingly about political courage and her desire to defeat Trump.&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt; &lt;/em&gt;All of a sudden, she was having a moment. Over the weekend, her campaign staff often struggled to keep up, planning her schedule only a few hours out. Her supporters sometimes stepped up to fill in where they saw gaps: One created homemade buttons, while another bought hundreds of small American flags to wave at rallies.&lt;/p&gt;
+&lt;p&gt;Her audiences were filled with Democratic voters " not just from New Hampshire but also from Massachusetts and Maine, which have primaries on March 3 " who often said they were trying to decide between Klobuchar, Buttigieg, Warren or Biden. At her largest rally, in Nashua on Sunday, a surrogate begged the crowd to 'give her a ticket out of New Hampshire.' &lt;/p&gt;
+&lt;p/&gt;
+&lt;p&gt;In that crowd was Lori Cinque, 57, who had long liked Klobuchar but didn't think she had a chance to win, so she had been knocking doors in support of Buttigieg. The Friday night debate changed her mind.&lt;/p&gt;
+&lt;p&gt;'I feel like I've been flip-flopping around trying to find a moderate,' said Cinque, who lives in Amherst and follows politics closely. 'I've loved her all the way through, for three years, but she hadn't gained the traction " and recently she has.'&lt;/p&gt;
+&lt;p&gt;Exit polls from Tuesday suggest Cinque wasn't alone. More than two-thirds of her supporters said they made their decision in the last few days.- &lt;/p&gt;
+&lt;p&gt;Klobuchar kicked off Tuesday by visiting polling locations in Manchester and then doing radio and television interviews, including an appearance on ABC's 'The View' during which co-host Sunny Hostin grilled her on the murder conviction of-Myon Burrell, a black teenager, when Klobuchar was the-Hennepin County attorney.&lt;/p&gt;
+&lt;p&gt;The Associated Press has reported on several flaws in that case, including that the police offered informants money and did not pursue leads that could have exonerated Burrell.&lt;/p&gt;
+&lt;p&gt;'How do you defend something like that to someone like me, who is the mother of a black boy, a black teenager? This case would be my worst nightmare,' said Hostin, who was also once a prosecutor. &lt;/p&gt;
+&lt;p&gt;Klobuchar had called for a review of the case, and did so again during the interview. She noted that she decreased the-number of incarcerated African Americans in Hennepin County by 12 percent, diversified the county attorney's office and supported programs that helped the formerly incarcerated to find jobs.&lt;/p&gt;
+&lt;p&gt;'As for my support in the African American community, I've always had strong support in my elections at home,' she said. 'My challenge is to get people to know me.'&lt;/p&gt;
+&lt;p&gt;The exchange highlighted the questions that Klobuchar will face from voters of color in the primaries ahead.  But there was little talk about the challenges ahead as Klobuchar took the stage at her victory party.-&lt;/p&gt;
+&lt;p&gt;'Hello, America,' she said, beaming. 'I'm Amy Klobuchar, and I will beat Donald Trump.'&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;jenna.johnson@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 12, 2020</AlphaDate>
+         <StartDate>2020-02-12</StartDate>
+         <EndDate>2020-02-12</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Feb122020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

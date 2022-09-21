@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487141145</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>History tells us trying to stop diseases like COVID-19 at the border is a failed strategy</Title>
+      </TitleAtt>
+      <NumericDate>2020-08-28</NumericDate>
+      <StartDate>2020-08-28</StartDate>
+      <EndDate>2020-08-28</EndDate>
+      <AlphaDate>Aug 28, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20200828_145016</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20200828_145016</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Aug282020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>McCoy, Charles</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Charles</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Charles McCoy</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>McCoy</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Charles McCoy</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/145016/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infectious diseases</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Human immunodeficiency virus--HIV</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Health care policy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Epidemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Quarantine</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Influenza</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hospitals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Typhoid</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Sociology</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Travel</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fever</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Ebola virus</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Boundaries</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>19th century</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>20th century</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Health services</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease control</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Tropical diseases</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New Jersey</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="99">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Even the Centers for Disease Control and Prevention started as a military organization during World War II, as the Malaria Control in War Areas program.
+
+In 2007, responding to pandemic influenza, the Department of Homeland Security and the CDC developed a "do not board" list to stop potentially infected people from traveling to the U.S. When such actions stop outbreaks from occurring, they are obviously sound public policy.
+
+When "swine flu" struck the country in 2009, the CDC said 159 million doses of flu shots were needed to cover "high risk" groups, particularly health care workers and pregnant women.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1021" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;To explain why the coronavirus pandemic is much worse in the U.S. than anywhere else in the world, commentators have blamed the federal government's mismanagedresponse and the lack of leadership from the Trump White House.&lt;/p&gt;
+&lt;p&gt;Others have pointed to our culture of individualism, the decentralized nature of our public health, and our polarized politics.&lt;/p&gt;
+&lt;p&gt;All valid explanations, but there's another reason, much older, for the failed response: our approach to fighting infectious disease, inherited from the 19th century, has become overly focused on keeping disease out of the country through border controls.&lt;/p&gt;
+&lt;p&gt;As a professor of medical sociology, I've studied the response to infectious disease and public health policy. In my new book, "Diseased States," I examine how the early experience of outbreaks in Britain and the United States shaped their current disease control systems. I believe that America's preoccupation with border controls has hurt our nation's ability to manage the devastation produced by a domestically occurring outbreak of disease.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Germ theory and the military &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Though outbreaks of yellow fever, smallpox, and cholera occurred throughout the 19th century, the federal government didn't take the fight against infectious disease seriously until the yellow fever outbreak of 1878. During that same year, President Rutherford B. Hayes signed the National Quarantine Act, the first federal disease control legislation.&lt;/p&gt;
+&lt;p&gt;By the early 20th century, a distinctly American approach to disease control had evolved: "New Public Health." It was markedly different from the older European concept of public health, which emphasized sanitation and social conditions. Instead, U.S. health officials were fascinated by the newly popular "germ theory," which theorized that microorganisms, too small to be seen by the naked eye, caused disease. The U.S. became focused on isolating the infectious. The typhoid carrier Mary Mallon, known as "Typhoid Mary," was isolated on New York's Brother Island for 23 years of her life.&lt;/p&gt;
+&lt;p&gt;Originally, the military managed disease control. After the yellow fever outbreak, the U.S. Marine Hospital Service (MHS) was charged with operating maritime quarantine stations countrywide. In 1912, the MHS became the U.S. Public Health Service; to this day, that includes the Public Health Service Commissioned Corps led by the surgeon general. Even the Centers for Disease Control and Prevention started as a military organization during World War II, as the Malaria Control in War Areas program. Connecting the military to disease control promoted the notion that an attack of infectious disease was like an invasion of a foreign enemy.&lt;/p&gt;
+&lt;p&gt;Germ theory and military management put the U.S. system of disease control down a path in which it prioritized border controls and quarantine throughout the 20th century. During the 1918 influenza pandemic, New York City held all incoming ships at quarantine stations and forcibly removed sick passengers into isolation to a local hospital. Other states followed suit. In Minnesota, the city of Minneapolis isolated all flu patients in a special ward of the city hospital and then denied them visitors. During the 1980s, the Immigration and Naturalization Service denied HIV-positive persons from entering the country and tested over three million potential immigrants for HIV.&lt;/p&gt;
+&lt;p&gt;Defending the nation from the external threat of disease generally meant stopping the potentially infectious from ever entering the country and isolating those who were able to gain entry.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Our mistakes &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This continues to be our predominant strategy in the 21st century. One of President Trump's first coronavirus actions was to enforce a travel ban on China and then to limit travel from Europe.&lt;/p&gt;
+&lt;p&gt;His actions were nothing new. In 2014, during the Ebola outbreak, California, New York and New Jersey created laws to forcibly quarantine health care workers returning from west Africa. New Jersey put this into practice when it isolated U.S. nurse Kaci Hickox after she returned from Sierra Leone, where she was treating Ebola patients.&lt;/p&gt;
+&lt;p&gt;In 2007, responding to pandemic influenza, the Department of Homeland Security and the CDC developed a "do not board" list to stop potentially infected people from traveling to the U.S.&lt;/p&gt;
+&lt;p&gt;When such actions stop outbreaks from occurring, they are obviously sound public policy. But when a global outbreak is so large that it's impossible to keep out, then border controls and quarantine are no longer useful.&lt;/p&gt;
+&lt;p&gt;This is what has happened with the coronavirus. With today's globalization, international travel, and an increasing number of pandemics, attempting to keep infectious disease from ever entering the country looks more and more like a futile effort.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Research into coronavirus and other news from science&lt;/i&gt;Subscribe to The Conversation's new science newsletter.]&lt;/p&gt;
+&lt;p&gt;Moreover, the U.S. preoccupation with border controls means we did not invest as much as we should have in limiting the internal spread of COVID-19. Unlike countries that mounted an effective response, the U.S. has lagged behind in testing, contact tracing, and the development of a robust health care system able to handle a surge of infected patients. The longstanding focus on stopping an outbreak from ever occurring left us more vulnerable when it inevitably did.&lt;/p&gt;
+&lt;p&gt;For decades, the U.S. has been underfunding public health. When "swine flu" struck the country in 2009, the CDC said 159 million doses of flu shots were needed to cover "high risk" groups, particularly health care workers and pregnant women. We only produced 32 million doses. And in a pronouncement that now looks prescient, a Robert Wood Johnson Foundation report said if the swine flu outbreak had been any worse, U.S. health departments would have been overwhelmed. By the time Ebola appeared in 2014, the situation was no better. Once again, multiple governmentreports slammed our response to the outbreak.&lt;/p&gt;
+&lt;p&gt;Many causes exist for the U.S.‘s failed response to this crisis. But part of the problem lies with our past battles with disease. By emphasizing border controls and quarantine, the U.S. has disregarded more practical strategies of disease control. We can't change the past, but by learning from it, we can develop more effective ways of dealing with future outbreaks.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Charles McCoy does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Charles McCoy, Assistant Professor of Sociology, SUNY Plattsburgh&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 28, 2020</AlphaDate>
+         <StartDate>2020-08-28</StartDate>
+         <EndDate>2020-08-28</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Aug282020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

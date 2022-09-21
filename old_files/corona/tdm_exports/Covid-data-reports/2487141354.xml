@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487141354</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Why Buddhist monks collect alms and visit households even in times of social distancing</Title>
+      </TitleAtt>
+      <NumericDate>2020-07-14</NumericDate>
+      <StartDate>2020-07-14</StartDate>
+      <EndDate>2020-07-14</EndDate>
+      <AlphaDate>Jul 14, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20200714_128452</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20200714_128452</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jul142020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Borchert, Thomas</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Thomas</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Thomas Borchert</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Borchert</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Thomas Borchert</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/128452/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Social distancing</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Food</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Politics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Monks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Buddhists</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Religion</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Buddhism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Festivals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Southeast Asia</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Thailand</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Bangkok Thailand</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Myanmar (Burma)</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="87">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]of the restrictions, food shortages have emerged for monks, particularly in rural areas of Thailand, and other parts of Southeast Asia.
+
+Concerns that monks will not receive enough support during the pandemic caused the government to float a plan to provide relief for monks, but these plans have yet to result in actual support.
+
+In the last several months, Jews celebrated Passover Seders and Christians celebrated Easter virtually; Muslims were forced to break their Ramadan fasts at home, rather than in festive gatherings with friends and relatives.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1046" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Monks socially distancing as they go about their daily alms rounds while dressed in face masks as well as robes have become a common sight during the coronavirus pandemic in Thailand. Pictures in Thai media show the efforts monks and their lay supporters are making in maintaining social distance, as they carry on with the practice nonetheless.&lt;/p&gt;
+&lt;p&gt;I lived in Bangkok for the first six months of 2014 conducting research on the response of Thai Buddhist monks to political issues. I saw that even on days when political protests would close major intersections, making notoriously bad traffic even worse, monks would rise before dawn and silently walk barefoot around the city to collect alms. The donations from lay Buddhists provide the primary source of daily food for the thousands of monks who live in Bangkok.&lt;/p&gt;
+&lt;p&gt;While political upheaval did not disrupt or change this practice in a meaningful way, COVID-19 has affected these interactions, limiting and putting constraints on them.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Daily rounds of monks &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This daily alms round is a central practice for Theravada Buddhist monks and novices in much of Southeast Asia.&lt;/p&gt;
+&lt;p&gt;It comes from the disciplinary rules for monks that instruct monks not to engage in agricultural labor, keep only a few possessions and eat only what is offered in their bowls each morning on the alms rounds.&lt;/p&gt;
+&lt;p&gt;There are exceptions to this, such as monks who are too old or ill to go on daily rounds. Yet a significant portion of Thailand's almost 300,000 monks receive their food from their morning rounds.&lt;/p&gt;
+&lt;p&gt;Following the emergence of the coronavirus in Thailand, in mid-March 2020, senior abbots in Bangkok released guidance that temples be closed and that festivals as well as rituals be postponed.&lt;/p&gt;
+&lt;p&gt;However, monks were allowed to leave the temple to go on alms rounds.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Belief behind the practice &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;There are many reasons why this practice was allowed despite the risks brought about through close contact between the monk and his lay donor.&lt;/p&gt;
+&lt;p&gt;In religious terms, monks provide laypeople with an opportunity to make merit. Buddhist teachings generally highlight that an individual's social situation is the result of karma, the effect of actions performed earlier in this life or in a previous incarnation.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Expertise in your inbox. Sign up for The Conversation's newsletter and get expert takes on today's news, every day.&lt;/i&gt;]&lt;/p&gt;
+&lt;p&gt;Many Thai Buddhists believe that making merit - good karma - through giving can help mitigate the effects of wicked acts. These are acts motivated by greed, hatred or delusion. Giving food to monks is not the only way that Thais make merit, but it is a common one, tied to daily life throughout the country.&lt;/p&gt;
+&lt;p&gt;Merit making can also have political consequences. In 2007 monks in Myanmar took part in protests against the government that started with complaints against a spike in oil prices but quickly took on more overtly political overtones. This "Saffron Revolution," so-called because of the role played by the saffron-colored robes of the monks, was triggered when monks on their morning alms rounds turned over their bowls.&lt;/p&gt;
+&lt;p&gt;This act, while not common, has a long history in Theravada Buddhism. The early 20th-century supreme patriarch of Thailand, Prince Wachirayan, wrote that this was a way that Theravada monks can rebuke laypeople for improper actions that threaten either the teachings of the Buddha or the monastic community. In effect, it meant that the military rulers and their families could not make merit.&lt;/p&gt;
+&lt;p&gt;Economically, the daily alms round is important, providing an important regular source of food for many monks in Thailand.&lt;/p&gt;
+&lt;p&gt;In normal conditions, temple economies in Thailand are based on annual festivals as well as individual donations tied to family events. Approximately 10% of monks receive financial support from the government, but this mainly pays utility bills.&lt;/p&gt;
+&lt;p&gt;Individual monks also often receive money for conducting funerals, as well as other rites, such as blessing new homes or businesses, but these have been curtailed by social distancing rules in the pandemic. As a result of the restrictions, food shortages have emerged for monks, particularly in rural areas of Thailand, and other parts of Southeast Asia.&lt;/p&gt;
+&lt;p&gt;Concerns that monks will not receive enough support during the pandemic caused the government to float a plan to provide relief for monks, but these plans have yet to result in actual support. In other words, Thai monks still depend on morning alms rounds.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The ritual &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Monks often travel through the same neighborhoods, forming a religious community. Thomas Borchert , CC BY&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;This goes beyond the economic, however. Monks do not solicit food on their alms rounds, but people come up to them freely. While temples do not have formal congregations, monks often have disciples who are regular patrons.&lt;/p&gt;
+&lt;p&gt;The ritual of giving food each morning is highly formal, with neither monk nor layperson making eye contact with each other. The monk blesses the food, and the giver receives nothing save a karmic benefit.&lt;/p&gt;
+&lt;p&gt;However, in practice, it can be more than this. While there is no formal assignment of alms routes, monks will often travel through neighborhoods in a regular pattern. Monks get to know the people who regularly provide them with food, and they make it possible for elderly or sick disciples to make merit by going to their homes and waiting for the disciple to step out.&lt;/p&gt;
+&lt;p&gt;As Charles Carstens, a scholar of Buddhism in Myanmar, has shown, religious community is formed in the midst of this highly formalized donation.&lt;/p&gt;
+&lt;p&gt;The coronavirus has brought significant challenges to people all over the world, religious communities included. In the last several months, Jews celebrated Passover Seders and Christians celebrated Easter virtually; Muslims were forced to break their Ramadan fasts at home, rather than in festive gatherings with friends and relatives. Pilgrimages and festivals around the world have been reduced in scale or canceled altogether.&lt;/p&gt;
+&lt;p&gt;Some of these changes are easier than others to incorporate. But in Thailand, the morning alms round is such an integral part of the daily fabric of life, religiously and economically, that it cannot be simply postponed.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Thomas Borchert does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Thomas Borchert, Professor of Religion, University of Vermont&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>Monks often travel through the same neighborhoods, forming a religious community. Thomas Borchert , CC BY</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 14, 2020</AlphaDate>
+         <StartDate>2020-07-14</StartDate>
+         <EndDate>2020-07-14</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jul142020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

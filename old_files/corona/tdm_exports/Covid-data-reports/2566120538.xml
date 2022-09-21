@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2566120538</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Breathing wildfire smoke can affect the brain and sperm, as well as the lungs</Title>
+      </TitleAtt>
+      <NumericDate>2021-08-30</NumericDate>
+      <StartDate>2021-08-30</StartDate>
+      <EndDate>2021-08-30</EndDate>
+      <AlphaDate>Aug 30, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVEN_20210830_166548</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVEN_20210830_166548</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977984_Aug302021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Montrose, Luke</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Luke</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Luke Montrose</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Montrose</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Luke Montrose</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Schuller, Adam</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Adam</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Adam Schuller</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Schuller</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Adam Schuller</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/166548/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Boise State University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>DNA methylation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Health problems</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Smoke</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Immune system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Brain</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Brain research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Smoke</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Epigenetics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Air pollution</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Brain</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Air pollution</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Immune system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Reproductive systems</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Reproductive system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Alzheimers disease</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Inflammation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Wildfires</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Lungs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Air pollution</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Lungs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Immune system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Health risks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Reproductive system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Wildfires</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Health risk assessment</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Sperm</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Wildfires</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Idaho</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="101">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Pollution can change sperm’s genetic material Urban air pollution, which has a slightly different chemical profile than wildfire smoke, has already been linked with harmful effects to the male reproductive system.
+
+In a recent review article in the journal Epigenetics Insights, we outlined the latest research showing how wildfire smoke particles or the inflammatory signals released by the immune system after exposure might reach the brain and contribute to these health problems.
+
+[...]evidence suggests that particles may not need to travel to the lungs at all, but rather could get to the brain directly from the nose by following nerve bundles.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1118" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Wildfires burning in the western U.S. are sending smoke into communities far from the fires themselves, creating hazardous air for days or weeks at a time. A lot of people are wondering: What does breathing all that smoke do to our bodies?&lt;/p&gt;
+&lt;p&gt;Wildfire smoke is a mix of chemicals and tiny particles that are small enough to evade the body’s defenses and directly affect the lungs. But the damage may not stop there.&lt;/p&gt;
+&lt;p&gt;As environmental toxicologists, we have been investigating the health effects of wildfire smoke on humans, including on parts of the body that you might not expect: sperm and the brain.&lt;/p&gt;
+&lt;p&gt;Given the large number of people now breathing wildfire smoke each summer – numbers that are likely to increase as wildfire conditions worsen in a warming world – it’s important to understand how wildfire smoke can harm your body and how to protect yourself.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Pollution can change sperm’s genetic material&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Urban air pollution, which has a slightly different chemical profile than wildfire smoke, has already been linked with harmful effects to the male reproductive system. Studies have shown how air pollution produced from sources like industrial stacks and automobile exhaust can affect sperm shape, their ability to swim and the genetic material they carry. However, few studies have looked at wildfire smoke as an independent source of toxicity.&lt;/p&gt;
+&lt;p&gt;One recent study found that baby rats born to parents that had been exposed to wood smoke could end up with behavioral and cognitive problems. That prompted our team at Boise State University, in collaboration with researchers at Northeastern University, to look closer at what happens to sperm of mice exposed to wildfire smoke.&lt;/p&gt;
+&lt;p&gt;Our goal was to look for small changes at the cellular level that might show us how negative effects could be passed from parents to the next generation. Mice aren’t humans, of course, but damage to their systems can provide clues about potential harm to ours.&lt;/p&gt;
+&lt;p&gt;We simulated a wildland fire in the laboratory by burning Douglas fir needles and chose a smoke exposure amount similar to what a wildland firefighter with 15 years of service would experience. We found that this exposure in a mouse resulted in changes in sperm DNA methylation. DNA methylation is a biological mechanism that can regulate how a gene is expressed, kind of like a dimmer switch on a light bulb. Environmental factors can influence DNA methylation, and this can be harmful if it occurs at the wrong time of life or at the wrong gene.&lt;/p&gt;
+&lt;p&gt;We were surprised to find that the effects of wood smoke were similar to the effects of cigarette and cannabis smoke exposure on sperm. Much more work is still needed to understand if and how these changes in sperm affect the offspring they create, and what the effect is in humans. Studying populations with extreme levels of smoke exposure, like wildland firefighters, would help to answer these questions. However, very little data currently exists for long-term exposure monitoring and health tracking in this group of workers.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Links to Alzheimer’s and other ways smoke affects the brain&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Wood smoke exposure has also been linked to poor brain health, including conditions like Alzheimer’s disease. There is data that suggests wood smoke exacerbates symptoms of cognitive decline such as loss of memory or motor skills.&lt;/p&gt;
+&lt;p&gt;In a recent review article in the journal Epigenetics Insights, we outlined the latest research showing how wildfire smoke particles or the inflammatory signals released by the immune system after exposure might reach the brain and contribute to these health problems.&lt;/p&gt;
+&lt;p&gt;One possibility is for very small particles to be inhaled into the lungs, escape into the blood stream and travel to the brain. A second possibility is the particles stay in the lungs but generate inflammatory signals that travel in the blood to the brain. Lastly, evidence suggests that particles may not need to travel to the lungs at all, but rather could get to the brain directly from the nose by following nerve bundles.&lt;/p&gt;
+&lt;p&gt;DNA methylation changes are especially crucial in brain areas like the hippocampus that are involved in learning and memory. If environmental exposures are changing DNA methylation, that may help to explain why Alzheimer’s disease can affect only one identical twin even though their genetic code is exactly the same.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What can you do to stay safe?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The potential impact of breathing wildfire smoke on lungs alone should be concerning enough to make people think twice about their level of exposure. Now, we’re seeing the potential for additional risks, including to the sperm and brain. Other research suggests connections between wildfire smoke and heart inflammation and the risk of pre-term births.&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;&lt;i&gt; &lt;b&gt; Read more: What's in wildfire smoke? A toxicologist explains the health risks and which masks can help &lt;/b&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;So, what can you do to lower your health risk during wildfire season?&lt;/p&gt;
+&lt;p&gt;Start by staying alert to wildfire smoke warnings. The Environmental Protection Agency and companies like PurpleAir have robust air monitoring networks with interactive maps that can show you how bad or good the air quality is in your area. You can also find low-cost air quality monitors.&lt;/p&gt;
+&lt;p&gt;In your home, change the filter on your furnace and air conditioner regularly and make sure it is the proper size. Portable HEPA air purification units in the rooms you spend the most time in can help, too.&lt;/p&gt;
+&lt;p&gt;Face masks can be a great tool when used properly. A mask labeled N-95 or higher is designed to filter out 95% or more of the harmful particles that get deep into the lungs, but only if they have the proper fitment. While cloth masks can help stop the spread of COVID-19, they do not do a good job of filtering out wildfire smoke particles. This is partly because they don’t seal well on the face and because the material is not designed to capture dangerously small smoke particles.&lt;/p&gt;
+&lt;p&gt;As the planet warms and the West continues to dry, wildfire smoke is likely to become a common feature of summer. It’s important to understand the health risks so you can protect yourself.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Like what you’ve read? Want more?&lt;/i&gt; Sign up for The Conversation’s daily newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Luke Montrose receives funding from the technology access award provided by the Data Science core of the Idaho INBRE program under NIH/NIGMS Grant #P20GM103408 and Boise State COBRE program in Matrix Biology through NIH/NIGMS Grant #P20GM109095.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Adam Schuller receives funding from the technology access award provided by the Data Science core of the Idaho INBRE program under NIH/NIGMS Grant #P20GM103408 and Boise State COBRE program in Matrix Biology through NIH/NIGMS Grant #P20GM109095.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Luke Montrose, Assistant Professor of Community and Environmental Health, Boise State University&lt;/p&gt;&lt;p&gt;Adam Schuller, Researcher in Biomolecular Sciences, Boise State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Environment + Energy</Title>
+         <MpubId>4977984</MpubId>
+         <SortTitle>Conversation : Environment + Energy The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVEN</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977984</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464270.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Energy</Subject>
+            <Subject>Environmental Studies</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Environment + Energy</Title>
+            <SortTitle>Conversation : Environment + Energy The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977984</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464270.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 30, 2021</AlphaDate>
+         <StartDate>2021-08-30</StartDate>
+         <EndDate>2021-08-30</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977984_Aug302021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

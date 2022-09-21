@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2519187745</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>100 Days of Vice-Presidential Style</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[Style Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2021-04-29</NumericDate>
+      <StartDate>2021-04-29</StartDate>
+      <EndDate>2021-04-29</EndDate>
+      <AlphaDate>Apr 29, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Apr 29, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>D.1</StartPage>
+         <Pagination>D.1</Pagination>
+         <DocSection>D</DocSection>
+         <ColumnNumber>0</ColumnNumber>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Apr292021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>301884-20210429</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <FullTextLinkID>https://www.nytimes.com/2021/04/28/style/kamala-harris-jill-biden-style.html</FullTextLinkID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1590</LexileScore>
+      <Desk>Style Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Friedman, Vanessa</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Vanessa</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Vanessa Friedman</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Friedman</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Vanessa Friedman</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <DocUrl>https://www.nytimes.com/2021/04/28/style/kamala-harris-jill-biden-style.html</DocUrl>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fashion</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>First ladies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fashion designers</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Harris, Kamala</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Hearst, Gabriela</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Biden, Jill</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1753" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Kamala Harris doesn't want to talk about clothes. Neither does Jill Biden. You can understand why. But lots of people still want to know what they are wearing.&lt;/p&gt;&lt;p&gt;On April 28, when President Joseph R. Biden delivered his address to the joint session of Congress, with Vice President Kamala Harris at his shoulder and Jill Biden and Douglas Emhoff watching from the balcony, it marked the first high-profile public appearance of the first and second families since the inauguration.&lt;/p&gt;&lt;p&gt;President Biden, of course, was only one speaking. That didn't mean the other three had nothing to say.&lt;/p&gt;&lt;p&gt;It is on exactly these occasions of state that image-making comes into its own, that costume becomes a key part of political theater. So the fact that Ms. Harris was wearing a cream suit by the Asian-American designer Prabal Gurung that was made in New York, and that Dr. Biden was wearing a navy dress by the Uruguayan-American designer Gabriela Hearst made from upcycled silk wool and embroidered with the flowers of the 50 states of the union -- that mattered.&lt;/p&gt;&lt;p&gt;That was, said Susan Kelley, the founder of the website What Kamala Wore, "a branding exercise -- not just for the individual but for the administration and the nation as a whole."&lt;/p&gt;&lt;p&gt;Yet when it comes to the women of Brand Biden -- the vice president, a heartbeat away from the most powerful office in the land, and the first lady, a heartbeat away from the most powerful man -- the whole subject of dress is seemingly off limits, rife perhaps with real opportunity but also angst.&lt;/p&gt;&lt;p&gt;They are clearly in different positions: Ms. Harris an elected official steering the country; Dr. Biden a political spouse. But each in her own way represents a new paradigm (first female vice president, first first lady to keep working while in the White House), and each is being watched in the petri dish of Washington. In a visual age, that means not only words and actions but also outfits matter.&lt;/p&gt;&lt;p&gt;The Promise, and Problem, of Fashion&lt;/p&gt;&lt;p&gt;It began during the inauguration, when the four protagonists rose to the occasion with grace and forethought. In a widely applauded merging of style and substance, the new first and second families used their appearance before the nation to stake out territory that seemingly supported the words on which they had campaigned: empathy, inclusivity, the whole building-back-better thing.&lt;/p&gt;&lt;p&gt;Mr. Biden and Mr. Emhoff each wore a suit by Ralph Lauren, a designer who has become synonymous with American style. Even more on point, Dr. Biden wore a "Unity" coat and mask by the young independent Jonathan Cohen, and then a dress embroidered with the flowers of all 50 states by Gabriela Hearst, a designer focused on sustainability. Ms. Harris wore clothes by three different independent Black designers, including a purple dress and coat that merged blue and red.&lt;/p&gt;&lt;p&gt;It seemed to herald a new age of conscious dress, and a new dawn for the American fashion industry, reeling after four years of an administration that had trampled all political norms, including the tradition of using their clothes as an expression of patriotic duty. Not to mention the effects of the coronavirus pandemic, with its closures and bankruptcies.&lt;/p&gt;&lt;p&gt;And yet, 100 days into Biden administration, the most conscious part of their image-making has been how very consciously they seem to be downplaying the whole thing.&lt;/p&gt;&lt;p&gt;Emails to both the vice president's and the first lady's offices asking whether there was a policy in place to support the American fashion industry, or whether on major state occasions they would offer information on dress choice, were simply met with "no more to add." In March, Michael LaRosa, Dr. Biden's press secretary, told WWD that "we will not be commenting on her clothes." When contacted, many (though not all) designers declined to be quoted on either the first lady or the vice president.&lt;/p&gt;&lt;p&gt;To a certain extent, you can understand the reluctance. Historically, a focus on fashion has been used as a weapon to dismiss or demean women in positions of power. But as both Nancy Pelosi with her Mace of the Republic pin and orange coat and Hillary Clinton with her white suffragist suit have shown, it can be turned into an advantage: a way of underscoring just who they are, what they have achieved and where their values lie. Of drawing attention to what they do. It's part of the package.&lt;/p&gt;&lt;p&gt;And when it comes to Ms. Harris and Dr. Biden, there is clearly consideration going on -- and the watching public clearly cares. And neither of those things is a bad thing.&lt;/p&gt;&lt;p&gt;The Vice-Presidential Strategy&lt;/p&gt;&lt;p&gt;Ms. Harris, for example, has adopted an unofficial but also unmistakable working uniform of dark trouser suits in navy, black and gray, most often, though not always, by Joseph Altuzarra, a young American designer. (She started wearing the label long before the campaign and "probably has about 20," Mr. Altuzarra said, including "classic one-button, two-button, double-breasted.")&lt;/p&gt;&lt;p&gt;See, for example, the ocean-blue Altuzarra jacket Ms. Harris wore for her official portrait, as well as the burgundy Altuzarra suit she wore to accept the nomination for vice president and the gray Altuzarra suit she wore on the cover of Elle.&lt;/p&gt;&lt;p&gt;She pairs the suits with simple shells, often in matching nondescript shades, as well as Manolo Blahnik 70mm pumps and her famous pearls, which trace a direct line back to her sorority at a historically Black college.&lt;/p&gt;&lt;p&gt;Her extreme consistency effectively silences commentary. When someone wears the same thing day in and day out, at a certain point what else is there to say? But then, when Ms. Harris departs from the script, the effect is to draw attention to her choices, imbuing them with even more meaning. Thus the public brouhaha over her appearance in Converse on the campaign trail, the fact she wore a white pantsuit on the night she and Mr. Biden were declared the winners of the election, and at the inauguration. (And thus the universal freakout over the Vogue cover that appeared just before the swearing-in.) It's a master class in framing.&lt;/p&gt;&lt;p&gt;"From what I've seen, she has a real point of view," Mr. Altuzarra said, who also credited the vice president with sparking a notable interest in his tailoring despite the fact that during the last few months, all anyone could talk about was the end of the suit. "She has developed an image that is incredibly powerful but also is not trying to erase her femininity. She strikes that balance really well."&lt;/p&gt;&lt;p&gt;According to Ms. Kelley of What Kamala Wore: "I really questioned the endeavor when I started: Is it appropriate to write about her clothes? It's a fraught topic, and this is clearly a secondary consideration. But people are really interested in people who are considered role models. Fashion builds bridges -- it's a point of commonality. I get lots of emails from young women who want to be like her, saying 'Where can I get a less expensive version?"'&lt;/p&gt;&lt;p&gt;The First Influencer&lt;/p&gt;&lt;p&gt;For her part, Dr. Biden has appeared almost entirely in American designers since the inauguration. An incomplete roll call of names includes Oscar de la Renta, Michael Kors, Brandon Maxwell, Veronica Beard and Stuart Weitzman.&lt;/p&gt;&lt;p&gt;Alexandra O'Neill, the founder and designer of Markarian, which made the blue coat and dress Dr. Biden wore as her husband was sworn in, reported that since the inauguration, the label's e-commerce has quintupled, its website traffic gone up 725 percent and Saks Fifth Avenue began stocking its clothes. Similarly, Mr. Cohen said after the Unity coat, "we saw mask sales increase 625 percent within the first 48 hours."&lt;/p&gt;&lt;p&gt;When the first lady tweeted a picture of herself wearing a scrunchie and buying some goodies on Instagram before Valentine's Day, it went viral, with watchers cheering her relatable style. A snap of her in early April deplaning from Air Force One in lacy tights, ankle boots and a leather skirt set off an equally clamorous social media firestorm, as commentators seemed taken aback by the idea of someone daring to express personality in what they wore.&lt;/p&gt;&lt;p&gt;"She does take fashion seriously," Ms. O'Neill said of Dr. Biden, characterizing the first lady's style as "very feminine and classic" before adding that pre-inauguration, "she was definitely very conscious of the decision she was making." Indeed, if what Dr. Biden wears says anything, it is that she seems to take real pleasure in clothes and that, in fact, you can enjoy fashion while also being a serious person. Well, and that she knows what she is doing: She did wear a pair of boots that said "VOTE" on them, in large white letters, during the campaign, and a jacket that read "Love" when introducing her husband at his first rally in 2019.&lt;/p&gt;&lt;p&gt;It Could Be a Teachable Moment&lt;/p&gt;&lt;p&gt;It's not that every outfit contains a coded message; that would be exhausting to imagine and misstates the way clothes are used. But every appearance is an expression of identity -- for public officials and those who represent them as for everyone. That's why what Dr. Biden and Ms. Harris wear receives so much attention. Through their clothes, we think we can know them. And that's why it would not be compromising for them -- or, to be fair, their offices -- to acknowledge it.&lt;/p&gt;&lt;p&gt;Indeed, it is possible to imagine them taking the clothes question and turning it into, say, a ... teachable moment.&lt;/p&gt;&lt;p&gt;For example, Ms. Harris and Dr. Biden often rewear clothes from their wardrobes. (This has on occasion created a minor brouhaha for Ms. Harris, who like many professionals has Dolce &amp;amp; Gabbana pantsuits in her wardrobe, Dolce having come under attack for a variety of racist statements in recent years.) Why not admit that and underscore its connection to individual action and sustainability -- and then use that to pivot to the Biden climate agenda? If wearing an American designer, why not seize that moment to focus not on the dress itself but on the industry that made it and how important it is to the economic fiber of the country?&lt;/p&gt;&lt;p&gt;"If it's purpose-driven fashion, that's something that should be celebrated, and the information shared," Ms. Kelley said. Ms. Harris and Dr. Biden have set so many precedents. This could be another one.&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;photo_caption&gt;Top, a dark pantsuit and simple shell are usually part of Kamala Harris's everyday look. Clockwise from center left: Jill Biden, her hair in a scrunchie; in an Oscar de la Renta dress; with President Biden at the White House; and in lacy tights and ankle boots. (PHOTOGRAPHS BY ERIN SCHAFF/THE NEW YORK TIMES; MANUEL BALCE CENETA; DOUG MILLS/THE NEW YORK TIMES) (D5)&lt;/photo_caption&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Apr 29, 2021</AlphaDate>
+         <StartDate>2021-04-29</StartDate>
+         <EndDate>2021-04-29</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Apr292021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

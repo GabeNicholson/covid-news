@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487143389</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>US unemployment data fail to capture COVID-19's full impact - here's how to fix it fast</Title>
+      </TitleAtt>
+      <NumericDate>2020-09-02</NumericDate>
+      <StartDate>2020-09-02</StartDate>
+      <EndDate>2020-09-02</EndDate>
+      <AlphaDate>Sep 2, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20200902_143236</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20200902_143236</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Sep22020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Lane, Julia</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Julia</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Julia Lane</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Lane</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Julia Lane</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/143236/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Congress</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Unemployment benefits</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Labor force</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employment</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Economic conditions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Illinois</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="74">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Governments at all levels are trying to make decisions about how to reduce the cost of joblessness - including whether to provide supplemental unemployment benefits.
+
+[...]millions of Americans were incorrectly left out of the recent unemployment statistics.
+
+The government's initial response to the pandemic had been to increase unemployment benefits by US$600 a week as part of Federal Pandemic Unemployment Compensation in the Coronavirus Aid, Relief, and Economic Security Act, passed in March 2020.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1041" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The COVID-19 pandemic has exposed dangerous weaknesses in America's aging public data system. In one of the greatest jobs crises in the past 100 years, the labor force measures of employment and unemployment are too slow, not local and too often unreliable and irrelevant.&lt;/p&gt;
+&lt;p&gt;The consequences are serious. Governments at all levels are trying to make decisions about how to reduce the cost of joblessness - including whether to provide supplemental unemployment benefits. And they are doing this without sufficient evidence.&lt;/p&gt;
+&lt;p&gt;On Friday, Sept. 4, the latest federal labor force report will come out, and it will not portray the extent of job loss in the communities that desperately need government help. The current system is not designed to respond to such massive shocks, but there are ways to fill this gap.&lt;/p&gt;
+&lt;p&gt;In a recent analysis produced with the state of Illinois, my colleagues and I laid out a fast, reliable method that can be applied to every state in the country.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The problem with today's labor force measures &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Labor force data need to be timely, local, reliable and relevant for governments to make decisions effectively, but the current system misses the mark.&lt;/p&gt;
+&lt;p&gt;Right now, numbers are reported only once a month, and with a three-week delay that can be an eternity for decision-makers who are deciding how to manage unemployment benefits. The national unemployment rate is also based on a survey of 60,000 households, which is far too small a sample to provide reliable information at the local level.&lt;/p&gt;
+&lt;p&gt;The current statistics are also not designed to provide reliable and relevant data about who is out of work and who is suffering.&lt;/p&gt;
+&lt;p&gt;The most cited unemployment measure is based on interviewers simply asking people whether they are "actively looking for work." Not only does that fail to capture many people who are unemployed, the concept is so hard to understand in the context of the pandemic that Census Bureau interviewers have incorrectly classified many responses during the COVID-19 pandemic. And many fewer Americans were willing to respond to the survey. As a result, millions of Americans were incorrectly left out of the recent unemployment statistics. The Bureau of Labor Statistics acknowledged the classification errors in its May jobs report, but did not adjust the numbers.&lt;/p&gt;
+&lt;p&gt;The consequence? The administration did a "victory lap" in June, celebrating a lower unemployment rate, and Congress delayed extending financial support for out-of-work Americans.&lt;/p&gt;
+&lt;p&gt;Another consequence is uncertainty. The government's initial response to the pandemic had been to increase unemployment benefits by US$600 a week as part of Federal Pandemic Unemployment Compensation in the Coronavirus Aid, Relief, and Economic Security Act, passed in March 2020. When that expired at the end of July, policymakers weren't sure about what the impacts would be of providing different benefit levels - nothing, $200 a week, $400 a week or continue with $600.&lt;/p&gt;
+&lt;p&gt;Data exist that can help answer that question faster, more effectively and at the local level.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; How states can do better &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We don't need to guess how many people are out of work. Every state in the union can produce near real-time information about the number of people claiming unemployment using actual counts. States can also provide a better picture of the economic impact by making the link between unemployment and spending at the county level.&lt;/p&gt;
+&lt;p&gt;In a recent working paper for the National Bureau of Economic Research, we show how this works.&lt;/p&gt;
+&lt;p&gt;We used unemployment claims in Illinois to calculate for each unemployed worker how much of their lost wages were replaced by federal benefits, as well as the number claiming unemployment by geography and industry. We combined this with a second data source - credit and debit card transactions that are available daily at the county level - to measure economic activity.&lt;/p&gt;
+&lt;p&gt;Those data can provide states with direct measures of who is out of work along with relevant insights to determine how many people are close to the financial precipice. The data can show how close the unemployed are to benefit exhaustion and the impact on the economy.&lt;/p&gt;
+&lt;p&gt;We were able to show that reducing the supplementary benefits from $600 to zero would lead to a 44% decline in local spending. If the payments to unemployed people were reduced to $200, spending would fall by 28%. Even if the supplement was $400, spending would fall by 12%.&lt;/p&gt;
+&lt;p&gt;We were also able to calculate the impacts at a very detailed level and found large local differences. In Champaign County, spending would fall by 15% with no extension of the benefits. In Macon County, spending would fall by 68% with no extension. The local workforce boards could design their responses according to the likely reemployment in each county.&lt;/p&gt;
+&lt;p&gt;This analysis could be updated weekly for all counties in states across the country. Every state produces similar weekly data for the Labor Department's Program for Measuring Insured Unemployed Statistics system. Broader use of these rich data could change how policymakers respond to unemployment. They would know, almost immediately, which areas were most badly hit, and where the pain was greatest, so they could target interventions to where they were most needed. They could also use the data to calculate which groups are exhausting their benefits.&lt;/p&gt;
+&lt;p&gt;Congress needs to act so future decisions about the labor force in the pandemic can be based on local evidence and can be combined with the existing national labor force statistics. The proposed Relaunching America's Workforce Act would include support for states' use of data to improve the response to the pandemic recession.&lt;/p&gt;
+&lt;p&gt;This country has faced many crises and has often been bold and innovative in its response. It can be so again. We can readily reinvigorate our public data system to produce timely, local, reliable and relevant data to reduce the terrible cost of unemployment.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;This reflects joint work with Miguel Garza Casado, Britta Glennon, David McQuown, Dan Rich and Bruce Weinberg.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Julia Lane is the author of:&lt;/p&gt;
+&lt;p&gt;Democratizing Our Data: A Manifesto&lt;/p&gt;
+&lt;p&gt;MIT Press provides funding as a member of The Conversation US.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;The research discussed has received funding from Schmidt Futures, Amazon Web Services, the Overdeck Family Foundation, the Bill and Melinda Gates Foundation and the National Institutes of Health.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Julia Lane, Professor of Economics, New York University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Sep 2, 2020</AlphaDate>
+         <StartDate>2020-09-02</StartDate>
+         <EndDate>2020-09-02</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Sep22020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

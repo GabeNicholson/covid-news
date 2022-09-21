@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2615410953</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Arts in Review -- Television Review: A Magic Reunion That's More Curse Than Charm</Title>
+      </TitleAtt>
+      <NumericDate>2021-12-31</NumericDate>
+      <StartDate>2021-12-31</StartDate>
+      <EndDate>2021-12-31</EndDate>
+      <AlphaDate>Dec 31, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.10</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7510</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7510_Dec312021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>DWJNWSJ20211231wjco20211231000019</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1360</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Anderson, John</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>John</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>John Anderson</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Anderson</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>John Anderson</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Reunions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Motion pictures</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Actors</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="480" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Harry Potter 20th Anniversary: Return to Hogwarts&lt;/p&gt;
+&lt;p&gt;Saturday, HBO Max.&lt;/p&gt;
+
+&lt;p&gt;Anyone who's grown up reading the novels of J.K. Rowling, or has children or grandchildren who've done the same, will experience a certain sense of magical nostalgia at the outset of "Harry Potter 20th Anniversary: Return to Hogwarts." By the end, they will feel as if Dementors have swept in and sucked the joy out of their souls.&lt;/p&gt;
+&lt;p&gt;The reunion special -- which like the two-part "Harry Potter and the Deathly Hallows" (2010-11) feels twice as long as it ought to have been -- features an extensive number of clips from the "Harry Potter" film series. There are faux-intimate interviews with its directors and actors; a salute to the remarkable number of cast members who have died since the first film was released in 2001; and reminiscences by the kids who grew up playing the student body of Hogwarts School of Witchcraft and Wizardry and still seem to exist in a bubble. There are only so many times one can listen to Daniel Radcliffe, Emma Watson and Rupert Grint (Harry, Hermione and Ron) talk about how close they were, what a remarkable experience the movies were and how important the Potter stories were to young people everywhere. What young people? Have they met any? As is the case with most of the other actors interviewed, the recollections are suffocatingly personal, self-important, repetitive and airless.&lt;/p&gt;
+&lt;p&gt;It's not a program without some humor: Helena Bonham Carter (who played the murderous Bellatrix Lestrange) blows through, not giving a rap about propriety and thus breathing life into the proceedings. "I killed you, didn't I?" she quips to erstwhile co-star Gary Oldman. "Sorry. Had to be done." (Bellatrix, as everyone knows, cast Mr. Oldman's Sirius Black into eternity during "The Order of the Phoenix.") Chris Columbus, who directed the first two Potter movies, and Mr. Radcliffe recall how Richard Harris, the original Prof. Dumbledore, thought during "Harry Potter and the Chamber of Secrets" that the animatronic Fawkes the Phoenix was real. Among the comforting observations, given how much age and mortality inform the reunion special, is Mr. Radcliffe's declaration that he, Ms. Watson and Mr. Grint "look better than we did in the epilogue." He refers to the sequence that ends the final Potter film from 2011 and depicts the principal characters 19 years later. And he's quite right.&lt;/p&gt;
+&lt;p&gt;What's all wrong is the tone of relentless self-congratulation maintained throughout the nearly two-hour show, the actors' stroking of each other's egos and the inflated sense of importance everyone gives the movies -- they were important, yes, but it's tiresome hearing it again and again. Among the people who didn't make it to the reunion are Maggie Smith and Julie Walters (Minerva McGonagall and Molly Weasley). But one can't imagine either of those esteemed actresses putting up with this much rubbish.&lt;/p&gt;
+
+&lt;p&gt;Credit: By John Anderson &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal</Title>
+         <MpubId>10482</MpubId>
+         <SortTitle>Wall Street Journal</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Eastern edition</Edition>
+         <JournalCode>WSJ</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19590101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7510</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>00999660</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60541.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics--Banking And Finance</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal</Title>
+            <SortTitle>Wall Street Journal</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Eastern edition</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7510</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>00999660</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60541.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Wall Street Journal</Title>
+               <SortTitle>Wall Street Journal The</SortTitle>
+               <Qualifier>New York</Qualifier>
+               <EndIssueDate>19590213</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>25749552</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>60541.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 2, 1984</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19840102</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 31, 2021</AlphaDate>
+         <StartDate>2021-12-31</StartDate>
+         <EndDate>2021-12-31</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7510_Dec312021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2478739435</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Covid-19 Heightens U.S.-China Rivalry, New Report Says; The World Economic Forum report says the pandemic risks widening income disparities world-wide</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-19</NumericDate>
+      <StartDate>2021-01-19</StartDate>
+      <EndDate>2021-01-19</EndDate>
+      <AlphaDate>Jan 19, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>World</DocSection>
+         <ColumnHeader>World News</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Jan192021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO202101192962C00C11156B3C23A082150EB55C3F</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1540</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Fidler, Stephen</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Stephen</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Stephen Fidler</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Fidler</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Stephen Fidler</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>World Economic Forum</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>926110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Economic summit conferences</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Climate change</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>China</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="674" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;LONDON—The global coronavirus pandemic has intensified the rivalry between the U.S. and China , increasing future instability in international diplomatic relations, according to an annual report on global risks from the World Economic Forum.&lt;/p&gt;
+&lt;p&gt;The report, which draws on opinions of hundreds of executives and academics associated with the WEF, as well as risk-management specialists, says the pandemic threatens to widen income and other disparities within and between societies, increasing the risks of a further fracturing inside some states and in international relations.&lt;/p&gt;
+
+&lt;p&gt;Covid-19 "has entrenched state power and intensified rivalry between the United States and China," the report says, forcing other powers to choose sides.&lt;/p&gt;
+&lt;p&gt;"With some alliances weakening, diplomatic relationships will become more unstable at points where superpower tectonic plates meet or withdraw," it says. This trend has been accentuated as a lack of face-to-face discussions have hurt traditional diplomacy.&lt;/p&gt;
+&lt;p&gt;The report is usually published just ahead of the WEF's annual meeting in Davos, Switzerland. This year, the meeting has been postponed because of the pandemic until May, when it will take place in Singapore. Next week, the forum is organizing a virtual meeting that includes addresses from leaders such as China's Xi Jinping and India's Narendra Modi.&lt;/p&gt;
+&lt;p&gt;Covid-19 and Economies&lt;/p&gt;
+
+
+
+
+
+&lt;p&gt;Roughly half of respondents to a risk-perception survey said they viewed a fracture of interstate relations, interstate conflict and geopolitical competition over resources as critical threats three-to-five years out.&lt;/p&gt;
+&lt;p&gt;In the short term, the report says the new U.S. administration may attempt to identify areas of cooperation with China, such as climate change and fighting the pandemic, but competition is likely to deepen in the longer term.&lt;/p&gt;
+&lt;p&gt;The pandemic has accelerated a shift already under way from a rules-based international order to one based on power relationships, the report argues.&lt;/p&gt;
+&lt;p&gt;Multilateral responses to the pandemic have been weak. The World Health Organization's advice conflicted on occasions with that of several governments. The Group of Seven and the Group of 20, hampered by domestic and bilateral differences, failed to mount a collective response, as they had successfully done in previous crises.&lt;/p&gt;
+&lt;p&gt;"The development of multiple vaccines may herald the beginning of recovery from the Covid-19 crisis, but the structural fissures that the crisis exacerbated, from individual well-being to societal resilience and global stability, threaten to make that recovery deeply uneven," the report concludes.&lt;/p&gt;
+&lt;p&gt;The report, as last year, identifies failing to deal with climate change as the most likely risk as well as the one that will have the greatest negative impact. But this year, infectious diseases were also identified as broadly as likely and as damaging.&lt;/p&gt;
+&lt;p&gt;However, climate change poses a much more intractable challenge than Covid-19.&lt;/p&gt;
+&lt;p&gt;"Climate change is fundamentally different, '' said Peter Giger, chief risk officer of Zurich Insurance Group, which contributed to the report. "The moment that climate change poses the same existential threat [as the coronavirus] there will be no vaccine."&lt;/p&gt;
+&lt;p&gt;The report says the pandemic exposed shortcomings in the security of global supply chains, noting that 90 jurisdictions had by October imposed export controls on personal-protective equipment and other virus-related products.&lt;/p&gt;
+&lt;p&gt;With this experience, companies and governments are likely to try to build more resilience into their supply chains.&lt;/p&gt;
+&lt;p&gt;"Resilience comes from redundancy. You need slack in the system. We've optimized everything under the assumption that everything and everyone contributes and works. And that assumption was tested and failed," said Mr. Giger.&lt;/p&gt;
+&lt;p&gt;Guillaume Barthe-Dejean, director of the chairman's office at SK Holdings Co. Ltd, a South Korean information-technology concern that also contributed to the report, said, "What the crisis is really highlighting is undue reliance on certain countries…and diversifying from certain countries—e.g. China—could be part of the solution."&lt;/p&gt;
+&lt;p&gt;The report notes that many smaller enterprises have already been killed off by the pandemic. Saadia Zahidi, one of the report's authors at the forum, said smaller enterprises act as an innovation engine. If these firms fail, there could be fewer ideas, less creativity, less innovation and less competition.&lt;/p&gt;
+&lt;p&gt;Write to Stephen Fidler at stephen.fidler@wsj.com &lt;/p&gt;
+&lt;p&gt; Covid-19 Heightens U.S.-China Rivalry, New Report Says &lt;/p&gt;
+&lt;p&gt;Credit: By Stephen Fidler &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 19, 2021</AlphaDate>
+         <StartDate>2021-01-19</StartDate>
+         <EndDate>2021-01-19</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Jan192021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

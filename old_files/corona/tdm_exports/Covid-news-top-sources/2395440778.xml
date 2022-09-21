@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2395440778</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Face Masks for All, And Fewer Seats</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[The Arts/Cultural Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2020-04-29</NumericDate>
+      <StartDate>2020-04-29</StartDate>
+      <EndDate>2020-04-29</EndDate>
+      <AlphaDate>Apr 29, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Apr 29, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>C.3</StartPage>
+         <Pagination>C.3</Pagination>
+         <DocSection>C</DocSection>
+         <ColumnNumber>0</ColumnNumber>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Apr292020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>105015-20200429</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <FullTextLinkID>https://www.nytimes.com/2020/04/28/theater/barrington-stage-coronavirus.html</FullTextLinkID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1420</LexileScore>
+      <Desk>The Arts/Cultural Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Paulson, Michael</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Michael</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Michael Paulson</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Paulson</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Michael Paulson</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <DocUrl>https://www.nytimes.com/2020/04/28/theater/barrington-stage-coronavirus.html</DocUrl>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Social distancing</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Theater</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Summer</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Seasons</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Festivals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="691" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Barrington Stage Company in the Berkshires is bucking the trend of cancellations, planning instead a limited season with a litany of precautions.&lt;/p&gt;&lt;p&gt;The summer seasons have fallen like dominoes: The Edinburgh Festival Fringe. Shakespeare in the Park. The Stratford Festival.&lt;/p&gt;&lt;p&gt;But in Pittsfield, Mass., the Barrington Stage Company is planning something different: a stripped-down season that combines performances with safety.&lt;/p&gt;&lt;p&gt;The theater, responding to the coronavirus pandemic, will give up the ambitious musical productions for which it is known (it's the birthplace of "The 25th Annual Putnam County Spelling Bee"). Instead, it will concentrate on one-person shows, and stage a play in which the central relationships are so strained that social distancing will not be a stretch.&lt;/p&gt;&lt;p&gt;That's not all. The theater is removing 70 percent of its seats, including every other row, so each audience member will have plenty of space. It is creating more entrances, to disperse patrons while entering and exiting.&lt;/p&gt;&lt;p&gt;At least over the summer, shows will have no intermissions, to reduce the likelihood of lines for bathrooms, and there will be no matinees, to allow plenty of time for disinfecting. The box office will be moved outside, where there is more room than in the theater lobby.&lt;/p&gt;&lt;p&gt;And all ticket holders will be required to wear masks.&lt;/p&gt;&lt;p&gt;"I wanted to see if I could find a way to do live theater, because that's where my heart and soul are," said the artistic director, Julianne Boyd, who was a founder of the company in 1995. "Toward the end of summer, some people may want to go out. And it's important to me to make the attempt."&lt;/p&gt;&lt;p&gt;Boyd said she does not expect to make money with this plan -- ticket prices will be slightly lower than usual -- but she hopes the productions will break even because of low running costs.&lt;/p&gt;&lt;p&gt;Barrington Stage is not the only theater that will try to present shows this summer. The Berkshire Theater Group nearby hopes to begin an abbreviated season in August, while in St. Louis, the Muny is imagining an abridged season starting in July. And it remains unclear how theaters in states with relatively low numbers of coronavirus cases will proceed as restrictions are lifted in those areas.&lt;/p&gt;&lt;p&gt;But Barrington is among the first to detail such an exhaustive set of programming and physical modifications as it tries to envision how live performance might continue during a period in which large assemblies are considered high risk.&lt;/p&gt;&lt;p&gt;The main strategy is simple: keep two smaller theaters closed, and rip out most of the seats in the main stage, reducing its seating capacity from 520 to 163.&lt;/p&gt;&lt;p&gt;Then, to protect actors, choose only shows that allow social distancing -- no kissing and no swordplay. That meant postponing eight planned productions to 2021; the theater will probably employ about 50 people this summer, compared to 230 in a normal year, and Boyd said she expects to monitor the body temperature of employees (but not patrons).&lt;/p&gt;&lt;p&gt;Boyd plans to start her season in August -- it usually starts in May -- with "Harry Clarke," a solo show by David Cale about a charismatic con man. There will also be two one-night concerts, by Marilyn Maye and Ann Hampton Callaway; a reading of a one-woman play about Eleanor Roosevelt, starring Harriet Harris; and a new play festival with small casts, short running times (no more than 10 minutes each), and no physical contact between performers.&lt;/p&gt;&lt;p&gt;She also plans a concert performance of "South Pacific" in a Pittsfield park, for which the singers will be positioned at music stands set apart from one another, and the orchestra will be similarly spaced out. And, in October, she plans to present a revival of Arthur Miller's "The Price," a play in which the four characters don't really get along.&lt;/p&gt;&lt;p&gt;"This is the new normal for a while," Boyd said. "I don't know what will happen past this season. I don't think anyone does."&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;photo_caption&gt;The main show presented in August will be "Harry Clarke," which features one actor on a minimal set. In 2017, the play had a run at the Vineyard Theater in New York starring Billy Crudup, shown here.  (PHOTOGRAPH BY Sara Krulwich/The New York Times FOR THE NEW YORK TIMES)&lt;/photo_caption&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Apr 29, 2020</AlphaDate>
+         <StartDate>2020-04-29</StartDate>
+         <EndDate>2020-04-29</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Apr292020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

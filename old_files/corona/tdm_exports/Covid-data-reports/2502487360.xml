@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2502487360</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>3 ways employers could help fight vaccine skepticism</Title>
+      </TitleAtt>
+      <NumericDate>2021-03-18</NumericDate>
+      <StartDate>2021-03-18</StartDate>
+      <EndDate>2021-03-18</EndDate>
+      <AlphaDate>Mar 18, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210318_156555</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210318_156555</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Mar182021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Men, Rita</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Rita</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Rita Men</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Men</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Rita Men</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/156555/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Leadership</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Brand loyalty</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Listening</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Empathy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Trust</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public relations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employees</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="141">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]Republicans, who are more likely to say they won’t get the vaccine, are also generally much more trusting of business, suggesting employers may be able to have more influence on them than journalists or health experts.
+
+Just 61% of participants in the survey referenced above, conducted by public relations consultancy Edelman, said they trust businesses to do the right thing.
+
+When employees feel their voices are being heard and taken seriously by their organization, they feel empowered and more involved, making them more likely to buy in to the organization’s decisions.
+
+Besides inviting health experts for Q&amp;amp;A’s, employers could also host staff listening sessions such as virtual town halls to gather feedback and address even basic questions, like when people are eligible to get the vaccine, whether it will cost anything and what that means for a return to the office.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="837" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Ending the pandemic depends on achieving herd immunity, estimated at 70% or even 80% to 90% of a population. With some 30% of Americans telling pollsters they have no interest in getting vaccinated, that’s cutting it a bit close. The numbers are even worse in many other countries.&lt;/p&gt;
+&lt;p&gt;In the fight against vaccine skepticism, employers can play a key role. This is not only because it’s an important precaution for the health and safety of their employees, but also because a recent survey shows people around the world, including in the U.S., tend to trust their employers more than governments or the media. Moreover, Republicans, who are more likely to say they won’t get the vaccine, are also generally much more trusting of business, suggesting employers may be able to have more influence on them than journalists or health experts.&lt;/p&gt;
+&lt;p&gt;As someone who studies how companies communicate with their employees, I have three research-based tips that can make their efforts more effective.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. Building trust with transparency&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Although many workers say they trust their employers more than some other institutions, trust erosion has been a prominent global issue. Just 61% of participants in the survey referenced above, conducted by public relations consultancy Edelman, said they trust businesses to do the right thing.&lt;/p&gt;
+&lt;p&gt;That’s why it’s essential for companies to communicate with employees in a way that builds more trust. And research has shown that transparency has been consistently linked to employee relationship with their employer.&lt;/p&gt;
+&lt;p&gt;By that I mean focus on giving employees the facts – while dispelling some of the myths – and being clear about where it all comes from. There are many ways to disseminate the information, such as through email, flyers, corporate newsletters and social media, but inviting in local health experts is another good way to transparently lay out the facts while also helping skeptical employees get their questions and concerns addressed.&lt;/p&gt;
+&lt;p&gt;The 2021 Trust Barometer survey showed that people trust scientists and people in their local community more than national leaders. Scientists scored even higher than employees’ own CEOs.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. It’s a two-way street&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;That brings me to another important point: Employers will be more effective if they treat employees as partners in the internal vaccination program. And that means listening as much as talking.&lt;/p&gt;
+&lt;p&gt;Research has found that companies that are pursuing a major change – such as a merger, layoff or rebranding – are more likely to win high employee acceptance if they engage in two-way communication that emphasizes listening, feedback, reciprocity, openness and trust. When employees feel their voices are being heard and taken seriously by their organization, they feel empowered and more involved, making them more likely to buy in to the organization’s decisions.&lt;/p&gt;
+&lt;p&gt;Besides inviting health experts for Q&amp;amp;A’s, employers could also host staff listening sessions such as virtual town halls to gather feedback and address even basic questions, like when people are eligible to get the vaccine, whether it will cost anything and what that means for a return to the office. It also can help address unique concerns and issues of different groups, especially those who surveys show have more hesitancy about taking a vaccine.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. Empathy works&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Businesses that emphasize empathy, compassion and genuine care for employees’ well-being have won applause from employees during the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;My own recent study – which is currently under review – examined leaders’ use of motivating language during the pandemic. I found that supervisors who gave clear directions, showed empathy for how the pandemic affected workers’ personal lives and communicated support were most effective in fostering employee trust in leadership and the organization. While understandably trust that isn’t there can’t be built overnight, it’s never too late to do more.&lt;/p&gt;
+&lt;p&gt;I found similar results in past research: CEOs perceived as exhibiting genuine care for their employees engender more support for company-wide initiatives.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Insight, in your inbox each day.&lt;/i&gt; You can get it with The Conversation’s email newsletter.]&lt;/p&gt;
+&lt;p&gt;Beyond the language being used, companies can show they care in other ways – actions speak louder than words, after all. For example, some companies, such as Dollar General, Instacart and Publix, have offered paid leave time or cash incentive bonuses to encourage their employees to get vaccinated.&lt;/p&gt;
+&lt;p&gt;The U.S. and the world face one of the greatest health crises in history. Ultimately, I believe, it’s a collective responsibility of everyone – governments, individuals, companies – to help turn the tide against the pandemic.&lt;/p&gt;
+&lt;p&gt;And if companies needed one more reason, surveys and reporting show younger generations increasingly expect companies to be socially responsible. And recent research found that companies who engage in social advocacy tend to enjoy stronger brand loyalty.&lt;/p&gt;
+&lt;p&gt;In other words, it’s good not only for society but for companies’ bottom lines, too.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Rita Men does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Rita Men, Associate Professor of Public Relations, University of Florida&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Mar 18, 2021</AlphaDate>
+         <StartDate>2021-03-18</StartDate>
+         <EndDate>2021-03-18</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Mar182021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

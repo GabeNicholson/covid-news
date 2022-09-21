@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487138285</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Video: Slowing deforestation is the key to preventing the next pandemic - but what does that cost?</Title>
+      </TitleAtt>
+      <NumericDate>2020-07-27</NumericDate>
+      <StartDate>2020-07-27</StartDate>
+      <EndDate>2020-07-27</EndDate>
+      <AlphaDate>Jul 27, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVIL_20200727_143411</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVIL_20200727_143411</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977982_Jul272020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Kaufman, Les</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Les</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Les Kaufman</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Kaufman</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Les Kaufman</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/143411/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Boston University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Scientists</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Deforestation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Viruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Wild animals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Brazil</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="105">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;In a recent journal article, a team of biologists, medical scientists, environmental scientists and conservationists proposed a number of measures to reduce the likelihood of future pandemics, many of which originate with wild animals such as bats.
+
+What was this study trying to find? I helped organize a group of researchers from a variety of related disciplines to ask the question: "Can we suppress the emergence of pandemic pathogens like what we're experiencing now with COVID-19?" The estimated cost of dealing with COVID-19 is that it will wind up in the tens of trillions of dollars globally.
+
+[...]recently, deforestation in Brazil had come way down.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1246" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;i&gt;In a recent journal article, a team of biologists, medical scientists, environmental scientists and conservationists proposed a number of measures to reduce the likelihood of future pandemics, many of which originate with wild animals such as bats. They argue that spending billions of dollars per year - a fraction of the cost of pandemics - on programs that reduce deforestation would curtail wildlife trade and support the communities that live on the forests' edge.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Les Kaufman, professor of biology at Boston University and a member of the team, spoke about what causes pandemics, and how we might prevent them.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What was this study trying to find? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;I helped organize a group of researchers from a variety of related disciplines to ask the question: "Can we suppress the emergence of pandemic pathogens like what we're experiencing now with COVID-19?"&lt;/p&gt;
+&lt;p&gt;The estimated cost of dealing with COVID-19 is that it will wind up in the tens of trillions of dollars globally. We propose spending about $22 billion to $30 billion a year on programs that will reduce the likelihood of future pandemics emerging from the edges of tropical forests.&lt;/p&gt;
+&lt;p&gt;What people may not realize is that there are at least two potentially pandemic pathogens coming into the human population every year. And about every one or two decades, one of them actually succeeds in becoming a global pandemic. We forget we are still dealing with HIV. MERS and SARS-1 never really hugely impacted the United States so we pretend they didn't happen. But these are things that we're constantly at risk of.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What kinds of diseases does this study focus on preventing? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We have focused on zoonoses, which are diseases that come into the human population from animals. The best example is the cluster of diseases caused by a group of viruses called coronaviruses that are harbored by bats in the wild.&lt;/p&gt;
+&lt;p&gt;For reasons we're just beginning to understand, bats are able to tolerate an unusually high viral load. Their relationship with the virus and the function of their immune system is different than ours. Bats are critical pollinators. We want them to leave the forest and come into our crops so that they get pollinated. They're critical for eating enormous amounts of insect pests. But none of that requires going out and grabbing the bats by hand, or cooking them or keeping them in cages near other animals that we eat or have close to us.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What kind of practices lead to zoonoses spreading? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We have been deforesting at an accelerated rate, largely to plant crops such as oil palm or in some cases acacia. So tropical forests are leveled and roads are driven into it. Once people have access for one reason, other businesses crop up, among them hunting for bush meat, and the exotic wildlife trade for traditional medicine and pets. So people go into the forest and they catch these animals and they bring them to markets, where lots of live wild and domestic animals are in close proximity to each other. And that's how the virus gets into us - either directly from the wildlife, or from livestock that we placed in close proximity to infected wildlife.&lt;/p&gt;
+&lt;p&gt;A lot of the novel viruses are also coming from wildlife when we destroy their habitats. So they begin to forage in our farms and agricultural areas, at which point they're exposed to our domestic livestock which can, as in the wet markets, serve as a bridge between the wild animal harboring the virus and humans.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; How can governments justify spending billions on pandemic prevention? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;That may sound like a lot of money, but let's remember, the cost of a single pandemic is in the trillions. So if every pandemic costs us $15 trillion, even if you prorate that over a bunch of years, $30 billion a year is nothing. And that doesn't even include the cost in human suffering, which matters greatly to us but is not meaningful to represent in dollar terms.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What should the money be spent on? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In our paper, we looked at the cost of arresting deforestation, of regulating the trade in wild bushmeat, and reducing incursions into the forest. A lot of side benefits come out of it. We preserve biodiversity, which has lots of benefits down the road. We increase the amount of forest absorbing carbon dioxide, helping with climate change. And we also make available renewable forest products, especially non-timber forest products … but hopefully not bushmeat, at least beyond local, artisanal needs.&lt;/p&gt;
+&lt;p&gt;But the key to the whole thing is that people living at the forest edge should have a good life. Should have access to decent livelihoods, good health care, and that their children can be educated. And so we're beginning to understand that the leading edge of all this is regulating deforestation, and the bushmeat trade, thus reducing contact between people and virus-laden wildlife.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; How do governments deal with the first of the two major causes - deforestation? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Deforestation can be slowed down and even reversed in largely intact forests like the Amazon. These areas can be managed to reduce deforestation through governance, through laws and through monitoring from the air and from satellites. And in Brazil, this was very, very successful. Until recently, deforestation in Brazil had come way down. But with the new Bolsonaro administration, a lot of that progress was reversed and lost.&lt;/p&gt;
+&lt;p&gt;In fragmented forests that are receding rapidly, we need to do a couple of things. We need to help the forest to heal, reconnecting fragments back into a continuum so that the wildlife have a forest to stay in and they're not wandering all over in our fields.&lt;/p&gt;
+&lt;p&gt;The other thing we need to do is address the needs of the edge of the forest. The people who live there may not even realize how much damage they're doing to themselves in an attempt to live and survive day to day. So what do these people need? Health care, education and a way to make a living.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; How can the trade in bushmeat be curtailed? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We should closely regulate all other kinds of trade and wildlife that are potential pathogen vectors. It means patrols against poaching in the forest itself. It means changes in the way the markets work. And it means enforcement of international laws on the sale of threatened and endangered species. Meanwhile, we need to maintain the work of scientists who monitor wildlife and humans for novel viruses, and who seek to understand pathogens so we can nip each potential pandemic in the bud.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Whose responsibility would this be? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;If we look at the countries that are able to contribute to such a fund, they're mostly in the so-called developed world. The U.S., Europe, Japan and as a matter of fact, China. Some people say it's unfair, the U.S. shouldn't be spending money for other people's benefit. We're not spending money for other people's benefit - the fact that other people benefit is a bonus. We're spending money to protect ourselves. And the amount of money we're talking about is trivial against the cost of not spending it. The more the responsibility is shared, the better.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Les Kaufman does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Les Kaufman, Professor of Biology, Boston University, Boston University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Science + Technology</Title>
+         <MpubId>4977982</MpubId>
+         <SortTitle>Conversation : Science + Technology The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVIL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977982</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464264.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Sciences: Comprehensive Works</Subject>
+            <Subject>Technology: Comprehensive Works</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Science + Technology</Title>
+            <SortTitle>Conversation : Science + Technology The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977982</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464264.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 27, 2020</AlphaDate>
+         <StartDate>2020-07-27</StartDate>
+         <EndDate>2020-07-27</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977982_Jul272020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

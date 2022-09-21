@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2407725421</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Lockdowns mean ugly quarter for Ulta Beauty</Title>
+      </TitleAtt>
+      <NumericDate>2020-05-30</NumericDate>
+      <StartDate>2020-05-30</StartDate>
+      <EndDate>2020-05-30</EndDate>
+      <AlphaDate>May 30, 2020</AlphaDate>
+      <RawAlphaDate>20200530</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC May 30, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>7</StartPage>
+         <DocSection>News</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_May302020</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2020053020200529438698020</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2020053020200529438698020</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1450</LexileScore>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Ulta Salon Cosmetics &amp; Fragrance Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>446120</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>812112</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Zacks Investment Research</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>523930</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Earnings per share</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="400" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Ulta Beauty has reported a fiscal first-quarter loss of $78.5 million as it shuttered its stores and relied on online sales during the coronavirus pandemic.  &lt;/p&gt;&lt;p&gt;On a per-share basis, the Bolingbrook-based company said Thursday it had a loss of $1.39. Losses, adjusted for asset impairment costs, were $1.12 per share.&lt;/p&gt;&lt;p&gt;The results did not meet Wall Street expectations. The average estimate of 12 analysts surveyed by Zacks Investment Research was for earnings of 44 cents per share.&lt;/p&gt;&lt;p&gt;The beauty products retailer posted revenue of $1.17 billion in the period, also missing Street forecasts. Ten analysts surveyed by Zacks expected $1.2 billion.&lt;/p&gt;&lt;p&gt;Ulta closed all of its stores March 19 and switched to an online-only sales channel. On April 23, it launched a buy online and pickup at curbside format in 70 stores across nine states.&lt;/p&gt;&lt;p&gt;On an earnings call with analysts, company executives said they are evaluating the long-term targets for how many stores are in the U.S. For the remainder of this year, Ulta plans to open 30 to 40 stores and relocate three existing ones.&lt;/p&gt;&lt;p&gt;CEO Mary Dillon said skin care, wellness and do-it-yourself products have sold well during the pandemic and there has been a pickup in makeup products bought online and picked up at curbside.&lt;/p&gt;&lt;p&gt;"I'd say that folks who maybe were doing, working from home before on phone calls are now all of a sudden all working from home on video calls, and everybody is on video call," Dillon said.&lt;/p&gt;&lt;p&gt;As of Thursday, 840 stores, about two-thirds of all Ulta stores, offer curbside pickup, and 333 locations, representing about a quarter of its stores, are open.&lt;/p&gt;&lt;p&gt;"Once we determine that it's safe to open, we will flex based on local conditions," Dillon said. "Some stores will reopen curbside pickup, some stores will reopen curbside and retail only and some stores will reopen with curbside retail and a limited service offering. All stores will initially reopen with limited store hours."&lt;/p&gt;&lt;p&gt;Dillon said she expects the "vast majority" of Ulta stores to be open in some capacity by the end of June.&lt;/p&gt;&lt;p&gt;Ulta shares have fallen slightly more than 4% since the beginning of the year. In the final minutes of trading on Thursday, shares hit $242, a decline of 28% in the last 12 months.&lt;/p&gt;&lt;p&gt;----------&lt;/p&gt;&lt;p&gt;This story was partly generated by Automated Insights using data from Zacks Investment Research.&lt;/p&gt;&lt;p&gt;CAPTION: Photo: Beauty products on the shelves Wednesday, Feb. 4, 2015 at Ulta on State Street. BRIAN CASSELLA/CHICAGO TRIBUNE&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 30, 2020</AlphaDate>
+         <RawDate>20200530</RawDate>
+         <StartDate>2020-05-30</StartDate>
+         <EndDate>2020-05-30</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_May302020</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

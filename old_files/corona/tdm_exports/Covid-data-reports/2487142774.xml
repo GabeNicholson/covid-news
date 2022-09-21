@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487142774</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>18 million US children are at risk of hunger: How is the problem being addressed and what more can be done?</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-11</NumericDate>
+      <StartDate>2021-01-11</StartDate>
+      <EndDate>2021-01-11</EndDate>
+      <AlphaDate>Jan 11, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210111_151821</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210111_151821</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jan112021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Eicher-Miller, Heather</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Heather</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Heather Eicher-Miller</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Eicher-Miller</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Heather Eicher-Miller</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Himmelgreen, David</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>David</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>David Himmelgreen</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Himmelgreen</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>David Himmelgreen</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="3">
+            <Author>
+               <DisplayForm>Diana Cuy Castellanos</DisplayForm>
+               <OriginalFormAtt>
+                  <OriginalForm>Diana Cuy Castellanos</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="4">
+            <Author>
+               <NormalizedDisplayForm>Johnson, Kecia</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Kecia</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Kecia Johnson</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Johnson</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Kecia Johnson</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/151821/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of South Florida</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Purdue University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Mississippi State University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of Dayton</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Meals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Food stamps</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Mississippi</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="112">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]there are the School Breakfast and Lunch programs as well as the Summer Food Service Program, which funds free healthy meals and snacks to children and teens in low-income areas when school is not in session.
+
+Himmelgreen: While federal nutrition programs have helped reduce the severity of food insecurity and child hunger, only a limited number of Americans who don't get enough to eat can take advantage of them.
+
+[...]millions more people than ever are relying on drive-through food pantries during the pandemic.
+
+Heather Eicher-Miller receives or has received funding for work related to this article from the U.S. Department of Agriculture, the U.S. Federal Office of Rural Health, and Purdue University.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1625" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;i&gt;Editor's note: The economic crisis brought about by the coronavirus pandemic has increased the number of Americans who can't always get enough to eat, including children. The Conversation U.S. asked four experts to explain how common child hunger is and what's being done to address it.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 1. How big a problem is child hunger in the US? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Heather Eicher-Miller, associate professor of nutrition science at Purdue University:&lt;/b&gt;Hunger has two very different meanings. It can describe that uncomfortable feeling you get after not eating in a while. It's also a long-term physical state.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Heather Eicher-Miller. Purdue University, CC BY-SA&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;People who experience long-term hunger aren't just uncomfortable. They can feel weakness or pain and run an elevated risk of illnesses, including asthma, iron-deficiency anemia and poor bone health.&lt;/p&gt;
+&lt;p&gt;Hunger can of course arise when someone doesn't eat enough, but it's also a result of food insecurity - what happens when you lack the money or other means of accessing enough of the right kinds or amounts of food.&lt;/p&gt;
+&lt;p&gt;Whereas hunger is a physical condition, food insecurity is an economic and social situation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;David Himmelgreen, professor of anthropology at the University of South Florida:&lt;/b&gt; Food insecurity and child hunger have both skyrocketed during the COVID-19 pandemic. There were an estimated 50 million food-insecure Americans by the end of 2020, up sharply from 35 million in 2019, the last year for which official data is available.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="2"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;David Himmelgreen. University of South Florida, CC BY-SA&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Feeding America, the nation's largest anti-hunger organization, estimated in 2019 that there were 12.5 million U.S. children - 1 in 6 - at risk of hunger. With growth in the number of American workers unemployed and children living in poverty, a team of researchers determined in July 2020 that 18 million children - 1 in 4 - were experiencing food insecurity at least sometimes, a few months into the coronavirus pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kecia Johnson, assistant professor of sociology at Mississippi State University:&lt;/b&gt; Children who experience hunger are more likely to be sick, to recuperate from illness more slowly and to be hospitalized more frequently.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="3"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Kecia Johnson. Mississippi State University, CC BY-SA&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Among other things, being food insecure increases the potential for obesity, heart disease and diabetes, including for children. And food-insecure children are at least twice as likely as other kids to have a variety of health problems, such as anemia, asthma and anxiety.&lt;/p&gt;
+&lt;p&gt;Food-insecure kids can also have more trouble at school than other children and become more likely to experience social isolation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 2. What's being done about the problem? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Diana Cuy Castellanos, assistant professor of dietetics and nutrition at the University of Dayton:&lt;/b&gt; Some 15 federal programs assist Americans who need help getting enough nutritious food to eat. The programs cover different populations including the elderly, people with low incomes, infants and children, and Native American communities, as well as areas where there is need for emergency relief due to disasters.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="4"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Diana Cuy Castellanos. University of Dayton, CC BY&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;The largest is the Supplemental Nutrition Assistance Program, known more commonly as SNAP. It provides assistance for the purchase of food based on income and cost US$85.6 billion in the latest fiscal year. Following the passage of a bipartisan relief package in December, most families of four can currently get $782 in monthly assistance through SNAP.&lt;/p&gt;
+&lt;p&gt;Many people still call these benefits "food stamps," but now, instead of receiving vouchers to purchase food, people receive a card that looks like a credit card with their food allowance on it.&lt;/p&gt;
+&lt;p&gt;The government also runs the Women, Infants and Children program, which provides nutritional aid for low-income pregnant women, breastfeeding women and women with at least one child age 5 or under. In addition, there are the School Breakfast and Lunch programs as well as the Summer Food Service Program, which funds free healthy meals and snacks to children and teens in low-income areas when school is not in session.&lt;/p&gt;
+&lt;p&gt;Many of these programs target specific segments of the population, such as children and the elderly. All have something in common: They are designed to help low-income families afford food so as to free up more of their limited income on other needs, such as housing and transportation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Himmelgreen:&lt;/b&gt; While federal nutrition programs have helped reduce the severity of food insecurity and child hunger, only a limited number of Americans who don't get enough to eat can take advantage of them. To get SNAP in Florida, for example, people may not have more than a total of either $2,001 or $3,001 - depending on their age and disabilities - in their savings and checking accounts. Other states have similar but different restrictions, making it hard to estimate the number of Americans who need help but can't get it. Hence, millions more people than ever are relying on drive-through food pantries during the pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Johnson:&lt;/b&gt; There are some 60,000 food pantries, meal programs and food banks, according to Feeding America, serving about 40 million people yearly. Feeding America and its affiliated food banks and pantries also run food pantries in schools and backpack programs, which provide students with easily prepared foods, like boxed macaroni and cheese and canned beans, to take home, throughout the country.&lt;/p&gt;
+&lt;p&gt;For example, an elementary school in Holmes County, Mississippi, has supplied participating families with food and other supplies since 2019.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Eicher-Miller:&lt;/b&gt; Nutrition education is another way to address food insecurity and help reduce the number of children who go hungry. For example, the federal government offers nutrition education to individuals and families who receive SNAP benefits through the Supplemental Nutrition Assistance Program Education program, or SNAP-Ed. It provides comprehensive nutrition education regarding how to get the most nutrition per food dollar to many of the people who get SNAP benefits and may be having trouble serving their families healthy meals on a limited budget.&lt;/p&gt;
+&lt;p&gt;The government supports SNAP-Ed in locations like food pantries, community centers and food assistance offices. Its practical budgeting advice, cooking classes and nutrition information make families with children less likely to experience food insecurity, according to a study by my team. When people get the hang of buying the healthiest foods they can on a tight budget, their kids are less likely to go hungry.&lt;/p&gt;
+&lt;p&gt;I think of nutrition education as a gift that keeps giving in the sense that once someone has the knowledge they can keep using it to stay food secure into the future.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 3. What are some of the more promising innovations? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Cuy Castellanos:&lt;/b&gt; Food insecurity is a complex problem for many reasons, including the limited access millions of people have to the fresh fruits and vegetables everyone should eat.&lt;/p&gt;
+&lt;p&gt;That's why I'm excited to see people starting to grow their own food in low-income communities with few grocery stores or opportunities to buy produce, from Los Angeles to Philadelphia. Nonprofits and families are growing food on their own property or are using vacant lots or land on school or church grounds.&lt;/p&gt;
+&lt;p&gt;Some groups such as Homefull and Mission of Mary Farms in Dayton, Ohio, have even begun to build greenhouses to extend the growing season and producing root vegetables and leafy greens as well as raising chickens.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get the best of The Conversation, every weekend.&lt;/i&gt;Sign up for our weekly newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Johnson:&lt;/b&gt; A new community garden is also making a difference in the small majority-Black town of Maben in rural Mississippi, where there's nowhere to buy vegetables. Starting in 2019, local leaders approved the conversion of a former school athletic field into a community garden. Once volunteers from a farmers cooperative had cleared and plowed the field, other volunteers planted and harvested crops of tomatoes, purple hull peas, okra and watermelons. The gardeners distributed this first wave of produce primarily to elderly people in Maben who used to have family gardens and give away their own homegrown food in years past.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Himmelgreen:&lt;/b&gt; Many innovative programs across the country are aiming to reduce food insecurity and improve the health of low-income Americans.&lt;/p&gt;
+&lt;p&gt;At "client food choice" food pantries, clients don't just pick up boxes of free, nutritious items. Instead, they get to choose the foods they want and get recipes and other kinds of nutrition education. There are also food prescription programs based in hospitals and medical clinics, where patients are screened for food insecurity and, if eligible, enrolled in SNAP and given help connecting with food pantries either on site or nearby.&lt;/p&gt;
+&lt;p&gt;A growing number of nonprofits also refer people to school-based food pantries, which operate in K-12 public schools and on college campuses and the meals-on-wheels programs that assist people who are homebound.&lt;/p&gt;
+&lt;p&gt;I believe these programs need to be scaled up or replicated whenever possible in areas where there is a high level of food insecurity and child hunger but a lack of nonprofit help available.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Heather Eicher-Miller receives or has received funding for work related to this article from the U.S. Department of Agriculture, the U.S. Federal Office of Rural Health, and Purdue University.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;David Himmelgreen has worked with Feeding Tampa Bay since 2015 and currently serves on its board. He has conducted funded research and evaluations on topics ranging from adolescent and older adult food insecurity and health to mobile food pantry program services.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Diana Cuy Castellanos receives funding from the University of Dayton to evaluate the impact of Mission of Mary Farm and Homefull gardens on local residents dietary intake. &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Kecia Johnson does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Heather Eicher-Miller, Associate Professor of Nutrition Science, Purdue University&lt;/p&gt;&lt;p&gt;David Himmelgreen, Professor of Anthropology, University of South Florida&lt;/p&gt;&lt;p&gt;Diana Cuy Castellanos, Assistant Professor of Dietetics and Nutrition, University of Dayton&lt;/p&gt;&lt;p&gt;Kecia Johnson, Assistant Professor of Sociology, Mississippi State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>Heather Eicher-Miller. Purdue University, CC BY-SA</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>David Himmelgreen. University of South Florida, CC BY-SA</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>2</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>Kecia Johnson. Mississippi State University, CC BY-SA</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>3</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>Diana Cuy Castellanos. University of Dayton, CC BY</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>4</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 11, 2021</AlphaDate>
+         <StartDate>2021-01-11</StartDate>
+         <EndDate>2021-01-11</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jan112021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2506648148</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>'Frugal design' brings medical innovations to communities that lack resources during the pandemic</Title>
+      </TitleAtt>
+      <NumericDate>2021-03-29</NumericDate>
+      <StartDate>2021-03-29</StartDate>
+      <EndDate>2021-03-29</EndDate>
+      <AlphaDate>Mar 29, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20210329_147896</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20210329_147896</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Mar292021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Richards-Kortum, Rebecca</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Rebecca</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Rebecca Richards-Kortum</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Richards-Kortum</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Rebecca Richards-Kortum</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Mkandawire, Theresa</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Theresa</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Theresa Mkandawire</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Mkandawire</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Theresa Mkandawire</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/147896/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>National Institutes of Health</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>923120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>United Nations Childrens Fund--UNICEF</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813219</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>923120</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>928120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Rice University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Massachusetts Institute of Technology</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Innovations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Design</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Malawi</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Tanzania</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="104">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Engineering students used university-based maker spaces to invent and produce new technologies – face shields, automated hand washing stations, diagnostic testing equipment and respiratory support equipment – that allowed health care workers to safely deliver effective care.
+
+Because of the complexity of PCR-based testing and the scarcity of test reagents, the National Institutes of Health invested $1.5B in the RADx program to spur innovators to find novel, affordable diagnostic tests.
+
+Rebecca Richards-Kortum receives funding from the National Institutes of Health, the National Science Foundation, the Bill &amp;amp; Melinda Gates Foundation, the MacArthur Foundation, ELMA Philanthropies, the Children's Investment Fund Foundation, and the Lemelson Foundation.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1320" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Maker spaces give engineers and designers the tools to build low-cost medical equipment using locally available materials. Brandon Martin, Rice University , CC BY-NC-ND&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Dr. Msandeni Chiume Kayuni found herself in the middle of a supply crisis as COVID-19 spread to Africa in April 2020. As head of Pediatrics at Kamuzu Central Hospital in Lilongwe, Malawi, her team faced a critical shortage of N95 and regular surgical face masks. Nurses and doctors were striking.&lt;/p&gt;
+&lt;p&gt;“We had members of hospital staff put their tools down because they did not feel it was safe to practice,” she told us in an interview.&lt;/p&gt;
+&lt;p&gt;Ingenuity kicked in. The Malawi team purchased raincoats from the local market to use as personal protective equipment when they could not afford appropriate gowns that cost three times as much. Unlike disposable gowns, the rain gear could easily be sanitized in bleach and reused.&lt;/p&gt;
+&lt;p&gt;Worldwide, as the global supply chain for basic PPE, diagnostic tests and equipment to treat critically ill COVID-19 patients buckled under the strain, medical personnel improvised and engineers began developing solutions almost overnight. Engineering students used university-based maker spaces to invent and produce new technologies – face shields, automated hand washing stations, diagnostic testing equipment and respiratory support equipment – that allowed health care workers to safely deliver effective care.&lt;/p&gt;
+&lt;p&gt;As engineers working in the U.S. and Malawi to develop effective and affordable medical devices for low-resource communities, we routinely practice and teach this level of resourcefulness, dubbed “frugal design.”&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Spreading the light&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Medical personnel reused available N95 masks, intended to be used once, for weeks or months, which required innovative ways to disinfect them, including heaters, gas sterilizers and ultraviolet light.&lt;/p&gt;
+&lt;p&gt;UVC – short-wavelength ultraviolet light – kills or inactivates viruses, including SARS-CoV-2, the virus that causes COVID-19. In the pandemic, scientists set up UVC systems in spare rooms at hospitals to sanitize masks.&lt;/p&gt;
+&lt;p&gt;The University of Nebraska Medical Center equipped a room with UVC light towers and coated the walls with reflective foil to maximize the dose of UVC light. Dirty masks are clipped to rows of clothesline strung across the UVC room. An operator outside the room started the lights, and a detector in the room ensured the masks had received a virus-killing dose of light. Masks can be disinfected and reused multiple times without damaging their integrity.&lt;/p&gt;
+&lt;p&gt;Engineers in Houston, Malawi and Tanzania worked together to reduce the cost of room-based UVC disinfection systems to less than US$800, and several systems are now installed in hospitals in Malawi and Tanzania. Engineers at other locations built disinfecting stations by adapting UV lights in the hoods normally used to grow cells in culture or by repurposing the UV light in an aquarium sanitizer.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Local innovation for PPE&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="2"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Health care workers around the world turned to 3D-printed face shields in the early months of the pandemic. Julia Jenjezwa, Rice 360° Institute for Global Health , CC BY-NC-ND&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Across the world, engineering students used novel maker spaces at universities with 3D printers and laser cutters to rush new PPE designs into large-scale local production. Students and staff at Malawi’s two engineering schools, Malawi Polytechnic and the Malawi University of Science and Technology, and at Tanzania’s Dar es Salaam Institute of Technology, adapted open-source designs to produce face shields. They consulted with clinicians at partner hospitals to improve comfort and safety while using only locally available materials.&lt;/p&gt;
+&lt;p&gt;Development organizations, including UNICEF and the United Nations Development Program, ordered over 8,000 face shields that were locally produced and delivered to area hospitals.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Rethinking diagnostics designs&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Diagnostic laboratories could not obtain key supplies needed to run COVID-19 tests in the early stages of the pandemic. In early 2020, major hospitals and public health systems struggled to obtain swabs, sample tubes, reagents and equipment needed to meet the increased demand for testing.&lt;/p&gt;
+&lt;p&gt;The first available COVID-19 test relied on polymerase chain reaction, or PCR, a method that increases the amount of a viral RNA in a sample to detectable levels. This method of testing requires specialized reagents and equipment to isolate viral RNA, transform it to DNA, and trigger the amplification process.&lt;/p&gt;
+&lt;p&gt;Because of the complexity of PCR-based testing and the scarcity of test reagents, the National Institutes of Health invested $1.5B in the RADx program to spur innovators to find novel, affordable diagnostic tests. Many innovative tests have received emergency use authorization from the Food and Drug Administration and are now used throughout the world.&lt;/p&gt;
+&lt;p&gt;For example, researchers at Harvard used a simple single-temperature reaction to amplify viral RNA, eliminating many of the necessary steps and reagents of PCR and speeding up the testing time. Researchers at Stanford adapted the mechanism inside a toy flashlight to build a simple electricity-free centrifuge to help perform this new COVID-19 test in areas that lack electricity and other laboratory infrastructure.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Reinforcing ventilator supplies&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In response to the global shortage of ventilators in the first months of the pandemic last year, engineers designed simple devices to provide temporary breathing support. Open-source plans for two systems, one designed by the MIT Emergency Ventilator Project and one designed by students and staff at Rice University, are available online.&lt;/p&gt;
+&lt;p&gt;A global shortage of oxygen in low-resource countries has led many health care providers in those countries to fall back on mechanical ventilation. Ventilators are also in short supply, in part because of problems with a U.S. ventilator donation program.&lt;/p&gt;
+&lt;p&gt;Students and faculty at the Malawi University of Science and Technology developed a system similar to the MIT and Rice ventilators that can be assembled using materials available in Malawi. Students at Malawi Polytechnic worked with local physicians to develop a ventilator with more features.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Hygiene innovation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Public health officials emphasize the role of hand-washing, together with social distancing and face masks, to curb the continued spread of COVID-19. However, many schools and even some hospitals in low-resource settings do not have running water and sinks allowing students and patients to regularly wash their hands.&lt;/p&gt;
+&lt;p&gt;In response, Brenald Dzonzi, an engineering student at Malawi Polytechnic, designed a no-touch hand-washing station. Small amounts of soap and water are automatically dispensed from pre-filled containers when a user stands in front of the station. The system is made from local materials and is now installed at a local hospital. Up to 2,000 patients can safely wash their hands before the system needs to be refilled.&lt;/p&gt;
+&lt;p&gt;Dzonzi was awarded the UNICEF Youth Challenge award to fund continued development of the hand-washing station.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Elegant and sustainable design&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;When equipment is unsuitable for an environment, because it can’t tolerate hot, dusty conditions, for example, it ends up discarded in equipment graveyards — serving no one. In contrast, successfully executed frugal designs offer sustainability and suitability for low-resource environments.&lt;/p&gt;
+&lt;p&gt;An example of this type of elegant design is the FoldScope, a low-cost paper microscope used to improve medical diagnostics and science education in low-resource settings. Other examples include LED-based phototherapy lights used to treat jaundice in newborns, and low-cost CPAPs that bring breathing support to small and sick newborns in low-resource health care facilities.&lt;/p&gt;
+&lt;p&gt;To encourage frugal design, universities across the world are changing how they teach engineering — focusing on frugal design and engaging students like Dzonzi to invent solutions that solve real problems. Though the pandemic sparked a global need for frugal design, the practice is important generally for narrowing the health care gap between high- and low-resource communities and bringing health care services to underserved communities.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Rebecca Richards-Kortum receives funding from the National Institutes of Health, the National Science Foundation, the Bill &amp;amp; Melinda Gates Foundation, the MacArthur Foundation, ELMA Philanthropies, the Children's Investment Fund Foundation, and the Lemelson Foundation. &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Theresa Mkandawire does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Rebecca Richards-Kortum, Professor of Bioengineering, Rice University&lt;/p&gt;&lt;p&gt;Theresa Mkandawire, Associate Professor of Civil Engineering, University of Malawi&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>Maker spaces give engineers and designers the tools to build low-cost medical equipment using locally available materials. Brandon Martin, Rice University , CC BY-NC-ND</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>Health care workers around the world turned to 3D-printed face shields in the early months of the pandemic. Julia Jenjezwa, Rice 360° Institute for Global Health , CC BY-NC-ND</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>2</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Mar 29, 2021</AlphaDate>
+         <StartDate>2021-03-29</StartDate>
+         <EndDate>2021-03-29</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Mar292021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

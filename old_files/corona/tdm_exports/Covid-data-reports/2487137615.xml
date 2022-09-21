@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487137615</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>A new data-driven model shows that wearing masks saves lives - and the earlier you start, the better</Title>
+      </TitleAtt>
+      <NumericDate>2020-11-13</NumericDate>
+      <StartDate>2020-11-13</StartDate>
+      <EndDate>2020-11-13</EndDate>
+      <AlphaDate>Nov 13, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVIL_20201113_149621</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVIL_20201113_149621</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977982_Nov132020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Srivastava, Biplav</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Biplav</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Biplav Srivastava</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Srivastava</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Biplav Srivastava</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/149621/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>New York Times Co</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511120</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515112</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of South Carolina</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Masks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Computer science</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mortality</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Fatalities</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="104">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Dr. Biplav Srivastava, professor of computer science at the University of South Carolina, and his team have developed a data-driven tool that helps demonstrate the effect of wearing masks on COVID-19 cases and deaths.
+
+Because the model is designed to tell us the "what if?" scenario, it will look at what would have happened if the mask-wearing score was reduced to 3.0, which is our cutoff for "low mask-wearing," but the user can experiment with other values too just to see what happens.
+
+The difference in case counts between the two groups is converted to a difference in deaths using the mortality rate parameter.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="825" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;i&gt;Dr. Biplav Srivastava, professor of computer science at the University of South Carolina, and his team have developed a data-driven tool that helps demonstrate the effect of wearing masks on COVID-19 cases and deaths. His model utilizes a variety of data sources to create alternate scenarios that can tell us "What could have happened?" if a county in the U.S. had a higher or lower rate of mask adherence. In this interview, he explains how the model works, its limitations and what conclusions we can draw from it.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What does this computer model do? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This is a nationwide tool which can show the effect that wearing masks can have. If it's a county where people wear masks regularly, it will show you how many COVID-19 cases and deaths they avoided. If you pick a county where people don't wear masks, it will show you how many cases and deaths could have been prevented there.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; How does it do it? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We need a lot of data to do this. The New York Times surveyed almost every county in the U.S. over the summer and assigned a mask-wearing score of 0-5 to each of them, so this is at the heart of the model. We also use New York Times and Johns Hopkins data for real-time case numbers; census data for demographics such as population size, median age and more; and geographic data to measure the distance between counties.&lt;/p&gt;
+&lt;p&gt;It is based on a mathematical technique called robust synthetic control, which is often used in drug research, where there is a control group and there is a treatment group.&lt;/p&gt;
+&lt;p&gt;For example, let's look at Wyandotte County, Kansas. It has a relatively high mask-wearing score of about 3.4. Because the model is designed to tell us the "what if?" scenario, it will look at what would have happened if the mask-wearing score was reduced to 3.0, which is our cutoff for "low mask-wearing," but the user can experiment with other values too just to see what happens. We arrived at 3.0 based on analysis of nationwide mask-wearing habits. The actual values ranged between 1.4 and 3.85, with a national average of 2.98.&lt;/p&gt;
+&lt;p&gt;We can set a date at which the mask-wearing score changes to 3.0. If we set it to run from June 1 to Oct 1, it tells us that Wyandotte County would have had 101.5% more cases and 150 more deaths in that period. It tells the user how many deaths have occurred or been prevented based on a mortality rate parameter that the user can set. In this example, it was set at 2%.&lt;/p&gt;
+&lt;p&gt;How does the model create the "what if?" scenario if it didn't actually happen? It does this by looking at other counties that are close by and have similar demographics and case count but a lower mask-wearing threshold. It tries to come up with a weighted average to form a synthetic control group which is similar to our county of interest (treatment group). The model then looks at how much the two groups have diverged in terms of the case counts. The difference in case counts between the two groups is converted to a difference in deaths using the mortality rate parameter.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What does this tell us about the impact of mask-wearing policies? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Keeping up mask-wearing or implementing a mask policy at any time can be helpful. But its impact is highest when you do it early. When you run this model multiple times using different dates, you see that the impact reduces as you delay implementing a mask-wearing policy. So if a county implemented a mask policy on June 1, it would have prevented many cases. If it acted on July 1, it would have a smaller impact. If it acted in August, it would still have prevented cases, but a very small number.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What are the limitations of this model? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This tool works better for some counties than others. In general, it works best with counties that are closer to the average, because it will have closer matches to compare against. There is also a limitation in the sense that The New York Times mask adherence survey was done in the summer, and things keep changing. So if other researchers use this tool, they will have to account for the changes.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;But what you see is that when you implement a mask policy or the population regularly wears masks, it makes a positive impact. And the earlier you do it, the more effective it is.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;I would like to acknowledge the work of my team, Sparsh Johri, Kartikaya Srivastava, Chinmayi Appajigowda and Lokesh Johri, in developing this program.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Biplav Srivastava does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Biplav Srivastava, Professor of Computer Science, University of South Carolina&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Science + Technology</Title>
+         <MpubId>4977982</MpubId>
+         <SortTitle>Conversation : Science + Technology The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVIL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977982</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464264.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Sciences: Comprehensive Works</Subject>
+            <Subject>Technology: Comprehensive Works</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Science + Technology</Title>
+            <SortTitle>Conversation : Science + Technology The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977982</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464264.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 13, 2020</AlphaDate>
+         <StartDate>2020-11-13</StartDate>
+         <EndDate>2020-11-13</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977982_Nov132020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

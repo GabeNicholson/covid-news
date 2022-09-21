@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487140827</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Kids are bigger coronavirus spreaders than many doctors realized - here's how schools can lower the risk</Title>
+      </TitleAtt>
+      <NumericDate>2020-08-18</NumericDate>
+      <StartDate>2020-08-18</StartDate>
+      <EndDate>2020-08-18</EndDate>
+      <AlphaDate>Aug 18, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20200818_144562</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20200818_144562</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Aug182020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Sharps, Phyllis</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Phyllis</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Phyllis Sharps</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Sharps</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Phyllis Sharps</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <DisplayForm>Lucine Francis</DisplayForm>
+               <OriginalFormAtt>
+                  <OriginalForm>Lucine Francis</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/144562/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Johns Hopkins University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Nursing schools</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Families &amp; family life</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Distance learning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Extracurricular activities</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Georgia</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="121">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Younger children were suspected of infecting fewer people; however, a hospital in Chicago found that children under 5 with mild to moderate COVID-19 actually had more coronavirus genetic material in their upper respiratory tracts than older children and adults.
+
+Similar to adults, children face higher risks of developing severe symptoms if they have underlying medical conditions such as diabetes, obesity, asthma, lung disease, suppressed immune system, congenital heart disease and serious genetic, neurologic or metabolic disorders.
+
+Here are 10 recommendations to look for in schools that can help keep children, families and faculty safe: * Check everyone for symptoms each morning, including temperature checks, but recognize that the virus starts spreading before symptoms show. * If possible, set up quick-response testing.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1077" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The first U.S. schools have reopened with in-person classes, and they are already setting off alarm bells about how quickly the coronavirus can spread.&lt;/p&gt;
+&lt;p&gt;Georgia's Cherokee County School District, north of Atlanta, had over 100 confirmed COVID-19 cases by the end of its second week of classes, and more than 1,600 students and staff had been sent home after being exposed to them. By the third week, three of the district's high schools had temporarily reverted to all-online learning. Schools in Mississippi, Tennessee, Nebraska and other states also reported multiple cases, quarantines and temporary school closures.&lt;/p&gt;
+&lt;p&gt;Deciding whether to open schools for in-person classes during a pandemic is a complex decision. Children often learn better in school, where they have direct contact with expert teachers and the social-emotional learning that comes from being around other children. But they also risk spreading the disease to their teachers and one another's families without even being aware they have it.&lt;/p&gt;
+&lt;p&gt;For schools that do reopen classrooms, there are important choices that can help them keep students, families and teachers safe. As nursingprofessors, we've been following the developing research on children's risks of getting and spreading COVID-19, and we have some advice.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; How infectious are kids? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Initially, it appeared that COVID-19 had minimal effects on children and that they didn't spread it easily, but new research is changing that view.&lt;/p&gt;
+&lt;p&gt;A large study from Korea published in July found that older children, ages 10 to 19, were just as likely as adults to spread the virus to others. Younger children were suspected of infecting fewer people; however, a hospital in Chicago found that children under 5 with mild to moderate COVID-19 actually had more coronavirus genetic material in their upper respiratory tracts than older children and adults.&lt;/p&gt;
+&lt;p&gt;A COVID-19 outbreak at a summer camp in Georgia clearly showed how children of all ages are susceptible to infection: 51% of the campers ages 6 to 10 tested positive, as did 44% of those ages 11 to 17.&lt;/p&gt;
+&lt;p&gt;By mid-August, data from several states showed that children represented about 9.1% of all reported COVD-19 cases, and that the average had risen to 538 cases in every 100,000 children. The American Academy of Pediatrics found a sharp rise in the number of U.S. children testing positive, suggesting that far more children were infected than people realized.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; How at-risk are kids? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Children do generally have milder symptoms than adults. In young bodies, it may show up as a fever, runny nose, cough, sore throat, shortness of breath, fatigue, headaches, muscle aches, nausea or diarrhea. Research suggests that children may have more stomach issues and diarrhea compared to adults.&lt;/p&gt;
+&lt;p&gt;But that isn't the story for all kids. Some have died after contracting COVID-19, and others have developed severe complications after they appeared to have recovered.&lt;/p&gt;
+&lt;p&gt;Similar to adults, children face higher risks of developing severe symptoms if they have underlying medical conditions such as diabetes, obesity, asthma, lung disease, suppressed immune system, congenital heart disease and serious genetic, neurologic or metabolic disorders. And children with none of these conditions can still end up in intensive care units because of COVID-19.&lt;/p&gt;
+&lt;p&gt;In very rare cases, several weeks after getting COVID-19, children have developed multi-system inflamatory syndrome (MIS-C), with symptoms similar to Kawasaki disease, including fever, rash, gastrointestinal problems, inflammation, shock and heart damage. At least six children in the U.S. have died from it.&lt;/p&gt;
+&lt;p&gt;A big concern for schools is that children who are infected but have no symptoms may be silently spreading the disease to their teachers and friends, who then take it home to their families and out into the community.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Ways to keep kids and their families safe &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;If a school decides to reopen for in-person instruction, it won't be the same environment students found last fall. Officials will have to make difficult decisions that will ultimately affect the culture of school life.&lt;/p&gt;
+&lt;p&gt;Here are 10 recommendations to look for in schools that can help keep children, families and faculty safe:&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Check everyone for symptoms each morning, including temperature checks, but recognize that the virus starts spreading before symptoms show.&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;If possible, set up quick-response testing. These tests can flag people who are infectious but don't have symptoms, though they can be expensive, hard to find and have higher rates of false-positives than the polymerase chain reaction (PCR) tests that take longer.&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Ensure everyone who can wear a face mask does. Research shows the coronavirus primarily spreads through the air. Masks can limit how far an infected person spreads the virus and how much mask-wearers breathe in.&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Keep desks 6 feet apart for physical distancing. On the school bus and where lines form, mark off seating and line spacing to make physical distancing easy to remember.&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Rather than having students change classrooms, keep them together in cohorts and have teachers move from classroom to classroom to limit contact in the halls. Hold classes outside when possible, and ensure outside air circulates into rooms.&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Suspend extracurricular activities with a high risk of transmission, such as singing and sports with physical contact. Some activities are less risky, such as tennis, swimming and running.&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Frequently clean high-touch areas, such as bathrooms and door handles.&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Make sure students are current on all immunizations and get the flu shot.&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Be prepared to provide emotional and behavioral support to students dealing with stressful and sometimes traumatic experiences during the pandemic.&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Get a school nurse. During a pandemic like this, every school should have a nurse to check for symptoms and manage illnesses, but many schools don't have one full-time.&lt;/p&gt;
+&lt;p&gt;Schools should have a plan and be ready to change it. If students and staff become infected or the school can't meet safety requirements, the schools need the flexibility to take classes online.&lt;/p&gt;
+&lt;p&gt;COVID-19 presents an opportunity to reflect on the learning disparities and disadvantages many students will encounter without in-person learning. Out of the ashes of COVID-19, all key stakeholders of the school community will need to work together to develop innovative, sustainable solutions that benefit students who have been most disadvantaged by the pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Phyllis Sharps, Professor of Nursing, Johns Hopkins University School of Nursing&lt;/p&gt;&lt;p&gt;Lucine Francis, Assistant Professor of Nursing, Johns Hopkins University School of Nursing&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 18, 2020</AlphaDate>
+         <StartDate>2020-08-18</StartDate>
+         <EndDate>2020-08-18</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Aug182020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

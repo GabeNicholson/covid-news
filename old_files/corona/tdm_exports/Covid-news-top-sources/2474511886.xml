@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2474511886</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Man charged in 2 fatal shootings months apart</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-02</NumericDate>
+      <StartDate>2021-01-02</StartDate>
+      <EndDate>2021-01-02</EndDate>
+      <AlphaDate>Jan 2, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Jan 2, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.6</StartPage>
+         <DocSection>Metro</DocSection>
+         <DocEdition>RegionalgionalE</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Jan22021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20210102Manchargedin2fatalshootingsmonthsapart5c78d496</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1350</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Hermann, Peter</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Peter</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Peter Hermann</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Hermann</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Peter Hermann</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Self defense</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Shootings</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Criminal investigations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Murders &amp; murder attempts</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Firearms</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="521" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;2019 murders&lt;/p&gt;
+&lt;p&gt;occurred in same&lt;/p&gt;
+&lt;p&gt;SE neighborhood&lt;/p&gt;
+&lt;p&gt;A 26-year-old man in jail awaiting trial in a pending murder case was charged Thursday in a second killing in the Washington Highlands neighborhood of Southeast Washington, according to D.C. police.&lt;/p&gt;
+&lt;p&gt;
+Authorities identified the suspect as Davonte Brothers of Southeast. He now faces two counts of first-degree murder in two separate shootings that occurred in June and October of 2019, on streets less than a half-mile apart.&lt;/p&gt;
+&lt;p&gt;Brothers's attorney with the D.C. Public Defender Service could not be reached on Friday. A court hearing for Brothers is scheduled for Jan. 21.&lt;/p&gt;
+&lt;p&gt;Brothers was arrested in September and charged with first-degree murder in a shooting that occurred about 5:40 p.m. on Oct. 17, 2019, in the 4200 block of 6th Street SE. Police said the victim, Deron Leake, 27, of Southeast, was shot in the head and pronounced dead at the scene. A second man was shot in the leg.&lt;/p&gt;
+&lt;p&gt;Police said in an arrest affidavit the wounded man told detectives he saw a gunman shoot Leake and then shoot him. That man said he returned fire from his .22-caliber handgun. Police said they found a loaded .380-caliber handgun under Leake's body.&lt;/p&gt;
+&lt;p&gt;Witnesses told police the shooting stemmed from an argument about whether the suspect and victim knew each other. Relatives for Leake could not be reached on Friday.&lt;/p&gt;
+&lt;p&gt;Brothers was ordered detained in the D.C. jail pending trial. &lt;/p&gt;
+&lt;p&gt;On Thursday, police filed another first-degree murder charge against Brothers, stemming from a shooting that occurred about 1:15 a.m. on June 16, 2019, in the 4300 block of 4th Street SE.&lt;/p&gt;
+&lt;p&gt;The victim, Arkeem Jackson, 30, of Southeast, died at a hospital. Police said a woman also was shot and suffered injuries that were not life threatening.&lt;/p&gt;
+&lt;p&gt;According to an arrest affidavit filed in D.C. Superior Court, Brothers was inside a silver Nissan Altima that pulled up to a group of people clustered near a bank of apartment mailboxes on 4th Street.&lt;/p&gt;
+&lt;p&gt;Witnesses told police two men jumped from the vehicle and fired guns. Police said they recovered 18 shell casings from two different caliber firearms, and that Jackson was struck 11 times. He collapsed on the street between two parked cars.&lt;/p&gt;
+&lt;p&gt;The affidavit says the day after the shooting, Brothers drove by the scene in the silver Nissan and shouted to a group of people, "Going down, one by one, one by one." As he sped away, police said people in the group chased him, firing guns and hitting the Nissan seven times. Brothers was not injured.&lt;/p&gt;
+&lt;p&gt;Police said they accumulated evidence over several months, including a bullet casing wedged by the Nissan's windshield wiper that matched the bullets that struck Jackson and a gun linked to the killing in the possession of one of Brothers's relatives who was pulled over during a traffic stop.&lt;/p&gt;
+&lt;p&gt;A woman who identified herself as a relative of Jackson but did not want her name published said she did not know of a motive for the shooting. She said she was pleased an arrest had been made. She said Jackson had a job and a 13-year-old son.&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;peter.hermann@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 2, 2021</AlphaDate>
+         <StartDate>2021-01-02</StartDate>
+         <EndDate>2021-01-02</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Jan22021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

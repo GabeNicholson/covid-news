@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487141884</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Why COVID-19 won't kill cities</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-25</NumericDate>
+      <StartDate>2021-01-25</StartDate>
+      <EndDate>2021-01-25</EndDate>
+      <AlphaDate>Jan 25, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210125_144342</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210125_144342</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jan252021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <DisplayForm>John Rennie Short</DisplayForm>
+               <OriginalFormAtt>
+                  <OriginalForm>John Rennie Short</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Orlando, Michael J</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Michael</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Michael J Orlando</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Orlando</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>J</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Michael J. Orlando</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/144342/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Congress</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of Maryland</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of Colorado</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Urban areas</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>International finance</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Cost control</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Financial services</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Cities</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Skills</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Baltimore County Maryland</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York City New York</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="67">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]the future was and continues to be giant metro areas and dense cities.
+
+[...]companies and workers will prefer to locate in cities where they can command higher profits and wages associated with the learning that occurs through serendipitous interactions.
+
+John Rennie Short, Professor, School of Public Policy, University of Maryland, Baltimore County Michael J. Orlando, Lecturer, Finance and Politics, Global Energy Management Program, University of Colorado Denver&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1250" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;i&gt;Editor's note: For those of you who live in cities, ask yourself: What it is about your urban lifestyle that makes it worth it despite the pollution, the noise and the traffic? Perhaps it's the hundreds of unique restaurants that you like to dine at. Or the density that fosters a vibrant night life and cosmopolitan cultural scene. Maybe it's the parks, the museums, the tall buildings, the mass transit.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;What if much of that went away? Would you still want to live there?&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;That possibility is worrying many as the pandemic chips away at the foundations of much of what makes cities special. Restaurants, small businesses and even big brand-name retail chains are closing in record numbers. Mass transit systems, like New York City's, are warning of severe cuts in service if they don't get aid soon as state and local tax revenue plunges. Many have fled to rural or suburban areas. And the situation appears likely to only worsen as America endures a "dark winter" with no guarantee of more aid from Congress.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Despite these challenges, two scholars who study cities explain why they think urban areas will endure - even if they don't get the aid from Congress that now seems more likely.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Why some cities will survive - and thrive &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;John Rennie Short, University of Maryland, Baltimore County&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The death of the city is regularly predicted. But, like Mark Twain's premature obituary, it is greatly exaggerated.&lt;/p&gt;
+&lt;p&gt;The city was thought to be redundant when the telephone was introduced to the world in 1876 and then the first personal computer in 1971. What was the point of cities when people could communicate over the phone or through the internet? The future was imagined as a global village of electronic cottages.&lt;/p&gt;
+&lt;p&gt;In fact, the future was and continues to be giant metro areas and dense cities.&lt;/p&gt;
+&lt;p&gt;After 9/11, some thought that the threat of terrorism would lead to the suburbanization of financial services and a drift away from the city. In the two decades that followed, New York City continued to grow and prosper as a global financial center.&lt;/p&gt;
+&lt;p&gt;And today, many cities will survive the pandemic for the same reasons they survived the telephone, internet and terrorist attacks. That's because there are powerful economic forces at work.&lt;/p&gt;
+&lt;p&gt;As early as 1922, British economist Alfred Marshall pointed out three key traits of cities:&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;The pools of skilled labor allow the transfer of information, knowledge and skill.&lt;/p&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;The presence of so many companies generates more business for peripheral industries - such as how a big banking sector creates work for accountants and lawyers.&lt;/p&gt;
+&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;The proximity of people facilitates contact that leads to the maintenance of trust and the exchange of information.&lt;/p&gt;
+&lt;p&gt;These forces are even more powerful for the more dynamic sectors of the economy, particularly banking and financial services, advertising and a vast range of cultural and creative industries - all built around face-to-face contact.&lt;/p&gt;
+&lt;p&gt;I believe the cities that generate this type of "cognitive capitalism," such as San Francisco, New York and San Jose, will bounce back. Those that have more routine industries that can be done anywhere, like Detroit, Baltimore and Buffalo, may not. This is a trend that is already occurring across the U.S. over the past 30 years as cities focused on the knowledge economy have grown faster than those that are not.&lt;/p&gt;
+&lt;p&gt;Despite the long tradition of anti-urbanism in the U.S. that always seems to see the demise of cities just around the corner, they will survive because they are one of humanity's greatest inventions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The power of cities: Sharing, matching and learning &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Michael Orlando, University of Colorado Denver&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Density is what makes a city special. A place can support a dizzying array of cultural delights only where significant numbers of people live in close proximity to one another.&lt;/p&gt;
+&lt;p&gt;But in a pandemic, density is the last thing you want, which is why many people have moved from the urban core and office buildings sit empty.&lt;/p&gt;
+&lt;p&gt;This won't last forever. Soon, I believe, new vaccines and improved treatments will end this pandemic. And when density is no longer cursed by contagion, cities will reassert their magic, through their ability to enhance sharing, matching and learning.&lt;/p&gt;
+&lt;p&gt;Economists refer to these three mechanisms as types of agglomeration economies because they represent benefits of concentration. They are the incentives that lead people and production to exist side by side, enduring the high cost of dense urban areas. Economies of sharing, matching and learning explain why cities form and grow.&lt;/p&gt;
+&lt;p&gt;Economies of sharing refer to economies of scale. For example, businesses that specialize in high-quality instrument repair and intellectual property law provide important services, but they are consumed only infrequently and sporadically. These businesses prefer to locate in large cities where fixed cost of operations can be spread over many customers, making it more likely their services are always in demand.&lt;/p&gt;
+&lt;p&gt;Economies of matching refer to the cost and time savings in searching for goods, services and jobs in a large city compared with a less populous area. Workers such as piano tuners and patent attorneys, for example, possess a narrow set of skills that are of great value to particular employers that regularly need these unique services. So workers with these specialized skills will prefer to locate in larger cities, where they are more likely to be matched to a job - and quickly find another if they lose it.&lt;/p&gt;
+&lt;p&gt;Economies of learning refer to the value derived from serendipitous interactions. People learn from each other, through both intentional meetings and chance encounters. Learning through intentional meetings may occur wherever people seek each other out. But learning through chance encounters will happen more frequently in dense urban areas where there are simply better odds of encountering other people. As a result, companies and workers will prefer to locate in cities where they can command higher profits and wages associated with the learning that occurs through serendipitous interactions.&lt;/p&gt;
+&lt;p&gt;Companies for whom knowledge and ideas are particularly important may engineer such chance encounters by strategically locating co-workers from different departments so that they might interact, seemingly, at random. Similarly, by locating in cities, workers and businesses engineer chance encounters with those from other companies.&lt;/p&gt;
+&lt;p&gt;In research on the economic geography of innovation, my co-authors and I have found that knowledge-intensive workers do disproportionately locate in cities. The share of workers with a bachelor's degree is highest in the most populous county areas. And patents per capita correlate to the share of workers with a bachelor's degree across dense urban areas.&lt;/p&gt;
+&lt;p&gt;The risks and costs of contagion will fade. And then workers and companies will be unable to resist the benefits of sharing, matching and learning that arise in densely populated areas. These are the factors that explain the lure of cities.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;You're smart and curious about the world. So are The Conversation's authors and editors.&lt;/i&gt;You can get our highlights each weekend.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Michael J. Orlando is Managing Director of EconONE Research, Inc. He does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;John Rennie Short does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;John Rennie Short, Professor, School of Public Policy, University of Maryland, Baltimore County&lt;/p&gt;&lt;p&gt;Michael J. Orlando, Lecturer, Finance and Politics, Global Energy Management Program, University of Colorado Denver&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 25, 2021</AlphaDate>
+         <StartDate>2021-01-25</StartDate>
+         <EndDate>2021-01-25</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jan252021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

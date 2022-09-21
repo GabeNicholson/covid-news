@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2539984367</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Middle-aged Americans in US are stressed and struggle with physical and mental health – other nations do better</Title>
+      </TitleAtt>
+      <NumericDate>2021-06-11</NumericDate>
+      <StartDate>2021-06-11</StartDate>
+      <EndDate>2021-06-11</EndDate>
+      <AlphaDate>Jun 11, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210611_157569</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210611_157569</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jun112021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Infurna, Frank J</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Frank</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Frank J Infurna</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Infurna</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>J</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Frank J. Infurna</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/157569/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Parents &amp; parenting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Young adults</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Middle age</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Trends</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Memory</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employees</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Extracurricular activities</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Workforce</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Family leave</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Children &amp; youth</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mental health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Older people</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Health insurance</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Mexico</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Germany</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>South Korea</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="109">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Paid parental leave and subsidized child care help relieve the stress and financial strain of parenting in countries such as Germany, Denmark and Sweden.
+
+The U.S. approved measures to stimulate the economy through stimulus checks, payroll protection for small businesses, expansion of unemployment benefits and health care enrollment, child tax credits, and individuals’ ability to claim forbearance for various forms of debt and housing payments.
+
+A recent report from the Robert Wood Johnson Foundation concluded that paid family leave has a wide range of benefits, including, but not limited to, addressing health, racial and gender inequities; helping women stay in the workforce; and assisting businesses in recruiting skilled workers.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1247" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Midlife was once considered a time to enjoy the fruits of one’s years of work and parenting. That is no longer true in the U.S.&lt;/p&gt;
+&lt;p&gt;Deaths of despair and chronic pain among middle-aged adults have been increasing for the past decade. Today’s middle-aged adults – ages 40 to 65 – report more daily stress and poorer physical health and psychological well-being, compared to middle-aged adults during the 1990s. These trends are most pronounced for people who attained fewer years of education.&lt;/p&gt;
+&lt;p&gt;Although these trends preclude the COVID-19 pandemic, COVID-19’s imprint promises to further exacerbate the suffering. Historical declines in the health and well-being of U.S. middle-aged adults raises two important questions: To what extent is this confined to the U.S., and will COVID-19 impact future trends?&lt;/p&gt;
+&lt;p&gt;My colleagues and I recently published a cross-national study, which is currently in press, that provides insights into how U.S. middle-aged adults are currently faring in relation to their counterparts in other nations, and what future generations can expect in the post-COVID-19 world. Our study examined cohort differences in the health, well-being and memory of U.S. middle-aged adults and whether they differed from middle-aged adults in Australia, Germany, South Korea and Mexico.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;US is an outlier among rich nations&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We compared people who were born in the 1930s through the 1960s in terms of their health and well-being – such as depressive symptoms and life satisfaction – and memory in midlife.&lt;/p&gt;
+&lt;p&gt;Differences between nations were stark. For the U.S., we found a general pattern of decline. Americans born in the 1950s and 1960s experienced overall declines in well-being and memory in middle age compared to those born in the 1930s and 1940s. A similar pattern was found for Australian middle-aged adults.&lt;/p&gt;
+&lt;p&gt;In contrast, each successive cohort in Germany, South Korea and Mexico reported improvements in well-being and memory. Improvements were observed in health for each nation across cohorts, but were slowed for Americans born in the 1950s and 1960s, suggesting they improved less rapidly than their counterparts in the countries examined.&lt;/p&gt;
+&lt;p&gt;Our study finds that middle-aged Americans are experiencing overall declines in key outcomes, whereas other nations are showing general improvements. Our cross-national approach points to policies that could could help alleviate the long-term effects arising from the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Will COVID-19 exacerbate troubling trends?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Initial research on the short-term effects of COVID-19 is telling.&lt;/p&gt;
+&lt;p&gt;The COVID-19 pandemic has laid bare the fragility of life. Seismic shifts have been experienced in every sphere of existence. In the U.S., job loss and instability rose, household financial fragility and lack of emergency savings have been spotlighted, and children fell behind in school.&lt;/p&gt;
+&lt;p&gt;At the start of the pandemic the focus was rightly on the safety of older adults. Older adults were most vulnerable to the risks posed by COVID-19, which included mortality, social isolation and loneliness. Indeed, older adults were at higher risk, but an overlooked component has been how the mental health risks and long-haul effects will likely differ across age groups.&lt;/p&gt;
+&lt;p&gt;Yet, young adults and middle-aged adults are showing the most vulnerabilities in their well-being. Studies are documenting that they are currently reporting more psychological distress and stressors and poorer well-being, compared to older adults. COVID-19 has been exacerbating inequalities across race, gender and socioeconomic status. Women are more likely to leave the workforce, which could further strain their well-being.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Changing views and experiences of midlife&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The very nature and expectations surrounding midlife are shifting. U.S. middle-aged adults are confronting more parenting pressures than ever before, in the form of engagement in extracurricular activities and pressures for their children to succeed in school. Record numbers of young adults are moving back home with their middle-aged parents due to student loan debt and a historically challenging labor and housing market.&lt;/p&gt;
+&lt;p&gt;A direct effect of gains in life expectancy is that middle-aged adults are needing to take on more caregiving-related duties for their aging parents and other relatives, while continuing with full-time work and taking care of school-aged children. This is complicated by the fact that there is no federally mandated program for paid family leave that could cover instances of caregiving, or the birth or adoption of a child. A recent AARP report estimated that in 2020, there were 53 million caregivers whose unpaid labor was valued at US$470 billion.&lt;/p&gt;
+&lt;p&gt;The restructuring of corporate America has led to less investment in employee development and destabilization of unions. Employees now have less power and input than ever before. Although health care coverage has risen since the Affordable Care Act was enacted, notable gaps exist. High numbers of people are underinsured, which leads to more out-of-pocket expenses that eat up monthly budgets and financially strain households. President Biden’s executive order for providing a special enrollment period of the health care marketplace exchange until Aug. 15, 2021 promises to bring some relief to those in need.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Promoting a prosperous midlife&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Our cross-national approach provides ample opportunities to explore ways to reverse the U.S. disadvantage and promote resilience for middle-aged adults.&lt;/p&gt;
+&lt;p&gt;The nations we studied vastly differ in their family and work policies. Paid parental leave and subsidized child care help relieve the stress and financial strain of parenting in countries such as Germany, Denmark and Sweden. Research documents how well-being is higher in both parents and nonparents in nations with more generous family leave policies.&lt;/p&gt;
+&lt;p&gt;Countries with ample paid sick and vacation days ensure that employees can take time off to care for an ailing family member. Stronger safety nets protect laid-off employees by ensuring that they have the resources available to stay on their feet.&lt;/p&gt;
+&lt;p&gt;In the U.S., health insurance is typically tied to one’s employment. Early on in the COVID-19 pandemic over 5 million people in the U.S. lost their health insurance when they lost their jobs.&lt;/p&gt;
+&lt;p&gt;During the pandemic, the U.S. government passed policy measures to aid people and businesses. The U.S. approved measures to stimulate the economy through stimulus checks, payroll protection for small businesses, expansion of unemployment benefits and health care enrollment, child tax credits, and individuals’ ability to claim forbearance for various forms of debt and housing payments. Some of these measures have been beneficial, with recent findings showing that material hardship declined and well-being improved during periods when the stimulus checks were distributed.&lt;/p&gt;
+&lt;p&gt;I believe these programs are a good start, but they need to be expanded if there is any hope of reversing these troubling trends and promoting resilience in middle-aged Americans. A recent report from the Robert Wood Johnson Foundation concluded that paid family leave has a wide range of benefits, including, but not limited to, addressing health, racial and gender inequities; helping women stay in the workforce; and assisting businesses in recruiting skilled workers. Research from Germany and the United Kingdom shows how expansions in family leave policies have lasting effects on well-being, particularly for women.&lt;/p&gt;
+&lt;p&gt;Middle-aged adults form the backbone of society. They constitute large segments of the workforce while having to simultaneously bridge younger and older generations through caregiving-related duties. Ensuring their success, productivity, health and well-being through these various programs promises to have cascading effects on their families and society as a whole.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get the best of The Conversation, every weekend.&lt;/i&gt; Sign up for our weekly newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Frank J. Infurna receives funding from the National Institute on Aging and previously from the John Templeton Foundation. The content is solely his responsibility and does not necessarily represent the official views of the funding agencies.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Frank J. Infurna, Associate Professor of Psychology, Arizona State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jun 11, 2021</AlphaDate>
+         <StartDate>2021-06-11</StartDate>
+         <EndDate>2021-06-11</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jun112021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

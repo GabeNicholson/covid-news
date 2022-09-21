@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487142834</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Conservatives value personal stories more than liberals do when evaluating scientific evidence</Title>
+      </TitleAtt>
+      <NumericDate>2020-11-09</NumericDate>
+      <StartDate>2020-11-09</StartDate>
+      <EndDate>2020-11-09</EndDate>
+      <AlphaDate>Nov 9, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20201109_149132</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20201109_149132</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Nov92020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Stein, Randy</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Randy</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Randy Stein</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Stein</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Randy Stein</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Swan, Alexander</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Alexander</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Alexander Swan</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Swan</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Alexander Swan</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="3">
+            <Author>
+               <NormalizedDisplayForm>Sarraf, Michelle</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Michelle</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Michelle Sarraf</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Sarraf</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Michelle Sarraf</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/149132/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>California State Polytechnic University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Ideology</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>California</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="108">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The big idea Conservatives tend to see expert evidence and personal experience as more equally legitimate than liberals, who put a lot more weight on the scientific perspective, according to our new study published in the journal Political Psychology.
+
+Other studies of a scientific ideological divide have focused on politicized issues like climate change, where conservatives, who are more likely to oppose regulation, may believe they have something to lose if policies to curb climate change are implemented.
+
+Randy Stein, Assistant Professor of Marketing, California State Polytechnic University, Pomona Alexander Swan, Assistant Professor of Psychology, Eureka College Michelle Sarraf, Master's Student in Economics, California State Polytechnic University, Pomona&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="728" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;i&gt;The Research Brief is a short take about interesting academic work.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The big idea &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Conservatives tend to see expert evidence and personal experience as more equally legitimate than liberals, who put a lot more weight on the scientific perspective, according to our new study published in the journal Political Psychology.&lt;/p&gt;
+&lt;p&gt;Our findings add nuance to a common claim that conservatives want to hear "both sides" of arguments, even for settled science that's not really up for debate.&lt;/p&gt;
+&lt;p&gt;We asked 913 American adults to read an excerpt from an article debunking a common misconception, such as the existence of "lucky streaks" in games of chance. The article quoted a scientist explaining why people hold the misconception - for instance, people tend to see patterns in random data. The article also included a dissenting voice that drew from personal experience - such as someone claiming to have seen lucky streaks firsthand.&lt;/p&gt;
+&lt;p&gt;Our participants read one of two versions of the article. One version presented the dissenting voice as a quote from someone with relevant professional experience but no scientific expertise, such as a casino manager. In the other version, the dissenting opinion was a comment at the bottom from a random previous participant in our study who also disagreed with the scientist but had no clearly relevant expertise - analogous to a random poster in the comment section of an online article.&lt;/p&gt;
+&lt;p&gt;Though both liberals and conservatives tended to see the researcher as more legitimate overall, conservatives see less of a difference in legitimacy between the expert and the dissenter.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Why it matters &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Looking at both our studies together, while about three-quarters of liberals rated the researcher as more legitimate, just over half of conservatives did. Additionally, about two-thirds of those who favored the anecdotal voice were conservative. Our data also showed that conservatives' tendency to trust their intuitions accounted for the ideological split.&lt;/p&gt;
+&lt;p&gt;Other studies of a scientific ideological divide have focused on politicized issues like climate change, where conservatives, who are more likely to oppose regulation, may believe they have something to lose if policies to curb climate change are implemented. By using apolitical topics in our studies, we've shown that science denial isn't just a matter of self-interest.&lt;/p&gt;
+&lt;p&gt;In stripping away political interest, we have revealed something more basic about how conservatives and liberals differ in the ways they interact with evidence. Conservatives are more likely to see intuitive, direct experience as legitimate. Scientific evidence, then, may become just another viewpoint.&lt;/p&gt;
+&lt;p&gt;Though we conducted these studies in 2018 before the pandemic, they help explain some of the ideological reactions to it in the U.S.&lt;/p&gt;
+&lt;p&gt;Among conservatives especially, the idea that the pandemic itself is not a major threat can hold as long as there's personal evidence on offer that supports that view. President Donald Trump's recovery from COVID-19 and his assertion based on his own experience that the disease is not so bad would have bolstered this belief. Recommendations from researchers to wear masks can remain mere suggestions so long as the court of public opinion is still undecided.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What other research is being done &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Social scientists are already documenting ideological reactions to the pandemic that fit our findings. For example, many conservatives see the coronavirus as less of a threat and are more susceptible to misinformation. They also tend to see preventive efforts as less effective. Our studies suggest these views will continue to proliferate as long as anecdotal experience conflicts with scientific expertise.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What's next &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;An individual's understanding of scientific evidence depends on more than just his or her political ideology. Basic science literacy also plays a role.&lt;/p&gt;
+&lt;p&gt;The pandemic has forced people to confront how hard it is to understand the uncertainty inherent in many scientific estimates. Even liberals who are initially more sympathetic to science information might find their confidence in public health messages tested if these messages waver and evolve.&lt;/p&gt;
+&lt;p&gt;As such, we expect future research will focus on how health officials can most effectively communicate scientific uncertainty to the public.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;The authors do not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Randy Stein, Assistant Professor of Marketing, California State Polytechnic University, Pomona&lt;/p&gt;&lt;p&gt;Alexander Swan, Assistant Professor of Psychology, Eureka College&lt;/p&gt;&lt;p&gt;Michelle Sarraf, Master's Student in Economics, California State Polytechnic University, Pomona&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 9, 2020</AlphaDate>
+         <StartDate>2020-11-09</StartDate>
+         <EndDate>2020-11-09</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Nov92020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

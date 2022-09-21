@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2619347186</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Britain's Prince Andrew loses his military affiliations</Title>
+      </TitleAtt>
+      <NumericDate>2022-01-14</NumericDate>
+      <StartDate>2022-01-14</StartDate>
+      <EndDate>2022-01-14</EndDate>
+      <AlphaDate>Jan 14, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Jan 14, 2022</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.10</StartPage>
+         <DocSection>A-Section</DocSection>
+         <DocEdition>RegionalgionalE</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Jan142022______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20220114BritainsPrinceAndrewloseshismilitaryaffi2e766100</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1780</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Booth, William</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>William</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>William Booth</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Booth</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>William Booth</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Adam, Karla</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Karla</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Karla Adam</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Adam</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Karla Adam</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Legal defense</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Queens</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Armed forces</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United Kingdom--UK</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="689" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Royal faces U.S. lawsuit accusing him of having sex with trafficked teen&lt;/p&gt;
+&lt;p&gt;
+LONDON - Buckingham Palace announced Thursday that "with the Queen's approval and agreement," all of Prince Andrew's military affiliations and remaining royal patronages have been returned - a devastating blow for Elizabeth II's second son, who is facing a U.S. civil lawsuit that accuses him of having sex with a teenager trafficked by disgraced financier Jeffrey Epstein.&lt;/p&gt;
+&lt;p&gt;Andrew, who denies the lawsuit allegations, has been mostly out of the public eye for the past year, and many organizations distanced themselves from him after he defended his relationship with Epstein in a disastrous 2019 BBC interview. But he had retained his honorary military titles with multiple British regiments. And the Buckingham Palace website had listed dozens and dozens of schools, hospitals and clubs with which he was still associated - including the Army Officers' Golfing Society, the Fly Navy Heritage Trust, the Foundation for Liver Research and the elite Westminster Academy.&lt;/p&gt;
+&lt;p&gt;Thursday's decision means the former navy pilot and divorced father of two adult daughters is now facing his accuser alone, without the backing of the palace and without the shield of honors his lifelong protector - his mother and his queen - had bestowed upon him.&lt;/p&gt;
+&lt;p&gt;The two-sentence statement from the palace ended, "The Duke of York will continue not to undertake any public duties and is defending this case as a private citizen."&lt;/p&gt;
+&lt;p&gt;Where the money will come from for Andrew to defend himself - or settle out of court - is a hot topic in Britain.&lt;/p&gt;
+&lt;p&gt;He has been receiving a $27,000 annual pension from his navy service and a $342,000 annual allowance for his service as a senior working royal, according to figures widely reported by British media. Those funds may no longer be available.&lt;/p&gt;
+&lt;p&gt;Royal biographers have observed that the 61-year-old Andrew has often been seen as a favorite of his mother. But the 95-year-old queen has also been insistent during her long reign that duty, service, honor, and the preservation of the monarchy are supreme.&lt;/p&gt;
+&lt;p&gt;Andrew will stop using the honorific title "His Royal Highness," though he remains a duke and a prince. His many patronages will be distributed among other members of the House of Windsor.&lt;/p&gt;
+&lt;p&gt;The MailOnline's Thursday headline was: "Queen Casts Andrew Out."&lt;/p&gt;
+&lt;p&gt;Nick Goldstone, a legal commentator and head of dispute resolution at the law firm Ince in London, said the stripping of titles and honorifics means "it would appear that the royal family are trying to distance themselves from the fallout from the Virginia Giuffre case and the toxicity of the allegations made against the Duke of York."&lt;/p&gt;
+&lt;p&gt;A judge in New York ruled on Wednesday that the lawsuit brought against Andrew by Giuffre can go forward, for now.&lt;/p&gt;
+&lt;p&gt;Andrew's defense team had argued that a 2009 agreement Giuffre signed as she settled with Epstein for $500,000 shielded the prince and anyone else she might sue in connection to her claims against Epstein, who died by suicide in 2019 while awaiting trial for sex trafficking.&lt;/p&gt;
+&lt;p&gt;But U.S. District Court Judge Lewis Kaplan determined that the settlement does not unequivocally free the royal from liability.&lt;/p&gt;
+&lt;p&gt;The revoking of Andrew's military titles comes after 150 British veterans signed an open letter calling for the queen to strip her son of his military titles, adding that "if necessary, that he be dishonourably discharged."&lt;/p&gt;
+&lt;p&gt;In their letter, the veterans wrote, "We are particularly upset and angry that Prince Andrew remains a member of the armed forces and continues to hold military titles, positions and ranks, including that of Vice Admiral of the Royal Navy."&lt;/p&gt;
+&lt;p&gt;The veterans complained that the prince had brought disrepute on Britain's armed forces and had been "uncooperative and less than truthful" about his friendship with Epstein.&lt;/p&gt;
+&lt;p&gt;Andrew's precipitous fall follows other great family scandals, from the divorce and death of Princess Diana to the decision by Prince Harry and Meghan, Duchess of Sussex, to quit their roles as senior royals and move to southern California, along the way accusing their immediate family of casual racism.&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;
+william.booth@washpost.com
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;
+karla.adam@washpost.com
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Shayna Jacobs in New York contributed to this report.&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 14, 2022</AlphaDate>
+         <StartDate>2022-01-14</StartDate>
+         <EndDate>2022-01-14</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Jan142022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

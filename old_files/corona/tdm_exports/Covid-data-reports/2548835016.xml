@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2548835016</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Expanding opportunities for women and economic uncertainty are both factors in declining US fertility rates</Title>
+      </TitleAtt>
+      <NumericDate>2021-07-06</NumericDate>
+      <StartDate>2021-07-06</StartDate>
+      <EndDate>2021-07-06</EndDate>
+      <AlphaDate>Jul 6, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210706_162494</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210706_162494</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jul62021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Oberhauser, Ann M</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Ann</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Ann M Oberhauser</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Oberhauser</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>M</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Ann M. Oberhauser</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/162494/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Birth rate</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Higher education</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Womens health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Sex roles</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Age</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Trends</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Demographics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Health care</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employment</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Reproductive health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Families &amp; family life</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Population growth</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fertility</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Older people</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Baby boomers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Immigration</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>School closures</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Italy</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Iowa</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="79">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;According to the U.S. Census Bureau, the percentage of people age 65 and older has been growing, increasing by one-third since 2010.
+
+[...]living spaces and residential housing may also have to accommodate this growing elderly population with arrangements that include assisted living, retirement communities and ways for people to age in place.
+
+[...]health services such as insurance, medical care and employment will have to adjust to these demographic shifts as more resources are needed to support an older population.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1093" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The decline in population growth in the U.S. from 2010 to 2020 is part of a broader national trend linked to falling birth rates, but also immigration changes and other factors. In May of 2021 the scope of that change became clear, with a record low of 55.8 births per 1,000 women of childbearing age in 2020, a 4% drop from 2019. Other countries are facing similar slowdowns in population growth.&lt;/p&gt;
+&lt;p&gt;This shift has been underway in the U.S. for many years.&lt;/p&gt;
+&lt;p&gt;In the early 1900s, my grandfather grew up in a family with nine children in rural Iowa. They all worked hard to maintain the farm and support the family. Some of the children left the farm to attend college, start families and find work elsewhere. My father grew up in a city and worked as an adult to support his family as the sole income earner.&lt;/p&gt;
+&lt;p&gt;The next generation, the baby boomers, was raised during a period of economic expansion that accompanied an uptick in fertility – the average number of children born to a woman in her reproductive years. Post-boomer generations have had fewer children, contributing to a 50% decline in U.S. birth rates between 1950 and 2021, from 25 births per 1,000 people to 12.&lt;/p&gt;
+&lt;p&gt;Economic opportunities, social norms and changing gender roles – especially expanding education and employment options for many women – help to explain why fertility has slowed in the late 20th and early 21st centuries. That change has repercussions for trends in workforce numbers, employment, health care, housing and education.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Explaining the decline in fertility&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Each generation experiences unique circumstances that affect fertility. The overall trend in declining birth rates, however, is largely due to women’s changing roles, employment shifts and advances in reproductive health.&lt;/p&gt;
+&lt;p&gt;After World War II, the U.S. saw rapid change in gender roles with the expansion of women’s education and entry into the labor force. Starting with the baby boom period from 1946 to 1964, many middle- and upper-class women had increased opportunities to get an education beyond high school, which had typically been the end of women’s formal education.&lt;/p&gt;
+&lt;p&gt;In 1950, only 5.2% of women had completed four years of college or more. By 2020, this proportion rose to 38.3%.&lt;/p&gt;
+&lt;p&gt;In comparison, 7.3% of men completed at least four years of college in 1950 and 36.7% in 2020 – a smaller increase than for women.&lt;/p&gt;
+&lt;p&gt;Increases in college education and rising employment among women tend to delay motherhood. Women with higher educational levels, especially unmarried women, tend to put off childbearing until their early 30s.&lt;/p&gt;
+&lt;p&gt;In addition, medical advancements and federal regulators’ approval of the birth control pill in the 1960s expanded reproductive freedom for women.&lt;/p&gt;
+&lt;p&gt;This situation contributed to women’s becoming mothers later in their lives. For example, the median age for first-time mothers among women who were born in 1960 was 22.7 years, compared with 20.8 years for women born in 1935.&lt;/p&gt;
+&lt;p&gt;Moreover, the teen birth rate was a record low in 2019, with 16.7 births per 1,000 girls and women ages 15 to 19. Birth rates remain higher, however, among Latina and Black teens than teens who are white or Asian. In contrast, the share of women ages 40 to 44 years who have ever had children increased from 82% in 2008 to 85% in 2018. Foreign-born women tend to have higher birth rates than U.S.-born women.&lt;/p&gt;
+&lt;p&gt;Geographic location also reveals important differences in the U.S. birth rate. Women in New England have fewer children, partly because of higher levels of education. In contrast, women in the South and Great Plains have among the highest birth rates in the U.S.&lt;/p&gt;
+&lt;p&gt;Finally, economic uncertainty affects fertility trends. Economists estimate that a family will spend on average $233,610 per child before they are 18 years old. Financial upheaval during the Great Recession from 2007 to 2009 also contributed to declining birth rates, while the COVID-19 pandemic saw a 4% decline in fertility rates in 2020, the lowest since 1979.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;A look at the future&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fewer babies and young people and a growing older population will undoubtedly affect future generations.&lt;/p&gt;
+&lt;p&gt;Several developed countries in Europe have also experienced declining fertility rates, with widespread social and economic impacts. In Italy, for instance, rapid drops in fertility have led to closing hospitals and schools. In 2019, the average Italian family had 1.2 children, part of a declining trend since the 1960s, when it was more common for families to have four children. As a result, Italy’s percentage of seniors is second only to Japan, with growing concern for future labor supplies.&lt;/p&gt;
+&lt;p&gt;In the U.S., lower fertility rates translate to fewer working-age people and possible labor shortages in many sectors of the economy. According to the U.S. Census Bureau, the percentage of people age 65 and older has been growing, increasing by one-third since 2010.&lt;/p&gt;
+&lt;p&gt;Many economists and social scientists recommend a restructuring of work to support and retain the shrinking number of workers. These recommendations include more flexible work conditions, access to quality and affordable child care, immigration reform and job security. Several of these measures would provide much-needed support for parents and particularly women in the workforce.&lt;/p&gt;
+&lt;p&gt;Second, living spaces and residential housing may also have to accommodate this growing elderly population with arrangements that include assisted living, retirement communities and ways for people to age in place. These housing changes would help women in particular, who live longer than men.&lt;/p&gt;
+&lt;p&gt;Third, health services such as insurance, medical care and employment will have to adjust to these demographic shifts as more resources are needed to support an older population.&lt;/p&gt;
+&lt;p&gt;Finally, declining fertility rates are a growing concern for educators and policymakers. The so-called “demographic cliff” will inevitably lead to school closings and consolidation, and declining student recruitment and enrollment in the U.S. One projection is that there will be 10% fewer college students in 2054 than today.&lt;/p&gt;
+&lt;p&gt;The overall decline in fertility rates has far-reaching effects on society and future generations. In the early 1900s, college education and a career were not options for women like my great-grandmother. Advances in reproductive health and women’s expanding access to education and employment have produced a demographic shift with implications for work, housing, health care and education.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;The Conversation’s Politics + Society editors pick need-to-know stories.&lt;/i&gt; Sign up for Politics Weekly._]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Ann M. Oberhauser does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Ann M. Oberhauser, Professor of Sociology, Iowa State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 6, 2021</AlphaDate>
+         <StartDate>2021-07-06</StartDate>
+         <EndDate>2021-07-06</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jul62021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

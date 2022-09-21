@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2486059380</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>How to stay safe with a fast-spreading new coronavirus variant on the loose</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-17</NumericDate>
+      <StartDate>2021-01-17</StartDate>
+      <EndDate>2021-01-17</EndDate>
+      <AlphaDate>Jan 17, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVCO_20210117_153292</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVCO_20210117_153292</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977987_Jan172021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Dhaniyala, Suresh</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Suresh</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Suresh Dhaniyala</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Dhaniyala</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Suresh Dhaniyala</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Erath, Byron</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Byron</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Byron Erath</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Erath</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Byron Erath</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/153292/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>National Science Foundation</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>923110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Clarkson University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Social distancing</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Viruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Severe acute respiratory syndrome coronavirus 2</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Ventilation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Masks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Aerosols</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="119">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The concentration of aerosol particles is usually highest right next to the individual emitting the particles and decreases with distance from the source.
+
+While the current social distancing guidelines are not perfect - 6 feet isn't always enough - they do offer a useful starting point.
+
+Because aerosol concentrations levels and infectivity are highest in the space immediately surrounding anyone with the virus, increasing physical distancing can help reduce risk.
+
+Byron Erath receives funding from the National Institutes of Health, the National Science Foundation, and the Empire State Development's Division of Science, Technology and Innovation (NYSTAR) Suresh Dhaniyala, Bayard D. Clarkson Distinguished Professor of Mechanical and Aeronautical Engineering, Clarkson University Byron Erath, Associate Professor of Mechanical Engineering, Clarkson University&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="887" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;A fast-spreading variant of the coronavirus that causes COVID-19 has been found in at least 20 states, and people are wondering: How do I protect myself now?&lt;/p&gt;
+&lt;p&gt;We saw what the new variant, known as B.1.1.7, can do as it spread quickly through southeastern England in December, causing case numbers to spike and triggering stricter lockdown measures.&lt;/p&gt;
+&lt;p&gt;The new variant has been estimated to be 50% more easily transmitted than common variants, though it appears to affect people's health in the same way. The increased transmissibility is believed to arise from a change in the virus's spike protein that can allow the virus to more easily enter cells. These and other studies on the new variant were released before peer review to share their findings quickly.&lt;/p&gt;
+&lt;p&gt;Additionally, there is some evidence that patients infected with the new B.1.1.7 variant may have a higher viral load. That means they may expel more virus-containing particles when they breathe, talk or sneeze.&lt;/p&gt;
+&lt;p&gt;As professors who study fluid dynamicsand aerosols, we investigate how airborne particles carrying viruses spread. There is still a lot that scientists and doctors don't know about the coronavirus and its mutations, but there are some clear strategies people can use to protect themselves.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Airborne particles are still the biggest problem &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The SARS-CoV-2 variants are believed to spread primarily through the air rather than on surfaces.&lt;/p&gt;
+&lt;p&gt;When someone with the coronavirus in their respiratory tract coughs, talks, sings or even just breathes, infectious respiratory droplets can be expelled into the air. These droplets are tiny, predominantly in the range of 1-100 micrometers. For comparison, a human hair is about 70 micrometers in diameter.&lt;/p&gt;
+&lt;p&gt;The larger droplets fall to the ground quickly, rarely traveling farther than 6 feet from the source. The bigger problem for disease transmission is the tiniest droplets - those less than 10 micrometers in diameter - which can remain suspended in the air as aerosols for hours at a time.&lt;/p&gt;
+&lt;p&gt;With people possibly having more virus in their bodies and the virus being more infectious, everyone should take extra care and precautions. Wearing face masks and social distancing are essential.&lt;/p&gt;
+&lt;p&gt;Spaces and activities that were previously deemed "safe," such as some indoor work environments, may present an elevated infection risk as the variant spreads.&lt;/p&gt;
+&lt;p&gt;The concentration of aerosol particles is usually highest right next to the individual emitting the particles and decreases with distance from the source. However, in indoor environments, aerosol concentration levels can quickly build up, similar to how cigarette smoke accumulates within enclosed spaces. This is particularly problematic in spaces that have poor ventilation.&lt;/p&gt;
+&lt;p&gt;With the new variant, aerosol concentration levels that might not have previously posed a risk could now lead to infection.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What can you do to stay safe? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1) Pay attention to the type of face mask you use, and how it fits.&lt;/p&gt;
+&lt;p&gt;Most off-the-shelf face coverings are not 100% effective at preventing droplet emission. With the new variant spreading more easily and likely infectious at lower concentrations, it's important to select coverings with materials that are most effective at stopping droplet spread.&lt;/p&gt;
+&lt;p&gt;When available, N95 and surgical masks consistently perform the best. Otherwise, face coverings that use multiple layers of material are preferable. Ideally, the material should be a tight weave. High thread count cotton sheets are an example. Proper fit is also crucial, as gaps around the nose and mouth can decrease the effectiveness by 50%.&lt;/p&gt;
+&lt;p&gt;2) Follow social distancing guidelines.&lt;/p&gt;
+&lt;p&gt;While the current social distancing guidelines are not perfect - 6 feet isn't always enough - they do offer a useful starting point. Because aerosol concentrations levels and infectivity are highest in the space immediately surrounding anyone with the virus, increasing physical distancing can help reduce risk. Remember that people are infectious before they start showing symptoms, and they many never show symptoms, so don't count on seeing signs of illness.&lt;/p&gt;
+&lt;p&gt;3) Think carefully about the environment when entering an enclosed area, both the ventilation and how people interact.&lt;/p&gt;
+&lt;p&gt;Limiting the size of gatherings helps reduce the potential for exposure. Controlling indoor environments in other ways can also be a highly effective strategy for reducing risk. This includes increasing ventilation rates to bring in fresh air and filtering existing air to dilute aerosol concentrations.&lt;/p&gt;
+&lt;p&gt;On a personal level, it is helpful to pay attention to the types of interactions that are taking place. For example, many individuals shouting can create a higher risk than one individual speaking. In all cases, it's important to minimize the amount of time spent indoors with others.&lt;/p&gt;
+&lt;p&gt;The CDC has warned that B.1.1.7 could become the dominant SARS-CoV-2 variant in the U.S. by March. Other fast-spreading variants have also been found in Brazil and South Africa. Increased vigilance and complying with health guidelines should continue to be of highest priority.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;This story was updated Jan. 18 with latest CDC count and map showing B.1.1.7 cases now found in 20 states.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Suresh Dhaniyala receives funding from National Science Foundation and NY State Energy Research and Development Authority. &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Byron Erath receives funding from the National Institutes of Health, the National Science Foundation, and the Empire State Development's Division of Science, Technology and Innovation (NYSTAR)&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Suresh Dhaniyala, Bayard D. Clarkson Distinguished Professor of Mechanical and Aeronautical Engineering, Clarkson University&lt;/p&gt;&lt;p&gt;Byron Erath, Associate Professor of Mechanical Engineering, Clarkson University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : COVID-19</Title>
+         <MpubId>4977987</MpubId>
+         <SortTitle>Conversation : COVID-19 The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVCO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977987</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464268.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Health Facilities And Administration</Subject>
+            <Subject>Medical Sciences</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : COVID-19</Title>
+            <SortTitle>Conversation : COVID-19 The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977987</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464268.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 17, 2021</AlphaDate>
+         <StartDate>2021-01-17</StartDate>
+         <EndDate>2021-01-17</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977987_Jan172021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

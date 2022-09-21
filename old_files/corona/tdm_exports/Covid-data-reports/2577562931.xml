@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2577562931</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>SNAP benefits are rising for millions of Americans, thanks to a long-overdue 'Thrifty Food Plan' update</Title>
+      </TitleAtt>
+      <NumericDate>2021-09-29</NumericDate>
+      <StartDate>2021-09-29</StartDate>
+      <EndDate>2021-09-29</EndDate>
+      <AlphaDate>Sep 29, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVEB_20210929_167876</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVEB_20210929_167876</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977986_Sep292021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Roof, Tracy</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Tracy</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Tracy Roof</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Roof</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Tracy Roof</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/167876/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Department of Agriculture</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>926140</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Congress</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Diet</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Food prices</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Food stamps</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Nutrition research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Legislators</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Consumption</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="81">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Since March 2020, states, which administer this federally funded program, have been allowed to give every family eligible for SNAP the maximum amount of assistance for their household size as emergency help during the COVID-19 pandemic.
+
+Why didn’t benefits rise more in the past?
+
+[...]2021, the USDA had updated the Thrifty Food Plan in 1983, 1999 and 2006 only to accommodate changing nutritional guidance and food preferences.
+
+[...]Republican lawmakers, like the Trump White House, repeatedly sought to scale back SNAP benefits.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1146" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The U.S. Department of Agriculture adjusts Supplemental Nutritional Assistance Program benefits to reflect changes in food prices once a year. The government agency will take two other factors into account when it increases those benefits, which help people buy food, on Oct. 1, 2021.&lt;/p&gt;
+&lt;p&gt;One is an unprecedented update of the Thrifty Food Plan – an estimate of the minimum cost of groceries to meet a family’s needs. That revision is behind the largest-ever permanent increase in benefits and puts a healthier diet within reach for the 42 million Americans enrolled in SNAP, which replaced food stamps.&lt;/p&gt;
+&lt;p&gt;The other change, the expiration of a temporary 15% increase in SNAP benefits to offset some of the economic hardship caused by the coronavirus pandemic, will have the opposite effect.&lt;/p&gt;
+&lt;p&gt;Initially, most households enrolled in the program will see their benefits rise from US$12 to $16 per person per month, the USDA says.&lt;/p&gt;
+&lt;p&gt;In doing the research for an upcoming book on the history of the food stamps program, I have found that the government has often temporarily expanded nutritional assistance during tough economic times. Long-term increases in benefits, however, are unusual. And the origins of this change are quite surprising.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How high will SNAP benefits be?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The maximum SNAP benefit for a family of four with little or no income will rise to $835 per month. That’s 21% above pre-pandemic levels after inflation is taken into account.&lt;/p&gt;
+&lt;p&gt;Since March 2020, states, which administer this federally funded program, have been allowed to give every family eligible for SNAP the maximum amount of assistance for their household size as emergency help during the COVID-19 pandemic. Under normal circumstances, SNAP benefits are distributed on a sliding scale based on income levels.&lt;/p&gt;
+&lt;p&gt;Without the emergency help, a single person might get a benefit as low as $20 a month. With it, they get $250.&lt;/p&gt;
+&lt;p&gt;This policy has given many families who would otherwise qualify for lower SNAP benefits hundreds of extra dollars a month to buy food.&lt;/p&gt;
+&lt;p&gt;The Trump administration did not offer emergency help to the lowest-income SNAP participants already getting the maximum benefit, but the Biden administration reversed this policy starting April 1, 2021.&lt;/p&gt;
+&lt;p&gt;Once the federal government declares an end to the public health crisis, these extra benefits will end. States can opt out sooner, and some began to do that in the spring of 2021.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What’s the Thrifty Food Plan?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Thrifty Food Plan is a blueprint for a budget-conscious and nutritionally adequate diet for a family of four with two kids under 12.&lt;/p&gt;
+&lt;p&gt;The USDA relies on this standard when it sets monthly SNAP benefit amounts.&lt;/p&gt;
+&lt;p&gt;The agency created the Thrifty Food Plan in 1975. A replacement for a previous system developed in 1962, the plan included shopping lists of foods that were supposed to meet national dietary guidelines and food consumption patterns.&lt;/p&gt;
+&lt;p&gt;Many experts on food insecurity and advocates for a stronger safety net have said it didn’t cover the full cost of feeding a family from the start.&lt;/p&gt;
+&lt;p&gt;Over time, observers argued its assumptions regarding the time American families spend shopping for food and preparing meals as well as what they actually eat became more and more unrealistic.&lt;/p&gt;
+&lt;p&gt;For example, the old plan expected families to spend over two hours daily preparing food from scratch and counted on them eating over five pounds of beans a week.&lt;/p&gt;
+&lt;p&gt;The new plan allows people getting benefits to spend more on prepared foods, vegetables and grains, as well as dairy products and other sources of protein.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Why didn’t benefits rise more in the past?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Until 2021, the USDA had updated the Thrifty Food Plan in 1983, 1999 and 2006 only to accommodate changing nutritional guidance and food preferences.&lt;/p&gt;
+&lt;p&gt;But the USDA had never revised the Thrifty Food Plan in such a way that it would cost more, aside from inflation-related adjustments, to buy the recommended food. Therefore the government never increased the purchasing power of nutrition benefits.&lt;/p&gt;
+&lt;p&gt;The USDA acknowledged in 2006 that the Thrifty Food Plan fell short of what was needed for a nutritious diet. But it didn’t revise the Thrifty Food Plan to fix that problem because the agency concluded it wasn’t possible to do so without spending more on SNAP.&lt;/p&gt;
+&lt;p&gt;The 2018 farm bill required the USDA to update the Thrifty Food Plan by studying “current food prices, food composition data, consumption patterns and dietary guidance.”&lt;/p&gt;
+&lt;p&gt;It called for a review to take place by 2022 and every five years thereafter. The USDA completed the review in August 2021.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What difference will the increase make?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Anti-poverty advocates have long argued that SNAP benefits are too low.&lt;/p&gt;
+&lt;p&gt;Even in a strong economy, more than 1 in 5 SNAP recipients would use up their benefits by the middle of the month, and 1 in 3 depleted them by the end of the third week.&lt;/p&gt;
+&lt;p&gt;And 61% of SNAP recipients said the cost of healthy food prevented them from eating better, according to USDA research released in June 2021.&lt;/p&gt;
+&lt;p&gt;Researchers estimate that the maximum benefit will now cover the cost of modest meals in 79% of counties, compared with only 4% of counties under the old formula.&lt;/p&gt;
+&lt;p&gt;This update to national nutrition standards could pull 2.4 million SNAP recipients out of poverty, including more than 1 million children, the Center for Budget and Policy Priorities, a think tank, has estimated.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How did this happen?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In making this change, the Biden administration continued with a process the Republican-controlled Congress set in motion three years earlier.&lt;/p&gt;
+&lt;p&gt;Republicans held a majority of seats in both houses in 2018, when President Donald J. Trump signed the farm bill into law. But it does not look like Republican lawmakers meant to make this change. In fact, Republican lawmakers, like the Trump White House, repeatedly sought to scale back SNAP benefits.&lt;/p&gt;
+&lt;p&gt;Former Rep. K. Michael Conaway, a Republican who played a pivotal role when Congress passed the bill, has said the law was drafted under the assumption that the USDA would refrain from changes to the Thrifty Food Plan that would increase benefits.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 110,000 readers rely on The Conversation’s newsletter to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;Republican lawmakers are criticizing the SNAP benefit increases, calling them “a shameless executive branch exploitation of Congressional intent.” Two GOP members of Congress have asked a government watchdog agency to review the administration’s actions.&lt;/p&gt;
+&lt;p&gt;The USDA has insisted that data drove these changes and that complying with the farm bill’s requirements made them essential.&lt;/p&gt;
+&lt;p&gt;Without further action by Congress, future administrations will revisit the Thrifty Food Plan every five years and may again use it to adjust the amount of SNAP benefits.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Tracy Roof does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Tracy Roof, Associate Professor of Political Science, University of Richmond&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation :  Economy + Business</Title>
+         <MpubId>4977986</MpubId>
+         <SortTitle>Conversation :  Economy + Business The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVEB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977986</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464265.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation :  Economy + Business</Title>
+            <SortTitle>Conversation :  Economy + Business The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977986</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464265.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Sep 29, 2021</AlphaDate>
+         <StartDate>2021-09-29</StartDate>
+         <EndDate>2021-09-29</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977986_Sep292021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

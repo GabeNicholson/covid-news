@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487136829</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Daily DIY sniff checks could catch many cases of COVID-19</Title>
+      </TitleAtt>
+      <NumericDate>2020-12-09</NumericDate>
+      <StartDate>2020-12-09</StartDate>
+      <EndDate>2020-12-09</EndDate>
+      <AlphaDate>Dec 9, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20201209_150717</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20201209_150717</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Dec92020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Hayes, John E</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>John</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>John E Hayes</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Hayes</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>E</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>John E. Hayes</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Exten, Cara</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Cara</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Cara Exten</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Exten</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Cara Exten</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/150717/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Food &amp; Drug Administration--FDA</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>922190</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Viral infections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Severe acute respiratory syndrome coronavirus 2</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coffee</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Funding</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Smell</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Nose</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Graduate students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="145">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;For the past nine months, the two of us - a sensory scientist and an infectious disease epidemiologist - have applied our respective expertise to develop smell-based screening and testing programs as part of a response to the SARS-CoV-2 pandemic.
+
+[...]recent analyses suggest that if you had to pick just one symptom, sudden smell loss may be the single best predictor of a COVID-19 diagnosis.
+
+While such a tool is preferable for research, doing a daily smell test for public health reasons does not require a bespoke sniff card.
+
+[...]if you do lose your sense of smell, please self-isolate and contact a health professional. [_The Conversation's most important coronavirus headlines, weekly in a new science newsletter.] John E Hayes has received research funding from federal agencies (USDA, NIH), state agencies (PA Dept of Ag), and commodity groups (PA Wine Marketing Research Board, The Sugar Association).&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1154" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Smell loss - called anosmia - is a common symptom of COVID-19. For the past nine months, the two of us - a sensory scientist and an infectious disease epidemiologist - have applied our respective expertise to develop smell-based screening and testing programs as part of a response to the SARS-CoV-2 pandemic.&lt;/p&gt;
+&lt;p&gt;In early October, one of our graduate students shared the story of her mom and her daily coffee routine. It illustrates perfectly how smell checks could be used as a screening tool for COVID-19 infection. One afternoon, our graduate student's mom went to make her habitual cup of coffee only to discover she could not smell or taste it. She'd heard from her daughter about COVID-associated anosmia, so she next tried smelling some pine-scented cleaning spray and couldn't smell that either.&lt;/p&gt;
+&lt;p&gt;Given her sudden and unexplained anosmia, our student's mom quarantined herself and got a COVID-19 test, which came back positive. By taking her smell loss seriously, getting a rapid test and self-isolating, she created a dead end for the virus, breaking the transmission chain before the virus could spread to anyone else.&lt;/p&gt;
+&lt;p&gt;By some estimates, 44% to 77% of people with COVID-19 lose their sense of smell. But many are unaware they have lost their sense of smell until they actively try to smell something that should have an odor, like scented candles. This is why we are encouraging people to actively try to smell something each day. Sudden unexplained anosmia is a specific symptom of COVID-19. It can be used as a daily DIY screening tool by individuals, providing another tool in the fight to contain COVID-19.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; A smell stopper &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;COVID-19 affects your sense of smell in a different way than a common cold does. When your nose is stuffy, odorants - the lightweight odor active molecules found in the air - are physically unable to reach the smell receptors at the top of your nasal cavity.&lt;/p&gt;
+&lt;p&gt;With COVID-19, loss of smell is instead caused by a signaling disruption. Research has shown that the virus attacks cells behind the bridge of the nose immediately next to olfactory neurons. These supporting cells are covered with many of the ACE2 receptors that the virus exploits to enter cells, so they are especially vulnerable. This tissue becomes inflamed, temporarily disrupting the ability of the olfactory neurons to signal the presence of an odorant.&lt;/p&gt;
+&lt;p&gt;Unlike the common cold, many COVID-19 patients also lose their sense of taste as well as chemesthesis - the ability to sense the tingle of carbonation or burn of chili peppers.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; A very specific symptom &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Unexplained anosmia is normally quite rare with other viral infections, especially in the absence of congestion or nasal blockage. If someone loses their sense of smell that is a good sign of a possible COVID-19 infection. In fact, recent analyses suggest that if you had to pick just one symptom, sudden smell loss may be the single best predictor of a COVID-19 diagnosis.&lt;/p&gt;
+&lt;p&gt;Loss of smell is very specific to COVID-19, but not everyone with SARS-CoV-2 infection reports smell loss. Critically, being able to smell things does not mean you are COVID-free. If you were able to smell your coffee this morning, that is an ambiguous result: It might mean you don't have COVID-19, but it could also mean that you are infected with SARS-CoV-2 and simply didn't lose your normal sense of smell.&lt;/p&gt;
+&lt;p&gt;While fever checks have been widely deployed, they are &lt;i&gt;not&lt;/i&gt; specific to COVID-19 - many other illnesses, like the flu or strep throat, also cause fevers. Using loss of smell as a COVID-19 test is far from perfect. But because a daily smell check is very specific, instantaneous and quite literally free, it is a highly useful screening tool.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Do it yourself, daily &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The story of our graduate student's mom illustrates how active smell checks can catch COVID-19 cases in people with no other symptoms. At Penn State, where we work, we are putting this into action.&lt;/p&gt;
+&lt;p&gt;This fall, the school launched our "Stop. Smell. Be well." project to raise awareness of the connection between sudden smell loss and COVID-19. We even developed different "sniff cards" with a peel-and-smell panel so people could check their sense of smell with a standardized tool.&lt;/p&gt;
+&lt;p&gt;While such a tool is preferable for research, doing a daily smell test for public health reasons does not require a bespoke sniff card. The test could be simply sniffing your morning cup of coffee or the shampoo you use in the shower.&lt;/p&gt;
+&lt;p&gt;Smell checks cannot and will not catch every undiagnosed infection, since an estimated quarter to half of COVID-19 patients do not lose their sense of smell. But given that DIY smell tests can be done at zero cost, the downsides of using them for screening are minimal.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Screening stops spread &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Screening is one of the most basic tools of public health. The most critical factors for an effective COVID-19 screening tool are frequency and speed, with test sensitivity being secondary.&lt;/p&gt;
+&lt;p&gt;It is easy to check your sense of smell - who doesn't have a bag of coffee or tea in their kitchen or a bar of soap in the bathroom? And it is fast - you know immediately if your milk went sour. Combine this with the high specificity of anosmia relative to other symptoms, and we believe daily at-home smell checks can help fill the need for a rapid, cheap and specific screening tool. Tracking sudden smell loss can even be used for population-level monitoring of COVID-19 cases within a country or region.&lt;/p&gt;
+&lt;p&gt;Of course, no screening program will catch 100% of cases. It is critical for individuals to continue practicing other harm reduction behaviors. Still, we encourage you to Stop. Smell. Be well. And if you do lose your sense of smell, please self-isolate and contact a health professional.&lt;/p&gt;
+&lt;p&gt;[_The Conversation's most important coronavirus headlines, weekly in a new science newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;John E Hayes has received research funding from federal agencies (USDA, NIH), state agencies (PA Dept of Ag), and commodity groups (PA Wine Marketing Research Board, The Sugar Association). He has accepted travel expenses and speaking fees from non-profit organizations (ILSI North America), food companies (Kerry Group, Hershey Company), and the federal government (FDA). He has consulted for the federal government (FDA) and food companies (Heineken, General Mills, PepsiCo) on flavor perception. He serves as a Section Editor for the journal Physiology &amp;amp; Behavior. His laboratory, the Sensory Evaluation Center at Penn State, also conducts routine taste tests for industrial clients to provide experiential learning for graduate and undergraduate students. External proposals for funding of COVID-19 related research are currently pending.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Cara Exten receives funding from federal (NIH) and state (PA Department of Health) agencies. She is on the Board of Directors for the AIDS Resource Alliance. External proposals for funding of COVID-19 related research are currently pending.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;John E. Hayes, Professor of Food Science, Penn State&lt;/p&gt;&lt;p&gt;Cara Exten, Assistant Professor of Epidemiology, Penn State&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 9, 2020</AlphaDate>
+         <StartDate>2020-12-09</StartDate>
+         <EndDate>2020-12-09</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Dec92020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

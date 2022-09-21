@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487141561</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Amid partisan fight over Postal Service's future, its past reveals a common bond that helped stamp an identity on America</Title>
+      </TitleAtt>
+      <NumericDate>2020-08-17</NumericDate>
+      <StartDate>2020-08-17</StartDate>
+      <EndDate>2020-08-17</EndDate>
+      <AlphaDate>Aug 17, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20200817_144644</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20200817_144644</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Aug172020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Werbel, Amy</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Amy</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Amy Werbel</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Werbel</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Amy Werbel</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/144644/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>United States Postal Service</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>491110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Congress</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political appointments</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Postal &amp; delivery services</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Post offices</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>England</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Virginia</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="74">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The impetus for this emergency session is a foundational element of American life: the United States Postal Service.
+
+Reports suggest that Trump appointees are trying to sabotage the service to limit its capacity to process mail-in ballots before the coming November election.
+
+Research for my recent book on the postal inspector Anthony Comstock introduced me to the prominent role the Postal Service played in enabling Americans to conceive of themselves as a singular nation.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="941" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;House representatives are set to be recalled to Washington, D.C., amid an ongoing pandemic and fiercely-contested election season. The impetus for this emergency session is a foundational element of American life: the United States Postal Service.&lt;/p&gt;
+&lt;p&gt;Reports suggest that Trump appointees are trying to sabotage the service to limit its capacity to process mail-in ballots before the coming November election. This has led to an outcry on behalf of the nation's most popular government agency.&lt;/p&gt;
+&lt;p&gt;Veterans who receive prescription drugs at home, rural residents with limited local services and citizens afraid to vote in-person during a public health crisis all understand the enduring value of the USPS. Equally important, the Postal Service delivers a common bond that has helped shape American society for more than 250 years.&lt;/p&gt;
+&lt;p&gt;Research for my recent book on the postal inspector Anthony Comstock introduced me to the prominent role the Postal Service played in enabling Americans to conceive of themselves as a singular nation.&lt;/p&gt;
+&lt;p&gt;Sending a letter from Virginia to New England in 1640 was no easy task. Settlers in Southern Colonies mostly relied on the open seas to deliver their mail, and more than three times as many vessels followed trading routes to Europe than to the Northern Colonies.&lt;/p&gt;
+&lt;p&gt;In the fall months, when crops sailed from Charleston and Virginia to New Amsterdam and Boston, letters traveled in a ship captain's mailbag. Chance determined whether these letters reached their destination.&lt;/p&gt;
+&lt;p&gt;Beyond these insecure routes, settlers in early North American Colonies enjoyed precious little ability to communicate among themselves, which did not bode well for our nation's future.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Mail delivery takes off &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The ability to send overland letters evolved significantly by the end of the 18th century thanks to the expansion of "post roads," especially between Boston and New York. But mail delivery remained infrequent and unreliable.&lt;/p&gt;
+&lt;p&gt;It was not until Benjamin Franklin was appointed deputy postmaster for the Colonies, in 1753, that mail delivery modernization truly took off. During his tenure, Franklin instituted numerous innovations unique to America.&lt;/p&gt;
+&lt;p&gt;Until 1753 postmasters were not paid. Printers, nonetheless, had jockeyed for these positions to expand the circulation of their own publications and deny mail service to competitors. But in 1754 Franklin established a subscription model that assured pay to printers and post riders. And in 1758 he insisted that all news sheets be delivered because they "are on many Occasions useful to Government, and advantageous to Commerce, and to the Publick."&lt;/p&gt;
+&lt;p&gt;In doing so, Franklin contributed to an early American culture of free speech, which recognized the benefits of competing ideas and shared knowledge.&lt;/p&gt;
+&lt;p&gt;Together with postmaster William Hunter of Virginia, Franklin also instituted changes that vastly extended the flow of information among the Colonies. These included improved accounting methods and home delivery for the price of a penny.&lt;/p&gt;
+&lt;p&gt;In 1763, the two men rode 1,600 miles on horseback from Virginia through New England to improve the service. They laid the groundwork for improvements in routes and timetables that led to an explosion of low-cost communications throughout the Northern Colonies.&lt;/p&gt;
+&lt;p&gt;In the years leading up to the American Revolution, newspapers and pamphlets flooded the Colonies, facilitating a shared outrage over British tyranny and condescension, and solidarity among the citizens of the fledgling nation.&lt;/p&gt;
+&lt;p&gt;The Continental Congress appointed Franklin as the nation's first postmaster general in May 1775. Franklin, in turn, oversaw the rapid transition of the Colonial network he had helped create into the first post office of the United States.&lt;/p&gt;
+&lt;p&gt;After the Revolutionary War, George Washington declared that a democratic republic required an unprecedented diffusion of "knowledge of the laws and proceedings of Government." He convinced Congress to support a sweeping expansion of postal routes that circulated mail and news with greater scope and reliability.&lt;/p&gt;
+&lt;p&gt;By 1800, nearly 21,000 miles of postal routes connected Americans living in disparate climates and economies - from Sandy Point, Maine to Natchez, Mississippi. Just a generation later, French statesman Alexis de Tocqueville marveled at the reach of the post service, writing that there was "no French province in which the inhabitants knew each other as well as did the thirteen million men spread over the extent of the United States."&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; United in ‘fellow feeling' &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Today there are few elements of American life that unite us. We have no national health service, which during the COVID-19 pandemic united the United Kingdom in "fellow feeling," as Queen Elizabeth II described recently.&lt;/p&gt;
+&lt;p&gt;What America does have is the USPS, a constitutionally acknowledged resource that still connects us all. Today it operates 31,322 post offices, as far-flung as Pago Pago in American Samoa and Hinsdale, New Hampshire, the nation's oldest continuously operating post office. With mail circulation down by a third since the COVID-19 outbreak and continued attacks on the service by Republicans eager to privatize, the U.S. Postal Service faces grave danger.&lt;/p&gt;
+&lt;p&gt;Unlike its private sector competitors, the USPS does not depend on profitability and keeps its promise to reach all Americans, no matter the cost. Half a million postal workers continue to make this equitable service possible, providing binding threads that draw us together in our American version of "fellow feeling."&lt;/p&gt;
+&lt;p&gt;When congressional leaders meet to consider proposals to protect the USPS, they should weigh the value of this cherished and historic service in uniting our country.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;This is an updated version of a previous article that was published by The Conversation on June 2, 2020.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Amy Werbel does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Amy Werbel, Professor of the History of Art, Fashion Institute of Technology (FIT)&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 17, 2020</AlphaDate>
+         <StartDate>2020-08-17</StartDate>
+         <EndDate>2020-08-17</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Aug172020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

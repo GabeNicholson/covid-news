@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2550877172</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Delta variant makes it even more important to get a COVID-19 vaccine, even if you've already had the coronavirus</Title>
+      </TitleAtt>
+      <NumericDate>2021-07-13</NumericDate>
+      <StartDate>2021-07-13</StartDate>
+      <EndDate>2021-07-13</EndDate>
+      <AlphaDate>Jul 13, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210713_164203</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210713_164203</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jul132021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Grier, Jennifer T</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jennifer</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jennifer T Grier</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Grier</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>T</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jennifer T. Grier</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/164203/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Pfizer Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>325412</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>339113</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Lymphocytes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Viruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Antibodies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Severe acute respiratory syndrome coronavirus 2</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="72">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Vaccine immunity and natural immunity for SARS–CoV–2 can differ in terms of the strength of the immune response or the length of time that the protection lasts.
+
+After a SARS-CoV-2 infection, a person’s antibody and T cell responses can provide protection against reinfection.
+
+Vaccination leads to reliable protection COVID-19 vaccines generate both antibody and T cell responses – and these responses are much stronger and more consistent than immunity after natural infection.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="935" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;As someone who studies immune responses to respiratory infections, I’ve watched news of the emerging coronavirus variants with concern. I wondered whether vaccination or previous infection would provide protection against SARS-CoV-2 strains, especially the new, highly transmissible delta variant, which has rapidly spread to at least 70 countries.&lt;/p&gt;
+&lt;p&gt;A person can develop immunity – the ability to resist infection – in two ways: either after being infected with a virus or by getting vaccinated. However, immune protection isn’t always equal. Vaccine immunity and natural immunity for SARS–CoV–2 can differ in terms of the strength of the immune response or the length of time that the protection lasts. Additionally, not everyone will get the same level of immunity from infection, while immune responses to the vaccines are very consistent.&lt;/p&gt;
+&lt;p&gt;The difference in immune response between vaccination and infection seems to be even greater when dealing with new variants. In early July, two new studies were published that show COVID-19 vaccines, though slightly less effective than they are against the older strains of the virus, still seem to provide excellent immune response against the new variants. Researchers looked at how antibodies bind to new variants of the coronavirus and found that people who were previously infected with coronavirus might be susceptible to the new strains, while people who were vaccinated were more likely to be protected.&lt;/p&gt;
+&lt;p&gt;COVID-19 vaccines offer a safe and reliable path to immunity against both the older strains of coronavirus and against emerging strains, especially the new delta variant.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Immunity after infection is unpredictable&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Immunity comes from the immune system’s ability to remember an infection. Using this immune memory, the body will know how to fight off an infection if it encounters the pathogen again. Antibodies are proteins that can bind to a virus and prevent infection. T cells direct the removal of infected cells and viruses already bound by antibodies. These two are some of the main players that contribute to immunity.&lt;/p&gt;
+&lt;p&gt;After a SARS-CoV-2 infection, a person’s antibody and T cell responses can provide protection against reinfection. Roughly 84% to 91% of people who developed antibodies against the original strains of coronavirus were unlikely to be infected again for six months, even after a mild infection. People who had no symptoms during the infection are also likely to develop immunity, though they tend to make fewer antibodies than those who felt ill. So for some people, natural immunity may be strong and long-lasting.&lt;/p&gt;
+&lt;p&gt;One big problem is that not everyone will develop immunity after a SARS-CoV-2 infection. As many as 9% of infected people do not have detectable antibodies, and up to 7% don’t have T cells that recognize the virus 30 days after infection.&lt;/p&gt;
+&lt;p&gt;For people who do develop immunity, the strength and duration of the protection can vary a lot. Up to 5% of people may lose their immune protection within a few months. Without a strong immune defense, these people are susceptible to reinfection by the coronavirus. Some have had second bouts of COVID-19 as soon as one month after their first infection; and, though it occurs rarely, some people have been hospitalized or have even died after reinfection.&lt;/p&gt;
+&lt;p&gt;A growing problem is that people who were previously infected by strains present earlier in the pandemic may be more susceptible to reinfection from the delta variant. One recent study found that 12 months after infection, 88% of people still had antibodies that could block infection of cultured cells with by the original coronavirus variant – but fewer than 50% had antibodies that could block the delta variant.&lt;/p&gt;
+&lt;p&gt;To top this all off, a person who is infected may also be able to transmit the coronavirus, even without feeling sick. The new variants are especially problematic in this case, as they are more easily transmitted than the original strains.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Vaccination leads to reliable protection&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;COVID-19 vaccines generate both antibody and T cell responses – and these responses are much stronger and more consistent than immunity after natural infection. One study found that six months after receiving their first dose of the Moderna vaccine, 100% of people tested had antibodies against SARS-CoV-2. This is the longest period that has been reported in published studies so far. In a study looking at the Pfizer and Moderna vaccines, antibody levels were also much higher in vaccinated people than in those who had recovered from infection.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;The Conversation’s most important coronavirus headlines, weekly in a science newsletter&lt;/i&gt;]&lt;/p&gt;
+&lt;p&gt;Even better, a study in Israel showed that the Pfizer vaccine blocked 90% of infections after both doses – even with new variants present in the population. And a decrease in infections means people are less likely to transmit the virus to the people around them.&lt;/p&gt;
+&lt;p&gt;For those who have already been infected with the coronavirus, there is still a big benefit to getting vaccinated. A study with the original COVID-19 virus showed that vaccination after infection produces roughly 100 times more antibodies than infection alone, and 100% of people who were vaccinated after infection had protective antibodies against the delta variant.&lt;/p&gt;
+&lt;p&gt;The COVID-19 vaccines aren’t perfect, but they produce strong antibody and T cell responses that offer a safer and more reliable means of protection than natural immunity – especially with new variants on the loose.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;This is an updated version of an article originally published on May 25, 2021.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Jennifer T. Grier does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Jennifer T. Grier, Clinical Assistant Professor of Immunology, University of South Carolina&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 13, 2021</AlphaDate>
+         <StartDate>2021-07-13</StartDate>
+         <EndDate>2021-07-13</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jul132021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

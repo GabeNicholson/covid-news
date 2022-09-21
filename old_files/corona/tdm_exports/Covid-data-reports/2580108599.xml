@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2580108599</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>WHO approved a malaria vaccine for children – a global health expert explains why that is a big deal</Title>
+      </TitleAtt>
+      <NumericDate>2021-10-08</NumericDate>
+      <StartDate>2021-10-08</StartDate>
+      <EndDate>2021-10-08</EndDate>
+      <AlphaDate>Oct 8, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20211008_169501</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20211008_169501</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Oct82021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Laufer, Miriam K</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Miriam</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Miriam K Laufer</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Laufer</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>K</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Miriam K. Laufer</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/169501/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Clinical trials</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Malaria</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mosquitoes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Parasites</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Regulatory approval</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Africa</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Malawi</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Ghana</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Kenya</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="80">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The World Health Organization recommended its first malaria vaccine for children on Oct. 6, 2021 – a breakthrough hailed by the U.N. agency as a “historic moment.”
+
+With no real market for a malaria vaccine in resource-rich countries like the U.S., pharmaceutical companies did not have a strong financial incentive to accelerate vaccine development.
+
+Miriam K. Laufer, Professor of Pediatrics, Medicine, Epidemiology and Public Health at the Center for Vaccine Development and Global Health, University of Maryland School of Medicine&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="816" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;i&gt;The World Health Organization recommended its first malaria vaccine for children on Oct. 6, 2021 – a breakthrough hailed by the U.N. agency as a “historic moment.”&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Approval of the RTS,S/AS01 vaccine, which goes by the name Mosquirix, provides a “glimmer of hope” for Africa, according to Dr. Matshidiso Moeti, WHO regional director for Africa. It will now be rolled out to protect children against one of the world’s oldest and most deadly diseases.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Malaria and global child health expert Dr. Miriam K. Laufer answered The Conversation’s questions about the vaccine and the WHO announcement.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What has the WHO announced?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The WHO has recommended the use of the RTS,S malaria vaccine, which is produced by GlaxoSmithKline. It is the first malaria vaccine to be recommended by the global health body.&lt;/p&gt;
+&lt;p&gt;It follows a review of two years of piloting studies of the vaccine in three sub-Saharan African countries with a high burden of malaria: Malawi, Kenya and Ghana.&lt;/p&gt;
+&lt;p&gt;After careful evaluation and extensive discussion, the WHO came to the consensus that the vaccine should be recommended for use in children living in areas of moderate to high malaria burden.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Why is this seen as a major development?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Malaria kills hundred of thousands of children, mostly in sub-Saharan Africa, every year. This is the first time that researchers, vaccine manufacturers, policymakers and advocates have successfully delivered a vaccine that has made it through clinical trials and received not only regulatory approval but also a recommendation from the WHO.&lt;/p&gt;
+&lt;p&gt;This vaccine prevents about 30% of severe malaria cases that are more likely to lead to death.&lt;/p&gt;
+&lt;p&gt;Although researchers knew that RTS,S was effective in well-controlled clinical trials, a few questions remained about whether it was feasible for sub-Saharan African countries to safely roll out the four-dose vaccine in a real-world setting. But since 2019, the malaria vaccine implementation program in Malawi, Kenya and Ghana has shown excellent vaccine uptake and a good safety profile. To date, the vaccine has been administered to around 800,000 children in those three countries.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How big a killer is malaria?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Malaria, a parasitic disease transmitted by bites from infected mosquitoes, causes nearly half a million deaths per year, mostly in children in sub-Saharan Africa.&lt;/p&gt;
+&lt;p&gt;It is a disease that preys on the poorest of the poor. It causes the most disease and death in places where people lack access to basic health care, where housing conditions allow mosquitoes to enter and where inadequate water management provides breeding ground for mosquitoes. Despite international efforts to control it, the burden of malaria has continued and even increased over the past several years.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How effective will the vaccine be compared to other treatments?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We learned through the report of the trials to the WHO that the vaccine will be able to reach all children in areas of moderate to high risk of malaria. This will save lives from the deadly infection, especially among children with limited access to health services.&lt;/p&gt;
+&lt;p&gt;Prevention is almost always more cost-effective than treating disease, especially with an infection as common as malaria. Drugs are sometimes used to prevent malaria, but they have to be given frequently, which is both expensive and inconvenient.&lt;/p&gt;
+&lt;p&gt;In addition, the more often a drug is used, the more likely the malaria parasites will develop resistance to the drug.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Why did it take so long to develop a vaccine?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Lack of political will to develop a malaria vaccine certainly played a role in why it took so long. With no real market for a malaria vaccine in resource-rich countries like the U.S., pharmaceutical companies did not have a strong financial incentive to accelerate vaccine development.&lt;/p&gt;
+&lt;p&gt;But the malaria parasite is also very complex, and the targets of the immune system are diverse, so developing an effective vaccine wasn’t easy.&lt;/p&gt;
+&lt;p&gt;A vaccine developed against one malaria strain grown in the laboratory generally does not work against many of the malaria parasites that children encounter when bitten by infected mosquitoes, which is why even though RTS,S is a good vaccine, it protects against only 30% of infections.&lt;/p&gt;
+&lt;p&gt;If you think about this in terms of the COVID-19 vaccine, researchers developed a vaccine against the strain of the disease that was circulating in early 2020. But now we see that the vaccine does not protect people quite as well against the new delta variant. Someday a variant may emerge that completely escapes the vaccine immune response.&lt;/p&gt;
+&lt;p&gt;For malaria, there are many variants of many different proteins, so finding a vaccine that covers all of these was a huge challenge.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Like what you’ve read? Want more?&lt;/i&gt; Sign up for The Conversation’s daily newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Dr Miriam K. Laufer is affiliated with the WHO Malaria Vaccine Advisory Committee. This group was not involved in the recent RTS,S recommendation.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Miriam K. Laufer, Professor of Pediatrics, Medicine, Epidemiology and Public Health at the Center for Vaccine Development and Global Health, University of Maryland School of Medicine&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 8, 2021</AlphaDate>
+         <StartDate>2021-10-08</StartDate>
+         <EndDate>2021-10-08</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Oct82021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

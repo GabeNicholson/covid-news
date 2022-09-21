@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2514831181</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Brazil’s economic crisis, prolonged by COVID-19, poses an enormous challenge to the Amazon</Title>
+      </TitleAtt>
+      <NumericDate>2021-04-19</NumericDate>
+      <StartDate>2021-04-19</StartDate>
+      <EndDate>2021-04-19</EndDate>
+      <AlphaDate>Apr 19, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVEB_20210419_157556</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVEB_20210419_157556</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977986_Apr192021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Richards, Peter</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Peter</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Peter Richards</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Richards</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Peter Richards</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/157556/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Agency for International Development</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>928120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Farmers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Currency</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Geography</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Economic crisis</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Gross Domestic Product--GDP</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Soybeans</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Economic growth</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Environmental policy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>20th century</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Commodity prices</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Deforestation</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Brazil</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="121">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Brazilian President Jair Bolsonaro confirmed his country’s participation in a virtual climate summit convened by the U.S. for April 22 and 23, vowing in a recent letter to U.S. President Joe Biden to end illegal deforestation in Brazil by 2030 – a striking about-face from a longtime adversary to the country’s environmental policies.
+
+[...]after nearly a decade of researching and writing about Amazon forest loss, I’ve become convinced that Brazil’s successes in reducing deforestation a decade earlier likely had just as much to do with basic economics as environmental policy.
+
+Many of these investments – the massive land distribution programs of the 1980s, road projects and the enormous public subsidies for farming and ranching – were closely associated with forest loss.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1049" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Brazilian President Jair Bolsonaro confirmed his country’s participation in a virtual climate summit convened by the U.S. for April 22 and 23, vowing in a recent letter to U.S. President Joe Biden to end illegal deforestation in Brazil by 2030 – a striking about-face from a longtime adversary to the country’s environmental policies.&lt;/p&gt;
+&lt;p&gt;But Bolsonaro warned that Brazil will need “massive resources”, including considerable financial help, to protect the Amazon. Brazil is currently in the midst of a deadly wave of the COVID-19 pandemic, and its economy shrunk by a record 5.8% last year. The Biden administration, meanwhile, is considering paying Brazil to protect its environment.&lt;/p&gt;
+&lt;p&gt;But not so long ago, both Brazil’s economy and its Amazon were prospering.&lt;/p&gt;
+&lt;p&gt;In 2014, Brazil was closing out nearly a decade of continuous economic growth. Per capita GDP – the total value of the economy divided among the population – had grown by 400% in just 10 years and economic inequality was falling to record lows in a country that long had the world’s largest gap between rich and poor. Between 2004 and 2014, some 35 million Brazilians joined the ranks of the middle class.&lt;/p&gt;
+&lt;p&gt;As Brazil’s economy thrived, deforestation in the Amazon slowed. Deforestation levels in 2012 were one-sixth of what they were in 2004. Back then, falling deforestation rates were hailed as a testament to the country’s prowess in environmental policymaking.&lt;/p&gt;
+&lt;p&gt;But after nearly a decade of researching and writing about Amazon forest loss, I’ve become convinced that Brazil’s successes in reducing deforestation a decade earlier likely had just as much to do with basic economics as environmental policy.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Rise and fall of deforestation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Forest loss in the Amazon has long reflected Brazil’s economic health.&lt;/p&gt;
+&lt;p&gt;For much of the late 20th century, when Brazil’s economy boomed, the federal government redirected public investment to the Amazon. Many of these investments – the massive land distribution programs of the 1980s, road projects and the enormous public subsidies for farming and ranching – were closely associated with forest loss.&lt;/p&gt;
+&lt;p&gt;So, in the 20th century, when Brazil’s economy boomed, deforestation often followed.&lt;/p&gt;
+&lt;p&gt;Today, however, forest loss in Brazil’s Amazon tends to be more closely associated with international demand for commodities like soybeans, beef and gold than with government investments. And for farmers, prices for these commodities don’t just rise and fall with global demand. They also rise and fall inversely to Brazil’s economic health.&lt;/p&gt;
+&lt;p&gt;The underlying economic reasons for this connection are complicated. But in short, it has to do with how the value of Brazil’s currency, the real, affects farmers who grow animals or crops for export.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Of currencies and commodities&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;That’s because, historically, when Brazil’s economy struggles, its currency loses value against the U.S. dollar – the currency of international markets.&lt;/p&gt;
+&lt;p&gt;About 20% of Brazil’s beef and more than 80% of its soybeans are exported. For Brazilian farmers and ranchers who contribute to these export markets – including many who live or operate in the Amazon region – a struggling domestic economy and weak currency is actually a plus. It means that when foreign buyers purchase Brazilian exports in dollars, Brazilian farmers are being paid more in their local currency.&lt;/p&gt;
+&lt;p&gt;This gives them more money – money that can potentially be used for purchasing and clearing forested land. A lucrative export market is also a compelling reason to start purchasing and clearing new land.&lt;/p&gt;
+&lt;p&gt;Conversely, when the economy is strong, so is the Brazilian real. For Amazonian farmers in Brazil, that means less money earned, less to invest in clearing forests and less incentive to clear new land.&lt;/p&gt;
+&lt;p&gt;A decade ago, when Brazil’s economy was working well and the real was particularly strong, economic growth, nationally, was putting a brake on deforestation by suppressing farmers’ and ranchers’ profits.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Economic crises are environmental crises&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The economic brakes that once guarded against Amazon deforestation have come off.&lt;/p&gt;
+&lt;p&gt;In 2015 Brazil entered a severe recession. Now in its sixth consecutive year of slow or even negative economic growth, the Brazilian economy remains beset by lower global commodity prices and a rising deficit. Poverty is rising. Per capita GDP today is now about US$1,000 less per person than it was a decade ago.&lt;/p&gt;
+&lt;p&gt;Meanwhile, Brazil is one of the countries worst hit by COVID-19, with 4,000 people dying on its worst days. The pandemic is prolonged and exacerbating the country’s economic crisis.&lt;/p&gt;
+&lt;p&gt;Today, valued at about 18 U.S. cents, the real sits at a record low. The last time the real was this low was in 2003 – another year, not coincidentally, that deforestation in the Amazon surged.&lt;/p&gt;
+&lt;p&gt;The weak Brazilian currency has pushed prices for soybeans, beef and gold to heights which, 10 years ago, would have astounded. Soybean prices are five times higher than they were 15 years ago. Beef and gold prices are more than triple. For the farmers, ranchers and prospectors who work in the Amazon or at its periphery, these are very profitable times.&lt;/p&gt;
+&lt;p&gt;Last year, deforestation in the Amazon reached its highest level in over a decade. Unless something changes, I expect more land-clearing forest fires this July and August, when the Amazon’s dry season reaches its apex.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;To end deforestation, fix Brazil’s economy&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In today’s globalized economic system, the fates of Brazil’s economy and the Amazon forest are linked.&lt;/p&gt;
+&lt;p&gt;Brazil’s current economic crisis rewards the Amazon’s ranchers, gold prospectors and farmers with higher profits, creating serious financial incentives to clear more land. By some estimates, such fires in Brazil account for 70% of the country’s total greenhouse gas emissions.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 100,000 readers rely on The Conversation’s newsletter to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;The global debate about how to best protect the Amazon has largely focused on concerns over the state of Brazilian environmental policy under President Bolsonaro. My research suggests the need to strengthen Brazil’s economy should be a critical part of these discussions.&lt;/p&gt;
+&lt;p&gt;When Brazil’s economy struggles, its farmers and ranchers will reap – and the Amazon will suffer.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Peter Richards has previously received funding for his work from the National Science Foundation and the National Geographic Society. Currently, he also serves as a Senior Economist with the U.S. Agency for International Development (USAID). The views and opinions expressed in this article are his and do not necessarily represent USAID.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Peter Richards, Adjunct Professor, George Washington University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation :  Economy + Business</Title>
+         <MpubId>4977986</MpubId>
+         <SortTitle>Conversation :  Economy + Business The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVEB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977986</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464265.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation :  Economy + Business</Title>
+            <SortTitle>Conversation :  Economy + Business The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977986</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464265.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Apr 19, 2021</AlphaDate>
+         <StartDate>2021-04-19</StartDate>
+         <EndDate>2021-04-19</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977986_Apr192021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

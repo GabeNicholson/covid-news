@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2591775128</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Youngkin Takes Narrow Lead in Virginia Governor's Election; Tuesday's election is being closely watched as a gauge of national mood ahead of next year's midterms</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-03</NumericDate>
+      <StartDate>2021-11-03</StartDate>
+      <EndDate>2021-11-03</EndDate>
+      <AlphaDate>Nov 3, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>Politics</DocSection>
+         <ColumnHeader>Politics and Policy</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Nov32021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO20211103C9A31DD55360DBF4FFF316C134C814CE</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1450</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Calvert, Scott</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Scott</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Scott Calvert</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Calvert</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Scott Calvert</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Corse, Alexa</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Alexa</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Alexa Corse</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Corse</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Alexa Corse</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Senate</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Wall Street Journal</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>519130</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>State elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Governors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Trump, Donald J</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Texas</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Virginia</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Biden, Joseph R Jr</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Youngkin, Glenn A</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>McAuliffe, Terence R</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1582" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;FAIRFAX, Va.—Republican Glenn Youngkin held a narrow lead late Tuesday in the Virginia governor's race , which is being closely watched as a gauge of the national political mood.&lt;/p&gt;
+&lt;p&gt;Polls had shown former Democratic Gov. Terry McAuliffe and Republican Glenn Youngkin, a former private-equity executive , running neck-and-neck to succeed Democratic Gov. Ralph Northam. Virginia governors are barred from serving consecutive four-year terms.&lt;/p&gt;
+
+&lt;p&gt;No Republican has won a statewide race in Virginia since 2009, and the election will test Democrats' staying power after years of electoral gains. Republicans, meanwhile, hope to reverse losses in the vote-rich suburbs during former President Donald Trump's tenure.&lt;/p&gt;
+&lt;p&gt;President Biden, a Democrat, won Virginia by 10 percentage points over Mr. Trump last year, but his approval ratings have dipped to the low-40% range, making him a potential drag on Mr. McAuliffe . In addition, the state's off-year gubernatorial contest has historically favored the opposition party of the sitting president, with Mr. McAuliffe's 2013 victory being the only recent exception.&lt;/p&gt;
+&lt;p&gt;Mr. Biden, speaking to reporters in Glasgow on Tuesday, acknowledged that the race was close but said he thought Mr. McAuliffe would win. "I don't believe and I've not seen any evidence that whether or not I'm doing well or poorly, or whether or not I've got my agenda passed or not, is going to have any real impact on winning or losing," Mr. Biden said.&lt;/p&gt;
+&lt;p&gt;Mr. McAuliffe, 64 years old, has consistently sought to tie Mr. Youngkin to Mr. Trump, a fellow Republican. Mr. Youngkin, 54, a former Carlyle Group co-chief executive and political newcomer, accepted Mr. Trump's endorsement but hasn't campaigned with him.&lt;/p&gt;
+&lt;p&gt;The former president praised Mr. Youngkin in a telephone rally late Monday, the Associated Press reported. "Tomorrow I'd like to ask everyone to get out and vote for Glenn Youngkin," Mr. Trump told an invited group of supporters by phone. "He's a fantastic guy."&lt;/p&gt;
+&lt;p&gt;Virginia election officials said turnout was high. More than 3 million voters were reported late Tuesday, with votes still being counted. About 2.6 million Virginians voted in the last gubernatorial election in 2017, state election figures show. More than 2.2 million Virginians voted in the 2013 governor's race.&lt;/p&gt;
+
+&lt;p&gt;Voters who cast ballots in this election identified slightly more as Republicans than Democrats, 48% to 44%, according to preliminary results from AP VoteCast, a large survey of the Virginia electorate. If the finding holds, it would mark a change from the 2020 presidential election, in which VoteCast found the electorate to lean Democratic by 4 percentage points. The shift could indicate that Mr. Youngkin did a better job this year in motivating his party's core voters than did Mr. McAuliffe.&lt;/p&gt;
+&lt;p&gt;About two-thirds of voters in the survey said the country was headed in the wrong direction, while about one-third said it was on the right track. By a large margin, voters named the economy as the top issue facing the state, with smaller shares citing the coronavirus pandemic, education and other issues.&lt;/p&gt;
+&lt;p&gt;Nationally resonant issues such as abortion and vaccine mandates have permeated the race. Mr. McAuliffe, governor from 2014 to 2018, says he would defend women's access to abortion. Mr. Youngkin has indicated he would endorse new limits on abortion, though he has said he supports exceptions for rape, incest or to save a woman's life. On Monday, the U.S. Supreme Court heard oral arguments on a Texas law known as SB 8 or the Texas Heartbeat Act, which bans many abortions.&lt;/p&gt;
+&lt;p&gt;Both candidates have urged people to get Covid-19 vaccinations. Mr. McAuliffe has embraced mandates for some groups, like schoolchildren who are eligible to be vaccinated, saying such requirements are needed to help Virginia move past the coronavirus pandemic. Mr. Youngkin says it should be a personal choice.&lt;/p&gt;
+&lt;p&gt;Virginia last year loosened its election rules to give any voter the option to vote by absentee ballot without needing a particular reason to qualify, and the state offered early voting on Sunday this year for the first time. More than 1.1 million voters have cast their ballots early, whether in person or by mail, according to the nonprofit Virginia Public Access Project. About 2.6 million Virginians voted in the last gubernatorial election in 2017, state election figures show.&lt;/p&gt;
+&lt;p&gt;Voting went largely smoothly on Tuesday, state elections Commissioner Chris Piper said at an evening news conference. There were some minor issues, Mr. Piper said, including one polling location that opened 10 minutes late, complaints about some voting machines getting jammed, and some precincts that ran out of ballots but then were supplied with more.&lt;/p&gt;
+&lt;p&gt;Speaking to reporters shortly after polls closed, Mr. Piper said he didn't want to make predictions about turnout. "But the fact of the matter is that we have…we've seen heavy turnout," he added.&lt;/p&gt;
+&lt;p&gt;Both gubernatorial campaigns have legal teams on standby to handle any election issues.&lt;/p&gt;
+&lt;p&gt;Mr. Youngkin has nodded to Mr. Trump's unproven claims that the 2020 election was stolen without embracing them. He has said that President Biden legitimately won the election, that election integrity should be a priority, and that Virginia should audit its voting machines, which the state already does. Mr. Youngkin has said he believes Virginia will have a fair election.&lt;/p&gt;
+&lt;p&gt;Early Tuesday, voters trickled into a polling location at the Fairfax County Government Center. Activists from both parties said the site had been much busier during early voting.&lt;/p&gt;
+&lt;p&gt;Manju Mallin, 62, said she voted for Mr. Youngkin mainly because of his view on schools. She said she didn't think critical race theory should be taught in schools, and Mr. Youngkin has said he would ban it. Many education officials in Virginia have said their schools don't teach critical race theory, which is an academic legal theory, and instead say they are teaching about diversity and the history of minority communities.&lt;/p&gt;
+&lt;p&gt;"Parents are not being heard," said Ms. Mallin, who is retired but works part time in sales for an insurance company. She said she voted for Mr. Trump in 2020 but also voted for Democrats in the past. &lt;/p&gt;
+&lt;p&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+&lt;p&gt;'I think that the Republicans are still too entrapped by Donald Trump and his ideals,' said Charles Armstead, who said he voted for Democrat Terry McAuliffe. PHOTO: Alexa Corse/The Wall Street Journal &lt;/p&gt;
+&lt;p&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="2"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Valerie Register (in a photo from last month) said she had voted for Republican Glenn Youngkin on Tuesday in part because she shared his antiabortion views. PHOTO: Carlos Bernate for The Wall Street Journal&lt;/p&gt;
+&lt;p&gt;Mandeep Kaur, 25, who works in human resources, said she voted for Mr. McAuliffe because she believed he would protect abortion rights and support immigration, among other issues.&lt;/p&gt;
+&lt;p&gt;"We saw what happened in Texas with abortion," said Ms. Kaur, who said she became a citizen last year after immigrating from India. "I think women should have the choice."&lt;/p&gt;
+&lt;p&gt;Charles Armstead, 73, said he voted for Mr. McAuliffe. "I think that the Republicans are still too entrapped by Donald Trump and his ideals," said Mr. Armstead, who said he is an independent voter and a Defense Department consultant and retired Air Force officer. He said he worried that Republicans would restrict voting rights.&lt;/p&gt;
+&lt;p&gt;In Virginia Beach, Valerie Register said she voted Tuesday morning for Mr. Youngkin on her way back from the gym. The 53-year-old software developer said she shared his antiabortion views. She also said she thought he would roll back what she sees as growing government interference in areas such as gun ownership and Covid-19 vaccination decisions.&lt;/p&gt;
+&lt;p&gt;"It seems like we're headed down the wrong road where they're trying to push into more and more government control. By voting for Youngkin, I believe we're trying to pull back on that," she said.&lt;/p&gt;
+&lt;p&gt;Voters in New Jersey also voted for a governor Tuesday. Late Tuesday night, Democratic Gov. Phil Murphy was narrowly behind Republican Jack Ciattarelli, a former state assemblyman. The candidates have clashed over fiscal issues as well as Mr. Murphy's requirement for students to wear masks in schools. Three nonpartisan surveys released in the past week showed Mr. Murphy leading by roughly 10 points over Mr. Ciattarelli.&lt;/p&gt;
+&lt;p&gt;Virginia Democrats are also vying to retain control of the state's house of delegates. In 2019, Democrats gained majorities in both the House and state Senate, giving them a trifecta, with Mr. Northam already in the governor's office. Democrats hold a 55-45 advantage in the House, and all 100 seats are up for election. None of the 40 Senate seats are on the ballot.&lt;/p&gt;
+&lt;p&gt;Across the U.S., there are 23 Republican trifectas, 15 Democratic trifectas, and 12 divided governments where neither party holds trifecta control, according to election-data website Ballotpedia.&lt;/p&gt;
+&lt;p&gt;As Election Day neared, Republican voters in Virginia appeared more excited than Democrats, according to a poll released last week by Christopher Newport University's Wason Center for Civic Leadership. It found 80% of Republican likely voters said they were very enthusiastic, compared with 65% of Democrats. That "enthusiasm advantage" has grown since its Oct. 8 survey, the center said.&lt;/p&gt;
+&lt;p&gt;The poll found that independent voters favor Mr. Youngkin over Mr. McAuliffe 51% to 44%. For Mr. Youngkin, key sources of support are white voters, men and residents of Virginia's southern and southwestern areas, the poll found, whereas Mr. McAuliffe's support is strongest among Black voters, women and Northern Virginia residents.&lt;/p&gt;
+&lt;p&gt;Election Tuesday&lt;/p&gt;
+&lt;p&gt;More WSJ coverage, selected by the editors&lt;/p&gt;
+
+
+
+&lt;p&gt;Chad Day, Jimmy Vielkind and Andrew Restuccia contributed to this article.&lt;/p&gt;
+&lt;p&gt;Write to Scott Calvert at scott.calvert@wsj.com and Alexa Corse at alexa.corse@wsj.com &lt;/p&gt;
+&lt;p&gt; Youngkin Takes Narrow Lead in Virginia Governor's Election &lt;/p&gt;
+&lt;p&gt;Credit: By Scott Calvert and Alexa Corse &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>2</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 3, 2021</AlphaDate>
+         <StartDate>2021-11-03</StartDate>
+         <EndDate>2021-11-03</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Nov32021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

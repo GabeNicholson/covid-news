@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2621407588</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Stressed out at college? Here are five essential reads on how to take better care of your mental health</Title>
+      </TitleAtt>
+      <NumericDate>2022-01-20</NumericDate>
+      <StartDate>2022-01-20</StartDate>
+      <EndDate>2022-01-20</EndDate>
+      <AlphaDate>Jan 20, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2022. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVED_20220120_174851</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVED_20220120_174851</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977985_Jan202022______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Abdul-Alim, Jamaal</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jamaal</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jamaal Abdul-Alim</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Abdul-Alim</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jamaal Abdul-Alim</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Buyinza, Alvin</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Alvin</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Alvin Buyinza</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Buyinza</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Alvin Buyinza</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/174851/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>College students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Burnout</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Animal assisted therapy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Colleges &amp; universities</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mental health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Stress</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Dogs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>College campuses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="89">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Seek campuses designed to boost your mood When selecting a college to attend, students should look at whether the campus design benefits their mental health.
+
+Two scholars from North Central College in Naperville, Illinois – Carly Drake, assistant professor of marketing, and Diane Bruce Anstine, Dean of the school of business and entrepreneurship – write about five campus design features that benefit students’ mental health.
+
+Spend time with a therapy dog Research has shown that spending just 10 minutes with a therapy dog can reduce college students’ stress levels.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="684" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Nearly 70% of college students say they are experiencing emotional distress or anxiety related to the pandemic. That’s according to a January 2022 survey that also found nearly 9 out of every 10 college students believe U.S. colleges and universities are facing a mental health crisis.&lt;/p&gt;
+&lt;p&gt;Below are five articles from the archives of The Conversation that highlight tips for college students to take better care of their mental health.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. Prioritize your mental health&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;When students do poorly in a class due to mental health issues, occasionally they might seek a medical exception that can withdraw them from the class instead of failing it. But students who get this exception often fail to seek the actual help they need to deal with the mental health issue that led them to do poorly in the first place.&lt;/p&gt;
+&lt;p&gt;That’s according to Nicholas Joyce, a psychologist at the University of South Florida.&lt;/p&gt;
+&lt;p&gt;“In my experience, many students who get the medical exception return the next semester without addressing their mental health needs and end up failing more courses,” writes Joyce.&lt;/p&gt;
+&lt;p&gt;Joyce recommends four ways college students can avoid having to seek a medical exception in the first place.&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;&lt;i&gt; &lt;b&gt; Read more: Are you mentally well enough for college? &lt;/b&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. Seek campuses designed to boost your mood&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;When selecting a college to attend, students should look at whether the campus design benefits their mental health.&lt;/p&gt;
+&lt;p&gt;Two scholars from North Central College in Naperville, Illinois – Carly Drake, assistant professor of marketing, and Diane Bruce Anstine, Dean of the school of business and entrepreneurship – write about five campus design features that benefit students’ mental health.&lt;/p&gt;
+&lt;p&gt;“Campus design affects the college experience, and students can choose a campus or change their existing routines to support their mental health,” they write. “Such consideration is especially important during the COVID-19 pandemic, when new rules and norms have left many students more anxious and depressed than normal.”&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;&lt;i&gt; &lt;b&gt; Read more: 5 things to look for on a college campus that benefit mental health &lt;/b&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. Make a wellness plan&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Before students even set foot on campus, they should develop a wellness plan to help them avoid major emotional distress. That’s according to Sandra M. Chafouleas, professor of educational psychology at the University of Connecticut, who details what every student’s wellness plan should include.&lt;/p&gt;
+&lt;p&gt;“… personal wellness plans must be customized to meet each individual student’s own needs,” she writes. “And I believe that since it is unclear whether new college students will be on physical campuses this fall or learning online, these plans are more important than ever.”&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;&lt;i&gt; &lt;b&gt; Read more: 5 things college students should include in a plan for their wellness &lt;/b&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. Avoid academic burnout&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;When college students suffer from burnout, it often leads them to experience feelings of isolation, low accomplishment and depression.&lt;/p&gt;
+&lt;p&gt;Ryan Korstange, assistant professor of university studies at Middle Tennessee State University, writes about five tips on how college students can avoid exhaustion.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 140,000 readers rely on The Conversation’s newsletters to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;“The most effective way of preventing burnout is being sure you know why you’re in college to begin with,” he writes. “Build your internal motivation by identifying the skills you need to develop and the experiences you want to have while you are in college.”&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;&lt;i&gt; &lt;b&gt; Read more: 5 tips for college students to avoid burnout &lt;/b&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. Spend time with a therapy dog&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Research has shown that spending just 10 minutes with a therapy dog can reduce college students’ stress levels. That’s why Christine Kivlen, an assistant professor of occupational therapy at Wayne State University, recommends students seek out therapy dog programs on campus. Kivlen writes about the calming effects of spending time with a therapy dog.&lt;/p&gt;
+&lt;p&gt;“Among other benefits, therapy dogs can help students achieve a stronger sense of belonging and better deal with being homesick and lonely, while also lessening their anxiety and stress.”&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;
+&lt;p&gt;&lt;i&gt; &lt;b&gt; Read more: Therapy dogs help students cope with the stress of college life &lt;/b&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;------------&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Jamaal Abdul-Alim, Education Editor, The Conversation&lt;/p&gt;&lt;p&gt;Alvin Buyinza, Editorial and Outreach Assistant, The Conversation US&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Education</Title>
+         <MpubId>4977985</MpubId>
+         <SortTitle>Conversation : Education The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVED</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977985</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464269.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Education</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Education</Title>
+            <SortTitle>Conversation : Education The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977985</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464269.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 20, 2022</AlphaDate>
+         <StartDate>2022-01-20</StartDate>
+         <EndDate>2022-01-20</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977985_Jan202022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

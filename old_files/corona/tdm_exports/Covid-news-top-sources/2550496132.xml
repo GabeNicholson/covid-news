@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2550496132</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Take two: Quentin Tarantino goes from auteur to author</Title>
+      </TitleAtt>
+      <NumericDate>2021-07-13</NumericDate>
+      <StartDate>2021-07-13</StartDate>
+      <EndDate>2021-07-13</EndDate>
+      <AlphaDate>Jul 13, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Jul 13, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>C.1</StartPage>
+         <DocSection>Style</DocSection>
+         <DocEdition>Suburban</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Jul132021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20210713TaketwoQuentinTarantinogoesfromauteurtoa49402de0</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1470</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Arrowsmith, Charles</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Charles</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Charles Arrowsmith</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Arrowsmith</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Charles Arrowsmith</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Motion pictures</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Actors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Novels</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Book reviews</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Tarantino, Quentin</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="879" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p/&gt;
+&lt;p&gt;Two years after "Once Upon a Time in Hollywood" hit theaters, Quentin Tarantino has novelized his Oscar-winning movie, calling the result a "complete rethinking" of the story. Re&lt;em&gt;packaging&lt;/em&gt;, cynics might think. But that's not quite right: The book is a distinct experience - rangier, sexier, bloodier. More wistful, and somewhat more oblique in meaning, it expands the film's world even as it comments upon it.&lt;/p&gt;
+&lt;p&gt;Perhaps the biggest challenge Tarantino must tackle is that many of his prospective readers know the ending. Don't they? The movie's suspense comes from the anticipation of what will happen when the story catches up to Aug. 9, 1969, the night the Manson Family murdered five people in the home of actress Sharon Tate. From its earliest scenes, the film seems set to collide with this real-life tragedy, and everything, not least its extraordinary twist, relies on sustaining a suffocating sense of expectation.&lt;/p&gt;
+&lt;p&gt;But Tarantino, ever-wily - and recognizing that lightning won't strike twice - spots in the retelling a chance to shape the novel quite differently. Decentering the Manson plotline, he turns it into just another part of the far-out tapestry of late-60s L.A. The emotional core of the novel lies instead with his own creations, TV cowboy Rick Dalton and his best friend and stunt double, Cliff Booth.&lt;/p&gt;
+&lt;p&gt;Like the movie, the book follows Rick and Cliff from set to bar to Beverly Hills. Some lines are lifted verbatim from the screenplay, but there's plenty of new material, too, much of it concerning Cliff's violent past, only hinted at in the movie. We also get more of the precocious 8-year-old who plays Rick's half sister in the TV western "Lancer" (a real show, incidentally). It falls to her to provide the most pointed meta-commentary on the novel's action. "[A]t the Actors Studio," she says, "they ask the question: What if the script didn't say that? Then what would your character do? Then what choice would your character make?" This, it seems, is what Tarantino has been asking himself for a while: when a historical ending isn't quite right, what if history could be simply . . .  reshot?&lt;/p&gt;
+&lt;p&gt;At its heart, the book is about the threat posed to Rick and Cliff by the advent of the New Hollywood. As "an Eisenhower actor in a Dennis Hopper Hollywood," Rick faces "a race to the bottom." Cliff, meanwhile, whose on-set unruliness is making him unhirable, is increasingly reliant on his old buddy for a living. Can they survive inevitable change?&lt;/p&gt;
+&lt;p&gt;Cinephilia is integral to Tarantino's work, and "Once Upon a Time" is a fanboy's scrapbook of period detail. A footnoted edition would run twice the length parsing references to forgotten actors, separating real from invented movies and glossing the insider talk about old action movies. How much readers will enjoy all this may depend on their familiarity with Golden Age Hollywood. But even casual Tarantino fans will enjoy his self-referential nods: a Manson girl calling Cliff "Mr. Blond;" allusions to QT collaborators like Michael Parks and David Carradine; the significance of Sergio Corbucci, whose filmography includes the 1966 spaghetti western "Django."&lt;/p&gt;
+&lt;p&gt;Tarantino's explosive dialogue, with its blend of streetwise and formal cadences, is almost as effective written down as read aloud. The unprintable advice of a French "maq" to Cliff about pimping - perhaps the book's most sustained jag of obscenity and chauvinism - is classic, sparks-flying Tarantino. And although the brio with which he imitates period idiom produces the occasional absurdity ("He lights his cancer stick with his silver Zippo in the flashy (noisy) way of a fifties-era cool daddy-o"), on the whole it helps to create an authentically pulpy atmosphere.&lt;/p&gt;
+&lt;p&gt;Tarantino is a narrator who likes to show &lt;em&gt;and &lt;/em&gt;tell, making him a boisterous if somewhat undisciplined presence. There's often no tidy line between a character's perspective and the narrator's, and given the decidedly non-PC attitudes on display, this can be a little hair-raising. (Not that he cares.) It can also disrupt the period effect - in a chapter told from Charles Manson's POV, we get an anachronistic Pauline Kael quote; elsewhere, Candice Bergen is referred to as a "sixties-era zeitgeist beauty," a description that surely belongs to hindsight.&lt;/p&gt;
+&lt;p&gt;Aside: As one might expect from a master pasticheur, the book itself is a loving simulacrum of classic mass-market paperbacks. Indistinguishable in look and heft from a dime-store cash-in, it even has back-page ads for hard-boiled reads like "Serpico" and Elmore Leonard's "The Switch."&lt;/p&gt;
+&lt;p&gt;Absent the voluptuous thrills of the cinematic experience - the operatic splatter, the rambunctious camerawork, the golden needle-drops - "Once Upon a Time" is perhaps less like a trip to the movies than a night in with Tarantino. Chapters have the propulsive thrust of anecdotes; his exuberant excess is the dominant charm. Far from being the throwaway artifact it sometimes pretends to be, Tarantino's first novel may even, as he's hinted, herald the start of a new direction for this relentlessly inventive director.&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;bookworld@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;Charles Arrowsmith&lt;/em&gt; is based in New York and writes about books, films and music.&lt;/p&gt;
+Once Upon a Time in Hollywood
+&lt;p&gt;
+&lt;em&gt;A Novel&lt;/em&gt;
+&lt;/p&gt;
+&lt;p&gt;By Quentin Tarantino&lt;/p&gt;
+&lt;p&gt;Harper Perennial. &lt;/p&gt;
+&lt;p&gt;400 pp. $9.99&lt;/p&gt;
+Description
+Book Name
+Book Website
+Book ISBN
+Date Book was Published
+Book Author's Name
+Book Author's Website
+Reviewer's Website (if not on staff)
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 13, 2021</AlphaDate>
+         <StartDate>2021-07-13</StartDate>
+         <EndDate>2021-07-13</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Jul132021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

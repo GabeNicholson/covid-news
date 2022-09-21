@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2529546283</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Shape-shifting computer chip thwarts an army of hackers</Title>
+      </TitleAtt>
+      <NumericDate>2021-05-20</NumericDate>
+      <StartDate>2021-05-20</StartDate>
+      <EndDate>2021-05-20</EndDate>
+      <AlphaDate>May 20, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVIL_20210520_159990</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVIL_20210520_159990</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977982_May202021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Austin, Todd</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Todd</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Todd Austin</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Austin</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Todd Austin</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Biernacki, Lauren</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Lauren</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Lauren Biernacki</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Biernacki</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Lauren Biernacki</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/159990/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of Michigan</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Computer engineering</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Design</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Software</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Malware</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Computer science</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Computer architecture</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Network security</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Computer peripherals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Microprocessors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Software</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Designers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Programmers</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="100">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;A processor is the piece of computer hardware that runs software programs.
+
+Since a processor underlies all software systems, a secure processor has the potential to protect any software running on it from attack.
+
+From one Morpheus machine to another, details like the commands the processor executes or the format of program data change in random ways.
+
+Because this happens at the microarchitecture level, software running on the processor is unaffected.
+
+To counter this, Morpheus also changes the microarchitecture every few hundred milliseconds.
+
+[...]not only do attackers have to reverse-engineer the microachitecture, but they have to do it very fast.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="802" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;i&gt;The Research Brief is a short take about interesting academic work.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The big idea&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We have developed and tested a secure new computer processor that thwarts hackers by randomly changing its underlying structure, thus making it virtually impossible to hack.&lt;/p&gt;
+&lt;p&gt;Last summer, 525 security researchers spent three months trying to hack our Morpheus processor as well as others. All attempts against Morpheus failed. This study was part of a program sponsored by the U.S. Defense Advanced Research Program Agency to design a secure processor that could protect vulnerable software. DARPA released the results on the program to the public for the first time in January 2021.&lt;/p&gt;
+&lt;p&gt;A processor is the piece of computer hardware that runs software programs. Since a processor underlies all software systems, a secure processor has the potential to protect any software running on it from attack. Our team at the University of Michigan first developed Morpheus, a secure processor that thwarts attacks by turning the computer into a puzzle, in 2019.&lt;/p&gt;
+&lt;p&gt;A processor has an architecture – x86 for most laptops and ARM for most phones – which is the set of instructions software needs to run on the processor. Processors also have a microarchitecture, or the “guts” that enable the execution of the instruction set, the speed of this execution and how much power it consumes.&lt;/p&gt;
+&lt;p&gt;Hackers need to be intimately familiar with the details of the microarchitecture to graft their malicious code, or malware, onto vulnerable systems. To stop attacks, Morpheus randomizes these implementation details to turn the system into a puzzle that hackers must solve before conducting security exploits. From one Morpheus machine to another, details like the commands the processor executes or the format of program data change in random ways. Because this happens at the microarchitecture level, software running on the processor is unaffected.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The Morpheus computer processor, inside the square beneath the fan on this circuit board, rapidly and continuously changes its underlying structure to thwart hackers. Todd Austin , CC BY-ND&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;A skilled hacker could reverse-engineer a Morpheus machine in as little as a few hours, if given the chance. To counter this, Morpheus also changes the microarchitecture every few hundred milliseconds. Thus, not only do attackers have to reverse-engineer the microachitecture, but they have to do it very fast. With Morpheus, a hacker is confronted with a computer that has never been seen before and will never be seen again.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Why it matters&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To conduct a security exploit, hackers use vulnerabilities in software to get inside a device. Once inside, they graft their malware onto the device. Malware is designed to infect the host device to steal sensitive data or spy on users.&lt;/p&gt;
+&lt;p&gt;The typical approach to computer security is to fix individual software vulnerabilities to keep hackers out. For these patch-based techniques to succeed, programmers must write perfect software without any bugs. But ask any programmer, and the idea of creating a perfect program is laughable. Bugs are everywhere, and security bugs are the most difficult to find because they don’t impair a program’s normal operation.&lt;/p&gt;
+&lt;p&gt;Morpheus takes a distinct approach to security by augmenting the underlying processor to prevent attackers from grafting malware onto the device. With this approach, Morpheus protects any vulnerable software that runs on it.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What other research is being done&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;For the longest time, processor designers considered security a problem for software programmers, since programmers made the software bugs that lead to security concerns. But recently computer designers have discovered that hardware can help protect software.&lt;/p&gt;
+&lt;p&gt;Academic efforts, such as Capability Hardware Enhanced RISC Instructions at the University of Cambridge, have demonstrated strong protection against memory bugs. Commercial efforts have begun as well, such as Intel’s soon-to-be-released Control-flow Enforcement Technology.&lt;/p&gt;
+&lt;p&gt;Morpheus takes a notably different approach of ignoring the bugs and instead randomizes its internal implementation to thwart exploitation of bugs. Fortunately, these are complementary techniques, and combining them will likely make systems even more difficult to attack.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What’s next&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We are looking at how the fundamental design aspects of Morpheus can be applied to protect sensitive data on people’s devices and in the cloud. In addition to randomizing the implementation details of a system, how can we randomize data in a way that maintains privacy while not being a burden to software programmers?&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Research into coronavirus and other news from science&lt;/i&gt; Subscribe to The Conversation’s new science newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Todd Austin receives funding from DARPA, which supported the development of the Morpheus secure CPU through DARPA Contract HR0011-18-C-0019. He owns shares in Agita Labs, which is commercializing a derivative of the Morpheus technology. &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Lauren Biernacki receives funding from DARPA, which supported the development of the Morpheus secure CPU through DARPA Contract HR0011-18-C-0019.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Todd Austin, Professor of Electrical Engineering and Computer Science, University of Michigan&lt;/p&gt;&lt;p&gt;Lauren Biernacki, Ph.D. Candidate in Computer Science &amp;amp; Engineering, University of Michigan&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>The Morpheus computer processor, inside the square beneath the fan on this circuit board, rapidly and continuously changes its underlying structure to thwart hackers. Todd Austin , CC BY-ND</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Science + Technology</Title>
+         <MpubId>4977982</MpubId>
+         <SortTitle>Conversation : Science + Technology The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVIL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977982</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464264.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Sciences: Comprehensive Works</Subject>
+            <Subject>Technology: Comprehensive Works</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Science + Technology</Title>
+            <SortTitle>Conversation : Science + Technology The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977982</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464264.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 20, 2021</AlphaDate>
+         <StartDate>2021-05-20</StartDate>
+         <EndDate>2021-05-20</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977982_May202021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

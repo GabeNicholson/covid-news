@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2575187778</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>BUSINESS; Why captions are so popular on TikTok; It's not just about accessibility. 'Glasses for your ears' help social media creators grab users' attention.</Title>
+      </TitleAtt>
+      <NumericDate>2021-09-23</NumericDate>
+      <StartDate>2021-09-23</StartDate>
+      <EndDate>2021-09-23</EndDate>
+      <AlphaDate>Sep 23, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Los Angeles Times Sep 23, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.10</StartPage>
+         <Pagination>A.10</Pagination>
+         <DocSection>Main News; Part A; Business Desk</DocSection>
+         <DocEdition>HOME EDITION</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7683</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7683_Sep232021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>LATMLATM2021092316117</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>LATMLATM2021092316117</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1540</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Contreras, Brian</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Brian</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Brian Contreras</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Contreras</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Brian Contreras</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Media richness</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Subtitles &amp; subtitling</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Deafness</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Closed captioning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Video recordings</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Handicapped accessibility</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disability</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Advocacy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>TIKTOK (COMPANY)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>LANGUAGE</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1385" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;TikTok creator Alyssa McKay has perfected a persona people love to hate: a Regina George-esque rich girl whose bouncy raps are packed with in-jokes about Met Gala invites and counterfeit Dolce &amp;amp; Gabbana purses.&lt;/p&gt;
+&lt;p&gt;But despite their fun lyrics and high production values, her sketches are far from guaranteed to hold the interest of her 8.7 million followers, who may be scrolling their feeds with their phones on mute while at work or watching TV, or whose English might not be fluent enough to keep up with her torrent of references and disses.&lt;/p&gt;
+&lt;p&gt;For McKay, the solution to many of these obstacles is the same: subtitles.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;"Our attention spans are so short now that I feel like closed captioning, and putting the captions up on the screen if closed captioning isn't an option, is so crucial," said McKay, 21, who lives in Portland, Ore. "It captures the attention of people, and they're able to actually process what's going on."&lt;/p&gt;
+&lt;p&gt;A video app known primarily as a place to watch dances and lip-syncs set to popular songs, TikTok has emerged as an unlikely forum for text in the form of its increasingly ubiquitous captions. Open the app and you'll see them everywhere: overlaid atop memes, embedded in stand-up comedy clips, flashing by in movie trailers.&lt;/p&gt;
+&lt;p&gt;Users can write their own -- in a number of eye-catching fonts and colors -- or, as of April, let TikTok auto-generate them. The platform's closed captioning hashtag, #cc, sits at more than 4 billion views.&lt;/p&gt;
+&lt;p&gt;That might seem surprising. After all, subtitles are a notoriously big obstacle for American movie audiences, who rate foreign-language films the lowest of all film genres. And the Gen Z-ers who make up TikTok's main demographic grew up on an internet rich with video and audio, where reading was strictly optional.&lt;/p&gt;
+&lt;p&gt;Although there's a drift in digital technologies away from text and toward "a more multimedial representation of reality," UC Davis communications professor Martin Hilbert said, TikTok subtitles complement rather than replace the app's core video elements.&lt;/p&gt;
+&lt;p&gt;"It is part of a general trend to more fully represent reality," Hilbert said, citing an academic framework called media richness theory.&lt;/p&gt;
+&lt;p&gt;TikTok isn't the first social network to overlay words on videos. YouTube launched automatic captioning in 2009; the thin black strip of text that Snapchat lets users paste over their photos and videos is perhaps the most recognizable of the app's ever-increasing list of features. Soon after TikTok launched its auto-captioning tool, Instagram released one of its own.&lt;/p&gt;
+&lt;p&gt;And the trend isn't confined to social media: Watching television with subtitles appears to be increasingly commonplace, for reasons as varied as sleeping housemates, ambient background noise, dialogue-muffling sound mixes and the wider range of accents in mainstream entertainment.&lt;/p&gt;
+&lt;p&gt;But on TikTok, a mix of factors -- including the incentive structures that motivate influencers to produce certain types of content, widespread shifts in how people consume online media and the successful advocacy of disability rights groups -- have all come together to make subtitles and captions a particularly prominent feature of the most downloaded app in the world last year.&lt;/p&gt;
+&lt;p&gt;McKay said she began writing captions for her TikToks last summer, around the same time she started to think about her presence on the platform as an actual career. When TikTok launched the auto-captioning tool, she quickly latched on to it.&lt;/p&gt;
+&lt;p&gt;It's not just a strategy she uses for her music videos either. More traditional influencer post types -- an outfit montage; a reaction video -- come with subtitles of their own, sometimes hand-typed and other times auto-generated. (Closed captions are those that can be turned on and off. Only the auto-generated ones fit that bill; those that creators write themselves are open captions.) Some of her posts don't include any speaking at all.&lt;/p&gt;
+&lt;p&gt;McKay sees text as serving several functions, such as helping fans appreciate the "little innuendos" she slips into her lyrics and serving as a sort of teaser for new viewers.&lt;/p&gt;
+&lt;p&gt;"When you're scrolling through and you see this big text above someone's head," she said, "you're like, 'Oh, what is that? What does that say?' "&lt;/p&gt;
+&lt;p&gt;Overlaying videos with text may even encourage TikTok's opaque recommendation algorithm to boost their visibility, she said -- although it's hard to know for sure.&lt;/p&gt;
+&lt;p&gt;Brian Mandler, who manages McKay through his marketing agency the Network Effect, said that part of the appeal of subtitled TikToks is that they feel like "modern-day karaoke," allowing fans to sing along with McKay or make their own videos using the same audio.&lt;/p&gt;
+&lt;p&gt;A YouTube compilation he shared shows more than a dozen accounts replicating one of McKay's raps.&lt;/p&gt;
+&lt;p&gt;Captions, he said, may also direct someone's focus to a single piece of content if they have multiple devices open in front of them -- a state of distraction called "continuous partial attention." "In order to watch the video, hear the sound, but then also read the captions, you know that their focus is going to be on that device," Mandler said.&lt;/p&gt;
+&lt;p&gt;Dan Greenberg, president of the ad exchange Sharethrough, said company data show that 75% of people overall, and 86% of millennials, keep their phones muted throughout the day. That means that if they ever encounter a video -- be it a post by an influencer such as McKay or an ad from one of Sharethrough's clients -- they'll probably need captions to understand it.&lt;/p&gt;
+&lt;p&gt;"If there's a video that you're watching on your phone and it's on mute, and you don't really want to turn your sound on, and there's no captions, you generally just scroll past it," Greenberg said. "That video just blends into the background."&lt;/p&gt;
+&lt;p&gt;It's a shift in how people engage with content that many advertisers haven't yet caught up with, he said: "Most marketers are still pushing the traditional 15s and 30s [commercials] from TV, without captions, that are mostly incomprehensible when the phone is on mute."&lt;/p&gt;
+&lt;p&gt;Text-heavy TikToks are also easier to share across other platforms because they can be screen-shot without losing as much context.&lt;/p&gt;
+&lt;p&gt;And the frenetic pacing and rapid-fire dialogue used in many TikToks may also be making captions increasingly important on the platform.&lt;/p&gt;
+&lt;p&gt;Paula Winke, a Michigan State University linguistics professor who has researched the educational benefits of captioning, described captions as "glasses for your ears" that can make it easier to parse dialogue.&lt;/p&gt;
+&lt;p&gt;That's especially important when it comes to online videos that have had speakers' natural pauses edited out, depriving viewers' brains of the momentary rest they need to fully absorb what's being said.&lt;/p&gt;
+&lt;p&gt;Captions can also make social media content "more accessible to a larger, global market," Winke said via email. That means more fans for influencers and more users for TikTok.&lt;/p&gt;
+&lt;p&gt;Of course, the prevalence of captioning on TikTok and in other parts of the internet isn't just a question of capturing market share in the attention economy; it's in large part the result of advocacy of accessibility for the deaf and hard of hearing. TikTok has said it works with creators and disability advocates to develop accessibility tools such as the auto-captioning feature.&lt;/p&gt;
+&lt;p&gt;"The accessibility movement and the convenience of using speech-to-text [and] speech-recognition tools are leading factors in seeing more short videos captioned," Eric Kaika, chief executive of the accessibility group TDI (previously Telecommunications for the Deaf and Hard of Hearing), said by email. But, he added, it's not yet a universal trend.&lt;/p&gt;
+&lt;p&gt;Howard A. Rosenblum, CEO of the National Assn. of the Deaf, agreed: However commonplace captioned video has become, social media is still a challenging place for hearing-impaired users.&lt;/p&gt;
+&lt;p&gt;"Most social networks do not make accessibility features easy or universal," Rosenblum said via email. "Such networks should have dedicated accessibility teams on their payrolls that include people with disabilities to test every feature or program to pass universal design requirements before any launch."&lt;/p&gt;
+&lt;p&gt;There's still a ways to go before all online content comes with high-quality captioning. But if TikTok is any indication, there's substantial interest in getting to that point -- not just from accessibility advocates, but also from content creators and social media-savvy consumers.&lt;/p&gt;
+&lt;p&gt;Caption: PHOTO: TIKTOK creator Alyssa McKay, 21, began using captions last summer. She says they serve several functions, helping fans appreciate the "little innuendos" she slips into her lyrics and acting as teasers for new viewers.&lt;/p&gt;
+&lt;p&gt;PHOTOGRAPHER:Levi Underhill&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Los Angeles Times</Title>
+         <MpubId>46999</MpubId>
+         <SortTitle>Los Angeles Times</SortTitle>
+         <Qualifier>Los Angeles, Calif.</Qualifier>
+         <JournalCode>ANGE</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18860101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Los Angeles Times Communications LLC</PublisherName>
+            <PublisherAddress>
+               <City>Los Angeles</City>
+               <Province>CA</Province>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7683</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>04583035</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60200.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Los Angeles Times</Title>
+            <SortTitle>Los Angeles Times</SortTitle>
+            <Qualifier>Los Angeles, Calif.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7683</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>04583035</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60200.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Los Angeles Daily Times</Title>
+               <Qualifier>Los Angeles, Calif.</Qualifier>
+               <EndIssueDate>18861022</EndIssueDate>
+               <CatalogNum>60200.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Dec 4, 1996</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19961204</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Sep 23, 2021</AlphaDate>
+         <StartDate>2021-09-23</StartDate>
+         <EndDate>2021-09-23</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7683_Sep232021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

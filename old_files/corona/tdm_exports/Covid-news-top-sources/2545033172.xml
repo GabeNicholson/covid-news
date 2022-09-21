@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2545033172</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Garcetti appointee quits role after posts in Facebook group</Title>
+      </TitleAtt>
+      <NumericDate>2021-06-26</NumericDate>
+      <StartDate>2021-06-26</StartDate>
+      <EndDate>2021-06-26</EndDate>
+      <AlphaDate>Jun 26, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Los Angeles Times Jun 26, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.1</StartPage>
+         <Pagination>B.1</Pagination>
+         <DocSection>California; Part B; Metro Desk</DocSection>
+         <DocEdition>HOME EDITION</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7683</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7683_Jun262021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>LATMLATM2021062610793</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>LATMLATM2021062610793</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1510</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Smith, Dakota</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Dakota</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Dakota Smith</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Smith</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Dakota Smith</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Winton, Richard</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Richard</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Richard Winton</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Winton</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Richard Winton</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Resignations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Redistricting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Intergovernmental relations</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Los Angeles California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Garcetti, Eric</Personal>
+         </Term>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>GARCETTI, ERIC</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>RESIGNATIONS</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>POLITICAL AIDES</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>SOCIAL NETWORKS</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>BEHAVIOR</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="506" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;An appointee of Los Angeles Mayor Eric Garcetti who took part in a private Facebook group whose messages have sparked an uproar stepped down this week from the City Council Redistricting Commission.&lt;/p&gt;
+&lt;p&gt;Cecilia Cabello, a former aide to Garcetti, withdrew from the unpaid post Tuesday, said Rafael Gonzalez, the commission's director of community outreach and engagement. Gonzalez said her resignation letter had been accepted.&lt;/p&gt;
+&lt;p&gt;The Times reported Tuesday that some members of the Facebook group "Solid Gold" left disparaging comments and mocking emojis on several posts about politicians, labor leaders and others.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Cabello didn't respond to requests for comment from The Times. In her resignation letter, she did not give a reason for her departure, saying she was thankful to Garcetti and his team for the opportunity to serve.&lt;/p&gt;
+&lt;p&gt;Garcetti spokesperson Alex Comisar said Cabello made the decision to resign.&lt;/p&gt;
+&lt;p&gt;Earlier this week, Garcetti placed chief of staff Ana Guerrero, who earns about $249,000 a year, on unpaid leave following revelations about the social media posts. Guerrero was the most senior member of Garcetti's office in the Facebook group, which included other city employees and mayoral appointees.&lt;/p&gt;
+&lt;p&gt;Garcetti has said he wasn't aware of the group.&lt;/p&gt;
+&lt;p&gt;On Friday, Garcetti sent an email to his city commissioners -- who oversee the airport, harbor and other agencies -- addressing the private Facebook posts, saying that they had fallen short of his administration's standards.&lt;/p&gt;
+&lt;p&gt;He informed the commissioners, the vast number of whom are unpaid, that he had asked Guerrero to "take responsibility" for the online statements and "do the necessary work to address the hurt feelings and fallout" that had resulted from the Facebook messages becoming public.&lt;/p&gt;
+&lt;p&gt;"I'm a big believer that leading with love also means that we are a city of second chances and that we must model what reconciliation means," Garcetti wrote. "We must engage in that work to repair what is broken, to fix what is torn, and to be sure that we are not locked in a cycle just of perpetual punishment and revenge but instead in a spirit of forgiveness, support, and transformation."&lt;/p&gt;
+&lt;p&gt;Cabello has held various roles at City Hall, including as Garcetti's director of intergovernmental relations and as one of his public works commissioners. The city's redistricting commission oversees the once-a-decade practicing of redrawing the Los Angeles City Council district boundaries.&lt;/p&gt;
+&lt;p&gt;Solid Gold posts reviewed by The Times show Cabello left an image of Jabba the Hutt from "Star Wars" on a post about former state Assembly Speaker John Perez, who is now chairman of the University of California Board of Regents. Perez and others have condemned the group's actions.&lt;/p&gt;
+&lt;p&gt;Garcetti was asked by The Times on Thursday afternoon whether Cabello would remain on the redistricting commission. "I don't know," he said.&lt;/p&gt;
+&lt;p&gt;Comisar, Garcetti's spokesperson, said Friday that the mayor learned of Cabello's departure shortly after his interview with The Times.&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;Times staff writer David Zahniser contributed to this report.&lt;/p&gt;
+&lt;p&gt;Caption: PHOTO: MAYOR Eric Garcetti's redistricting appointee Cecilia Cabello submitted her resignation this week.&lt;/p&gt;
+&lt;p&gt;PHOTOGRAPHER:Irfan Khan Los Angeles Times&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Los Angeles Times</Title>
+         <MpubId>46999</MpubId>
+         <SortTitle>Los Angeles Times</SortTitle>
+         <Qualifier>Los Angeles, Calif.</Qualifier>
+         <JournalCode>ANGE</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18860101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Los Angeles Times Communications LLC</PublisherName>
+            <PublisherAddress>
+               <City>Los Angeles</City>
+               <Province>CA</Province>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7683</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>04583035</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60200.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Los Angeles Times</Title>
+            <SortTitle>Los Angeles Times</SortTitle>
+            <Qualifier>Los Angeles, Calif.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7683</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>04583035</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60200.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Los Angeles Daily Times</Title>
+               <Qualifier>Los Angeles, Calif.</Qualifier>
+               <EndIssueDate>18861022</EndIssueDate>
+               <CatalogNum>60200.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Dec 4, 1996</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19961204</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jun 26, 2021</AlphaDate>
+         <StartDate>2021-06-26</StartDate>
+         <EndDate>2021-06-26</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7683_Jun262021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

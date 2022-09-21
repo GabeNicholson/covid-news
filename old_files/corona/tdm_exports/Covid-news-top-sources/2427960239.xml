@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2427960239</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Overwhelmed Funeral Homes in South Texas Struggle to Keep Up</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[Foreign Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2020-07-29</NumericDate>
+      <StartDate>2020-07-29</StartDate>
+      <EndDate>2020-07-29</EndDate>
+      <AlphaDate>Jul 29, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Jul 29, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.5</StartPage>
+         <Pagination>A.5</Pagination>
+         <DocSection>A</DocSection>
+         <ColumnNumber>0</ColumnNumber>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Jul292020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>525715-20200729</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <FullTextLinkID>https://www.nytimes.com/2020/07/28/us/coronavirus-texas-funeral-homes.html</FullTextLinkID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1280</LexileScore>
+      <Desk>Foreign Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Sandoval, Edgar</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Edgar</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Edgar Sandoval</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Sandoval</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Edgar Sandoval</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <DocUrl>https://www.nytimes.com/2020/07/28/us/coronavirus-texas-funeral-homes.html</DocUrl>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hospitals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Families &amp; family life</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Funeral homes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Texas</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Chicago Illinois</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1403" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;ELSA, Texas -- Johnny Salinas Jr., the owner of Salinas Funeral Home, typically handles five funerals a week. But on a recent day, with the coronavirus tearing through his community, he saw that many grieving families in a single day.&lt;/p&gt;&lt;p&gt;A sixth family was waiting, too. His own.&lt;/p&gt;&lt;p&gt;Mr. Salinas changed from a polo shirt into a crisp black suit and left his office for the chapel next door. The light blue coffin of his great-uncle, who died of Covid-19, sat at the front of the room, adorned with white flower arrangements and a wooden crucifix.&lt;/p&gt;&lt;p&gt;"The virus is not sparing anyone," Mr. Salinas said. "Not even my family."&lt;/p&gt;&lt;p&gt;In the Rio Grande Valley of Texas, where a surge of virus cases has set off a flood of deaths this month, funeral homes -- like hospitals -- are overloaded and struggling to carry out basic services and keep up with the expanding crisis. Local funeral homes, officials said, have not experienced such demand in decades.&lt;/p&gt;&lt;p&gt;About one in 60 residents of Hidalgo County is known to have had the virus, and about one of every 2,000 people has died from the virus, a New York Times database shows. Hidalgo County now has one of the highest per capita death rates in the state.&lt;/p&gt;&lt;p&gt;At the start of July, fewer than 50 deaths in Hidalgo County had been attributed to the virus, according to the database. By Monday, there had been almost 470.&lt;/p&gt;&lt;p&gt;"It's like a bad dream," said Linda Ceballos, a co-director of Ceballos Funeral Home in McAllen. "You want to wake up, but you can't."&lt;/p&gt;&lt;p&gt;The death toll is forcing funeral directors to bypass traditional services such as velorios, viewings that sometimes last for days and are filled with prayers, hugs and sorrowful Spanish-language songs. Instead, many funeral homes now are shortening viewing times and limiting attendance. Some have ordered large refrigerator trucks to store bodies until they can get to them.&lt;/p&gt;&lt;p&gt;The virus's spread seemed relatively under control in the area until the state reopened the economy in time for Memorial Day, local health officials said. Richard Cortez, the Hidalgo County judge, said the virus soon was wreaking damage through the region, where chronic disease and widespread poverty were already significant problems. More than 14,000 people have contracted the virus in El Valle, as the area is known to its mostly Latino residents.&lt;/p&gt;&lt;p&gt;Mr. Cortez has been a constant presence on Spanish and English TV and radio, urging people to wear masks, wash their hands and -- most important, he says -- keep distant from older and vulnerable relatives.&lt;/p&gt;&lt;p&gt;It is a tall request in an area where family gatherings and pachangas, or backyard barbecues, are hallmarks of social life.&lt;/p&gt;&lt;p&gt;In desperation, Mr. Cortez last week instituted a voluntary stay-at-home order, hoping that it would send a message.&lt;/p&gt;&lt;p&gt;"If 10 percent follow it, we are making progress. We need to protect our grandparents, our aunts, our uncles," Mr. Cortez said in an interview. "Too many people are dying, too many people in misery."&lt;/p&gt;&lt;p&gt;At his great-uncle's velorio, Mr. Salinas, 30, had two roles at once: funeral director and mourning relative. Before family arrived, Mr. Salinas paced around the room, making sure it complied with hygiene guidelines.&lt;/p&gt;&lt;p&gt;Ever since Mr. Salinas was a teenager, he knew what work he wanted to do.&lt;/p&gt;&lt;p&gt;"Death is a journey," he said. "God is the destination."&lt;/p&gt;&lt;p&gt;When Mr. Salinas was 16, he had his own brush with tragedy. He said he was driving his 15-year-old sister and another teenage friend when a dog suddenly appeared in front of the car. In the chaos, the car flipped, Mr. Salinas said. His sister was killed.&lt;/p&gt;&lt;p&gt;"Now she's always here with me, not physically, but spiritually," said Mr. Salinas, who keeps an oversize photo of his sister, Deborah Lynn Salinas, bearing the date of her death -- Dec. 6, 2006 -- in the funeral home.&lt;/p&gt;&lt;p&gt;On this day, around the chapel, every other pew was sealed off with blue tape so people would sit apart. A plexiglass barrier shielded his great-uncle's upper body in the open coffin to keep mourners from leaning in.&lt;/p&gt;&lt;p&gt;"People tend to want to hug and cry on their loved ones," Mr. Salinas said.&lt;/p&gt;&lt;p&gt;Not long after, he talked a family member out of placing a rosary in the hands of Francisco Tafolla Sr., the great-uncle whom Mr. Salinas grew up simply calling uncle, who died of the virus at 85.&lt;/p&gt;&lt;p&gt;"It's human instinct to want to touch the body, but they can't," he said. "It's for their safety."&lt;/p&gt;&lt;p&gt;White flower arrangements adorned a wall beside a large photo of Mr. Tafolla. Mr. Tafolla's daughter, Gloria Tafolla Gomez, stood silently, nodding her head softly to the lyrics of "Un Dia a la Vez" -- "One Day at a Time" -- by the Tejano band Siggno.&lt;/p&gt;&lt;p&gt;"He always delivered what he promised, even if that was a spanking," Ms. Tafolla whispered to a relative. They both chuckled. "We were so afraid of him."&lt;/p&gt;&lt;p&gt;Mr. Tafolla, who worked manual jobs in the gas industry, saved money to ensure that all of his 12 children went to college, Ms. Tafolla said. She became a nurse.&lt;/p&gt;&lt;p&gt;Family members still do not know how he got the virus. "He never left the house," said Ms. Tafolla, who is 63 and is Mr. Salinas's aunt. Even before the virus, Mr. Tafolla had been battling other medical issues, and recently had heart surgery, she said. Days after his first virus symptoms, he was gone.&lt;/p&gt;&lt;p&gt;"We kind of knew that if he ended up getting sick, that he would end up leaving us," she said.&lt;/p&gt;&lt;p&gt;At Ceballos Funeral Home in McAllen, people seeking funerals during the pandemic have to wait several days, sometimes a week, Ms. Ceballos said. She has seen young victims, too, she said.&lt;/p&gt;&lt;p&gt;"Nothing is like it used to be," Ms. Ceballos said.&lt;/p&gt;&lt;p&gt;Aaron Rivera, a funeral director and embalmer at Rivera Funeral Home in McAllen, said he ordered a refrigerated truck with a capacity for about 100 bodies to avoid turning people away. The volume has tripled in the last month, he said.&lt;/p&gt;&lt;p&gt;"They don't get to see their loved ones when they are taken to the hospital," Mr. Rivera said. "They should see them at the funeral."&lt;/p&gt;&lt;p&gt;Mr. Salinas has been working around the clock, sleeping only a handful of hours a day. He owns two funeral home locations, one in Hidalgo County and a second in neighboring Cameron County. Smaller funeral homes have been referring grieving families to him when they have no more space.&lt;/p&gt;&lt;p&gt;"I tell them, stop sending them," he said. "We are tired. We haven't stopped. We need to sleep."&lt;/p&gt;&lt;p&gt;On a recent afternoon, Monica Garcia told Mr. Salinas of the day that her mother texted her from a hospital, pleading to "get me out of here."&lt;/p&gt;&lt;p&gt;Relatives rushed to the hospital parking lot, where a doctor explained that her mother, 61-year-old Sylvia N. Fuentes, had a better chance at beating the coronavirus in an intensive care unit than at home. They left feeling hopeful. The next day -- Wednesday -- her kidneys gave out and she died.&lt;/p&gt;&lt;p&gt;During a two-hour meeting with Mr. Salinas, Ms. Garcia and other family members picked out a burial outfit. Ms. Fuentes would be dressed in her favorite dress. She would wear her favorite hair brooch she wore on special occasions.&lt;/p&gt;&lt;p&gt;"Peinala to the side," Ms. Garcia said, mixing Spanish and English, comb her hair to the side. "She loved taking photos and posing," Ms. Garcia said. "She'd like to look pretty."&lt;/p&gt;&lt;p&gt;The relatives picked a pearl-white coffin adorned with a medallion: "Querida Madre," beloved mother. They shared a tender look that, in some other year, might have turned into a group hug. Instead, they looked down and returned to Mr. Salinas's office to complete paperwork.&lt;/p&gt;&lt;p&gt;For Mr. Salinas, long days have begun to blend, one into the next.&lt;/p&gt;&lt;p&gt;When a call came in on a recent afternoon, it was from inside the funeral home. The virus had hit close again. The cousin of a funeral home worker had died from Covid-19. His body waited in the nearby chapel. Mr. Salinas excused himself and disappeared down the hall.&lt;/p&gt;&lt;p&gt;Mitch Smith contributed reporting from Chicago.&lt;/p&gt;&lt;p&gt;Mitch Smith contributed reporting from Chicago.&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;photo_caption&gt;Preparations, above, were set last week for the visitation of Francisco Tafolla Sr., who died of Covid-19, with plexiglass shielding the open coffin at the Salinas Funeral Home in Elsa, Texas. Left, instead of placing a rosary in the coffin, a family member put it in a flower arrangement.; Cesar Guerra, left, and Leonel Caballero waited to perform at Mr. Tafolla's visitation. (PHOTOGRAPHS BY TAMIR KALIFA FOR THE NEW YORK TIMES)&lt;/photo_caption&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 29, 2020</AlphaDate>
+         <StartDate>2020-07-29</StartDate>
+         <EndDate>2020-07-29</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Jul292020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

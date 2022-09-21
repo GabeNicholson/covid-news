@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2485523715</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>A Social Family's Dream Home in Washington; Custom built for entertaining, this 12,000-square-foot home has a bowling alley, a home theater, a swimming pool and more. It is listed for $7.28 million. —Jessica Dailey</Title>
+      </TitleAtt>
+      <NumericDate>2021-02-03</NumericDate>
+      <StartDate>2021-02-03</StartDate>
+      <EndDate>2021-02-03</EndDate>
+      <AlphaDate>Feb 3, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>Real Estate</DocSection>
+         <ColumnHeader>Infogrfx House Of The Day</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Feb32021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO20210203CBBAED9EDE5208D4D15C64D50C8734FC</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1240</LexileScore>
+      <Terms>       
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>71391</ClassCode>
+            <ClassExpansion>Golf Courses and Country Clubs</ClassExpansion>
+         </ClassTerm>
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>71395</ClassCode>
+            <ClassExpansion>Bowling Centers</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Golf</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Country clubs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fireplaces</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="591" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt; A Newport Home With Family History &lt;/p&gt;
+&lt;p&gt;Roger and Nicole Howe had been living in Bear Creek Country Club for 10 years when they started looking for a lot where they could build their dream home. 'We loved the area. We wanted to move everyone from our cul de sac with us,' says Mr. Howe.&lt;/p&gt;
+
+&lt;p&gt;They found a nearly five-acre lot in the neighborhood that held an old A-frame from the 1930s. 'It was so wooded, you barely knew it was there,' says Mr. Howe. The Howes paid $450,000 for the lot in 2010 and cleared the property to build their home.&lt;/p&gt;
+&lt;p&gt;Mrs. Howe took the lead on designing and building the home. 'We wanted it to be comfortable for our entire family,' says Mr. Howe. 'We're very social and constantly have people over.'&lt;/p&gt;
+&lt;p&gt;The main living space is ideal for entertaining. It's very open, with the kitchen and dining room flowing into the family room, which has a floor-to-ceiling stone fireplace. The Howes have invested $5.45 million in the property.&lt;/p&gt;
+&lt;p&gt;The kitchen has a Bertazzoni gas range and a marble island. 'My wife cannot stand clutter of any kind, so she had two dishwashers installed, and a third added in the butler's pantry,' says Mr. Howe, 65. 'She didn't want any dishes around when we would have a large dinner party.'&lt;/p&gt;
+&lt;p&gt;A wall of Nana doors in the kitchen opens onto a large covered terrace with a pizza oven, a barbecue and a fireplace. Stairs lead down to a lower patio and a backyard, where there's a pool, a fire pit, and a bocce ball court, as well as a turfed lawn.&lt;/p&gt;
+&lt;p&gt;The Howes have three children, who 'always had friends over.' 'I never minded feeding the whole neighborhood,' says Mr. Howe, the owner of an auto body supply business, 'because I always knew where my kids were.'&lt;/p&gt;
+&lt;p&gt;The master bedroom is located on the main floor. It has a fireplace and en suite marble bath with a soaking tub and a heated towel rack. 'It's exactly how my wife envisioned it,' says Mr. Howe. 'She thought of every detail.'&lt;/p&gt;
+&lt;p&gt;The home spans 12,000 square feet and has six bedrooms, six full bathrooms, and two half-baths. It is listed for $7.28 million with Becky Gray of Realogics Sotheby's International Realty.&lt;/p&gt;
+&lt;p&gt;The lower level was the kids' hangout space, with a living room, a full kitchen, and a bowling alley, which started as a joke. 'The way the basement was constructed, there was this long skinny space,' explains Mr. Howe. When discussing what they should do with it, the contractor jokingly suggested a bowling alley, but the idea stuck.&lt;/p&gt;
+&lt;p&gt;The lower level also has a large storage space, direct access to the pool area, and a home theater. 'We were down there quite a bit watching movies as a family, especially during Covid,' says Mr. Howe.&lt;/p&gt;
+&lt;p&gt;The Howes also built a large barn on the property. When their sons were younger, they hosted baseball practice here. Now it has a golf simulator, a home gym, and a pickle ball court.&lt;/p&gt;
+&lt;p&gt;'We were outside as much as possible,' says Mr. Howe. His daughter played soccer in the yard, and all three kids would often walk across the street to the driving range at the country club's golf course.&lt;/p&gt;
+&lt;p&gt;The Howes are selling because they're relocating to Arizona. 'I'm going to be sad to leave,' says Mr. Howe. 'This is an amazing property. You feel like you're in the woods, but everything is at your fingertips.'&lt;/p&gt;
+&lt;p&gt; A Social Family's Dream Home in Washington &lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 3, 2021</AlphaDate>
+         <StartDate>2021-02-03</StartDate>
+         <EndDate>2021-02-03</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Feb32021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2513472104</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Castro Intends To Cede Control Of Ruling Party</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[Foreign Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2021-04-17</NumericDate>
+      <StartDate>2021-04-17</StartDate>
+      <EndDate>2021-04-17</EndDate>
+      <AlphaDate>Apr 17, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Apr 17, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.11</StartPage>
+         <Pagination>A.11</Pagination>
+         <DocSection>A</DocSection>
+         <ColumnNumber>0</ColumnNumber>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Apr172021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>147150-20210417</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <FullTextLinkID>https://www.nytimes.com/2021/04/16/world/americas/raul-castro-cuba.html</FullTextLinkID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1800</LexileScore>
+      <Desk>Foreign Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Abi-Habib, Maria</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Maria</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Maria Abi-Habib</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Abi-Habib</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Maria Abi-Habib</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <DocUrl>https://www.nytimes.com/2021/04/16/world/americas/raul-castro-cuba.html</DocUrl>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Economic reform</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political leadership</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political parties</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Cuba</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="637" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Mr. Castro said he will step down and pass on control of the party to Cuba's younger generation. His departure will leave Cuba without a Castro at its helm for the first time in over 60 years.&lt;/p&gt;&lt;p&gt;MEXICO CITY -- Raúl Castro announced Friday that he was handing over leadership of Cuba's ruling Communist Party to a younger generation "full of passion and anti-imperialist spirit," leaving the island nation without a Castro in a top leadership role for the first time in over 60 years.&lt;/p&gt;&lt;p&gt;Mr. Castro, who turns 90 in June, reiterated his long-anticipated intention to step down in a speech kicking off the Communist Party congress on Friday. He is expected to formally step down and announce his replacement before the conference ends on Monday.&lt;/p&gt;&lt;p&gt;After serving two terms as Cuba's president, Mr. Castro stepped down from that office in 2018, replaced by his handpicked successor, Miguel Díaz-Canel Bermúdez.&lt;/p&gt;&lt;p&gt;Cuba's leadership will likely announce further reforms during the party congress, allowing for more free-market activity and reorienting the country's economy further away from the austere, state-run model put in place after the revolution that brought Mr. Castro and his brother, Fidel, to power in 1959.&lt;/p&gt;&lt;p&gt;The Communist Party has little choice but to reform or face rising discontent as Cuba faces its worst economic crisis since the 1990s, after the fall of the Soviet Union. By ushering in a new, younger political class, Mr. Castro hopes to set the country on a course to fully embrace and implement the economic reforms he introduced in the years since his brother Fidel -- the leader of the revolution -- died five years ago.&lt;/p&gt;&lt;p&gt;Mr. Castro is seen as more pragmatic than Fidel, more willing to inch Cuba away from the Communist model that his brother championed, which provided the country with major developmental successes, including high literacy rates and quality health care for all Cubans, but has left the economy in shambles.&lt;/p&gt;&lt;p&gt;"Of course Raúl will continue to have influence, like Deng Xiaoping did when he stepped down," said Carlos Alzugaray, a party insider and a former diplomat in the Cuban government, referring to the Chinese revolutionary leader who took over after Mao Zedong and led China through a period of widespread market reforms.&lt;/p&gt;&lt;p&gt;Mr. Alzugaray added that on fundamental issues like relations with the United States and on significant economic issues, Mr. Castro may weigh in from his retirement. But he will likely not interfere in the day-to-day running of Cuba.&lt;/p&gt;&lt;p&gt;"It won't be a clean-cut thing, it's not how the system works in Cuba," Mr. Alzugaray said. "It's not like the U.S. where the former presidents don't have influence once they leave office."&lt;/p&gt;&lt;p&gt;Mr. Castro had announced in 2016 that he would give up his post as secretary-general of the Communist Party during this year's party congress, in order to hand over power to a younger generation. The secretary-general is the most powerful position in Cuba, more powerful than the presidency, seen as the second most senior position.&lt;/p&gt;&lt;p&gt;Mr. Díaz-Canel will likely be elected as the new secretary-general of the Communist Party over the weekend, consolidating his leadership over Cuba. The two roles are often held by the same person, with Fidel presiding over both positions for some 30 years.&lt;/p&gt;&lt;p&gt;Younger members are expected to be elected to the 17-member Politburo before the end of the party congress, further clearing the body of what Cubans call the "historic generation," the veterans of the armed revolution.&lt;/p&gt;&lt;p&gt;Cuba has been ruled for decades by an aging political class, many of whom launched the revolution in the 1950s and are seen as resistant to the reforms Mr. Castro has tried to push through.&lt;/p&gt;&lt;p&gt;Maria Abi-Habib reported from Mexico City. Ed Agustin contributed from Havana, Cuba.&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;photo_caption&gt;Then-President Raul Castro of Cuba during a parade in honor of his brother, Fidel, in Havana in 2017. (PHOTOGRAPH BY Ramon Espinosa/Associated Press FOR THE NEW YORK TIMES)&lt;/photo_caption&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Apr 17, 2021</AlphaDate>
+         <StartDate>2021-04-17</StartDate>
+         <EndDate>2021-04-17</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Apr172021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

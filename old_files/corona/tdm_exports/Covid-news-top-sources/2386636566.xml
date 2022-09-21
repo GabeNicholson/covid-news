@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2386636566</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Officials warn that D.C. region could be next hot spot</Title>
+      </TitleAtt>
+      <NumericDate>2020-04-07</NumericDate>
+      <StartDate>2020-04-07</StartDate>
+      <EndDate>2020-04-07</EndDate>
+      <AlphaDate>Apr 7, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Apr 7, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.1</StartPage>
+         <DocSection>Metro</DocSection>
+         <DocEdition>Suburban</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Apr72020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20200407OfficialswarnthatDCregioncouldbenexthots9863defa</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1600</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Chason, Rachel</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Rachel</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Rachel Chason</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Chason</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Rachel Chason</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Nirappil, Fenit</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Fenit</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Fenit Nirappil</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Nirappil</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Fenit Nirappil</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="3">
+            <Author>
+               <NormalizedDisplayForm>Portnoy, Jenna</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jenna</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jenna Portnoy</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Portnoy</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jenna Portnoy</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="4">
+            <Author>
+               <NormalizedDisplayForm>Harden, John D</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>John</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>John D Harden</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Harden</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>D</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>John D Harden</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hospitals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Social distancing</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fatalities</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Ventilators</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Race</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hospitalization</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Maryland</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Virginia</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1726" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Number of Critical-care cases increases&lt;/p&gt;
+&lt;b&gt;Hospitals not yet overwhelmed but need equipment&lt;/b&gt;
+&lt;p&gt;The District, Maryland and Virginia saw their biggest single-day increase in fatalities related to the novel coronavirus Monday, with deaths up to 169 as officials warned that the region could become one of the country's next hot spots and hospitals prepared for a surge. &lt;/p&gt;
+&lt;p&gt;Data released in the District - which for the first time Monday included a breakdown by race - showed that deaths are disproportionately concentrated among black residents, as has been the case elsewhere in the country. &lt;/p&gt;
+&lt;p&gt;There was a 114 percent increase in confirmed coronavirus cases in the D.C. region in the past week, according&lt;em&gt; &lt;/em&gt;to data analyzed by The Washington Post. From Friday through Monday, there were an average of 393 new cases a day - up from an average of 70 new cases a day March 22 through March 24.&lt;/p&gt;
+&lt;p&gt;Of the new cases last week, 40 percent originated in Prince George's County and Montgomery County, where as of Monday evening there had been 23 and 19 deaths, respectively. The District and Northern Virginia each accounted for 30 percent of the new cases. &lt;/p&gt;
+&lt;p&gt;Officials said that hospitals are seeing increases in the number of patients who need critical care  but that the medical facilities are not overwhelmed. &lt;/p&gt;
+&lt;p&gt;In Virginia, 538 patients were hospitalized with covid-19, the disease caused by the coronavirus. An additional  656 people were in state hospitals awaiting coronavirus test results. In Maryland, 1,059 people were hospitalized and 184 had been released from isolation. &lt;/p&gt;
+&lt;p&gt;D.C. officials have not been disclosing how many people are hospitalized with covid-19. But on April 1, the city's top public health official said that  about 14 percent of people who tested positive for coronavirus were hospitalized and that the average age of a hospitalized person was 59.&lt;/p&gt;
+&lt;p&gt;"We have definitely seen a steady increase in the number of patients who are both positive with covid-19 and people who are getting sick with covid-19," said William B. Borden, chief quality and population health officer with the George Washington University Medical Faculty Associates. "We have not yet seen the inflection point where it's gone up to exponential growth. But that could happen at any point."&lt;/p&gt;
+&lt;p&gt;The rising cases across the Washington area are probably a combination of increased infections as well as a greater access to testing, Borden explained. A similar spike in the number of hospitalizations would be a dangerous red flag for heath officials. &lt;/p&gt;
+&lt;p&gt;"We think we're still in the calm before the storm," said Leslie Simmons, the executive vice president of LifeBridge Health, whose five Maryland hospitals are beginning to see an influx of patients in need of ventilators. &lt;/p&gt;
+&lt;p&gt;Simmons said the critical-care unit at Carroll Hospital in Westminster was in overflow status last week after seeing a rise in patients from Pleasant View Nursing Home in Mount Airy.  &lt;/p&gt;
+&lt;p&gt;That meant that some critical-care patients were being treated on a different floor, in a unit that is normally used for intermediate care, she said. The LifeBridge hospitals have not yet had to open tents or conference rooms to care for patients but have surge plans in place to do so if necessary, she said. &lt;/p&gt;
+&lt;p&gt;As of Monday, the critical-care unit at Carroll was back at normal capacity.&lt;/p&gt;
+&lt;p/&gt;
+&lt;p&gt;The D.C. government on Monday released coronavirus data broken down by race for the first time, showing black residents are disproportionately represented among the dead.&lt;/p&gt;
+&lt;p&gt;Fourteen of the District's 24 covid-19 fatalities are black, or about 58 percent, the city reported. Black residents compose about 46 percent of the population in the District.&lt;/p&gt;
+&lt;p&gt;Data released by other jurisdictions, including Michigan and Chicago, also shows black residents have been disproportionately affected.&lt;/p&gt;
+&lt;p&gt;That data and other reasons prompted more than 80 members of the Maryland House of Delegates to sign a letter calling on the state to release racial data for the coronavirus, saying it is necessary "to ensure proper attention is placed on addressing any health inequities in real time."&lt;/p&gt;
+&lt;p&gt;Del. Nick J. Mosby (D-Baltimore City), who has been pushing for the data for weeks without success, is spearheading the effort. &lt;/p&gt;
+&lt;p&gt;Mosby said more granular data is necessary to successfully engage the community and determine how resources should be used to "flatten the curve."&lt;/p&gt;
+&lt;p&gt;"Without that data, you are literally shooting in the dark," Mosby said.&lt;/p&gt;
+&lt;p&gt;A spokesman for Gov. Larry Hogan (R), Mike Ricci, tweeted Monday thanking Mosby and saying the governor's office received the message and would work on it.&lt;/p&gt;
+&lt;p&gt;D.C. Mayor Muriel E. Bowser (D) was asked about the racial disparity at a news conference Monday. "All deaths concern me," she answered. She said the 58 percent figure is "somewhat higher, not much," than the overall share of black residents in the city.&lt;/p&gt;
+&lt;p&gt;The city only had the races of about half of the roughly 1,100 people who tested positive for the coronavirus. Of those cases where race was available, nearly 6 in 10 are black and a quarter are white.&lt;/p&gt;
+&lt;p&gt;Virginia has reported races of residents who tested positive for coronavirus but not for fatalities. But the state did not have the races of more than half of the nearly 3,000 people who tested positive.&lt;/p&gt;
+&lt;p&gt;Of the 1,340 for which racial data was available, about 29 percent were black. About 20 percent of Virginians are black.&lt;/p&gt;
+&lt;p&gt;As of Monday afternoon, there were 8,028 positive covid-19 cases in Maryland, Virginia and the District. There were big jumps in cases across the three jurisdictions Monday, bringing the total in Maryland to 4,046, with 2,881 in Virginia and 1,101 in the District, according to The Post's tally.&lt;/p&gt;
+&lt;p&gt;"We're starting to heat up quite a bit," Hogan said during a Fox News radio interview Monday. "We're now considered a hot spot." &lt;/p&gt;
+&lt;p&gt;Bowser said Monday that she has made clear that the District is vulnerable to a wave of cases, noting that she warned on Friday that 1 in 7 residents could be infected and hospitalizations could peak in July. &lt;/p&gt;
+&lt;p&gt;She explained that she told President Trump and Deborah Birx, the White House coronavirus coordinator, of her concerns over the growth in cases in the District and across the region. Birx subsequently warned this weekend that the D.C. region could be a next hot spot. &lt;/p&gt;
+&lt;p&gt;Birx said she hopes that social-distancing efforts will "blunt the curve" so the region will not follow the same trajectory as New York, New Jersey and Connecticut. She urged residents to stay home as much as possible, including avoiding the grocery store and pharmacy. Bowser has not gone that far, but she said residents should limit essential trips as much as possible. &lt;/p&gt;
+&lt;p&gt;"We're watching them because they are starting to go on that upside of the curve," Birx said Saturday, referring to the District, as well as Colorado and Pennsylvania. &lt;/p&gt;
+&lt;p&gt;Sens. Ben Cardin and Chris Van Hollen, both Democrats from Maryland, said public health officials have told them cases in the region are expected to rise with a potential peak of early May, but they stressed that the situation is fluid and that not enough tests are being conducted to get a true picture of the current threat.&lt;/p&gt;
+&lt;p&gt;They said hospitals and health centers have universally said they need more personal protective equipment for doctors, nurses and medical workers.&lt;/p&gt;
+&lt;p&gt;"We have been incredibly frustrated with the shortage of PPE and testing and ventilators in this region and throughout Maryland," Van Hollen said. "As of today, I'm afraid . . . we don't have supplies we need."&lt;/p&gt;
+&lt;p&gt;"There may be areas of our state that may not be able to deal with the influx of patients," Cardin said.&lt;/p&gt;
+&lt;p&gt;
+&lt;em/&gt;Vice President Pence announced Monday evening that the Washington region would receive some of the ventilators that were loaned by California to the national stockpile. He said 200 will go to Maryland and 50 will go to the District.&lt;em/&gt;
+&lt;/p&gt;
+&lt;p&gt;Some hospital administrators were more reluctant to sound &lt;em/&gt; the alarms about an influx of cases in&lt;em/&gt; the greater D.C. region.&lt;/p&gt;
+&lt;p&gt;"I think any populated area that has a fair density that did not do social distancing early on to really try to mitigate it is at risk for being an area with more cases," said Jordan Asher, senior vice president and chief physician executive at Sentara Healthcare. "I can't stress enough the impact of social distancing and when it got started and how well are people adhering to it."&lt;/p&gt;
+&lt;p&gt;Sentara Northern Virginia Medical Center, a 183-bed hospital in Prince William County, has a plan to double its bed count by adding to rooms and putting beds in operating and pre-op rooms, recovery rooms, conference centers, and classroom space, he said.&lt;/p&gt;
+&lt;p&gt;The hospital is looking for space outside its footprint and expects to be able to move non-covid-19 patients to the Dulles Expo Center, a space identified by state officials as a possible temporary hospital. The system is also continuing efforts to preserve PPE by disinfecting equipment that can be reused and limiting non-urgent surgeries, Asher said. &lt;/p&gt;
+&lt;p&gt;Gene Ransom, chief executive of the Maryland State Medical Society, said he is not sure how hard Maryland will be hit but that he knows the state is doing all it can in terms of preparedness. &lt;/p&gt;
+&lt;p&gt;Hogan has said his plan to add 6,000 beds is ahead of schedule and that the state is rapidly recruiting medical personnel. Ransom said his biggest concern also is the lack of PPE, which he said he hears about daily from physicians concerned it will exacerbate the spread of the virus. &lt;/p&gt;
+&lt;p&gt;Bob Atlas, head of the Maryland Hospital Association, said all of the state's four dozen hospitals are low on protective gear. &lt;/p&gt;
+&lt;p&gt;"But no one is out, at this point," he added.&lt;/p&gt;
+&lt;p&gt;The University of Maryland Medical System, which includes 13 hospitals across the state, instituted a mandatory masking policy Monday, requiring that everyone in acute care and ambulatory facilities wear them. &lt;/p&gt;
+&lt;p&gt;The goal of the new policy, effective immediately, is to reduce the spread of covid-19 through asymptomatic carriers, said chief executive Mohan Suntha. The system will provide the masks, he said. &lt;/p&gt;
+&lt;p&gt;UMMS is also looking for emergency staff to assist in a potential surge, according to its website. &lt;/p&gt;
+&lt;p&gt;Hospitals in some larger systems have designated themselves hubs for treating covid-19, including MedStar Washington Hospital and Johns Hopkins Hospital in Baltimore. &lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;rachel.chason@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;fenit.nirappil@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;jenna.portnoy@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;john.harden@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Ovetta Wiggins, Kyle Swenson, Laura Vozzella, Angela Fritz and Candace Buckner contributed to this report.&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Apr 7, 2020</AlphaDate>
+         <StartDate>2020-04-07</StartDate>
+         <EndDate>2020-04-07</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Apr72020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2451486948</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Positive and Negative Tests Sow Confusion for Colts and Patriots</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[Sports Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2020-10-17</NumericDate>
+      <StartDate>2020-10-17</StartDate>
+      <EndDate>2020-10-17</EndDate>
+      <AlphaDate>Oct 17, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Oct 17, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.8</StartPage>
+         <Pagination>B.8</Pagination>
+         <DocSection>B</DocSection>
+         <ColumnNumber>0</ColumnNumber>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Oct172020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>992364-20201017</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <FullTextLinkID>https://www.nytimes.com/2020/10/16/sports/football/patriots-colts-coronavirus-nfl.html</FullTextLinkID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1620</LexileScore>
+      <Desk>Sports Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Belson, Ken</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Ken</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Ken Belson</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Belson</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Ken Belson</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Das, Andrew</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Andrew</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Andrew Das</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Das</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Andrew Das</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="3">
+            <Author>
+               <NormalizedDisplayForm>Wu, Katherine J</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Katherine</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Katherine J Wu</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Wu</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>J</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Katherine J. Wu</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <DocUrl>https://www.nytimes.com/2020/10/16/sports/football/patriots-colts-coronavirus-nfl.html</DocUrl>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>National Football League--NFL</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>711211</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813990</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>New England Patriots</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>711211</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="Editorial">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Indianapolis Colts</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>711211</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Professional football</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Athletes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 diagnostic tests</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease control</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="729" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Indianapolis announced four positives, then said that re-testing produced different results. Both teams plan to play Sunday.&lt;/p&gt;&lt;p&gt;The Indianapolis Colts on Friday briefly joined the growing group of N.F.L. teams dealing with a potential outbreak of coronavirus cases. Hours later, though, the team announced that the "four individuals" who tested positive for the virus had been re-tested and confirmed to be negative.&lt;/p&gt;&lt;p&gt;After the Colts said they were closing their practice facility, the New England Patriots -- who had just emerged from a virus-inflicted week off -- canceled their Friday practice session after recording one new positive. A second New England player initially tested positive as well on Friday, but the follow-up screening yielded a negative result.&lt;/p&gt;&lt;p&gt;The confusion in Indianapolis mirrored a similar series of events last Friday involving the Jets, who closed and then quickly reopened their training facility after an initial positive result was not confirmed in a second test. The uncertainty and disruption also cast new doubt on the reliance on rapid testing to spot, and prevent, virus outbreaks as the league plows ahead with its schedule.&lt;/p&gt;&lt;p&gt;The rash of false positives echoed several other incidents that have made headlines in recent months. In August, Gov. Mike DeWine of Ohio tested positive on a rapid test, only to confirm thrice by a laboratory test that he did not have the coronavirus. And on Oct. 2, officials in Nevada issued a statewide directive to nursing homes to halt use of two government-issued rapid tests that had produced a concerning number of false positives that could not be confirmed by more reliable tests. Under pressure from the federal government, the state reversed the order a week later.&lt;/p&gt;&lt;p&gt;Although rapid tests for the coronavirus are faster, more convenient and cheaper than typical laboratory tests, they are far less accurate. They more frequently miss cases of the coronavirus, as well as mistakenly label healthy people as infected.&lt;/p&gt;&lt;p&gt;The news of the Patriots' new case came a day after two of the their most important players, quarterback Cam Newton and cornerback Stephon Gilmore, were taken off the team's reserve/Covid-19 list and returned to practice. Newton, who joined the Patriots this season, and Gilmore, the reigning N.F.L. defensive player of the year, are expected to play when the Patriots face the Denver Broncos on Sunday afternoon. The team said the game, which had been postponed a week after New England's earlier virus outbreak, would go ahead as planned.&lt;/p&gt;&lt;p&gt;In Indianapolis, the Colts called off practice and sent their employees home after announcing the team had determined it was dealing with "several" positives, only to call everyone back hours later.&lt;/p&gt;&lt;p&gt;"The four positive samples were re-tested and have been confirmed negative," the team said in an update posted on Twitter. After consulting the league, the Colts said, they reopened their practice facility "and will continue preparation for Sunday's game."&lt;/p&gt;&lt;p&gt;The Colts were just the latest team to announce positive tests in the past few weeks, a group that has included the Tennessee Titans, the Patriots and, as of Thursday, the Atlanta Falcons. The outbreaks have scrambled the N.F.L. schedule, forced the league to strengthen its virus protocols, and raised questions about its decision to press ahead with the game schedule without creating a restricted environment like the so-called bubble used by the N.B.A.&lt;/p&gt;&lt;p&gt;Several N.F.L. game dates have already been changed, and each new postponement causes a cascading series of changes in the complicated matrix that is the league's schedule.&lt;/p&gt;&lt;p&gt;Any complications with Sunday's Patriots-Broncos game in New England, though, could create the most serious scheduling problems yet. When the league postponed the teams' meeting last weekend, it solved the scheduling complication by allowing New England and Denver to use their original date as a bye week, and by shuffling several games against other opponents later in the season.&lt;/p&gt;&lt;p&gt;But since N.F.L. teams only get one bye week per season, that has left the league with no flexibility if it is forced to postpone any more games involving either team. By insisting on its traditional schedule format, even as virus cases continue to rise in dozens of states, the N.F.L. has little choice but to try to play Sunday's game -- provided the Patriots do not confirm any additional cases -- or to pursue adding an 18th week to the calendar to allow for makeup games.&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;photo_caption&gt;The New England Patriots have one new coronavirus case. (PHOTOGRAPH BY Steven Senne/Associated Press FOR THE NEW YORK TIMES)&lt;/photo_caption&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 17, 2020</AlphaDate>
+         <StartDate>2020-10-17</StartDate>
+         <EndDate>2020-10-17</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Oct172020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

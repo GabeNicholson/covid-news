@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487140746</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Biden has a congressional shortcut to cancel Trump's regulatory rollbacks, but it comes with risks</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-18</NumericDate>
+      <StartDate>2021-01-18</StartDate>
+      <EndDate>2021-01-18</EndDate>
+      <AlphaDate>Jan 18, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210118_153426</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210118_153426</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jan182021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Farber, Daniel</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Daniel</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Daniel Farber</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Farber</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Daniel Farber</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/153426/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Senate</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Congress</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Congressional investigations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Regulation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Outdoor air quality</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Coronavirus Aid Relief &amp; Economic Security Act 2020-US</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="112">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Biden could take a leaf from the Republicans' 2017 playbook, when congressional Republicans used a shortcut based on an obscure federal law called the Congressional Review Act to wipe out several Obama administration regulations.
+
+Senate filibusters are not allowed, and Senate debate is limited to 10 hours.
+
+Since only days Congress is in session are counted, the act can apply to regulations that go back several months.
+
+Just in the past few weeks, the Trump administration has adopted rules limiting consideration of public health studies to set air pollution limits, requiring banks to make loans to the firearms and oil industries, and protecting industries other than electric utilities from climate change regulations.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="905" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The Trump administration dedicated itself to deregulation with unprecedented fervor. It rolled back scores of regulations across government agencies, including more than 80 environmental rules.&lt;/p&gt;
+&lt;p&gt;The Biden administration can reverse some of those actions quickly - for instance, as president, Joe Biden can undo Donald Trump's executive orders with a stroke of the pen. He plans to restore U.S. involvement in the Paris climate agreement that way on his first day in office.&lt;/p&gt;
+&lt;p&gt;Undoing most regulatory rollbacks, however, will require a review process that can take years, often followed by further delays during litigation.&lt;/p&gt;
+&lt;p&gt;There is an alternative, but it comes with risks.&lt;/p&gt;
+&lt;p&gt;Biden could take a leaf from the Republicans' 2017 playbook, when congressional Republicans used a shortcut based on an obscure federal law called the Congressional Review Act to wipe out several Obama administration regulations. Some scholars have called these 2017 repeals arguably "the Trump administration's chief domestic policy accomplishment of its first 100 days."&lt;/p&gt;
+&lt;p&gt;Not surprisingly, there's a lot of interest in having the new Democratic-controlled Congress turn the tables and use the same procedure against Trump's regulatory rollbacks.&lt;/p&gt;
+&lt;p&gt;However, this procedure is far from a panacea for undoing Trump's legacy. Its arcane rules can tie the hands of future administrations without providing clear standards for how it applies, and it offers little time for deliberation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; How Congress could cancel Trump's rollbacks &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The 1996 Congressional Review Act provides a way of undoing new rules issued by executive branch agencies without being mired in agency and court proceedings. Democrats could use it to cancel rollbacks by the Environmental Protection Agency, the Interior Department and others.&lt;/p&gt;
+&lt;p&gt;The Congressional Review Act applies equally whether a rule expands regulation or rolls it back. Within 60 legislative days after a new rule comes out, Congress can disapprove it using streamlined procedures. Senate filibusters are not allowed, and Senate debate is limited to 10 hours. Since only days Congress is in session are counted, the act can apply to regulations that go back several months.&lt;/p&gt;
+&lt;p&gt;Once a rule is disapproved, it's dead forever. It can't be reissued.&lt;/p&gt;
+&lt;p&gt;But that isn't all. The act says no rule can be issued in "substantially the same form" without additional authorization from Congress.&lt;/p&gt;
+&lt;p&gt;How similar does a future rule have to be before it becomes "substantially the same"? There is no definitive answer, so there's some risk that an unfriendly judge might invalidate a Biden rule dealing with the same subject as a repealed Trump rule. Assuming the Biden rule goes in the opposite direction from the Trump rule, this might not be a major risk. But we can't really be sure.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Time and numbers &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Democrats may find some appealing targets for the Congressional Review Act. Just in the past few weeks, the Trump administration has adopted rules limiting consideration of public health studies to set air pollution limits, requiring banks to make loans to the firearms and oil industries, and protecting industries other than electric utilities from climate change regulations. These are only some of the last-minute efforts by Trump to sabotage regulations favored by Democrats.&lt;/p&gt;
+&lt;p&gt;The number of congressional votes needed to succeed, particularly in the Senate, will likely narrow the list, however.&lt;/p&gt;
+&lt;p&gt;The Democrats have only 50 senators, and they will need 50 votes plus Vice President Kamala Harris' tiebreaking vote to use the act. Unless they can find a moderate Republican like Susan Collins of Maine to cross the aisle, they will need every single one of their own senators. That includes Joe Manchin of West Virginia, often their most conservative senator, particularly on fossil fuel issues.&lt;/p&gt;
+&lt;p&gt;Congressional Review Act repeals also take time. Each takes up to 10 hours on the Senate floor. Senate floor time is limited and desperately needed to confirm Biden's nominees and consider Trump's impeachment. That's not to mention a coronavirus relief bill and other priorities. This a strong reason to be selective.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Is it time to repeal the act? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Progressives view the Congressional Review Act as a remnant of Newt Gingrich's "Contract with America," designed as a conservative tool for deregulation.&lt;/p&gt;
+&lt;p&gt;They also point out that the Congressional Review Act's time limits on repealing a regulation and procedural shortcuts mean that there's very little opportunity for congressional deliberation.&lt;/p&gt;
+&lt;p&gt;As a law professor specializing in energy and the environment, I have studied Republicans' use of the Congressional Review Act in 2017. My research shows that their selection of targets was haphazard at best, having little to do with the burdens created by individual regulations. Democrats may find that their selection of Congressional Review Act targets will be driven less by major policy concerns and more by the vagaries of swing voters such as Sen. Manchin.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;Given reservations by some parts of the party about the Congressional Review Act and how much else Democrats now have on their agenda, it seems unlikely that Democrats will use the act to the same extent as the Republicans did in 2017.&lt;/p&gt;
+&lt;p&gt;Maybe if the Congressional Review Act is now turned against Republican policies after being turned against Democratic policies, we may start to have a healthy debate on whether this mechanism for congressional oversight is worth keeping.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Daniel Farber does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Daniel Farber, Professor of Law, University of California, Berkeley&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 18, 2021</AlphaDate>
+         <StartDate>2021-01-18</StartDate>
+         <EndDate>2021-01-18</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jan182021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

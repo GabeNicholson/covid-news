@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487141625</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>From recording videos in a closet to Zoom meditating, 2020's political campaigns adjust to the pandemic</Title>
+      </TitleAtt>
+      <NumericDate>2020-10-07</NumericDate>
+      <StartDate>2020-10-07</StartDate>
+      <EndDate>2020-10-07</EndDate>
+      <AlphaDate>Oct 7, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20201007_145788</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20201007_145788</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Oct72020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Trish, Barbara A</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Barbara</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Barbara A Trish</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Trish</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>A</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Barbara A. Trish</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/145788/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fund raising</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Nominations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Technological change</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political activism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Consultants</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical supplies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Presidential elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Candidates</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Volunteers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Text messaging</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="88">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Virtual phone banks had been around for a few cycles, freeing campaigns from relying on a field office or a donated space like a law firm conference room, where volunteers would assemble to make calls.
+
+[...]Facebook announced that it would ban political ads for the week preceding Nov. 3, joining other prominent social media platforms - Twitter and Google - which have otherwise regulated political advertising.
+
+[...]despite extraordinary circumstances and developments, the conduct of this campaign should look familiar to the 21st-century observer - just with some adjustments.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1305" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;President Donald Trump may have eschewed masks and distancing in this pandemic year of campaigning, resulting in both his diagnosis of COVID-19 and the spread of the disease in the White House.&lt;/p&gt;
+&lt;p&gt;But others have figured out how to campaign with reduced risk. This cycle, there's plenty of expertise, technology and ingenuity to go around.&lt;/p&gt;
+&lt;p&gt;I study campaign politics, and the book I'm co-authoring for Routledge - "Inside the Caucus Bubble" - includes a close look at campaign practices from the recent presidential nomination contest.&lt;/p&gt;
+&lt;p&gt;This is 2020, not 1828, when candidates had few paths to the voter beyond in-person contact and little support beyond what the party organization offered.&lt;/p&gt;
+&lt;p&gt;The cast of characters in U.S. electoral politics extends well beyond voters and campaigns and includes vendors, consultants, data brokers, analytics professionals, media consultants and creative teams who all play a part in carrying out a campaign.&lt;/p&gt;
+&lt;p&gt;I've looked at the way campaigns engage voters and motivate volunteers and at vendors who offer a range of products and services, from digital fundraisers who run tests on email subject lines to old-school print shops, still producing yard signs.&lt;/p&gt;
+&lt;p&gt;Candidates, campaigns and the vendors they work with, I found, have been able to adjust and innovate in the COVID-19 era.&lt;/p&gt;
+&lt;p&gt;On the heels of active 2018 midterm contests and the recent Democratic presidential nomination race, the 2020 general election campaigns are generally well positioned to compete in this challenging new environment. For some, the spate of late spring and early summer primaries offered a trial run in campaigning during a pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Diffusing power &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;An infrastructure for remote organizing was already in place before the pandemic, facilitating communication among staff, volunteers and voters without any in-person contact.&lt;/p&gt;
+&lt;p&gt;Virtual phone banks had been around for a few cycles, freeing campaigns from relying on a field office or a donated space like a law firm conference room, where volunteers would assemble to make calls. Instead, volunteers - with apps on their mobile phones connecting them to lists, scripts and the ability to enter data - can make calls wherever they are.&lt;/p&gt;
+&lt;p&gt;By 2018, campaigns began to rely on new platforms for texting to engage volunteers and voters. Known as peer-to-peer texting, these programs make campaign communications look a lot more like what voters receive from their friends on a daily basis, increasing the likelihood that they will read, respond and engage with the campaign.&lt;/p&gt;
+&lt;p&gt;Texting is a mainstay of "relational organizing," which puts the tools of organizing directly in the hands of field staff and volunteers. This ostensibly diffuses power within a campaign organization and untethers workers and volunteers from the physical connection to, and the control of, the campaign structure.&lt;/p&gt;
+&lt;p&gt;The 2020 Sanders and Buttigieg campaigns played up these qualities, with Buttigieg going further, introducing a design toolkit that allowed supporters to customize their own digital and traditional campaign products such as T-shirts and yard signs.&lt;/p&gt;
+&lt;p&gt;Separating out the meaningful impact of tools like these from the hype associated with something new is always hard. At a minimum, the same technologies that campaigns have been using to spread tasks across an organization mesh well with a world in which face-to-face is less of an option.&lt;/p&gt;
+&lt;p&gt;The same is true of an event platform, Mobilize, that helps progressives manage events and recruit volunteers. This spring, Mobilize shifted abruptly from its prepandemic focus on in-person events to an all-virtual event world. Since then, Mobilize has added a new feature, delivering an automated request to a volunteer to host her own virtual event.&lt;/p&gt;
+&lt;p&gt;Putting tools directly in volunteer hands has the potential to bring unexpected voices into the campaign. The Mobilize platform lists an early October "Meditation for Joe and Kamala" Zoom-based event, hosted in Los Angeles, making this pitch to activists: "Meditate together for Joe and Kamala. All are welcome, no experience required:)"&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Making videos in a closet &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Much campaign work can be done from home. The jury-rigged home office of Michigan congressional candidate Hillary Scholten features an overturned laundry basket propped on her dryer. The candidate finds this standing-desk setup, with campaign placards as backdrop, good for making calls to donors - and pairing socks at the same time.&lt;/p&gt;
+&lt;p&gt;For tasks that can't be accomplished remotely, the obvious fix starts with pandemic safety measures. The in-person voter registration work of Mi Familia Vota came to a halt when the pandemic hit. Now, the Latino vote-focused organization sends out volunteers, after a temperature check, equipped with bleach wipes, gloves and dozens of pens.&lt;/p&gt;
+&lt;p&gt;In midsummer, Campaigns and Elections Magazine, a leading trade publication for political campaign professionals, offered its first "at home" version of its campaign technology conference.&lt;/p&gt;
+&lt;p&gt;Vendors and consultants at the conference described an ever-changing 2020 political environment, heavily influenced by the status of the virus outbreak. Their work, they said, is subject to parameters set by lockdown terms and state regulations - sometimes in flux - about ballot access and early voting.&lt;/p&gt;
+&lt;p&gt;At that time, even elements of the digital landscape presumably immune to the pandemic were a moving target. Facebook had just announced an "opt out" feature to turn off political ads. More recently, Facebook announced that it would ban political ads for the week preceding Nov. 3, joining other prominent social media platforms - Twitter and Google - which have otherwise regulated political advertising.&lt;/p&gt;
+&lt;p&gt;The combined moves of these three giants undoubtedly affect how campaigns are run, though other social media paths to voters remain open.&lt;/p&gt;
+&lt;p&gt;Those who tuned in for the conference heard about innovations that were responsive to the current situation. Chris Bachman of SBDigital, a digital media agency, told about a client locked down in her home who needed to produce campaign videos. She recorded voice-overs in her closet, clothes absorbing sound to produce better audio on her iPhone.&lt;/p&gt;
+&lt;p&gt;Not all campaign innovations work well in the pandemic era. Digital consultant Cheryl Hori had orchestrated a creative use for Waze, the navigation software, in a prepandemic setting.&lt;/p&gt;
+&lt;p&gt;Hori, founder of Pacific Campaign House, placed Election Day targeted ads on Waze that popped up when a car came to a stop; they made the pitch to vote, then directed the driver to the nearest polling place. The ads wouldn't be too useful in 2020, with fewer people voting in person and more by mail.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Meet voters where they are &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Campaign insiders say the pandemic makes candidates' authenticity that much more important. Ryanne Brown, an advertising executive with digital firm Do Big Things, put it this way: "People's BS meters are on high alert." The pandemic reinforces the adage that campaigns should "meet voters where they are."&lt;/p&gt;
+&lt;p&gt;That may be a literal statement this year. A lot of those voters are at home; many are using internet-supported platforms that allow advertising.&lt;/p&gt;
+&lt;p&gt;For the political media professionals who navigate this world of what's called "over the top" advertising, a pandemic is the perfect opportunity. Campaigns have less competition for advertising space (think canceled Summer Olympics and locked-down travel destinations), and viewers have more time to watch streamed content.&lt;/p&gt;
+&lt;p&gt;Certainly not all campaigns are positioned to - or want to - take advantage of the high-tech tools and resources of the industry. An Iowa legislative candidate's Zoom mojito fundraiser involved low-tech aspects as well: a doorstop delivery of a small mint plant - no contact - with a home printer-produced label, "Vote Sarah Smith for HD76."&lt;/p&gt;
+&lt;p&gt;Generally speaking, despite extraordinary circumstances and developments, the conduct of this campaign should look familiar to the 21st-century observer - just with some adjustments.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get our most insightful politics and election stories.&lt;/i&gt;Sign up for The Conversation's Politics Weekly.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Barbara A. Trish does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Barbara A. Trish, Professor of Political Science, Grinnell College&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 7, 2020</AlphaDate>
+         <StartDate>2020-10-07</StartDate>
+         <EndDate>2020-10-07</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Oct72020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

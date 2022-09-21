@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2631384446</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Durbin aims for a history-making high court win</Title>
+      </TitleAtt>
+      <NumericDate>2022-02-22</NumericDate>
+      <StartDate>2022-02-22</StartDate>
+      <EndDate>2022-02-22</EndDate>
+      <AlphaDate>Feb 22, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Feb 22, 2022</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.6</StartPage>
+         <DocSection>A-Section</DocSection>
+         <DocEdition>Suburban</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Feb222022______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20220222Durbinaimsforahistorymakinghighcourtwin18ab4a4e</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1600</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>DeBonis, Mike</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Mike</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Mike DeBonis</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>DeBonis</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Mike DeBonis</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Kim, Seung Min</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Seung</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Seung Min Kim</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Kim</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>Min</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Seung Min Kim</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="3">
+            <Author>
+               <NormalizedDisplayForm>Colvin, Rhonda</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Rhonda</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Rhonda Colvin</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Colvin</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Rhonda Colvin</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Senate</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Republican Party</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813940</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political campaigns</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Nominations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hearings &amp; confirmations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Bipartisanship</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Federal court decisions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Judiciary</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Congressional committees</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Illinois</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1908" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;As a college intern in the 1960s, a young Richard J. Durbin was awed by the U.S. Senate as a grand theater of democracy, a solemn forum where men of distinction engaged in momentous, nation-changing debates.&lt;/p&gt;
+&lt;p&gt;That job, helping answer mail for legendary Sen. Paul H. Douglas of Illinois, helped launch Durbin's six-decade political career. Now, after nearly 40 years of congressional service, Durbin is about to get his star turn on the Senate's biggest stage.&lt;/p&gt;
+&lt;p&gt;The 77-year-old Democrat will hold the gavel when the Senate Judiciary Committee conducts hearings as soon as next month on President Biden's forthcoming nominee to succeed retiring Supreme Court Justice Stephen G. Breyer. Durbin and his staff face the delicate task of shepherding the first Black female justice to confirmation - and delivering a badly needed victory to Biden - in an evenly split Senate where just about everything, judicial nominations included, has turned exceptionally rancorous.&lt;/p&gt;
+&lt;p&gt;In a wide-ranging interview ahead of the nomination, which Biden has pledged to make this month, Durbin said he was determined to run a thorough but efficient vetting process, one that could pave the way for a bipartisan confirmation. He also made clear that the confirmation would represent a capstone moment in a long, storied career.&lt;/p&gt;
+&lt;p&gt;"Personally, it's the reason I ran the first time for office," he said. "I want to be smack dab in the middle of, as Oliver Wendell Holmes said, the actions and passions of our time, and I couldn't ask for a better seat than to be chair of Judiciary filling a Supreme Court vacancy."&lt;/p&gt;
+&lt;p&gt;That might strike some as a peculiar statement for someone with Durbin's extensive résumé: He has served as party whip, the No. 2 leadership position, for more than 15 years. He was a confidant and close adviser to Barack Obama, his former fellow senator from Illinois, as Obama rose to the presidency. He has directed billions of dollars in federal spending as a top appropriator. And he has mounted multiple protracted and frequently successful crusades - to obtain legal status for young undocumented immigrants, crack down on predatory for-profit colleges, and curb costly payment-card fees, among many others.&lt;/p&gt;
+&lt;p&gt;But when it comes to high political stakes and raw drama, a Supreme Court confirmation is unparalleled on Capitol Hill, and despite Durbin's four decades of service, this Congress is the first time he has chaired a full committee - a distinction he achieved only after Sen. Dianne Feinstein (Calif.), a more-senior Democratic senator, agreed to forgo the Judiciary gavel in 2020 amid questions about her fitness to lead a high-profile confirmation fight.&lt;/p&gt;
+&lt;p&gt;Durbin's unpresuming, unfailingly courteous, thoroughly Midwestern personality has played against his interests at times. He was outmaneuvered, notably, by Sen. Charles E. Schumer (N.Y.) in the derby to succeed Sen. Harry M. Reid (Nev.) as the Democratic leader in 2015. And his long, mannerly floor speeches - delivered most days the Senate is in session - can sometimes seem out of step with an increasingly social-media-centric political culture that rewards partisan theatrics.&lt;/p&gt;
+&lt;p&gt;But senators of both parties said this month that his composure might be exactly what the Judiciary Committee needs, particularly after an especially acrimonious stretch for Supreme Court confirmations. It began with the Republican blockade of Obama nominee Merrick Garland, reached a peak with the dramatic proceedings surrounding Brett M. Kavanaugh, and continued though the rapid-fire GOP approval of Amy Coney Barrett just before the 2020 election.&lt;/p&gt;
+&lt;p&gt;Sen. Christopher A. Coons (D-Del.), a Judiciary Committee member, said it was important for both the Senate and the Supreme Court to have a "lower temperature" process this time around.&lt;/p&gt;
+&lt;p&gt;"If anyone can accomplish that, Chairman Durbin can," he said, adding, "He knows how to be a pugilist and to stand up and fight hard for principles. But he's also been respectful and constructive, and despite what is a very partisan committee that fights over a lot of very difficult issues, he's invested a lot of time and effort in trying to hold together what bipartisan respect there is on the committee."&lt;/p&gt;
+&lt;p&gt;Biden has vowed to announce his choice by the end of the month, and Durbin has publicly set a goal of confirming that nominee before the Easter recess, which is scheduled to begin April 8. Biden made a campaign pledge to nominate the first Black woman to the high court, and he reiterated that pledge after Breyer announced his retirement.&lt;/p&gt;
+&lt;p&gt;Three judges are known to be on Biden's shortlist of finalists: Ketanji Brown Jackson, 51, whom Biden named to the U.S. Court of Appeals for the District of Columbia Circuit last year; Leondra Kruger, 45, a California Supreme Court justice since 2015; and J. Michelle Childs, 55, a federal trial judge in South Carolina who has already been nominated to the same appellate court as Jackson.&lt;/p&gt;
+&lt;p&gt;Durbin said he is putting in the effort to keep the process on a bipartisan track. His first call after learning of Breyer's retirement last month was to Sen. Charles E. Grassley (Iowa), the Judiciary Committee's top Republican. Durbin said his message was succinct: "I'm not going to stab you in the back. and I'm not going to surprise you. I'm going to let you know what's coming so that we can work on it together."&lt;/p&gt;
+&lt;p&gt;Grassley last week called it "a very positive start." Asked about his relationship with Durbin, he answered with a single word: "Perfect."&lt;/p&gt;
+&lt;p&gt;Durbin also placed an immediate call to Sen. Susan Collins (Maine), who voted for both of Obama's Supreme Court nominees and is seen as the most likely Republican vote for Biden's nominee among the handful of GOP senators who could support the pick.&lt;/p&gt;
+&lt;p&gt;"It's clear to me that Senator Durbin wants to do this the right way," Collins said in a brief interview. "He wants to give full access to the nominee. He wants to provide all the relevant documents. He wants to hold a hearing that is fair and give us ample opportunity to ask questions. . . . I have a lot of confidence in him."&lt;/p&gt;
+&lt;p&gt;Durbin, however, is balancing his tending of Republican egos with his desire to confirm Biden's nominee on a rapid 40-day timeline, which would be quicker than any nominee in the past four decades save for Barrett.&lt;/p&gt;
+&lt;p&gt;"The longer you wait, the more likely things get complicated with outside events," he said. "What if in the middle of this, God forbid, war breaks out in some part of the world? I mean, things can happen. So if I have a singular focus, it's to get this done in an orderly, predictable way in a timely fashion."&lt;/p&gt;
+&lt;p&gt;Should Democrats push too quickly for Republicans' liking, they do have procedural tools at their disposal to slow Biden's nominee - and perhaps stop her entirely. GOP members could boycott a committee vote to advance a nominee, thus denying a quorum - a maneuver that Republican members of the Senate Banking Committee employed last week, delaying five Federal Reserve nominees.&lt;/p&gt;
+&lt;p&gt;Durbin himself used the tactic against Barrett in 2020, weaponizing the committee's quorum rules. But Republicans proceeded anyway and overrode the boycott on the Senate floor. In an evenly split Senate, however, Democrats don't have that option, and Durbin said he was mindful of a possible GOP blockade.&lt;/p&gt;
+&lt;p&gt;Mounting a boycott would be "a terrible mistake" for Republicans, he said, but he expressed confidence that he would be able to forestall any hardball tactics by coordinating closely with Grassley and other senior Republicans on the panel.&lt;/p&gt;
+&lt;p&gt;"You can't be heavy-handed in a tie-vote committee - it just doesn't work," he said. "And so what I've got to do, and I think it's coming along, is to let every Republican member know that I'm going to treat them with respect, they're going to get their day in the sun, their time to express themselves, and I won't cut them off."&lt;/p&gt;
+&lt;p&gt;While Durbin goes out of his way to praise longtime GOP colleagues such as Grassley and Sen. Lindsey O. Graham (S.C.), he has less to say about some of the younger Republicans on the panel, who include sharp-tongued conservatives such as Sens. Tom Cotton (Ark.), Ted Cruz (Tex.) and Josh Hawley (Mo.), who have routinely used Judiciary Committee hearings over the past year to attack Biden and other Democrats for allegedly being soft on crime and indulgent of what they describe as racially divisive "woke" rhetoric.&lt;/p&gt;
+&lt;p&gt;Durbin has had especially sharp clashes with Cotton, who for months blocked several U.S. attorney nominees after Durbin interrupted Cotton mid-speech at a panel meeting last March to hold a vote advancing a controversial Justice Department nominee.&lt;/p&gt;
+&lt;p&gt;The spat came to a head on the Senate floor in December, with Cotton demanding an apology before allowing the nominations to proceed. After explaining the circumstances involving an obscure Senate rule, Durbin capitulated and the nominees were confirmed: "If the senator from Arkansas wants me to publicly express my regret for this occurrence, I express that regret."&lt;/p&gt;
+&lt;p&gt;Not all senators would have been willing to defuse the conflict, some of Durbin's colleagues said in testament to his sang-froid. "His patience as chair of the committee has been tested by Republicans who really don't give a rip about the rest of the committee members," said Sen. Mazie Hirono (D-Hawaii).&lt;/p&gt;
+&lt;p&gt;Asked about Durbin's performance as chairman, Cotton laughed and declined to comment. Asked why he chose to apologize, Durbin said, "Read that closely before you call it an apology."&lt;/p&gt;
+&lt;p&gt;There have been areas of bipartisan progress on the Judiciary Committee, including a deal sealed last week that will guarantee that workers who are sexually harassed or assaulted on the job can sue in court. Senators are also on the cusp of reauthorizing the Violence Against Women Act for the first time since 2013, and a September hearing that included star gymnast Simone Biles put a national spotlight on the FBI's failure to investigate sexual abuse claims involving the USA Gymnastics team doctor.&lt;/p&gt;
+&lt;p&gt;But Cotton again blocked several U.S. attorney and U.S. marshal nominations last week, and virtually every Biden judicial nomination has been subject to the same lengthy floor maneuvers that Democrats forced for President Donald Trump's judges. Durbin lamented it as "part of some Republican strategy to slow down the Senate to a cakewalk." But he expressed optimism that Senate Minority Leader Mitch McConnell (R-Ky.) would not seek to turn the Supreme Court confirmation into an overly bitter clash ahead of the midterm elections.&lt;/p&gt;
+&lt;p&gt;"He may think that this is more divisive and negative for their fate than positive, so perhaps it won't be as contentious as it might be," he said.&lt;/p&gt;
+&lt;p&gt;Success for Durbin would mean not only writing another chapter in a storied career but it would cement his status as a player in some of the most significant racial advancements in American politics of this generation - first, his close association with Obama, and now, his chance to shepherd the first Black woman onto the nation's highest court.&lt;/p&gt;
+&lt;p&gt;Durbin invoked his Democratic predecessors Douglas and Sen. Paul Simon (Ill.), who put civil rights causes at the center of their political identities. Filling a lifetime appointment to the Supreme Court is a distinction enough, he said, but "making history in the process, you know, means a lot to me."&lt;/p&gt;
+&lt;p&gt;"They did everything thing they could in their Senate careers to advance civil rights in America," he said. "Joe Biden's going to do that with this appointment, and I'm going to help him."&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 22, 2022</AlphaDate>
+         <StartDate>2022-02-22</StartDate>
+         <EndDate>2022-02-22</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Feb222022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

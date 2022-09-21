@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2509408453</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Building trust among parents and teachers is key to reopening schools</Title>
+      </TitleAtt>
+      <NumericDate>2021-04-07</NumericDate>
+      <StartDate>2021-04-07</StartDate>
+      <EndDate>2021-04-07</EndDate>
+      <AlphaDate>Apr 7, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVED_20210407_157494</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVED_20210407_157494</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977985_Apr72021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Dorn, Sherman</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Sherman</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Sherman Dorn</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Dorn</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Sherman Dorn</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/157494/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Arizona State University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Parents &amp; parenting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>School safety</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Educational leadership</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Community</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical supplies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Immunization</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Union leadership</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Ventilation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Education</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Chicago Illinois</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Arizona</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York City New York</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="77">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;A wealth of research has shown that the school environment can influence student academic achievement, as well as student health.
+
+The lead crisis in Flint, Michigan’s water supply is only the most visible example; tests found elevated levels of lead in 37% of schools where drinking water was tested.
+
+Sherman Dorn receives research funding from the Spencer Foundation, the U.S. Department of Education, and Arizona State University, and is a fellow of the National Education Policy Center.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1181" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;A New York City mother said she kept her son in remote schooling during the pandemic because she believes city education officials “lie a lot.”&lt;/p&gt;
+&lt;p&gt;“These buildings are old and don’t have proper ventilation,” she explained to journalist Melinda Anderson. “They don’t have the supplies they need, and they don’t even have nurses.”&lt;/p&gt;
+&lt;p&gt;One of the nation’s teachers’ union leaders has also heard repeatedly that teachers too often haven’t seen soap or running water in school bathrooms.&lt;/p&gt;
+&lt;p&gt;Teachers in Chandler, Arizona, accused their school board of breaking promises to close schools if COVID-19 became widespread locally.&lt;/p&gt;
+&lt;p&gt;A New Jersey mother wanting her child to attend school in person “lost a lot of faith in the district” and may send her child to Catholic school in the fall of 2021 after she experienced repeated, unpredictable openings and closings in her local public school.&lt;/p&gt;
+&lt;p&gt;All of these situations represent cases where trust broke down between parents or teachers and the schools in their communities. While much news coverage and debate during the pandemic has been about things like wearing masks and adequate spacing between students and ventilation, the topic of trust seems to get much less attention.&lt;/p&gt;
+&lt;p&gt;As an education historian, I believe that if the importance of trust is continually ignored or overlooked, it could have serious consequences for the nation’s schools.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Racial factors at play&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Trust in school safety varies among communities.&lt;/p&gt;
+&lt;p&gt;In national polling, white parents were far more likely than other parents to favor sending their children to in-person schooling during the pandemic. The stark racial differences should not be surprising given that Black and Hispanic communities have been more severely affected by COVID-19. But pandemic vulnerability is not the only difference.&lt;/p&gt;
+&lt;p&gt;A parent leader in Memphis, Tennessee, told a reporter of her community’s reaction to the idea of returning students to school: “For generations, these public schools have failed us and prepared us for prison, and now it’s like they’re preparing us to pass away.”&lt;/p&gt;
+&lt;p&gt;Asian American parents in Chicago, New York City and Fairfax, Virginia, have also been more likely than those cities’ white parents to keep their children in remote schooling. A key factor has been a desire to protect their children from anti-Asian attacks that have escalated during the pandemic. These attacks are widely believed to be a byproduct of the blame that President Donald J. Trump has heaped upon China as being responsible for the spread of COVID-19.&lt;/p&gt;
+&lt;p&gt;How should these different levels of distrust from different segments of society be understood?&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Elements of trust&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The key is relational trust, a term coined by sociologists Anthony Bryk and Barbara Schneider. Relational trust deals with how much people see unity of purpose around them. Do they believe that the people they depend on have the right intentions, essential competence and integrity to work for the common good?&lt;/p&gt;
+&lt;p&gt;In schools “that operate in turbulent external environments,” teachers and other school staff risk their professional careers and sense of self on the job. Parents risk their children’s and families’ futures. Given the high stakes involved – that is to say, people’s health and safety – relational trust is essential.&lt;/p&gt;
+&lt;p&gt;In a pandemic, it has become more obvious that educators and students often work and study in buildings where plumbing – and especially heating, ventilation and air conditioning systems – need major repairs.&lt;/p&gt;
+&lt;p&gt;The physical condition of schools is critical. A wealth of research has shown that the school environment can influence student academic achievement, as well as student health.&lt;/p&gt;
+&lt;p&gt;But with the pandemic – and news reporting of failure by the federal government and many state governments – relational trust is one of the casualties.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;White House push for teacher vaccinations&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Biden administration addressed relational trust when it pushed states in early March 2021 to prioritize teachers and other school staff for vaccinations. By the end of the month, all teachers were eligible for vaccines in 46 states and the District of Columbia.&lt;/p&gt;
+&lt;p&gt;Americans agree with an emphasis on vaccinating educators: in a February national poll, 59% of surveyed American adults said that schools should wait until all teachers had the chance to be vaccinated before completely reopening.&lt;/p&gt;
+&lt;p&gt;State officials can ask whether key decisions might erode relational trust. For example, should students who are learning remotely be required to step into a school for achievement testing? The Biden administration is not waiving all testing requirements, but it is discouraging the idea that students must “be brought into school buildings for the sole purpose of taking a test.”&lt;/p&gt;
+&lt;p&gt;In contrast, Florida Commissioner of Education Richard Corcoran has decreed that all students must take tests in person. Parents want state and school officials to respect their judgment of whether to send children back just for tests. If education leaders want to build more relational trust with parents, it will include letting them manage risk to their children.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Investing in safety&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Beyond the 2020-21 school year, relational trust can be built if public money is invested in what will keep students and staff safe.&lt;/p&gt;
+&lt;p&gt;The Biden administration’s infrastructure plan has one component of this: US$45 billion to remove pollution sources such as lead-lined pipes from schools and day care centers.&lt;/p&gt;
+&lt;p&gt;With the pandemic focusing attention on the dangers of being inside, remediating lead, asbestos and other pollution sources should help build relational trust. The lead crisis in Flint, Michigan’s water supply is only the most visible example; tests found elevated levels of lead in 37% of schools where drinking water was tested.&lt;/p&gt;
+&lt;p&gt;Addressing facility conditions also requires giving more authority to employees to raise environmental and health concerns. In Chicago, for example, a new labor contract includes a provision for school safety committees.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Insight, in your inbox each day.&lt;/i&gt; You can get it with The Conversation’s email newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ways to build trust&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The theory of relational trust suggests schools need to build respect and bring the community into school operations and decision-making. Bringing in the community can look as simple as a bilingual outreach program to parents around college attendance or a program to hire parents as family liaisons to the school district. Or, with organizations that specialize in this work, education leaders can bring schools, parents and community members together to define and solve shared problems.&lt;/p&gt;
+&lt;p&gt;It may sound squishy to assume that parents and communities bring unique wisdom. But even done imperfectly, this kind of convening helps to build relational trust.&lt;/p&gt;
+&lt;p&gt;As researchers hear from parents, direct experience with schools that respect parental perspectives changes their relationship with schools:&lt;/p&gt;
+&lt;p&gt;“I have more coraje (courage) now” in raising concerns with school officials, one parent explained to educational leadership scholar Susan Auerbach.&lt;/p&gt;
+&lt;p&gt;“Here you come and how can I say it, with confianza: There is trust here,” another parent told education professor Ann M. Ishimaru and her colleagues. “We already know this place and other teachers help us more with the children.”&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Sherman Dorn receives research funding from the Spencer Foundation, the U.S. Department of Education, and Arizona State University, and is a fellow of the National Education Policy Center. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Sherman Dorn, Professor of Education, Arizona State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Education</Title>
+         <MpubId>4977985</MpubId>
+         <SortTitle>Conversation : Education The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVED</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977985</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464269.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Education</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Education</Title>
+            <SortTitle>Conversation : Education The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977985</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464269.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Apr 7, 2021</AlphaDate>
+         <StartDate>2021-04-07</StartDate>
+         <EndDate>2021-04-07</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977985_Apr72021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487128878</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Hurricanes and wildfires are colliding with the COVID-19 pandemic - and compounding the risks</Title>
+      </TitleAtt>
+      <NumericDate>2020-08-26</NumericDate>
+      <StartDate>2020-08-26</StartDate>
+      <EndDate>2020-08-26</EndDate>
+      <AlphaDate>Aug 26, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVEN_20200826_145003</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVEN_20200826_145003</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977984_Aug262020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Mostafavi, Ali</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Ali</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Ali Mostafavi</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Mostafavi</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Ali Mostafavi</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/145003/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Texas A &amp; M University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Hurricanes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Floods</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Evacuations &amp; rescues</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Flooding</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Flooding</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="ENVSUBJ">
+            <GenSubjValue>Wildfires</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Health care facilities</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Hurricanes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Service stations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Flooding</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Wildfires</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Shutdowns</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disasters</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Wildfires</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="LSCTERMS">
+            <GenSubjValue>Hurricanes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Evacuation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Louisiana</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Texas</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="101">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Storm prep and evacuations raise the risks During the three days before Hurricane Harvey hit, the number of grocery store and gas station visits in the Houston area increased by 50% to 100%.
+
+Texas A&amp;amp;M UrbanResilience.AI Lab, CC BY-ND The compound hazard risk index takes into consideration the social, physical and pandemic risks at the local level, enabling each county or community to make informed decisions.
+
+Hospitals may see an influx of injuries, and wildfires and flooding can block access to critical health care facilities, damage the buildings, cut power to homes and care facilities and shut down pandemic testing locations.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="882" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;With a major hurricane hitting Louisiana and Texas and wildfires menacing the western U.S., millions of Americans are facing the complex risks of a natural disaster striking in the middle of a pandemic.&lt;/p&gt;
+&lt;p&gt;The steps people normally take to prepare for a severe storm or evacuate can contradict the public health recommendations for protecting themselves and others from COVID-19.&lt;/p&gt;
+&lt;p&gt;My urban resilience lab at Texas A&amp;amp;M University has been examining interactions between urban infrastructure, systems and people in disasters. At the onset of the COVID-19 pandemic, we launched a study into the effect of the pandemic on urban systems during a natural disaster, applying similar methods we used during extensive research on Hurricane Harvey, which flooded Houston in August 2017.&lt;/p&gt;
+&lt;p&gt;Our research shows that compound disasters have complex ramifications. At the intersection of a natural hazard and a pandemic is a decision process fraught with contradictions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Storm prep and evacuations raise the risks &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;During the three days before Hurricane Harvey hit, the number of grocery store and gas station visits in the Houston area increased by 50% to 100%. People didn't think twice about running to the store.&lt;/p&gt;
+&lt;p&gt;As Hurricane Laura headed for the Louisiana and Texas coasts in August 2020, residents were in very a different situation. The rise of COVID-19 illnesses and deaths across the South during the summer meant people were encouraged to self-quarantine and limit their social contact to prevent transmitting the coronavirus. They could still wear masks in stores, but keeping the recommended six feet apart gets harder when stores get crowded. It means spending more time waiting with others in lines and jostling in the aisles. Research shows that both the amount of virus and the amount of time a person is exposed to it have an impact on whether they get infected and how severely.&lt;/p&gt;
+&lt;p&gt;An even more onerous complication - for both authorities and residents - is evacuation.&lt;/p&gt;
+&lt;p&gt;The decision to evacuate in the face of even a single hazard, whether a wildfire or a hurricane, is difficult. Sheltering in place can mean prolonged power outages and disrupted access to critical facilities. Evacuating means leaving behind one's house and possibly animals to an uncertain fate.&lt;/p&gt;
+&lt;p&gt;That's complicated further when an emergency shelter is the best choice but staying there means a higher risk of being exposed to someone infected with the coronavirus.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Which areas are most vulnerable? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Authorities assess many variables when deciding between mandatory and voluntary evacuations.&lt;/p&gt;
+&lt;p&gt;In the face of a pandemic, they now also have to think about disease transmission - and not just in individual emergency shelters but also on a larger scale. When a large population moves from an area with a high rate of disease spread to a less affected area, it can put the local population at higher risk.&lt;/p&gt;
+&lt;p&gt;Using data on social vulnerability, pandemic risk and hazard probability, my lab created an interactive map that pinpoints sources of vulnerability. The goal is to enable disaster response managers and decision makers to recognize the compound risks posed by the confluence of the pandemic and any natural hazard.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Texas A&amp;amp;M's compound risk map shows how high rates of COVID-19 and poverty increase vulnerability. The lightest colored counties and parishes face the highest compound risks. The index accounts for hurricane and flood risk, COVID-19 spread, and socioeconomic and other vulnerabilities. Texas A&amp;amp;M UrbanResilience.AI Lab, CC BY-ND&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;The compound hazard risk index takes into consideration the social, physical and pandemic risks at the local level, enabling each county or community to make informed decisions. It also raises warnings about vulnerable groups, such as the elderly and low-income communities, which may suffer a disproportionate risk of infection.&lt;/p&gt;
+&lt;p&gt;We found several counties with significantly high levels of compound risks.&lt;/p&gt;
+&lt;p&gt;For example, Harris County, Texas, home to Houston, has a large number of COVID-19 cases and is also vulnerable to the impacts of hurricanes. When a hurricane like Laura heads for the region, the index can help raise red flags, particularly for local health officials and hospitals, about the risks of exacerbating the pandemic there and in counties where people may go in an evacuation.&lt;/p&gt;
+&lt;p&gt;Conversely, a county with low hurricane and flooding risks might normally be seen as a suitable location for evacuation, but if it has a high rate of COVID-19, that raises the risk for evacuees who would need to spend time in hotels, restaurants and stores.&lt;/p&gt;
+&lt;p&gt;Getting health care can also become harder during a natural disaster. Hospitals may see an influx of injuries, and wildfires and flooding can block access to critical health care facilities, damage the buildings, cut power to homes and care facilities and shut down pandemic testing locations. People who would normally volunteer to help during and after a disaster might also decide to avoid pitching in.&lt;/p&gt;
+&lt;p&gt;As our research shows, preparing for and responding to the compound disaster of a natural hazard in the midst of a pandemic is an undertaking more complicated than the sum of its parts.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Ph.D. students Jennifer Dargin and Qingchun Li and undergraduate students Gabrielle Jawer, Sara Garcia, Xin Xiao, and Bora Oztekin contributed to the research on compound natural hazard and pandemic. Technical writer Jan Gerston contributed to this article.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Ali Mostafavi receives funding from National Science Foundation. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Ali Mostafavi, Associate Professor of Civil Engineering, Texas A&amp;amp;M University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>Texas A&amp;amp;M's compound risk map shows how high rates of COVID-19 and poverty increase vulnerability. The lightest colored counties and parishes face the highest compound risks. The index accounts for hurricane and flood risk, COVID-19 spread, and socioeconomic and other vulnerabilities. Texas A&amp;amp;M UrbanResilience.AI Lab, CC BY-ND</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Environment + Energy</Title>
+         <MpubId>4977984</MpubId>
+         <SortTitle>Conversation : Environment + Energy The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVEN</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977984</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464270.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Energy</Subject>
+            <Subject>Environmental Studies</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Environment + Energy</Title>
+            <SortTitle>Conversation : Environment + Energy The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977984</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464270.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 26, 2020</AlphaDate>
+         <StartDate>2020-08-26</StartDate>
+         <EndDate>2020-08-26</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977984_Aug262020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

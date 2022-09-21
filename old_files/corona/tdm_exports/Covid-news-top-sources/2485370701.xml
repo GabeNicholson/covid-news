@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2485370701</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Senate Confirms Buttigieg as Transportation Secretary</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[National Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2021-02-03</NumericDate>
+      <StartDate>2021-02-03</StartDate>
+      <EndDate>2021-02-03</EndDate>
+      <AlphaDate>Feb 3, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Feb 3, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.16</StartPage>
+         <Pagination>A.16</Pagination>
+         <DocSection>A</DocSection>
+         <ColumnNumber>0</ColumnNumber>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Feb32021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>634212-20210203</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <FullTextLinkID>https://www.nytimes.com/2021/02/02/us/politics/pete-buttigieg-confirmed-transportation-secretary.html</FullTextLinkID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1680</LexileScore>
+      <Desk>National Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Verma, Pranshu</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Pranshu</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Pranshu Verma</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Verma</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Pranshu Verma</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <DocUrl>https://www.nytimes.com/2021/02/02/us/politics/pete-buttigieg-confirmed-transportation-secretary.html</DocUrl>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="Editorial">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Department of Transportation</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>926120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Transportation planning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Infrastructure</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Cabinet</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Political appointments</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Hearings &amp; confirmations</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Buttigieg, Pete</Personal>
+         </Term>
+         <Term TermSource="Editorial" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="Editorial" TermVocab="PERS">
+            <Personal>Biden, Joseph R Jr</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="974" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Mr. Buttigieg, 39, became the first openly gay cabinet secretary to have been approved by the Senate and the youngest member of the president's cabinet.&lt;/p&gt;&lt;p&gt;WASHINGTON -- The Senate on Tuesday confirmed Pete Buttigieg, a former mayor of South Bend, Ind., and a 2020 Democratic presidential candidate, to be transportation secretary, putting in place the official who will help oversee President Biden's overhaul of the nation's infrastructure.&lt;/p&gt;&lt;p&gt;By a vote of 86 to 13, the Senate made Mr. Buttigieg, 39, the nation's first openly gay cabinet secretary to be confirmed by the upper chamber and Mr. Biden's youngest cabinet member.&lt;/p&gt;&lt;p&gt;His confirmation underscored the support Mr. Buttigieg had received from lawmakers in both parties as he described plans for an infrastructure overhaul that aligned with Mr. Biden's goals on climate change, racial justice, job creation and economic recovery.&lt;/p&gt;&lt;p&gt;Mr. Buttigieg now faces a challenge. He will take over an agency that employs 55,000 people and controls around &lt;span&gt;$&lt;/span&gt;87 billion in transportation funding at a time when the country's modes of public transportation are reeling from the pandemic. As Mr. Biden's senior official on transportation, he will most likely play a key role in shepherding any attempt the administration makes to get its &lt;span&gt;$&lt;/span&gt;2 trillion infrastructure plan through Congress.&lt;/p&gt;&lt;p&gt;At his confirmation hearing last month, Mr. Buttigieg said there was a "generational opportunity" to transform infrastructure. He also pledged to work with the nation's state, local and tribal leaders, and said he would try to mitigate the effect that transportation policies had historically had on poor and minority communities.&lt;/p&gt;&lt;p&gt;"I believe good transportation policy can play no less a role than making possible the American dream," he said. "But I also recognize that at their worst, misguided policies and missed opportunities in transportation can reinforce racial and economic inequality."&lt;/p&gt;&lt;p&gt;While shying from specific proposals before being confirmed, Mr. Buttigieg said he would work to ensure Mr. Biden's executive order requiring masks on certain modes of interstate travel would be enforced.&lt;/p&gt;&lt;p&gt;Mr. Buttigieg also told lawmakers that he would re-examine the Federal Aviation Administration's measures that govern aviation safety after the fatal crashes of Boeing 737 Max airplanes. He also pledged to work toward Mr. Biden's goal of installing 500,000 electric vehicle charging stations across the country, as part of a strategy to increase the use of electric vehicles and stem the advance of climate change.&lt;/p&gt;&lt;p&gt;Mr. Buttigieg's confirmation was described by a number of human rights groups as a symbolic moment for the L.G.B.T.Q. community.&lt;/p&gt;&lt;p&gt;"This confirmation breaks through a barrier that has existed for too long; where L.G.B.T.Q. identity served as an impediment to nomination or confirmation at the highest level of government," Alphonso David, the president of the Human Rights Campaign, a group dedicated to advancing the interests of the L.G.B.T.Q. community, said in a statement. "Let this important moment for our movement serve as a reminder to every L.G.B.T.Q. young person: You too can serve your country in any capacity you earn the qualifications to hold."&lt;/p&gt;&lt;p&gt;Although Mr. Buttigieg received a warm reception on Capitol Hill and among transportation experts, criticism has followed him into office, particularly on race. During his presidential run, Mr. Buttigieg was denounced for his firing of a Black police chief early in his tenure as mayor and his inability to diversify South Bend's overwhelmingly white police force.&lt;/p&gt;&lt;p&gt;Critics have also pointed to Mr. Buttigieg's relatively thin record on transportation overhaul, disparities in South Bend's distribution of contracting dollars to minority- and female-owned businesses, and the limited number of minority appointments Mr. Buttigieg made to his top political staff in South Bend.&lt;/p&gt;&lt;p&gt;At his hearing, he entered into politically fraught territory by not immediately ruling out an increase in the nation's gas tax to refill the dwindling pot of money for highway improvements, saying that "all options need to be on the table." After the hearing, a spokesman said Mr. Buttigieg opposed increasing the tax.&lt;/p&gt;&lt;p&gt;To help Mr. Buttigieg, Mr. Biden has nominated Polly Trottenberg, who oversaw New York City's Transportation Department for seven years, as his deputy. The administration has also appointed 40 senior officials to the department, including to critical posts overseeing airways, highways and railroads.&lt;/p&gt;&lt;p&gt;During Mr. Buttigieg's time as mayor, his signature transportation achievement was a &lt;span&gt;$&lt;/span&gt;25 million project, called Smart Streets, that converted South Bend's one-way roads into two-way streets with bike lanes and sidewalks to encourage foot traffic and downtown commercial activity.&lt;/p&gt;&lt;p&gt;Now, transportation experts say, the test will be to see how Mr. Buttigieg enacts his promises to make the department more climate friendly and racially just with his limited authority over how money can be spent.&lt;/p&gt;&lt;p&gt;"Compared to Congress, the power of U.S.D.O.T. to directly allocate transportation resources is small," said Ben Fried, a spokesman for TransitCenter, a foundation that supports a nationwide transit overhaul. "But in the hands of the right team, Pete Buttigieg's department can still exert immense influence on the transportation landscape."&lt;/p&gt;&lt;p&gt;Mr. Buttigieg will also bring a following to the position of transportation secretary that is unusual for a normally low-profile cabinet post.&lt;/p&gt;&lt;p&gt;In the days surrounding his confirmation hearing, Mr. Buttigieg went on television shows including ABC's "The View" and NBC's "The Tonight Show Starring Jimmy Fallon," where he spoke about how the Transportation Department could play a crucial role in advancing Mr. Biden's climate change strategy.&lt;/p&gt;&lt;p&gt;Several political experts said a stint as transportation secretary could bolster a future presidential run by Mr. Buttigieg since it gives him an opportunity to try for achievements that resonate with Democrats attracted to his brand.&lt;/p&gt;&lt;p&gt;"It's a huge opportunity," said Eitan D. Hersh, an associate professor of political science at Tufts University. "Between the profile he raised for himself in the primary and this new role in the administration, it gives him a profile he can use to launch an electoral bid across the country."&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;photo_caption&gt;Pete Buttigieg, 39, is the first openly gay cabinet secretary. He spoke of a "generational opportunity" to transform infrastructure. (POOL PHOTO BY STEFANI REYNOLDS)&lt;/photo_caption&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 3, 2021</AlphaDate>
+         <StartDate>2021-02-03</StartDate>
+         <EndDate>2021-02-03</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Feb32021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2455109327</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>French-style wall clock has Reaumur thermometer</Title>
+      </TitleAtt>
+      <NumericDate>2020-10-29</NumericDate>
+      <StartDate>2020-10-29</StartDate>
+      <EndDate>2020-10-29</EndDate>
+      <AlphaDate>Oct 29, 2020</AlphaDate>
+      <RawAlphaDate>20201029</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Oct 29, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>12</StartPage>
+         <DocSection>Homes</DocSection>
+         <ColumnHeader>TREASURES</ColumnHeader>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Oct292020</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2020102920201028458588198</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2020102920201028458588198</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1410</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Fendelman, Helaine</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Helaine</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Helaine Fendelman</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Fendelman</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Helaine Fendelman</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Rosson, Joe</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Joe</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Joe Rosson</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Rosson</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Joe Rosson</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="513" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Q: When my wife and I purchased our home in 1994, the owner included this clock in the sale. &lt;/p&gt;&lt;p&gt;My wife and I think we own a vintage Louis XVI gilt wood wall clock with a "Thermometre." Note the French spelling and also the French words for the temperatures. We would like your opinion.&lt;/p&gt;&lt;p&gt;A: This hanging wall clock/thermometer is unquestionably in the French rococo style that was originally used to describe the fountains and grottos in the gardens of Louis XIV's Palace of Versailles.&lt;/p&gt;&lt;p&gt;In France, rococo has become associated with the reign of Louis XV (1710-1774, reigned 1715-1774) and is not linked with Louis XVI (1754-1793). Louis XVI-style design was mainly neoclassical or more linear in design, while rococo is characterized by naturalistic forms such as carved depictions of rocks, shells, fruit and flowers. Scrolls, ribbons and acanthus leaves were also employed as decorative elements.&lt;/p&gt;&lt;p&gt;We believe this hanging wall clock/thermometer with its nicely carved fruit, flowers, leaves, ribbons and tassels is in the rococo revival style and was made circa 1870 (give or take 10 years). It is certainly Louis XV-style, but it is not of the 18th-century period.&lt;/p&gt;&lt;p&gt;We are fascinated with the thermometer, which is called a "Reaumur thermometer," a type with which most Americans are not familiar. It is named after Rene Antoine Ferchault de Reaumur, who first proposed his temperature scale in 1730. In the Reaumur scale (often abbreviated to "Re"), the freezing point of water is 0 and the boiling point is 80.&lt;/p&gt;&lt;p&gt;Some of the notations on this particular Reaumur thermometer are interesting. Often the freezing point on one of the instruments is noted as "glace," but on this example the notation is "rivieres gelees," or "frozen rivers," which could just be a reference to frozen water. Other notations include "orangers," or "orange trees," but exactly what this means escapes us.&lt;/p&gt;&lt;p&gt;The first Reaumur thermometers used diluted ethanol alcohol, but later mercury was employed as a better indicator of temperature. The example in today's question has lost its mercury, but this is only a minor deduction because in many cases the thermometers in these pieces are replacements. This one is original except for the loss of the poisonous mercury.&lt;/p&gt;&lt;p&gt;The clock in this piece has its key and is in working condition, which is a very important factor when valuing a clock. If everything about this piece were in perfect condition, we would expect to see a retail value on it between $1,500 and $2,000, but the nonfunctioning thermometer -- while somewhat commonplace and expected -- still decreases the retail value to somewhere between $800 and $1,200.&lt;/p&gt;&lt;p&gt;----------&lt;/p&gt;&lt;p&gt;Helaine Fendelman and Joe Rosson have written a number of books on antiques. Do you have an item you'd like to know more about? Contact them at Joe Rosson, 2504 Seymour Ave., Knoxville, TN 37917, or email them at treasures@knology.net. If you'd like your question to be considered for their column, include a high-resolution photo of the subject, which must be in focus, with your inquiry.&lt;/p&gt;&lt;p&gt;CAPTION: Photo: This clock is in the French rococo style. HANDOUT/TNS&lt;/p&gt;&lt;p&gt;CREDIT: By Helaine Fendelman and Joe Rosson, Tribune News Service&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 29, 2020</AlphaDate>
+         <RawDate>20201029</RawDate>
+         <StartDate>2020-10-29</StartDate>
+         <EndDate>2020-10-29</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Oct292020</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487137265</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>COVID-19 crisis in Los Angeles: Why activating 'crisis standards of care' is crucial for overwhelmed hospitals</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-06</NumericDate>
+      <StartDate>2021-01-06</StartDate>
+      <EndDate>2021-01-06</EndDate>
+      <AlphaDate>Jan 6, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20210106_152706</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20210106_152706</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Jan62021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Howard, Maria</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Maria</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Maria Howard</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Howard</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Maria Howard</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/152706/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hospitals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Patients</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Standards</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Decision making</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Physicians</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Los Angeles County California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Los Angeles California</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="89">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;In Los Angeles County, ambulance crews are being told to conserve oxygen and to not take certain trauma and cardiac arrest patients they can't resuscitate in the field.
+
+Without a formal crisis standards of care declaration, decisions about who gets a hospital bed are made by doctors who are often not trained in this sort of decision-making.
+
+When Arizona and New Mexico reached crisis levels with the COVID-19 pandemic, they issued state-level declarations of crisis standards of care that help protect physicians from civil liability when following triage protocols.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1023" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;In Los Angeles County, ambulance crews are being told to conserve oxygen and to not take certain trauma and cardiac arrest patients they can't resuscitate in the field. When ambulances do transport patients, they often wait hours or move to temporary ambulance receiving spaces, often tents where doctors can assess the patient while waiting for space inside.&lt;/p&gt;
+&lt;p&gt;Ill patients who would normally stay in a hospital for observation are being discharged to make room for sicker patients. Patients who cannot be discharged are being treated in hallways, chapels or wherever there is room.&lt;/p&gt;
+&lt;p&gt;Hospitals and emergency services in the Los Angeles region are clearly in crisis as COVID-19 cases surge, yet state and county officials have yet to formally make what is known as a declaration of crisis standards of care.&lt;/p&gt;
+&lt;p&gt;The declaration is important. It triggers protocols that help doctors and overwhelmed hospitals determine the most efficient use of limited resources for the greatest benefit of patients and it provides some legal protection. Without the declaration, there is less transparency or coordination for how resources are allocated, and rationing of resources happens at bedsides. That has consequences for both doctors and patients.&lt;/p&gt;
+&lt;p&gt;I am a medical ethicist who works with regional and county disaster and triage advisory committees to think through the moral implications of declaring crisis and the ethics of triage decisions necessitated by crisis. I consider these designations vital as hospitals face difficult choices over how to use limited resources, treatments and staff.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Three stages to reach crisis capacity &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Institute of Medicine, now known as the National Academies of Medicine, published guidance for establishing crisis standards of care for use in disaster situations in 2009 amid the H1N1 swine flu pandemic. The report creates guidelines for the fair, transparent and consistent allocation of medical resources when those resources become scarce.&lt;/p&gt;
+&lt;p&gt;The guidance describes three escalating stages of medical surge capacity to help establish when normal standards of care can no longer be maintained:&lt;/p&gt;
+&lt;p&gt;1) Conventional capacity: Hospitals have enough space, staff, and supplies to operate normally.&lt;/p&gt;
+&lt;p&gt;2) Contingency capacity: Hospitals may be under stress and have resource shortages, but they can still maintain standards of care that are close to normal. During the COVID-19 pandemic, contingency has often meant that elective procedures have been canceled and do-not-resuscitate orders have been placed on some COVID-19 patients due to a lack of protective equipment.&lt;/p&gt;
+&lt;p&gt;3) Crisis capacity: At this stage, normal standards of care cannot be maintained. Patients get the best care available rather than the best care possible. This is the current situation in many hospitals in southern California.&lt;/p&gt;
+&lt;p&gt;California's pandemic crisis care guidelines stress the importance of including the local government in hospital crisis planning. But there is no requirement that governments make crisis standards of care declarations when hospitals reach crisis capacity.&lt;/p&gt;
+&lt;p&gt;Despite Los Angeles County's ICU beds being full, those declarations have so far been left to individual hospitals.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Why the declaration is important &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A crisis standards of care declaration takes uncomfortable decisions out the hands of doctors, such as when to reallocate a ventilator from a patient who is unlikely to survive to one whose chances are higher.&lt;/p&gt;
+&lt;p&gt;It triggers formal hospital or state triage protocols that help determine which patients get which resources. This can help lessen moral and psychological distress for doctors.&lt;/p&gt;
+&lt;p&gt;For patients, the declaration gives more insight into the level of treatment they can expect as they face medical systems that are short of resources.&lt;/p&gt;
+&lt;p&gt;Without a formal crisis standards of care declaration, decisions about who gets a hospital bed are made by doctors who are often not trained in this sort of decision-making. Medical training teaches doctors to pursue the best for each patient, but this is often impossible during a crisis. It can mean patients with little chance of survival continue to use scare resources while others who might have a better chance of survival go without.&lt;/p&gt;
+&lt;p&gt;In most circumstances, it would be unthinkable to take away a resource that is keeping a patient alive and could lead to lawsuits. When crisis standards are in effect, scarce resources can be reallocated to patients who can benefit from them.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Creating crisis protocols &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Crisis protocols, typically designed by teams with training in medical crisis decision-making, offer a road map for making these excruciating choices. The declarations can also provide legal protection for doctors when hospitals can no longer provide normal standards of care.&lt;/p&gt;
+&lt;p&gt;When Arizona and New Mexico reached crisis levels with the COVID-19 pandemic, they issued state-level declarations of crisis standards of care that help protect physicians from civil liability when following triage protocols. While an individual hospital might be reluctant to declare crisis standards of care because it fears being seen as a failure, especially when other hospitals have not done the same, a county or state declaration can also permit the frank appraisal of what is happening in the community's hospitals and fascilitate resource sharing.&lt;/p&gt;
+&lt;p&gt;The experiences of doctors in New York City hospitals early in the pandemic showed the importance of clear, formal declarations for reducing burdens on care providers. In discussions with professors from Johns Hopkins University, doctors talked about the need for clarity when making triage decisions, matching supplies with hospitals in need, and deciding which patients should get scarce resources such as ventilators. They also talked about the extreme emotional toll that comes with making life and death decisions.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get our best science, health and technology stories.&lt;/i&gt;Sign up for The Conversation's science newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The COVID-19 crisis isn't over &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The scenes inside many California hospitals right now and the memos sent to ambulance crews show that they are in crisis, even if they have not declared it.&lt;/p&gt;
+&lt;p&gt;States and counties around the country will face similar choices regarding crisis standards of care as hospitals become overwhelmed by rising case numbers. Experts warn that the country has not yet seen the worst of the COVID-19 surges. Given the presence now of a more contagious strain of the virus, the surges might be worse than once thought.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Maria Howard is affiliated with the Public Health Action Coalition Teams of Spokane. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Maria Howard, Assistant Professor of Philosophy, Gonzaga University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 6, 2021</AlphaDate>
+         <StartDate>2021-01-06</StartDate>
+         <EndDate>2021-01-06</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Jan62021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

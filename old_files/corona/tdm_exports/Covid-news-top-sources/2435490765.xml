@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2435490765</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Kimbrel notches 1st save in nearly a year to help Cubs salvage doubleheader split [Corrected 08/20/2020]</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>GAME 2: CUBS 4, CARDINALS 2 (7)</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2020-08-20</NumericDate>
+      <StartDate>2020-08-20</StartDate>
+      <EndDate>2020-08-20</EndDate>
+      <AlphaDate>Aug 20, 2020</AlphaDate>
+      <RawAlphaDate>20200820</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Aug 20, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>1</StartPage>
+         <DocSection>Sports</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Aug202020</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2020082020200819449347722</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2020082020200819449347722</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1620</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Gonzales, Mark</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Mark</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Mark Gonzales</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Gonzales</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Mark Gonzales</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Kimbrel, Craig</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="714" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Thursday's day off became a big relief for the Chicago Cubs after they overcame hitting woes to earn a doubleheader split against the St. Louis Cardinals.  &lt;/p&gt;&lt;p&gt;After being held to four hits over the first 13 innings Wednesday, the Cubs collected four hits in the top of the seventh to seize a 4-2 win in Game 2 and win the five-game series 3-2.&lt;/p&gt;&lt;p&gt;David Bote snapped a 2-2 tie with a two-run, pinch-hit single. That helped alleviate the frustration of blowing a 2-0 lead behind the pitching of Adbert Alzolay, who was promoted from the South Bend, Ind. alternate site as the Cubs' 29th player for the doubleheader.&lt;/p&gt;&lt;p&gt;Craig Kimbrel capped the Game 2 victory by earning his first save since Aug. 29, 2019, against the Mets.&lt;/p&gt;&lt;p&gt;Kimbrel's fastball topped out at 99 mph, and he struck out Max Schrock and Andrew Knizner on sharp-breaking curves and froze Kolten Wong on a 97-mph fastball.&lt;/p&gt;&lt;p&gt;"(Kimbrel) has worked his tail off to get to this point," manager David Ross said.&lt;/p&gt;&lt;p&gt;Kimbrel has had three consecutive scoreless outings after getting tagged for seven runs on six hits in 2 2/3 innings in his first four appearances.&lt;/p&gt;&lt;p&gt;Alzolay used an effective mix of his fastball, curve and changeup to strike out six and allow only two hits in five innings. An error charged to Bote clanked off the glove of Anthony Rizzo, leading to an unearnd run in the fifth.&lt;/p&gt;&lt;p&gt;The Cardinals tied the game in the sixth on a single by Brad Miller, who punished the Cubs with eight RBIs in the series.&lt;/p&gt;&lt;p&gt;In a 9-3 Game 1 loss, Ian Happ led off the bottom of the first with a home run. But the Cubs didn't get another hit until Josh Phegley collected his first hit as a Cub a two-run homer with two outs in the ninth.&lt;/p&gt;&lt;p&gt;The biggest reason for the drought was the effectiveness of three Cardinals left-handers, who joined John Gant in limiting the Cubs to one hit over the final 5 1/3 innings in relief of John Flaherty, who made his first start since July 24 because of the coronavirus outbreak that postponed Cardinals games for 2 1/2 weeks.&lt;/p&gt;&lt;p&gt;Cardinals manager Mike Shildt summoned left-hander Austin Gomber with the bases loaded in the second, and Gomber struck out Happ to end the second. Gomber induced Jason Kipnis, another left-handed hitter, to ground to second with the bases loaded to end the third.&lt;/p&gt;&lt;p&gt;The Cubs have shown some vulnerability against left-handers this season. The Pirates' Steven Brault threw three scoreless innings against them Aug. 2. Royals rookie Kris Bubic limited them to four hits in six innings Aug. 5, and Brewers reliever Brent Suter struck out five in 2 2/3 scoreless innings Saturday.&lt;/p&gt;&lt;p&gt;"We definitely need to hit left-handed pitching better," said Ross, who took note of the fact Kris Bryant, who usually hits left-handers well, is sidelined because of a sore left wrist.&lt;/p&gt;&lt;p&gt;Javier Baez and Willson Contreras, also known for hitting lefties effectively, have been mired in slumps.&lt;/p&gt;&lt;p&gt;"In a shortened season, it's so highlighted you would never be super anxious after (23) games in the hitting category with at-bats," Ross said after Game 1. "These guys want to do well. They know there's a sense of urgency.&lt;/p&gt;&lt;p&gt;"Do I think we're too left-handed? No. I just think we got some guys who are still going to get going, and I think they'll carry us when that starts happening."&lt;/p&gt;&lt;p&gt;They'll get a major test Friday night when they face White Sox left-hander Dallas Keuchel, who has limited lefties to a .227 career average.&lt;/p&gt;&lt;p&gt;The Cubs were 3-for-18 with runners in scoring position in the first four games of this series until Victor Caratini hit a two-run single in the second off Johan Oviedo, who became the 11th Cardinals player to make his major-league debut on this trip.&lt;/p&gt;&lt;p&gt;The Cubs missed a chance to give Alzolay more support when Happ hit a triple in the third but was thrown out trying to score on a grounder to Wong at second with the infield in.&lt;/p&gt;&lt;p&gt;Oviedo, whom the Cardinals signed to a reported $1.9 million bonus from Cuba in 2016, limited the Cubs to two hits and retired the final eight batters he faced.&lt;/p&gt;&lt;p&gt;CAPTION: Photo: Anthony Rizzo, left, and closer Craig Kimbrel celebrate the Cubs' 4-2 victory in Game 2 on Wednesday at Wrigley Field. BRIAN CASSELLA/CHICAGO TRIBUNE&lt;/p&gt;&lt;p&gt;CREDIT: By Mark Gonzales&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 20, 2020</AlphaDate>
+         <RawDate>20200820</RawDate>
+         <StartDate>2020-08-20</StartDate>
+         <EndDate>2020-08-20</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Aug202020</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

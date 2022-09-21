@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2423225917</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>SoftBank Explores Sale or IPO for Chip Designer Arm Holdings; Japanese conglomerate bought British tech company four years ago for $32 billion</Title>
+      </TitleAtt>
+      <NumericDate>2020-07-13</NumericDate>
+      <StartDate>2020-07-13</StartDate>
+      <EndDate>2020-07-13</EndDate>
+      <AlphaDate>Jul 13, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2020 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>Markets</DocSection>
+         <ColumnHeader>Deals &amp; Deal Makers</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Jul132020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO20200713BFEF20A6C73B739B33ED9DAF6B637175</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1620</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Cimilluca, Dana</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Dana</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Dana Cimilluca</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Cimilluca</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Dana Cimilluca</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Lombardo, Cara</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Cara</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Cara Lombardo</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Lombardo</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Cara Lombardo</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Internet of Things</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Semiconductors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQBUS">
+            <GenSubjValue>Initial public offerings</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="510" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;SoftBank Group Corp. is exploring alternatives including a full or partial sale or public offering of British chip designer Arm Holdings, which the Japanese conglomerate bought four years ago for $32 billion, according to people familiar with the matter.&lt;/p&gt;
+&lt;p&gt;The review, on which Goldman Sachs Group Inc. is advising, is at an early stage, the people said. It isn't known how much interest financial or industry players might have in Arm, and it is possible SoftBank will ultimately choose to do nothing.&lt;/p&gt;
+
+&lt;p&gt;SoftBank has previously indicated it could return Arm to public markets at some point. Such a move has gained urgency, however, as SoftBank seeks to raise cash from its varied stable of assets to mollify activist investor Elliott Management Corp., which has been agitating for changes at the company.&lt;/p&gt;
+&lt;p&gt;SoftBank has said it plans to sell up to $41 billion in assets to prop up its struggling portfolio and buy back its own shares, which trade at a steep discount relative to net asset value. It has a grab bag of assets to choose from; in addition to Arm and roughly $20 billion worth of T-Mobile US Inc. shares it recently sold, SoftBank also owns large stakes in Chinese e-commerce giant Alibaba Group Holding Ltd. and a leading Japanese cellphone provider.&lt;/p&gt;
+&lt;p&gt;SoftBank bought Arm, which designs microprocessors that power most of the world's smartphones, in 2016. At the time it was SoftBank's largest-ever acquisition.&lt;/p&gt;
+&lt;p&gt;SoftBank chief Masayoshi Son hailed the acquisition as a "paradigm shift" at the company, enabling it to take advantage of the potential of the Internet of Things, which refers to the connectivity of everyday devices. But sales of the software that Arm developed for managing connected devices have been relatively flat, excluding a boost from acquisitions.&lt;/p&gt;
+&lt;p&gt;Arm last week said it planned to transfer two IoT-services units into new entities that would be owned and operated by SoftBank as part of a move to focus on its core semiconductor-IP business. The company said it expected the transfer, if approved, to be finalized by the end of September.&lt;/p&gt;
+&lt;p&gt;SoftBank's $100 billion Vision Fund, which invests in tech companies and holds a 25% stake in Arm, has in the past considered transferring the stake back to SoftBank because fund executives believe the tech company's lackluster revenue growth has been a drag on the overall valuation of its portfolio.&lt;/p&gt;
+&lt;p&gt;SoftBank's earnings have been battered recently by huge losses at the Vision Fund , undermining plans to raise a second big investment vehicle.&lt;/p&gt;
+&lt;p&gt;The chip sector has been a reliable source of deal activity in recent years as companies position themselves to support the evolution of the auto and industrial sectors and the proliferation of smart devices. On Monday, Analog Devices Inc. agreed to buy Maxim Integrated Products Inc. for roughly $20 billion in a deal that would create a company specializing in analog semiconductors used in power management that could better compete with industry giant Texas Instruments Inc.&lt;/p&gt;
+&lt;p&gt;Write to Dana Cimilluca at dana.cimilluca@wsj.com and Cara Lombardo at cara.lombardo@wsj.com &lt;/p&gt;
+&lt;p&gt;Credit: By Dana Cimilluca and Cara Lombardo &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 13, 2020</AlphaDate>
+         <StartDate>2020-07-13</StartDate>
+         <EndDate>2020-07-13</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Jul132020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

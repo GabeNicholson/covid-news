@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487140714</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Making coronavirus testing easy, accurate and fast is critical to ending the pandemic - the US response is falling far short</Title>
+      </TitleAtt>
+      <NumericDate>2020-07-24</NumericDate>
+      <StartDate>2020-07-24</StartDate>
+      <EndDate>2020-07-24</EndDate>
+      <AlphaDate>Jul 24, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20200724_142366</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20200724_142366</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jul242020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>McLaren, Zoe</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Zoe</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Zoe McLaren</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>McLaren</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Zoe McLaren</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/142366/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Congress</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infectious diseases</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Severe acute respiratory syndrome coronavirus 2</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Epidemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Quarantine</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 diagnostic tests</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Texas</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New Mexico</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="91">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]public health experts recommend that people who may have been exposed to COVID-19 should quarantine at home for 14 days or until they receive a negative test result.
+
+The World Health Organization guidelines say that if more than 1 out of 20 COVID-19 tests comes back positive - a test positivity of more than 5% - this is an indication that a lot of cases are not diagnosed and the epidemic is not under control.
+
+[...]governments can improve the management and coordination of testing programs to more efficiently use existing resources.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1185" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;For many people in the U.S., getting tested for COVID-19 is a struggle. In Arizona, testing sites have seen lines of hundreds of cars stretching over a mile. In Texas and Florida, some people were waiting for five hours for free testing.&lt;/p&gt;
+&lt;p&gt;The inconvenience of these long waits alone discourages many people from getting tested. With the surge in cases, many public testing sites have been reaching maximum capacity within hours of opening, leaving many people unable to get tested for days. Those that do get tested often face a week-long wait to get their test results.&lt;/p&gt;
+&lt;p&gt;Every person who isn't tested could be spreading COVID-19 unknowingly. These overstretched testing programs are a weak link in the U.S. pandemic response.&lt;/p&gt;
+&lt;p&gt;I study public health policy to combat infectious disease epidemics. The key to overcoming this pandemic is to slow transmission of the virus by preventing contagious people from infecting others. A widespread quarantine would accomplish this, but is economically and socially burdensome. Testing offers a way to identify contagious people so they can be isolated to prevent the spread of the disease. This is especially important for COVID-19 because an estimated 40% or more of all people infected with SARS-CoV-2 have few or no symptoms so testing is the only way to identify them.&lt;/p&gt;
+&lt;p&gt;Some states are doing much better than others. But as a whole, the U.S. is falling far short of the amount of testing needed to control the pandemic. What are the challenges the U.S. is facing? And what is the way forward?&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Testing should be free, easy, fast and accurate &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The ultimate goal of testing is for everyone, regardless of symptoms, to know at all times whether they are infected with the coronavirus. To achieve this level of testing, tests should be free, very easy to perform and provide accurate results quickly.&lt;/p&gt;
+&lt;p&gt;Ideally, free COVID-19 tests would be delivered to everyone directly. The tests would be simple to perform - like a saliva test - and would give a perfectly accurate result within minutes. Everyone could test themselves weekly or anytime they were going to be in close contact with other people.&lt;/p&gt;
+&lt;p&gt;In this ideal scenario, most, if not all, contagious people would be detected before they could spread the virus to others. And because of the rapid results, there would be no burden of quarantining between doing the test and getting the result.&lt;/p&gt;
+&lt;p&gt;Researchers are working on better-quality tests, but access is a problem of infrastructure, not science. Right now, nowhere in the U.S. comes close to meeting surging demand for testing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; One of the worst cases: Texas &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The difficulty of getting a COVID-19 test varies by state, but currently, people in Texas face some of the biggest obstacles, which results in far fewer tests being done than is needed to control the pandemic.&lt;/p&gt;
+&lt;p&gt;First, Houston - which is experiencing a surge in cases - and many testing sites across the staterecommend or offer testing only to people who have symptoms, were exposed to a COVID-19 case or are a member of a high-risk group.&lt;/p&gt;
+&lt;p&gt;Even people recommended for testing still face challenges. It is possible to request an appointment for a free COVID-19 test, but testing facilities can handle only so many patients a day and testing slots fill up quickly. Even if someone gets an appointment, they may face an hours-long wait at the testing site.&lt;/p&gt;
+&lt;p&gt;Finally, public health experts recommend that people who may have been exposed to COVID-19 should quarantine at home for 14 days or until they receive a negative test result. In Texas, patients are supposed to get results through an online portal in three to five days, but many labs have been taking seven to nine days to return results. These long delays mean people face a much higher burden of quarantining while waiting for results.&lt;/p&gt;
+&lt;p&gt;All of these challenges make it clear that Texas is simply not testing enough people to keep the spread of COVID-19 in check.&lt;/p&gt;
+&lt;p&gt;To gauge the success of COVID-19 testing programs, epidemiologists use a measure called test positivity. This is simply the percentage of tests that come back positive. The lower the test positivity, the better, because that means very few cases are going undetected. A high test-positivity rate is usually a sign that only the sickest people are getting tested and many cases are being missed.&lt;/p&gt;
+&lt;p&gt;The World Health Organization guidelines say that if more than 1 out of 20 COVID-19 tests comes back positive - a test positivity of more than 5% - this is an indication that a lot of cases are not diagnosed and the epidemic is not under control. Texas currently has a test-positivity of around 16%, which means that a lot of infected people are not getting tested and may be unknowingly spreading the disease.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; One of the best cases: New Mexico &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In stark contrast to Texas is New Mexico, which has one of the strongest testing programs in the U.S.&lt;/p&gt;
+&lt;p&gt;First, public health officials there encourage everyone to get tested for COVID-19 regardless of symptoms or exposure. The state has also prohibited health providers from charging patients for tests. People seeking a test have the option to walk in or to make an appointment ahead of time, whichever is more convenient.&lt;/p&gt;
+&lt;p&gt;All of this relatively good access to testing has resulted in one of the highest per capita testing rates in the country, at over 20,000 tests per 100,000 people, and a test-positivity rate of around 4%. New Mexico's testing program is diagnosing a relatively high proportion of cases despite the state experiencing a recent surge.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Expertise in your inbox. Sign up for The Conversation's newsletter and get expert takes on today's news, every day.&lt;/i&gt;]&lt;/p&gt;
+&lt;p&gt;New Mexico still has room for improvement. Long lines, wait times and limited capacity are becoming more common as cases surge, but the foundation of a strong testing program has helped the state cope with the increase in cases.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The big-picture problems &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The pre-pandemic infectious disease testing capabilities in the U.S. are clearly unable to meet the current demand. A nationwide response is needed, and there are three things that Congress, the federal government and local governments can do to help ensure COVID-19 tests will be easy to get, fast and accurate.&lt;/p&gt;
+&lt;p&gt;First, Congress can provide funding to stimulate the testing supply chain, scale up existing testing programs and promote innovation in test development. Second, governments can improve the management and coordination of testing programs to more efficiently use existing resources. And third, innovative testing methods that reduce the need for lab capacity - like paper-strip tests and pooled testing - need be approved and implemented more quickly.&lt;/p&gt;
+&lt;p&gt;Every little improvement in testing capabilities means more COVID-19 cases can be caught before the virus is transmitted. And slowing the spread of the virus is the key to overcoming the pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Zoe McLaren does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Zoe McLaren, Associate Professor of Public Policy, University of Maryland, Baltimore County&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 24, 2020</AlphaDate>
+         <StartDate>2020-07-24</StartDate>
+         <EndDate>2020-07-24</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jul242020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

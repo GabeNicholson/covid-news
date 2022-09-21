@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2505882301</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Making defense cool [Corrected 03/28/2021]</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>Loyola's commitment to 2-way players paying off again</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2021-03-28</NumericDate>
+      <StartDate>2021-03-28</StartDate>
+      <EndDate>2021-03-28</EndDate>
+      <AlphaDate>Mar 28, 2021</AlphaDate>
+      <RawAlphaDate>20210328</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Mar 28, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>1</StartPage>
+         <DocSection>Sports</DocSection>
+         <ColumnHeader>On college basketball</ColumnHeader>
+         <DocEdition>Early</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Mar282021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2021032820210328477528313</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2021032820210328477528313</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1170</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Ryan, Shannon</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Shannon</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Shannon Ryan</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Ryan</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Shannon Ryan</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>National Collegiate Athletic Association--NCAA</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813990</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coaches &amp; managers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Professional basketball</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Missouri</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Illinois</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Oregon</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1382" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;When Loyola coaches recruit players, they look for athletes who show a commitment to defense. They fan that flame by reminding them of the best two-way players in the NBA.  &lt;/p&gt;&lt;p&gt;Name dropping Michael Jordan, LeBron James, Kobe Bryant and Klay Thompson plants a seed: If they do it and they're the best, shouldn't you?&lt;/p&gt;&lt;p&gt;"How you frame defense to a recruit, being able to talk about that term 'two-way player,' " Loyola coach Porter Moser said. "So many kids watch the NBA. I've got three boys who live and die by it. It's nonstop. All of a sudden, you see everyone talking about two-way players. It's cool to talk about that. It doesn't mean you don't get your offense developed. Defense creates offense. That's part of how we get these guys to believe in it."&lt;/p&gt;&lt;p&gt;Anyone watching the Ramblers understands they're not just committed to defense, they're married to it. A locked-in and precise defense -- the top-rated unit in the NCAA Tournament -- has propelled No. 8 seed Loyola to Saturday's Sweet 16 matchup against No. 12 Oregon State.&lt;/p&gt;&lt;p&gt;Nobody needed to be an analytics geek to understand Loyola's defense dismantled No. 1 seed Illinois in the Ramblers' 71-58 victory in the second round. From start to finish, cogs and wires were springing from the Illini's precise offensive machine.&lt;/p&gt;&lt;p&gt;"First 10 minutes of that game, they got us on our heels," Illini coach Brad Underwood said afterward. "We never really recovered. We had stretches, but they just rocked us. ... They made it very tough for us to run stuff. We got outrebounded. We got outfought. That's a good basketball team."&lt;/p&gt;&lt;p&gt;This wasn't the product of some quickly devised, unique trickery to beat Illinois, Loyola stressed after the game. This is simply who the Ramblers are. Who they have been.&lt;/p&gt;&lt;p&gt;"Our process is the accumulation of so many little things that starts with summer workouts," said assistant coach Drew Valentine, whom Moser calls the team's defensive coordinator. "The accumulation of these habits started in the summer and they started&lt;/p&gt;&lt;p&gt;years ago for our older guys. They allow us to coach them hard. A lot of people want to be great but don't want to be held accountable. We hold our guys accountable, but they want to be held accountable."&lt;/p&gt;&lt;p&gt;What's worked so well for the Ramblers beyond players who aren't allergic to defense?&lt;/p&gt;&lt;p&gt;The Ramblers ranked at or near the top of Kenpom's analytics in defensive efficiency all season. They held Illinois to a season-low 0.88 points per possession, which is not far off Loyola defense's 0.86 average.&lt;/p&gt;&lt;p&gt;Their 55.8 points allowed per game is No. 1 in the nation. They kept 25 of their 30 opponents, including their two tournament opponents Georgia Tech and Illinois, from scoring more than 60 points.&lt;/p&gt;&lt;p&gt;Loyola's keen ball-screen defense kept Illinois from getting downhill in transition. When the Illini did start a fast break, Loyola players outsprinted them to get in position and break any momentum.&lt;/p&gt;&lt;p&gt;The Ramblers' active hands, with players constantly stabbing at the ball, resulted in 12 steals and 17 Illini turnovers. Loyola cut off passing lanes, forced contested shots, corralled players into awkward passing positions and were magnets to the post whenever center Kofi Cockburn touched it.&lt;/p&gt;&lt;p&gt;Even those watching from the worst seats at Bankers Life Fieldhouse could see the players' communication, pointing out switches and rotations, which are executed so flawlessly they're near balletic.&lt;/p&gt;&lt;p&gt;These lessons aren't just ingrained in Loyola players' minds. They're written on a "Wall of Culture" at Gentile Arena. A sampling:&lt;/p&gt;&lt;p&gt;"Shadow": Make sure the main defender has backup by another defender who is shadowing to make sure the dribbler doesn't get into an open lane. "Through you to the rim": Don't jump for a shot fake in the post; make the shooter go through the defender to get to the rim. "Reach for the lights": To defend a shot, stretch your arms to the rafters and force a tough shot.&lt;/p&gt;&lt;p&gt;Because Loyola is fluent in these defensive strategies, the Ramblers can make adjustments with ease during a game.&lt;/p&gt;&lt;p&gt;"We have really smart players," Moser said. "We can adjust a ball screen in the middle of a 30-second timeout and do something."&lt;/p&gt;&lt;p&gt;Before this season, Loyola aimed to take its defense to another level.&lt;/p&gt;&lt;p&gt;After holding opponents to 32.3% on 3-pointers in 2017-18, the Final Four season, Loyola held opponents to a respectable 32.3% on 3-pointers. The next two seasons, the Ramblers allowed 36.3% and 36.8% -- near the bottom of the Missouri Valley Conference statistically.&lt;/p&gt;&lt;p&gt;They tweaked the way they guarded 3-pointers, focusing on getting opponents to take fewer.&lt;/p&gt;&lt;p&gt;Loyola opponents have taken 217 fewer 3-pointers this season and shot only 32.4%.&lt;/p&gt;&lt;p&gt;In conference play, they limited opponents' 3-point shooters to 31.9% -- second-best in the Valley.&lt;/p&gt;&lt;p&gt;Loyola also fine-tuned how it guards the final 10 seconds of the shot clock.&lt;/p&gt;&lt;p&gt;"For the first 20 seconds, we'd play really good defense and then have a breakdown when a team had ball-screen action or an iso drive," said Lucas Williamson, the Missouri Valley Defensive Player of the Year. "We were able to focus in on that."&lt;/p&gt;&lt;p&gt;Loyola's defense will be critical in disrupting Oregon State and bottling leading scorer Ethan Thompson (15.6 points, 3.9 rebounds and 3.8 assists per game).&lt;/p&gt;&lt;p&gt;The Beavers hit 10 3-pointers against Tennessee in the first round and six against Oklahoma State in the second. Guard Jared Lucas shoots 39% on 3-pointers, while reserve Maurice Callo hits 41.6%.&lt;/p&gt;&lt;p&gt;"They're one of the hottest teams in the country," Williamson said. "They owned the Pac-12 Tournament. They really look to get up and down. They really look to score early and get out in transition. They shoot a lot of 3s. ... I keep saying, we're going to have to be us, do our thing and focus in on defense. Let our defense translate to offense."&lt;/p&gt;&lt;p&gt;Valentine raves about his defensive "juggernauts." Williamson is the defensive guru, following in the steps of Final Four starter Ben Richardson.&lt;/p&gt;&lt;p&gt;Center Cameron Krutwig has "sneaky good hands" and is strong on ball-screen defense on guards while also defending the post. Aher Uguak has taken leaps defensively, a player so committed to defense he asks for opponents' film ahead of the scout. Tate Hall has improved on his switches, and Braden Norris is "tough as nails."&lt;/p&gt;&lt;p&gt;"You can't just be an offensive player," Valentine said. "You have to play both sides of the ball. Our offense has been what everyone thought, but now people are really recognizing our defense."&lt;/p&gt;&lt;p&gt;Valentine is also earning recognition.&lt;/p&gt;&lt;p&gt;After Bryan Mullins left to coach Southern Illinois, Valentine took on more defensive scheming.&lt;/p&gt;&lt;p&gt;Defense is in Valentine's blood. The brother of Bulls guard Denzel Valentine and the son of former Lansing, Mich., high school coach Carl Valentine, who played at Michigan State. He played for Greg Kampe at Oakland and then started his coaching career with the Spartans under Tom Izzo.&lt;/p&gt;&lt;p&gt;"My dad preached to us, 'Don't worry about scoring. Worry about winning,' " Valentine said. "We were probably the only 10-and-under team in the country working on four-on-four shell drills, jumping to the ball, working on defensive positions. Playing extremely hard and having lots of energy, bringing emotional energy, you can see that with how I coach and how my brother plays."&lt;/p&gt;&lt;p&gt;Valentine's lifelong enthusiasm for defense fit well with Moser.&lt;/p&gt;&lt;p&gt;"We bounce ideas off each other," Moser said. "Drew's always got good suggestions at timeouts. He's got a great mind and a great energy for the game, a really good defensive mind."&lt;/p&gt;&lt;p&gt;As a team, Loyola's attention to defense has paid off.&lt;/p&gt;&lt;p&gt;The Ramblers are making another deep tournament run because of their two-way players.&lt;/p&gt;&lt;p&gt;CAPTION: Photo: Loyola center Cameron Krutwig, left, and Lucas Williamson, right defrend against Illinois' Kofi Cockburn on Sunday during the second round of the NCAA tournament. PAUL SANCYA/AP  ; Photo: Loyola players celebrate after beating Illinois in the second round of the NCAA Tournament. MARK HUMPHREY/AP  ; Photo: Loyola's Lucas Williamson, left, grabs for the ball against Illinois' Da'Monte Williams last Sunday in Indianapolis. SARAH STIER/GETTY  ; Photo: 'Man, we're enjoying the moment'  ; Loyola and Porter Moser are soaking it all in as their Sweet 16 matchup against Oregon State nears. ; (Loyola Chicago center Cameron Krutwig (25) and Loyola Chicago guard Lucas Williamson (1) celebrate after beating Illinois 71-58 after a men's college basketball game in the second round of the NCAA tournament at Bankers Life Fieldhouse in Indianapolis, Sunday, March 21, 2021.) PAUL SANCYA/AP (News section, Page 1)&lt;/p&gt;&lt;p&gt;CREDIT: Shannon Ryan&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Mar 28, 2021</AlphaDate>
+         <RawDate>20210328</RawDate>
+         <StartDate>2021-03-28</StartDate>
+         <EndDate>2021-03-28</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Mar282021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

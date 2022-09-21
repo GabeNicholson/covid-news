@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2604449116</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Uganda Begins Strikes Against Islamist Militants in Congo After Bombings; Artillery barrages and airstrikes follow a series of bomb attacks in Uganda, including blasts that killed four in Kampala</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-30</NumericDate>
+      <StartDate>2021-11-30</StartDate>
+      <EndDate>2021-11-30</EndDate>
+      <AlphaDate>Nov 30, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>World</DocSection>
+         <ColumnHeader>Africa News</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Nov302021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO202111309FEF7A5A231A6609C55AAA606FD9C13E</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1570</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Bariyo, Nicholas</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Nicholas</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Nicholas Bariyo</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Bariyo</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Nicholas Bariyo</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Islamic State of Iraq &amp; the Levant--ISIS</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813940</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Artillery</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Investigations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Militancy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Central business districts</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Kampala Uganda</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>Uganda</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="572" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;KAMPALA, Uganda—The Ugandan military launched a series of strikes against Islamic State-aligned militants in neighboring Congo, the beginning of what Ugandan officials say they hope will be a quick offensive to drive the group from the mineral-rich region after a wave of attacks on the capital , Kampala.&lt;/p&gt;
+&lt;p&gt;Ugandan artillery units and jet fighters struck positions of the Allied Democratic Forces early Tuesday, said Uganda's military spokeswoman, Gen. Flavia Byekwaso. The strikes were quickly confirmed by Congolese government spokesman Patrick Muyaya, who described the group as terrorists and whose government signed off on the cross-border operation.&lt;/p&gt;
+
+&lt;p&gt;At least four Russian-made Sukhoi Su-30 jet fighters hit rebel targets in the tin- and gold-mining region of North Kivu, around 50 miles from the Ugandan border, military officials said. Artillery units also hit positions close to the mountain ranges of Ruwenzori. Military officials didn't immediately provide further details about the impact of the strikes.&lt;/p&gt;
+&lt;p&gt;Tuesday's military operation follows a wave of deadly attacks in Kampala that Ugandan authorities have blamed on the ADF. Islamic State claimed responsibility for at least three of them, including bomb blasts on Nov. 16 that killed four people and took the lives of three suicide attackers in Kampala's heavily guarded central business district.&lt;/p&gt;
+&lt;p&gt;The strikes have revived memories of a military campaign against the ADF in the 1990s. The rebels began a campaign to unseat Ugandan President Yoweri Museveni in the early part of that decade before government forces pursued them across the border into Congo. The subsequent conflict drew in several neighboring countries, triggering a rush for Congolese mineral wealth in addition to the deaths of more than five million people.&lt;/p&gt;
+&lt;p&gt;The ADF has since maintained bases in Congo, raiding civilians for supplies and engaging in illegal logging operations and mineral trading to finance their operations, according to United Nations investigators. The group pledged allegiance to Islamic State in 2017 and was recognized as one of its affiliates in 2019.&lt;/p&gt;
+&lt;p&gt;European security officials say the ADF was then emboldened to launch higher-profile attacks in Uganda and neighboring Rwanda after receiving funding and technical assistance from Islamic State's central leadership.&lt;/p&gt;
+&lt;p&gt;The U.N. said in a report last month that ADF attacks had grown increasingly brutal since last year. U.N. investigators blame the group for the deaths of at least 1,200 civilians in Congo this year alone, making the ADF the deadliest across a lawless region where dozens of other armed groups are active.&lt;/p&gt;
+&lt;p&gt;Mr. Museveni's autocratic government has come under pressure over how to respond to the growing threat posed by the ADF. Ugandan forces are a key contributor to U.S.-backed antiterrorism operations in Somalia, but have a checkered history for its role in Congo and other neighboring countries.&lt;/p&gt;
+&lt;p&gt;"The attacks over the past two months have put the authoritarian Museveni regime under pressure to do something and make it seem as though they have the situation under control," said Zaynab Mohamed, an analyst at Oxford Economics Africa. "This raises concerns about human rights abuses and the effectiveness of investigations to avoid future terror attacks."&lt;/p&gt;
+&lt;p&gt;Last week, Mr. Museveni said in televised remarks that Uganda wouldn't allow the ADF to continue using the Congolese jungles to attack Uganda with impunity.&lt;/p&gt;
+&lt;p&gt;"The ADF has exposed itself to us when we are ready. They are sure to be defeated," he said&lt;/p&gt;
+&lt;p&gt;Write to Nicholas Bariyo at nicholas.bariyo@wsj.com &lt;/p&gt;
+&lt;p&gt; Uganda Begins Strikes Against Islamist Militants in Congo After Bombings &lt;/p&gt;
+&lt;p&gt;Credit: By Nicholas Bariyo &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 30, 2021</AlphaDate>
+         <StartDate>2021-11-30</StartDate>
+         <EndDate>2021-11-30</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Nov302021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

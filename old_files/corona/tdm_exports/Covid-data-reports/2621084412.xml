@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2621084412</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>The omicron variant is deepening severe staffing shortages in medical laboratories across the US</Title>
+      </TitleAtt>
+      <NumericDate>2022-01-19</NumericDate>
+      <StartDate>2022-01-19</StartDate>
+      <EndDate>2022-01-19</EndDate>
+      <AlphaDate>Jan 19, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2022. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20220119_174459</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20220119_174459</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Jan192022______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Rohde, Rodney E</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Rodney</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Rodney E Rohde</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Rohde</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>E</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Rodney E. Rohde</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/174459/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hospitals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Workforce planning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical laboratories</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Professionals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Shortages</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 diagnostic tests</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Severe acute respiratory syndrome coronavirus 2</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Wages &amp; salaries</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="100">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;While the pandemic has helped to raise visibility of the profession, it has created what I refer to as the “medical laboratory free agent.”
+
+Because of major staffing issues, hospitals are luring professionals away with crazy financial incentives.
+
+Laboratory medicine informs almost every health issue, including diabetes, cancer, infections, labor and delivery, inherited disorders like sickle cell anemia, blood and organ typing, trauma and elective surgeries and procedures.
+
+Rodney E. Rohde has received funding from the American Society of Clinical Pathologists (ASCP), American Society for Clinical Laboratory Science (ASCLS), U.S. Department of Labor (OSHA), and other public and private entities/foundations.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1199" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Medical laboratory professionals form the backbone of health care and the public health system. They conduct some 13 billion laboratory medicine tests annually in the U.S. As of January 2022, these individuals had also performed more than 860 million COVID-19 tests and counting during the pandemic.&lt;/p&gt;
+&lt;p&gt;Why should anyone care? Laboratory testing is the single highest-volume medical activity affecting Americans, and it drives about two-thirds of all medical decisions made by doctors and other health care professionals. Simply put, every time you enter a hospital or health care facility for care, your life is in the hands of a medical laboratory professional.&lt;/p&gt;
+&lt;p&gt;Like other health care and health professionals, these lab workers are experiencing dangerously low staffing numbers as a result of the pandemic. This includes a diverse group of professionals with varying levels of education and credentials including phlebotomists, medical laboratory technicians, medical laboratory scientists, specialists and the most recent addition to our profession, the advanced professional doctor of clinical laboratory science. The U.S. Bureau of Labor Statistics reported in 2021 that employment of medical laboratory professionals is projected to grow 11% from 2020 to 2030, faster than the average for all occupations.&lt;/p&gt;
+&lt;p&gt;I’ve worked in public health and medical laboratories for over three decades. I specialize in the study of viruses and other microbes while also educating the next generation of medical laboratory scientists. Our profession was experiencing staffing shortages before the pandemic for over two decades. Now, going into the third year of the COVID-19 pandemic and with the omicron variant causing record high COVID-19 infection rates, this shortage has grown far worse.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The omicron effect&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Before the omicron variant of the SARS-CoV-2 virus surfaced in late November 2021, it seemed as if vaccines and other safety measures might enable the U.S. to turn the corner in the COVID-19 pandemic. But the highly contagious variant, with its ability to dodge the immune system’s defenses, changed that.&lt;/p&gt;
+&lt;p&gt;Over 1 million cases of COVID-19 were reported in the U.S. on Monday, Jan. 3, 2022, following the holiday backlog. This led to a seven-day average in the U.S. on Jan. 13 of almost 800,000 daily new cases – a new record that blew past the peak of last winter’s COVID-19 surge.&lt;/p&gt;
+&lt;p&gt;Fortunately, this tsunami of COVID-19 cases is not yet leading to higher death rates. But the skyrocketing COVID-19 infection rates are having a dangerous impact on patient care because of the sheer overwhelming numbers of hospitalizations.&lt;/p&gt;
+&lt;p&gt;The public almost always hears about the impact of the pandemic on front-line health care professionals – physicians, nurses, respiratory therapists and others. But few people are familiar with the medical laboratory professionals who labor behind the scenes, conducting complex medical laboratory testing to keep the engine of the medical system running. Without them, physicians and others lose the necessary medical data to take care of patients.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Voices from the medical laboratory&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Recently I corresponded with Edwin Beitz, a medical laboratory scientist, or MLS, who works at a 600-bed hospital in Pennsylvania. He noted that his hospital’s medical laboratory staffing has declined by 26% – the highest shortage they’ve ever experienced. He also said they are constantly training incoming staff, “an additional challenge when you’re short-staffed,” Beitz said. I have talked with medical laboratory colleagues across the U.S. who are reporting similar high rates of dangerous vacancies.&lt;/p&gt;
+&lt;p&gt;The reasons for this decline are – first and foremost – the increased stress that health care professionals have been under throughout the pandemic. They are truly burning out. Hospitals keep hiring and relocating professionals from other states and regions to fulfill staffing needs, but even that is beginning to fall short of the demand.&lt;/p&gt;
+&lt;p&gt;While the pandemic has helped to raise visibility of the profession, it has created what I refer to as the “medical laboratory free agent.” Because of major staffing issues, hospitals are luring professionals away with crazy financial incentives. For example, Edwin reports that medical laboratory professionals are seeing signing bonuses for $15,000 for a two-year commitment and two to three times their normal hourly rate to travel.&lt;/p&gt;
+&lt;p&gt;Brandy Gunsolus of Augusta University Medical Center in Georgia, a doctor of clinical laboratory science, similarly reported that her hospital is experiencing a 21% staffing shortage. Frighteningly, Gunsolus told me that “many of the laboratory workers are leaving the field for good to careers in non-health care related areas,” such as real estate and sales. The ongoing staffing shortages have a ripple effect on the education and training of current students, as well as on the recruiting of new graduate and traveler hires.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Unsustainable shortages&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A recent survey by AMN Healthcare, which provides data on health care staffing needs, reports that three in four hospitals are seeking to hire temporary health care professionals. Medical laboratory professionals, respiratory therapists and radiology technologists were the most in demand, according to the survey. And 16 states are experiencing critical staffing shortages in at least 25% of their hospitals, according to Health and Human Services data used in the report.&lt;/p&gt;
+&lt;p&gt;One often-cited reason for staffing shortages in the medical laboratory profession is low salaries. The Bureau of Labor and Statistics shows that a registered nurse has an annual salary of $75,330, while a medical laboratory professional has an annual median salary of $54,180 – almost 30% less.&lt;/p&gt;
+&lt;p&gt;Ongoing declines in new educational programs – in such states as Nevada and New Mexico, each of which has one program – are leading to a limited pipeline of new graduates for health care systems to employ.&lt;/p&gt;
+&lt;p&gt;In a 2020 laboratory professional survey, 85% reported burnout, nearly 60% reported inadequate compensation and more than a third complained of inadequate staffing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Ripple effects of the pandemic&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The omicron variant has had a “pile on” effect after two years of this pandemic. Health care professionals get sick too. The Centers for Disease Control and Prevention’s mitigation strategies offer a continuum of options for addressing staffing shortages, including allowing workers to come back before symptoms cease.&lt;/p&gt;
+&lt;p&gt;Other impacts of these staff shortages may include restricting testing to symptomatic or high-risk patients and limiting other forms of laboratory testing, which can lead to postponement of critical surgeries or procedures. Staff may also experience postponement of their vacation time, which could lead to further mental health strain.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 140,000 readers rely on The Conversation’s newsletters to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;Without medical laboratory professionals, every facet of our population’s health is at stake. Laboratory medicine informs almost every health issue, including diabetes, cancer, infections, labor and delivery, inherited disorders like sickle cell anemia, blood and organ typing, trauma and elective surgeries and procedures. Without these workers, critical needs go unmet.&lt;/p&gt;
+&lt;p&gt;So when people sit in agonizingly long COVID-19 testing lines, it’s worth remembering the beleaguered medical laboratory workers who have completed nearly one billion of these tests – with no end in sight.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Rodney E. Rohde has received funding from the American Society of Clinical Pathologists (ASCP), American Society for Clinical Laboratory Science (ASCLS), U.S. Department of Labor (OSHA), and other public and private entities/foundations. Dr. Rohde is affiliated with ASCP, ASCLS, ASM, and serves on several scientific advisory boards. See https://rodneyerohde.wp.txstate.edu/service/.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Rodney E. Rohde, Regents' Professor of Clinical Laboratory Science, Texas State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 19, 2022</AlphaDate>
+         <StartDate>2022-01-19</StartDate>
+         <EndDate>2022-01-19</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Jan192022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

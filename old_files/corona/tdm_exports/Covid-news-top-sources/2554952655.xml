@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2554952655</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>In Little Italy, Italian Americans gather over statues</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>Demand Columbus be put back in city</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2021-07-26</NumericDate>
+      <StartDate>2021-07-26</StartDate>
+      <EndDate>2021-07-26</EndDate>
+      <AlphaDate>Jul 26, 2021</AlphaDate>
+      <RawAlphaDate>20210726</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Jul 26, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>3</StartPage>
+         <DocSection>News</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Jul262021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2021072620210725489586694</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2021072620210725489586694</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1530</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Casanova, Stephanie</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Stephanie</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Stephanie Casanova</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Casanova</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Stephanie Casanova</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Italian Americans</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Demonstrations &amp; protests</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Sculpture</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Italy</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Columbus, Christopher (1451-1506)</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Chicago Illinois</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="650" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Hundreds of people gathered at a park in Little Italy on Sunday afternoon to demand that the three Christopher Columbus statues that were removed last summer be put back.  &lt;/p&gt;&lt;p&gt;During the rally at Arrigo Park, Italian American leaders called on Mayor Lori Lightfoot to return the statue that was removed from the park one year ago. A second statue was removed from Grant Park the same night, and a third statue of Columbus was later removed from the South Chicago neighborhood.&lt;/p&gt;&lt;p&gt;Lightfoot ordered the Columbus statue in Grant Park torn down in the dark of night, saying it was a temporary safety precaution aimed at preventing more clashes between Chicago police and protesters. The mayor then followed her decision to remove the three statues by creating a review process for controversial city monuments that she said would be part of "a racial healing and historical reckoning project."&lt;/p&gt;&lt;p&gt;On Sunday, Ron Onesti, president of the Joint Civic Committee of Italian Americans, told the crowd the rally was a "call to action."&lt;/p&gt;&lt;p&gt;"We are here to tell the mayor of the city of Chicago, we want the Columbus statues back," he said.&lt;/p&gt;&lt;p&gt;Onesti wore a gray T-shirt with an image of Columbus that said, "Christopher Columbus, the first Italian American."&lt;/p&gt;&lt;p&gt;Onesti thanked police several times for protecting property during the 2020 summer unrest in response to the murder of George Floyd in Minneapolis. He also talked about Marco DiFranco, an Italian American officer who died of COVID-19 complications last summer. Onesti presented John Catanzara, president of the Chicago FOP, with a Marco DiFranco Hero Award, in honor of the group of officers who guarded the Columbus statue at Grant Park on July 17, 2020, when demonstrators tried to remove it.&lt;/p&gt;&lt;p&gt;Catanzara told the crowd they could have prevented the Arrigo Park Columbus statue's removal had they shown up in protest the day it got taken down. He said Italian Americans need to speak their mind and stand up for what they believe so they can be heard. "We are not going to be subjected to this cancel culture one more damn day," he said.&lt;/p&gt;&lt;p&gt;People at the rally at Arrigo Park, many of them Italian American, held Italian flags or wore T-shirts and hats with the Italian flag.&lt;/p&gt;&lt;p&gt;"Bring them back! Bring them back!" they chanted throughout the event.&lt;/p&gt;&lt;p&gt;Justin Diamond stood behind the main crowd, a White Claw hard seltzer drink in hand. He wore a sleeveless shirt with an Italian flag, the words "Italian Muscle" around it and a baseball cap that said, "Proud to be Italian." Diamond said it's insulting to have the Columbus statues removed, and that it's dangerous to simply take down statues.&lt;/p&gt;&lt;p&gt;He said people have more in common than they do differences, and they should come together to focus on the positive.&lt;/p&gt;&lt;p&gt;He believes the Arrigo Park statue will come back and said if other groups want to honor someone different, they can put up statues for those people in their own communities. To Diamond, Columbus was someone who united the East and West. Columbus wasn't "a saint," Diamond said, but neither were most of the Founding Fathers and other historical figures in the United States.&lt;/p&gt;&lt;p&gt;"It changed everything, literally the entire world, and that's significant," he said of Columbus coming to America. "Any one person that can do that should be honored, despite their faults at the time that they lived."&lt;/p&gt;&lt;p&gt;About a dozen counterprotesters gathered across the street from the park. As people left the rally, many stopped to yell at the counterprotesters.&lt;/p&gt;&lt;p&gt;In recent years, even before Floyd's death, activists have started calling for the removal of statues and monuments that celebrate Columbus, Confederate leaders and other historical figures who oppressed or enslaved groups of people.&lt;/p&gt;&lt;p&gt;CAPTION: Photo: Members and supporters of Chicago's Italian American community attend a rally Sunday at Arrigo Park.; Photo: Members and supporters of Chicago's Italian American community yell and argue with counterprotesters.; ARMANDO L. SANCHEZ/CHICAGO TRIBUNE PHOTOS&lt;/p&gt;&lt;p&gt;CREDIT: By Stephanie Casanova, Chicago Tribune&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 26, 2021</AlphaDate>
+         <RawDate>20210726</RawDate>
+         <StartDate>2021-07-26</StartDate>
+         <EndDate>2021-07-26</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Jul262021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

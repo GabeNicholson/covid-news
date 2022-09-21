@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487143506</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>How kids can benefit from mindfulness training</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-05</NumericDate>
+      <StartDate>2021-01-05</StartDate>
+      <EndDate>2021-01-05</EndDate>
+      <AlphaDate>Jan 5, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210105_151654</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210105_151654</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jan52021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Marusak, Hilary A</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Hilary</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Hilary A Marusak</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Marusak</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>A</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Hilary A. Marusak</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/151654/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Schools</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Stress</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Academic achievement</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Martial arts</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Brain research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mental disorders</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Chronic illnesses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mindfulness</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Meditation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pain</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mental depression</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Anxieties</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mental health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Emotions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Teenagers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="82">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Techniques that include mindfulness are often a part of established clinical treatments for a variety of health problems, including depression, chronic pain and addiction.
+
+Some types of mind-wandering - like excessive worry, focus on negative things or ruminating on the past - are linked to mental disorders, including anxiety, depression and attention deficit hyperactivity disorder.
+
+Schools that have implemented mindfulness programs frequently report better cognitive performance, lower stress, improved classroom behavior, better social skills and even better math grades among their students.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1127" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Now that 2021 is here, many are looking for new ways to manage stress. Although mindfulness and meditation are not new - there is evidence suggesting that humans have been practicing meditation for more than 5,000 years - many are turning to these techniques to improve overall well-being. Mindfulness is a technique that involves paying attention to what's happening now in the present moment, in an accepting, nonjudgmental manner. There are mindfulness apps for managing stress, anxiety, chronic pain, weight loss, better sleep and quitting smoking.&lt;/p&gt;
+&lt;p&gt;Mindfulness and meditation are also a part of mind-body activities and exercises such as martial arts, breathing exercises and yoga, and are integrated into evidence-based clinical treatments for chronic pain, anxiety and depression. And for good reason. Researchers have found that practicing mindfulness and meditation can improve your immune system, lower blood pressure and even change brain structure and function.&lt;/p&gt;
+&lt;p&gt;Almost all of the research has been done in adults, but recent studies suggest that mindfulness and meditation can also be beneficial for children and teens. As a developmental neuroscientist, I have been interested in studying how mindfulness affects the brain in children and teens because the brain is still developing.&lt;/p&gt;
+&lt;p&gt;I believe that mindfulness and meditation may be especially beneficial for children and teens because these skills may strengthen brain circuits that control the ability to focus and concentrate and to regulate emotions, which are maturing during this time. Establishing these habits early in life may also set the stage for good habits later in life.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What is mindfulness? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Mindfulness is a mental capacity that differs among individuals, which means that some people are more naturally mindful that others. Mindfulness can also be strengthened through practice, and many types of mindfulness training programs have sprouted in recent years. Techniques that include mindfulness are often a part of established clinical treatments for a variety of health problems, including depression, chronic pain and addiction.&lt;/p&gt;
+&lt;p&gt;Some mindfulness practices have you simply notice your thoughts, feelings and sensations, like focusing on your breath. You can try this now - your attention might go to the tip of your nose or the sensation of your chest rising and falling.&lt;/p&gt;
+&lt;p&gt;You are not being mindful when you are lost in thought or when your mind is wandering. The tendency for your mind to wander, or to lose focus on the present moment, appears to be a "default mode" of brain functioning and can be beneficial. If used correctly, mind-wandering can spark creativityand help you understand what others are thinking.&lt;/p&gt;
+&lt;p&gt;However, mind-wandering can go awry, and this can be bad for your health. Some types of mind-wandering - like excessive worry, focus on negative things or ruminating on the past - are linked to mental disorders, including anxiety, depression and attention deficit hyperactivity disorder. One research study used a phone app to ping over 2,000 people throughout the day and found that their mind was wandering almost half of the time and also that people were less happy when their minds were wandering than when they were not. So techniques that can help you stay focused on the present moment, like mindfulness, may actually make you happier.&lt;/p&gt;
+&lt;p&gt;Mindfulness can also help reduce distraction. Kids, just like adults, can become distracted. This can interfere with their ability to do schoolwork, to manage relationships with friends or family, or to effectively regulate their emotions. This is an even bigger problem in today's fast-paced world with distractions all around. It may be even harder to stay focused while working from home during the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Effects of mindfulness on the developing brain &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Research on the potential benefits of mindfulness and meditation has exploded over the past several decades. In the 1970s there were only a handful of studies each year, and now, on average, more than seven studies are published every day.&lt;/p&gt;
+&lt;p&gt;Thanks in part to advances in brain imaging, neuroscientists have begun to understand how mindfulness and meditation can affect the brain.&lt;/p&gt;
+&lt;p&gt;My research team and I wanted to better understand mindfulness in kids. We conducted a study to examine how mindfulness relates to brain connectivity in children and adolescents by scanning the brains of 42 7- to 17-year-olds using functional magnetic resonance imaging. We also measured their degree of "trait mindfulness," which measures how naturally mindful they are.&lt;/p&gt;
+&lt;p&gt;More mindful children are better able to act with awareness and to observe and accept their internal experiences without judging them. We found that more mindful youth reported lower anxiety levels, and that their brains more frequently transitioned between different connectivity states throughout the scan.&lt;/p&gt;
+&lt;p&gt;This means that the more mindful children in the study were more able to flexibly shift in and out of different brain states throughout the course of the scan. Also, the more flexible their brains were, the less anxiety they reported. These brain states were associated with different patterns of connectivity between brain networks involved in mind wandering, attention and emotion processing.&lt;/p&gt;
+&lt;p&gt;More brain flexibility may help explain some of the positive reported benefits of mindfulness training in children and adolescents. Research shows that mindfulness is linked to lower stress and anxiety, and improvements in self-control, attention, resilience and better academic performance in youth. Mindfulness-based therapies have also shown to be effective for treating common childhood disorders like anxiety, which affects around one in three, and ADHD, which affects about one in 10 children and teens. We have recently shown that a martial arts-based therapy that integrates mindfulness and meditation techniques can help children with cancer and other chronic conditions cope with pain and emotional distress.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Mindfulness goes to school &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Many schools have adopted mindfulness programs as a way to help students better recognize their thoughts and emotions and to better understand how these thoughts and emotions influence their actions. Schools that have implemented mindfulness programs frequently report better cognitive performance, lower stress, improved classroom behavior, better social skills and even better math grades among their students. Mindfulness may also help students cope with the negative effects of bullying. Mindfulness-based schools programs can improve student mental health while improving overall academic performance.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;You're smart and curious about the world. So are The Conversation's authors and editors.&lt;/i&gt;You can read us daily by subscribing to our newsletter.]&lt;/p&gt;
+&lt;p&gt;This new year, give mindfulness a shot - even if it's just once. One study found that a brief 30-minute introduction to mindfulness was able to lower pain and negative emotions in a group of 17 people who had never tried meditation before. There are also simple mindfulness exercises for adults and kids of all ages that you can try at home.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Hilary Marusak is funded, in part, by grants from the National Institute of Mental Health. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Hilary A. Marusak, Assistant Professor of Psychiatry and Behavioral Neurosciences, Wayne State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 5, 2021</AlphaDate>
+         <StartDate>2021-01-05</StartDate>
+         <EndDate>2021-01-05</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jan52021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

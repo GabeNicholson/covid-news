@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2472748820</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>In Kerry James Marshall's renaissance, a diptych that's an eye trick</Title>
+      </TitleAtt>
+      <NumericDate>2020-12-27</NumericDate>
+      <StartDate>2020-12-27</StartDate>
+      <EndDate>2020-12-27</EndDate>
+      <AlphaDate>Dec 27, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Dec 27, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>E.10</StartPage>
+         <DocSection>Arts</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Dec272020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20201227InKerryJamesMarshallsrenaissanceadiptych4e38feb6</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1360</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Smee, Sebastian</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Sebastian</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Sebastian Smee</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Smee</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Sebastian Smee</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rhetoric</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Museums</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Trompe l'oeil</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Painting</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="823" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;p&gt;Kerry James Marshall made this painting in 2018, the year after his career retrospective, "Mastry," attracted large crowds and garnered rave reviews in New York, Los Angeles and Chicago. Most artists who get this kind of mid- or late-career attention flounder for a bit. "Untitled (Underpainting)," which is owned by Glenstone, feels like an unusually taut and tough-minded response to that period of sustained applause. &lt;/p&gt;
+&lt;p&gt;It's a very self-assured painting. Consider just the mechanics. &lt;/p&gt;
+&lt;p/&gt;
+&lt;p&gt;You're looking at a picture of a large gallery divided in half by two parallel white partitions. The painting's two halves are not quite mirror images: the figure closest to us on the right, for instance, is a man, while the equivalent figure on the left is a woman. But look closer and you see that the arrangement of gallery-goers on both sides is approximately the same. If that makes you think of a Rorschach test, that's probably Marshall's intention: He is always interested in what the viewer projects. &lt;/p&gt;
+&lt;p&gt;Speaking of viewers, there are dozens of them spread through the divided gallery, including two groups of schoolchildren. The paintings in front of them are big, museum-ready canvases, like the one you're looking at, which measures 10 feet by 7. &lt;/p&gt;
+&lt;p&gt;Most of Marshall's paintings are vividly colored. This one, however, is in shades of grayish umber, evoking (as the title reinforces) a painting yet to be finished. "I've always been interested in unfinished underpaintings," Marshall said in a recent interview, "like Leonardo's 'Saint Jerome in the Wilderness.' " It was from just such works, he said, that he learned how paintings were constructed.&lt;/p&gt;
+&lt;ad/&gt;
+&lt;p&gt;If you can see how something is constructed, you can see more easily how it might have been different. And that is something I suspect Marshall thinks about every day. &lt;/p&gt;
+&lt;p&gt;Usually, people do not see; they only recognize. Marshall's pictorial strategies - his rhetoric, if you like - play havoc with what we think we are &lt;em&gt;recognizing &lt;/em&gt;to get us to &lt;em&gt;see&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;At the center of his painting, two wall labels have been stuck to the part of the canvas where Marshall has rendered the ends of the partition walls. This little bit of trompe l'oeil, or "trick of the eye," disrupts the picture's otherwise smooth illusionism - the fiction that it's a window onto the world. The fiction is smartly reinstated by the gap between the two walls, through which you can see a tiny slice of a painting at the gallery's far end. &lt;/p&gt;
+&lt;p&gt;Every painting is a game, with its own conventions, its own rules. Here, both the lack of color and finish and the trompe l'oeil draw attention to the painting's pictorial rhetoric. What else about the picture might be rhetorical, or fictional? That everyone in it is Black?&lt;/p&gt;
+&lt;p&gt;Sure. As in Marshall's other paintings, which depict hairdressing salons, artists' studios, outdoor social gatherings, bedrooms and living rooms, the figures in this painting all appear to be Black. "I'm trying to create a certain kind of normalcy," Marshall explained in a recent interview with the art magazine Apollo; "a kind of everyday-ness, a commonplace-ness - a sense of simple presence." (In order to counter, he might have added, a big and complicated absence.) &lt;/p&gt;
+&lt;p&gt;Marshall may want to insist on the normalcy of his subjects' lives, but he also wants to register the social, political and psychological fact of Blackness. That's why the skin of the figures in this painting, and in all his others, is rendered in shades of black. Since no one actually has black skin (skin mostly comes in shades of brown and pink), this is another piece of pictorial rhetoric. &lt;/p&gt;
+&lt;p&gt;But here, too, Marshall deepens the game by giving his figures' black skin tones a richness and expansiveness that is entirely at odds with racialized rhetoric. He treats black as a color, full of variation and subtlety - not just an absence of light. &lt;/p&gt;
+&lt;p&gt;Marshall is interested in recovering Black people's "capacity to imagine [themselves] as an ideal," he told fellow artist Theaster Gates. Given the centuries of negativity heaped on blackness, which has functioned in the Western imagination as a psychic dumping ground for such evils as&lt;em&gt; &lt;/em&gt;death, disease and demonic magic, all while reinforcing prejudices that rationalized slavery and racism, this seems like a worthwhile interest.&lt;/p&gt;
+&lt;p&gt;But there's something unique about "Untitled (Underpainting)" that goes beyond rhetoric. It's a painting that magnetizes viewers like few others I know. Each time I've seen it, I've&lt;em&gt; &lt;/em&gt;been with&lt;em&gt; &lt;/em&gt;at least half a dozen people, and this has heightened my awareness of the uncanny doublings and the subtle disruptions that are built into its pictorial mechanics. &lt;/p&gt;
+&lt;p&gt;As you look at it in the company of others, the real situation mirrors the depicted situation. But not quite. There are two galleries: the one I am in and the one in the picture. And they don't quite match. &lt;/p&gt;
+&lt;great-works-links/&gt;
+&lt;p&gt;
+&lt;p&gt;sebastian.smee@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Kerry James Marshall (b. 1955)&lt;/p&gt;
+&lt;b&gt;Untitled (Underpainting), 2018
+&lt;/b&gt;
+&lt;p&gt;On view at the Glenstone Museum&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 27, 2020</AlphaDate>
+         <StartDate>2020-12-27</StartDate>
+         <EndDate>2020-12-27</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Dec272020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

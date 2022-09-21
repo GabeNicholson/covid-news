@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2504194859</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Austin Emerges as Country's 'Hottest Market'</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[Business/Financial Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2021-03-24</NumericDate>
+      <StartDate>2021-03-24</StartDate>
+      <EndDate>2021-03-24</EndDate>
+      <AlphaDate>Mar 24, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Mar 24, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.6</StartPage>
+         <Pagination>B.6</Pagination>
+         <DocSection>B</DocSection>
+         <ColumnNumber>0</ColumnNumber>
+         <ColumnHeader>Square Feet</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Mar242021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>589152-20210324</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <FullTextLinkID>https://www.nytimes.com/2021/03/23/business/austin-real-estate-rebound.html</FullTextLinkID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1650</LexileScore>
+      <Desk>Business/Financial Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Montgomery, David</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>David</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>David Montgomery</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Montgomery</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>David Montgomery</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <DocUrl>https://www.nytimes.com/2021/03/23/business/austin-real-estate-rebound.html</DocUrl>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Tesla Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>336999</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Commercial real estate</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Institutional investments</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Developers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Executives</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Presidents</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Millennials</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Office space</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>REITs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Job creation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>High tech industries</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Silicon Valley-California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Texas</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Colorado</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Atlanta Georgia</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1178" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The Texas city is a hot spot for commercial real estate investment and a magnet for corporations looking to move to a high-tech hub.&lt;/p&gt;&lt;p&gt;AUSTIN, Texas -- In March 2020, the outlook in Austin was bleak after the pandemic forced business closures, lockdown orders and the cancellation of South by Southwest, the annual festival that brings in millions of dollars for the city.&lt;/p&gt;&lt;p&gt;A year later, optimism has replaced despair. Across the nation, the coronavirus remains a threat and empty office buildings and restaurants have hampered growth, but Austin, the Texas capital, has emerged as a hot spot for commercial real estate investment and a magnet for out-of-state corporate relocations that are strengthening its allure as a center of high-tech industry.&lt;/p&gt;&lt;p&gt;"It's the hottest market in the country right now," said Mike McDonald, vice chairman at Cushman &amp;amp; Wakefield who represents pension funds, insurance companies and real estate investment trusts. "Millennials are moving to the Sun Belt, and companies are following the millennials. Investors are following the companies."&lt;/p&gt;&lt;p&gt;The city has become the No. 1 destination in the United States for potential commercial real estate investment, according to the CBRE Group, a national real estate services and investment firm. It displaced Greater Los Angeles as the most preferred market for 2021 because of the resilience in its labor market and an outlook for steady growth, according to an investor survey that CBRE will release this week.&lt;/p&gt;&lt;p&gt;The economic impact of the pandemic resulted in a net loss of 33,400 jobs in the Austin metropolitan area in 2020, according to the Austin Chamber of Commerce, but the influx of new companies helped Austin sustain the blow better than most other cities. A record 22,114 new jobs were attributed to businesses either expanding in Austin or moving to the city in 2020, compared with 13,562 in 2019, the chamber said.&lt;/p&gt;&lt;p&gt;The city's prosperity is part of a broad economic wave that has spread across parts of the Sun Belt. The Dallas-Fort Worth area, which ranked No. 2 on CBRE's investment survey, has also been high on the list of urban centers that have seen stability during the pandemic.&lt;/p&gt;&lt;p&gt;"The Sun Belt markets of Austin, Dallas, Phoenix and Atlanta were among the top-performing metros where the least number of jobs were lost in 2020," CBRE said in its survey.&lt;/p&gt;&lt;p&gt;Home to offices of tech giants such as Apple, Dell, Facebook, IBM and Samsung, Austin is increasingly considered one of the nation's dominant tech hubs after Silicon Valley, promoting itself as "Silicon Hills," a reference to its location in the Texas Hill Country.&lt;/p&gt;&lt;p&gt;That cachet has helped lure others. Elon Musk, the chief executive of Tesla, said in December that he had moved to Texas from California, an announcement made as construction crews were erecting a &lt;span&gt;$&lt;/span&gt;1.1 billion, 5,000-employee Tesla factory in the East Austin area. Oracle, one of the world's largest database companies, announced in December that it was moving its headquarters to Austin from Silicon Valley.&lt;/p&gt;&lt;p&gt;"It's become the second home for a large cluster of the larger tech companies," said Charlie W. Malet, president and chief investment officer of San Francisco-based Shorenstein Properties, which invests in 22 markets across the country, including Austin. "It's no secret that a market like Northern California, the Silicon Valley job market, is incredibly tight. There's massive competition for talent. And many of the growing tech companies have decided that 'we can't have everything in one location; we need to spread our wings."'&lt;/p&gt;&lt;p&gt;Nationwide, office vacancy rates rose to 17.1 percent by the end of 2020, the third consecutive quarterly increase, according to a report released in January by JLL, a commercial real estate services company. But the market in Austin was strong, "with less than 1 percent net occupancy losses in 2020," the report said.&lt;/p&gt;&lt;p&gt;New projects in Austin are adding skyscrapers downtown and creating retail and residential complexes elsewhere in the city. Although the pandemic has not held back development, it has influenced design changes like touch-free elevators, expanded open space, operable windows and improved ventilation.&lt;/p&gt;&lt;p&gt;Experts attribute Austin's counterintuitive economic performance to a number of factors: a stature as an education center and tech hub, a business-friendly climate, an abundance of social attractions and the charming eccentricity that spawned the slogan "Keep Austin Weird."&lt;/p&gt;&lt;p&gt;"All the things that make Austin an attractive place before the pandemic are still here despite the pandemic," said the mayor, Steve Adler, who noted that South by Southwest returned this month as an online event and that organizers were working toward its physical return in 2022.&lt;/p&gt;&lt;p&gt;The flood of job-seekers coming to Texas has led to an influx of out-of-state investment capital, said William C. Jenkins, a principal of Stonelake Capital Partners, a developer in Austin that is planning a 50-story office and residential tower downtown. As migrating companies create new jobs in the Lone Star State, he said, institutional investors are looking for "new cutting-edge, best-of-market real estate in Austin and in Texas" with an eye to "write big investment checks" for major projects.&lt;/p&gt;&lt;p&gt;Out-of-state developers are beginning to notice. Tishman Speyer, a real estate developer based in New York, announced in February its debut in the Austin market, purchasing the Foundry, a two-building office property in East Austin. Adding the city to its real estate portfolio was a "logical choice," Rob Speyer, the firm's president and chief executive, said in a statement.&lt;/p&gt;&lt;p&gt;Other major developers have long made Austin an essential element in their growth strategy.&lt;/p&gt;&lt;p&gt;Cousins Properties of Atlanta is one of the leading office property owners in Austin after more than 20 years there, with 4.8 million square feet of office space either completed or under construction. Cousins is a major developer of the Domain, a high-end complex with retail, residential and office space in the North Austin neighborhood.&lt;/p&gt;&lt;p&gt;Much of the city's appeal stems from its posture as a "very socially progressive and eclectic, creative city" that benefits from being in a state with lower regulation and lower taxes, said Colin Connolly, the president and chief executive of Cousins.&lt;/p&gt;&lt;p&gt;Brandywine Realty Trust, the largest landlord in its hometown, Philadelphia, has operated in the Austin market for 15 years and is starting a multiyear development on a 66-acre site near the Domain. The Broadmoor campus, which is anchored by an IBM complex, is expected to be completed in about 10 years, at a cost of about &lt;span&gt;$&lt;/span&gt;3 billion. Planners say it will infuse the area with an uptown vibe combining office, residential and retail space among at least 11 acres of parks.&lt;/p&gt;&lt;p&gt;The company is also nearing completion on the 405 Colorado, a 25-story office tower that will begin housing tenants this summer.&lt;/p&gt;&lt;p&gt;"People believe long term that Austin is on a roll and continues to be," said William D. Redd, Brandywine's executive vice president and senior managing director. "If you're a big investment firm, you want a piece of that action."&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;photo_caption&gt;Developers are forging ahead with projects in Austin, Texas, top. Construction on 405 Colorado, above. The 25-story office tower, right, will begin housing tenants this summer. The city's prosperity is part of an economic wave that has spread across parts of the Sun Belt. (PHOTOGRAPHS BY ILANA PANICH-LINSMAN FOR THE NEW YORK TIMES)&lt;/photo_caption&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Mar 24, 2021</AlphaDate>
+         <StartDate>2021-03-24</StartDate>
+         <EndDate>2021-03-24</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Mar242021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

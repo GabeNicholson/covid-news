@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2454987405</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Making life at home more palatable, one purchase at a time</Title>
+      </TitleAtt>
+      <NumericDate>2020-10-29</NumericDate>
+      <StartDate>2020-10-29</StartDate>
+      <EndDate>2020-10-29</EndDate>
+      <AlphaDate>Oct 29, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Oct 29, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>H.5</StartPage>
+         <DocSection>LocalLiving</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Oct292020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20201029Makinglifeathomemorepalatableonepurchase9bb5fa72</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1490</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Carefoot, Helen</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Helen</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Helen Carefoot</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Carefoot</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Helen Carefoot</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Purchasing</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Small kitchen appliances</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1268" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;We are now seven months into the pandemic, and many of us are still spending much of our time at home. Stay-at-home orders have eased in many states, but schools have largely opted for online learning, people are still working from home and there are still restrictions in place for public gatherings and other communal spaces. &lt;/p&gt;
+&lt;p&gt;The early days of the novel coronavirus outbreak saw people stocking up on groceries, cleaning supplies and bulk items. And although spending among U.S. consumers dipped in April, it is slowly recovering,  according to the U.S. Census Bureau's Consumer Expenditure Survey. Many people are looking for items that can make their time at home more comfortable or, at the very least, palatable. &lt;/p&gt;
+&lt;p&gt;"In uncertain times, there's some comfort people can find in the physicality or realness of items they buy, because everything else can feel uncertain and undetermined," said Elias Aboujaoude, clinical professor of psychiatry and director of the Impulse Control Disorders Clinic at Stanford University's medical school in California. "A physical thing can become a tool to help anchor us." &lt;/p&gt;
+&lt;p&gt;Some have made purchases that surprised them. Dave Marcus, a 62-year-old from New York who works in communications, has made a "drastic lifestyle change." He moved from the city to the suburbs in March, got a puppy and bought a La-Z-Boy recliner.&lt;/p&gt;
+&lt;p&gt;"I lived overseas, and my image of myself is a little bit more austere and not a typical American," he said. "A huge sinkdown chair is not how I envision myself." But he can't gather with family and friends now, and he misses the bustle of life in the city. So he treated himself to the cuddly recliner, where he can retreat during his downtime, and a comfortable office chair for working from home. He's still outfitting his house, and he recently added a gas firepit to his wish list. And he said he replaced his bed after 20 years.&lt;/p&gt;
+&lt;p&gt;Shellee Chen, 40, a stay-at-home mom in Germantown, bought a projector to screen movies in her backyard with her 7-year-old son. They stream films from her laptop onto their garage door and prepare popcorn and other treats together; they recently watched "Enola Holmes." &lt;/p&gt;
+&lt;p&gt;Some people have made purchases to up their outdoor entertaining game, because socializing outdoors is touted by scientists and experts as a safer alternative to indoor gatherings. Erika Pittman, 50, who works in public relations in Newfoundland and Labrador in Canada, bought a firepit for her backyard and hosts friends and playdates for her 11-year-old son there.&lt;/p&gt;
+&lt;p&gt;"At the beginning of this, when we realized how long it would go on, we made a commitment to get outside at least once a day," she said. The family also bought mountain bikes and supplies for hiking and camping, including a new camp stove and head lamps. &lt;/p&gt;
+&lt;p&gt;Others have made smaller purchases to make the days a little brighter. Hansini Munasinghe, 30, a graduate student at the University of Iowa, purchased a waffle maker and weighted blanket. She also bought a small wind chime for her backyard garden, where she spends more time now that her classes have moved online.&lt;/p&gt;
+&lt;p&gt;And because she's a full-time student, she upgraded her study space with a laptop stand and a cheerful clock shaped like a cat. Looking ahead to colder months, she plans to invest in better snowshoes. "I want to try to get outdoor time even when it's cold, because that's one of the few things we can do safely right now," she said. &lt;/p&gt;
+&lt;p&gt;Alicia Jackson, 33, an analyst and yoga instructor from Minneapolis, had about 30 plants between her office and home before the pandemic, but her collection has nearly doubled since she started working remotely. She has spread the plants around her apartment, which doesn't have a balcony or outdoor space. Her biggest purchase since March has been a multi-shelf unit to store and display plants in her living room. &lt;/p&gt;
+&lt;p&gt;"The living room used to be my relaxation space, but now I also teach there, so it's getting a lot of mileage," she said. She teaches three yoga classes a week over Zoom and says the "greenery is nice to have in the background." She has acquired her collection through curbside pickups from local plant shops and by trading with other plant lovers; she's a member of a local plant exchange group on Facebook that she said is the source of about one-third of her collection. &lt;/p&gt;
+&lt;p&gt;Caroline Moss, an author and journalist, has hosted the shopping podcast "Gee Thanks, Just Bought It" since last November. She invites guests, including chef Alison Roman and author Samantha Irby, to discuss the small purchases - a comfortable pair of sweats, a small desk fan, a favorite vegetable peeler - that make their days a little easier or better.  Since the onset of the pandemic, she has noticed her guests and listeners talking more about supplies for do-it-yourself activities.&lt;/p&gt;
+&lt;p&gt;"There's been an uptick in anything that can become a hobby," she said, noting that she purchased some modeling clay so she can learn to make jewelry. "Based on talking to people, they want stuff they can do with their hands that is not looking at their computer or phone."&lt;/p&gt;
+&lt;p&gt;Rowan Walrath, 25, an editor based in Boston, recently purchased a ukulele and skateboard, reflecting two new skills she's learning. She has been working remotely since March and sought hobbies to create a routine and help differentiate between work and time off.&lt;/p&gt;
+&lt;p&gt;Walrath keeps a pretty tight budget, but she does leave room for some discretionary funds, which she normally uses to travel and go out with friends. Being unable to do those activities has created some room for purchases that will make the pandemic more enjoyable. She also bought a cold-brew coffee maker, which she uses regularly. Her biggest purchase so far? A moped that she hopes to use in the future to offset the nearly $80 she spends monthly on a city transportation pass.&lt;/p&gt;
+&lt;p&gt;Expanding her skills in the kitchen has helped bring comfort to Stephanie Yuan, 23, a communications associate in the District. She picked up a cold-brew coffee maker, mochi maker, pasta maker and a molcajete (a traditional Mexican version of a mortar and pestle), which she has used to create dishes that remind her of home in San Diego.&lt;/p&gt;
+&lt;p&gt;"There's such a rich culture of Mexican cuisine there, and it's something I haven't been able to experience, because I haven't been able to go home and visit family," she said. She also purchased dumbbells and a road bike, the latter to help her continue her pre-pandemic triathlon training. She has been riding around the District on trails or to run errands. &lt;/p&gt;
+&lt;p&gt;Bread baking is another popular pandemic pastime, with numerous amateur bakers on social media showing off lumpy loaves sprung from sourdough starters. Kaitlin Whitney, 34, a professor of environmental studies in Rochester, N.Y., purchased a bread machine to cut down on her in-person grocery trips. She bakes fresh, gluten-free loaves twice a week and has found her time baking bread relaxing. "We already owned a Crock-Pot and rice cooker, but I wanted us to eat more healthy and fresh food, so I took a chance on this," she said.&lt;/p&gt;
+&lt;p&gt;Natalie Wagner, 35, an administrative assistant in Minneapolis, has also found comfort in her kitchen, with the purchase of an ice cream maker. She bought the Breville Smart Scoop machine in early March and has experimented with new flavors from David Lebovitz's "The Perfect Scoop."&lt;/p&gt;
+&lt;p&gt;"It feels super frivolous, but here we are. It's a fun diversion and a way not to go out," she said. &lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;helen.carefoot@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 29, 2020</AlphaDate>
+         <StartDate>2020-10-29</StartDate>
+         <EndDate>2020-10-29</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Oct292020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

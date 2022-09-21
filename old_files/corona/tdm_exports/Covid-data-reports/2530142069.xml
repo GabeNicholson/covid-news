@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2530142069</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Why do we get shots in the arm? It's all about the muscle</Title>
+      </TitleAtt>
+      <NumericDate>2021-05-21</NumericDate>
+      <StartDate>2021-05-21</StartDate>
+      <EndDate>2021-05-21</EndDate>
+      <AlphaDate>May 21, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210521_161259</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210521_161259</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_May212021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Richards, Libby</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Libby</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Libby Richards</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Richards</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Libby Richards</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/161259/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>College professors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Inflammation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Antigens</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Lymphatic system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Epidemics</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="77">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Lymph nodes, key components of our immune system, contain more immune cells that recognize the antigens in vaccines and start the immune process of creating antibodies.
+
+Infectious disease outbreaks, as in flu season or amid epidemics like COVID-19, require our public health system to vaccinate as many people as possible in a short time.
+
+[...]when it comes to the flu shot and the COVID-19 vaccine, for most adults and kids, the arm is the preferred vaccination route.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="669" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Millions have rolled up their sleeves for the COVID-19 vaccine, but why haven’t they rolled up their pants legs instead? Why do we get most shots in our arms?&lt;/p&gt;
+&lt;p&gt;As an associate professor of nursing with a background in public health, and as a mother of two curious kids, I field this question fairly often. So here’s the science behind why we get most vaccines in our arm.&lt;/p&gt;
+&lt;p&gt;It’s worth noting that most, but not all, vaccines are given in the muscle – this is known as an intramuscular injection. Some vaccines, like the rotavirus vaccine, are given orally. Others are given just beneath the skin, or subcutaneously – think of the measles, mumps and rubella vaccine. However, many others are given in the muscle.&lt;/p&gt;
+&lt;p&gt;But why is the muscle so important, and does location matter? And why the arm muscle – called the deltoid – in the top of the shoulder?&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Muscles have immune cells&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Muscles make an excellent vaccine administration site because muscle tissue contains important immune cells. These immune cells recognize the antigen, a tiny piece of a virus or bacteria introduced by the vaccine that stimulates an immune response. In the case of the COVID-19 vaccine, it is not introducing an antigen but rather administering the blueprint for producing antigens. The immune cells in the muscle tissue pick up these antigens and present them to the lymph nodes. Injecting the vaccine into muscle tissue keeps the vaccine localized, allowing immune cells to sound the alarm to other immune cells and get to work.&lt;/p&gt;
+&lt;p&gt;Once a vaccine is recognized by the immune cells in the muscle, these cells carry the antigen to lymph vessels, which transport the antigen-carrying immune cells into the lymph nodes. Lymph nodes, key components of our immune system, contain more immune cells that recognize the antigens in vaccines and start the immune process of creating antibodies.&lt;/p&gt;
+&lt;p&gt;Clusters of lymph nodes are located in areas close to vaccine administration sites. For instance, many vaccines are injected in the deltoid because it is close to lymph nodes located just under the armpit. When vaccines are given in the thigh, the lymph vessels don’t have far to travel to reach the cluster of lymph nodes in the groin.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Muscles keep the action localized&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Muscle tissue also tends to keep vaccine reactions localized. Injecting a vaccine into the deltoid muscle may result in local inflammation or soreness at the injection site. If certain vaccines are injected into fat tissue, the chance of irritation and inflammation reaction increases because fat tissue has poor blood supply, leading to poor absorption of some vaccine components.&lt;/p&gt;
+&lt;p&gt;Vaccines that include the use of adjuvants – or components that enhance the immune response to the antigen – must be given in a muscle to avoid widespread irritation and inflammation. Adjuvants act in a variety of ways to stimulate a stronger immune response.&lt;/p&gt;
+&lt;p&gt;Yet another deciding factor in vaccine administration location is the size of the muscle. Adults and children ages three and older tend to receive vaccines in their upper arm in the deltoid. Younger children receive their vaccines mid-thigh because their arm muscles are smaller and less developed.&lt;/p&gt;
+&lt;p&gt;Another consideration during vaccine administration is convenience and patient acceptability. Can you imagine taking down your pants at a mass vaccination clinic? Rolling up your sleeve is way easier and more preferred. Infectious disease outbreaks, as in flu season or amid epidemics like COVID-19, require our public health system to vaccinate as many people as possible in a short time. For these reasons, a shot in the arm is preferred simply because the upper arm is easily accessible.&lt;/p&gt;
+&lt;p&gt;All things considered, when it comes to the flu shot and the COVID-19 vaccine, for most adults and kids, the arm is the preferred vaccination route.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Understand new developments in science, health and technology, each week.&lt;/i&gt; Subscribe to The Conversation’s science newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Libby Richards receives funding from the National Institutes of Health and the American Nurses Foundation. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Libby Richards, Associate Professor of Nursing, Purdue University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 21, 2021</AlphaDate>
+         <StartDate>2021-05-21</StartDate>
+         <EndDate>2021-05-21</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_May212021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

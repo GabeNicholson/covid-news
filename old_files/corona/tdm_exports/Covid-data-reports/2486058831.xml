@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2486058831</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>A universal influenza vaccine may be one step closer, bringing long-lasting protection against flu</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-27</NumericDate>
+      <StartDate>2021-01-27</StartDate>
+      <EndDate>2021-01-27</EndDate>
+      <AlphaDate>Jan 27, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210127_152274</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210127_152274</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jan272021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Foster, Patricia L</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Patricia</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Patricia L Foster</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Foster</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>L</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Patricia L. Foster</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/152274/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Indiana University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Antibodies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mutation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Immune system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Epidemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Genetic engineering</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Clinical trials</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Swine flu</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Viruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Proteins</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Indiana</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="138">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]there's a downside to that strong reaction.
+
+Because the immune response to the virus's head is so vigorous, it pays little attention to other parts of the virus.
+
+A new kind of flu vaccine A team of scientists led by Florian Krammer at the Icahn School of Medicine at Mount Sinai just completed the first human clinical trial of what they hope will be a universal flu vaccine.
+
+The antibody response also lasted a long time; after a year and a half, the volunteers still had about four times the concentration of antibodies to the HA stalk in their blood as when the trial started.
+
+Since this was a phase 1 clinical trial testing only for adverse effects (which were minimal), the researchers didn't expose vaccinated people to the flu to test if their new antibodies protected them.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1258" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;A bad year for flu can mean tens of thousands of deaths in the U.S. Getting vaccinated can protect you from influenza, but you have to get the shot every year to catch up with the changing virus and to top up the short-lived immunity the vaccine provides. The vaccine's effectiveness also depends on correct predictions about which strains will be most common in a given season.&lt;/p&gt;
+&lt;p&gt;For these reasons, a one-and-done universal vaccine that would provide lasting immunity over multiple flu seasons and protect against a variety of strains has been a long-term goal for scientists.&lt;/p&gt;
+&lt;p&gt;Researchers are now one step closer to hitting that target. Scientists recently completed the first human trial of a vaccine created by recombinant genetic technology to fool the immune system into attacking a part of the virus that does not change so fast and is common among different strains.&lt;/p&gt;
+&lt;p&gt;I am a microbiologist interested in infectious diseases, and I've followed the seasonal flu epidemic for several years. I'm excited by this news, which could mark the turning point in the quest for a universal flu vaccine. Here's how it all works.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Biology of the invading influenza virus &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Like the virus that causes COVID-19, the influenza virus has a protein shell that is coated by a lipid membrane. Sticking through the membrane are multiple copies of three types of proteins: haemagglutinin, abbreviated as HA; neuraminidase, abbreviated as NA; and the matrix protein, M2.&lt;/p&gt;
+&lt;p&gt;It's the properties of the HA and NA proteins that distinguish the different strains of the virus. You've probably heard of strains like H1N1 and H3N2, both of which are infecting people in the U.S. this year.&lt;/p&gt;
+&lt;p&gt;The HA molecule is shaped a bit like a flower bud, with a stalk and a head. Once someone inhales the virus, the tip of the HA molecule's head binds to a receptor on the surface of the cells that line the person's respiratory passages.&lt;/p&gt;
+&lt;p&gt;This initial binding is crucial as it induces the cell to engulf the virus. Once inside, the virus gets to work replicating its own genetic material. But the enzyme that copies its single-strand RNA is very sloppy; it can leave two or three mistakes, called mutations, in every new copy.&lt;/p&gt;
+&lt;p&gt;Sometimes the genetic changes are so drastic that the progeny viruses don't survive; other times they are the start of new flu strains. Based on viral samples collected from around the world, the flu virus that arrives one year will have about seven new mutations in the gene for HA and four in the gene for NA compared to the previous year's virus. These differences are a big part of why the same influenza vaccine won't be as effective from one year to the next.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Fighting off a flu infection &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;When infected with the flu virus, your immune system produces antibodies to fend it off. Most of these antibodies interact with the HA head and prevent the virus from getting into your cells.&lt;/p&gt;
+&lt;p&gt;But there's a downside to that strong reaction. Because the immune response to the virus's head is so vigorous, it pays little attention to other parts of the virus. That means that your immune system is not prepared to fend off any future infection with a virus that has a different HA head, even if the rest of the virus is identical.&lt;/p&gt;
+&lt;p&gt;Current flu vaccines are inactivated versions of the influenza virus and so also work by inducing antibodies targeted to the HA head. And that's why each version of the vaccine usually works only against a particular strain. But, as the flu spreads, the rapid rate of genetic change can produce new versions of the HA head that will evade the antibodies induced by the vaccine. These newly resistant viruses will then render even the current season's vaccine ineffective.&lt;/p&gt;
+&lt;p&gt;The stalk portion of the HA molecule is much more genetically stable than the head. And HA stalks from different flu strains are much more alike than their head regions are.&lt;/p&gt;
+&lt;p&gt;So, an obvious way to protect people against different flu strains would be to use just the HA stalk in a vaccine. Unfortunately vaccination with only a headless stalk doesn't seem to prevent infection.&lt;/p&gt;
+&lt;p&gt;Scientists are currently pursuing several different solutions to this problem.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; A new kind of flu vaccine &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A team of scientists led by Florian Krammer at the Icahn School of Medicine at Mount Sinai just completed the first human clinical trial of what they hope will be a universal flu vaccine.&lt;/p&gt;
+&lt;p&gt;The researchers used recombinant genetic technology to create flu viruses with "chimeric" HA proteins - essentially a patchwork quilt built from pieces of different flu strains.&lt;/p&gt;
+&lt;p&gt;Volunteers for the clinical trial received two vaccinations separated by three months. The first dose consisted of an inactivated H1N1 virus with its original HA stalk but the head portion from a bird influenza virus. Vaccination with this virus induced a mild antibody response to the foreign head, and a robust response to the stalk. This pattern meant that the immune systems of the subjects had never encountered the head before, but had seen the stalk from previous flu vaccinations or infections.&lt;/p&gt;
+&lt;p&gt;The second vaccination consisted of the same H1N1 virus but with an HA head from a different bird virus. This dose elicited, again, a mild antibody response to the new head, but a further boost in response to the HA stalk. After each vaccine dose the subjects' stalk antibody concentrations averaged about eight times higher than their initial levels.&lt;/p&gt;
+&lt;p&gt;Researchers found that even though the vaccine was based on the HA stalk of the H1N1 virus strain, the antibodies it elicited reacted to HA stalks from other strains too. In lab tests, the antibodies from vaccinated volunteers attacked the H2N2 virus that caused the 1957 Asian flu pandemic and the H9N2 virus that the CDC considers to be of concern for future outbreaks. The antibodies did not react to the stalk of the more distantly related H3 viral strain.&lt;/p&gt;
+&lt;p&gt;The antibody response also lasted a long time; after a year and a half, the volunteers still had about four times the concentration of antibodies to the HA stalk in their blood as when the trial started.&lt;/p&gt;
+&lt;p&gt;Since this was a phase 1 clinical trial testing only for adverse effects (which were minimal), the researchers didn't expose vaccinated people to the flu to test if their new antibodies protected them.&lt;/p&gt;
+&lt;p&gt;However, they did inject the subjects' blood serum, which contains the antibodies, into mice to see if it would protect them against the flu virus. Getting a shot of serum taken from volunteers a month after receiving the booster shot, when antibody levels were high, led to mice being 95% healthier after virus exposure than mice who got blood serum from nonvaccinated volunteers. Even the mice who received serum that was collected from vaccinated volunteers a year after the start of the trial were about 30% less sick.&lt;/p&gt;
+&lt;p&gt;These results show that vaccination with a chimeric flu protein can provide long-lasting immunity to several different strains of the influenza virus. Scientists will need to continue optimizing this approach so it works for different types and strains of influenza. But the success of this first human trial means you may one day get a single shot and, at last, be free from the flu.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;The Conversation's science, health and technology editors pick their favorite stories.&lt;/i&gt;Weekly on Wednesdays.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Patricia L. Foster is affiliated with the Union of Concerned Scientists and Concerned Scientists at Indiana University. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Patricia L. Foster, Professor Emerita of Biology, Indiana University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 27, 2021</AlphaDate>
+         <StartDate>2021-01-27</StartDate>
+         <EndDate>2021-01-27</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jan272021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2465012927</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Finally back, Lawrence lifts Clemson</Title>
+      </TitleAtt>
+      <NumericDate>2020-11-29</NumericDate>
+      <StartDate>2020-11-29</StartDate>
+      <EndDate>2020-11-29</EndDate>
+      <AlphaDate>Nov 29, 2020</AlphaDate>
+      <RawAlphaDate>20201129</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Nov 29, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>5</StartPage>
+         <DocSection>Sports</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Nov292020</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2020112920201128462684339</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2020112920201128462684339</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1530</LexileScore>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>College football</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Sports injuries</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Pittsburgh Pennsylvania</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Indiana</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Florida</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Ohio</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="761" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Trevor Lawrence threw for 403 yards and two touchdowns in his first game in five weeks -- and likely last one at Death Valley -- as Clemson throttled visiting Pittsburgh 52-17 on Saturday.  &lt;/p&gt;&lt;p&gt;Lawrence hadn't seen the field on game day since beating Syracuse on Oct. 24. He tested positive for the coronavirus the following week and missed Clemson's next two games, including its only loss this season -- a 47-40 double OT defeat at Notre Dame.&lt;/p&gt;&lt;p&gt;A healthy, eager Lawrence expected to play last week, but a positive test from a Clemson offensive lineman on the Friday before the game led to a postponement at Florida State just hours before kickoff.&lt;/p&gt;&lt;p&gt;Lawrence, a 6-foot-6 junior with a powerful arm, deft touch and flowing hair, was as crisp as ever in leading Clemson, No. 3 in the College Football Playoff ranking, a step closer to the league championship game and a likely rematch with the second-ranked Fighting Irish.&lt;/p&gt;&lt;p&gt;The Tigers are 8-1 overall and 7-1 in the ACC.&lt;/p&gt;&lt;p&gt;Cornell Powell had five catches for 176 yards, including a 43-yard TD catch off a flea-flicker pass from Lawrence. Powell also had an incredible, one-handed grab on a 70-yard pass to the Pitt 5 that set up Chez Mellusi's 2-yard TD run for a 38-3 lead.&lt;/p&gt;&lt;p&gt;The Panthers (5-5, 4-5) were the last team to win at Clemson, 43-42 in 2016. But Pittsburgh quarterback Kenny Pickett threw four interceptions, three in the first eight minutes that all led to Clemson TDs, and the Panthers couldn't recover as the Tigers won their 28th straight at home.&lt;/p&gt;&lt;p&gt;Lawrence finished 26-of-37 passing and improved to 32-1 as a starter.&lt;/p&gt;&lt;p&gt;Buckeyes in limbo: Ohio State officials say they're unsure when the team can practice again, let alone play next week at Michigan State, after an outbreak of COVID-19 put the fourth-ranked Buckeyes' Big Ten title hopes in danger.&lt;/p&gt;&lt;p&gt;"I have no clue what this afternoon or tomorrow will bring or next week will bring," AD Gene Smith said Saturday.&lt;/p&gt;&lt;p&gt;Three more college football games across the country were canceled or postponed Saturday, including Florida State hosting Virginia.&lt;/p&gt;&lt;p&gt;For the second straight week, the Seminoles had their home game called off hours before kickoff and after their opponent had already traveled to Tallahassee, Florida.&lt;/p&gt;&lt;p&gt;Last week the issue was Clemson and Florida State not agreeing on whether the game should be played after a Tigers player who was positive for COVID-19 traveled with the team to Florida.&lt;/p&gt;&lt;p&gt;This week, one positive test for a Florida State player returned Saturday morning led to contact tracing that left the Seminoles with only 44 scholarship players.&lt;/p&gt;&lt;p&gt;Ohio State canceled its Saturday game at Illinois on Friday night. Across college football, 19 of the 58 games originally scheduled for this week were called off because of COVID-19 issues.&lt;/p&gt;&lt;p&gt;The Buckeyes' disruption could be the most significant, impacting the Big Ten and national championship race.&lt;/p&gt;&lt;p&gt;Trask, Gators keep rolling: Florida's Kyle-to-Kyle connection returned in a big way after a two-week hiatus and put the sixth-ranked Gators on the verge of the SEC championship game.&lt;/p&gt;&lt;p&gt;Kyle Trask found Kyle Pitts for three TDs, including a 56-yarder in which the star tight end ran away from a cornerback, and Florida overcame a sluggish start to beat Kentucky 34-10 on Saturday in the Swamp.&lt;/p&gt;&lt;p&gt;It was Pitts' first game since suffering a concussion and breaking his nose on a vicious hit against Georgia.&lt;/p&gt;&lt;p&gt;Trask has 34 TD passes this season, moving him past 2007 Heisman Trophy winner Tim Tebow and into a tie for third on the school's single-season list. Only Danny Wuerffel (39 in 1996, 35 in 1995) is ahead of him. Rex Grossman also threw 34 in 2001.&lt;/p&gt;&lt;p&gt;Trask did break one of Wuerffel's records Saturday. He became the first player in school history with at least three TD passes in eight consecutive games.&lt;/p&gt;&lt;p&gt;The Gators (7-1) can clinch the SEC East with a win at Tennessee next week.&lt;/p&gt;&lt;p&gt;Extra points: Indiana QB Michael Penix Jr. exited the 12th-ranked Hoosiers' 27-11 victory over visiting Maryland with 4:36 remaining in the third quarter after sustaining a lower leg injury. He didn't return. After the game, Indiana coach Tom Allen said the team would know more about Penix's injury Monday. Indiana is scheduled to travel to No. 16 Wisconsin on Dec. 5 for a critical Big Ten West showdown. ... C.J. Marable ran for 157 yards and three TDs and No. 20 Coastal Carolina wrapped up the Sun Belt Conference East Division title with a 49-14 victory over host Texas State. The Chanticleers (9-0, 7-0) had 572 yards of offense in extending their winning streak to 10 games. They moved up to the FBS three seasons ago&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 29, 2020</AlphaDate>
+         <RawDate>20201129</RawDate>
+         <StartDate>2020-11-29</StartDate>
+         <EndDate>2020-11-29</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Nov292020</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

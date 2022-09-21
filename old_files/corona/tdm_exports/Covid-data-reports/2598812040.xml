@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2598812040</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>What Americans hear about social justice at church – and what they do about it</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-18</NumericDate>
+      <StartDate>2021-11-18</StartDate>
+      <EndDate>2021-11-18</EndDate>
+      <AlphaDate>Nov 18, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20211118_168713</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20211118_168713</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Nov182021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Brown, R Khari</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>R</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>R Khari Brown</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Brown</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>Khari</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>R. Khari Brown</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Brown, Ronald</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Ronald</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Ronald Brown</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Brown</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Ronald Brown</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/168713/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Wayne State University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Religion</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>African Americans</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political activism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Racism</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="89">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Protests were underway outside Central United Methodist Church, an interracial church in downtown Detroit with a long history of activism on civil rights, peace, immigrant rights and poverty issues.
+
+Politics in the pews In our book, we find that, depending upon the issue, between half and two-thirds of Americans support religious leaders taking public positions on racism, poverty, war and immigration.
+
+[...]African Americans are the most likely to support religious leaders expressing political views on specific issues, from poverty and homelessness to peace, as we examine in our book.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1033" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;On June 5, 2020, it had been just over a week since a white Minnesota police officer, Derek Chauvin, killed George Floyd, an unarmed, African American man. Protests were underway outside Central United Methodist Church, an interracial church in downtown Detroit with a long history of activism on civil rights, peace, immigrant rights and poverty issues.&lt;/p&gt;
+&lt;p&gt;In response to the COVID-19 pandemic, the church was no longer holding in-person worship services. But anyone walking into its sanctuary that day would have seen long red flags behind the pastor’s lectern, displaying the words “peace” and “love.” A banner reading “Michigan Says No! To War” hung alongside pictures of civil rights icons Fannie Lou Hamer and the Rev. Martin Luther King Jr., as well as labor-rights activist Cesar Chavez. In line with her church’s activist tradition, senior pastor Jill Hardt Zundell stood outside the building and preached about her church’s commitment to eradicating anti-Black racism to her congregants and all that passed by.&lt;/p&gt;
+&lt;p&gt;In our sociology and political science research, we have both studied how race, religion and politics are intimately connected in the United States. Our recent book, “Race and the Power of Sermons on American Politics” – written with psychologist James S. Jackson – uses 44 national and regional surveys conducted between 1941 and 2019 to examine racial differences in who hears messages about social justice at church. We also examined how hearing those types of sermons correlates with support for policies aimed at reducing social inequality and with political activism.&lt;/p&gt;
+&lt;p&gt;For centuries, many Americans have envisioned that their country has a special relationship with God – that their nation is “a city on a hill” with special blessings and responsibilities. Beliefs that America is exceptional have inspired views across the political spectrum.&lt;/p&gt;
+&lt;p&gt;Many congregations that emphasize social justice embrace this idea of a “covenant” between the United States and the creator. They interpret it to mean Americans must create opportunity and inclusion for all – based in the belief that all people are equally valued by God.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Politics in the pews&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In our book, we find that, depending upon the issue, between half and two-thirds of Americans support religious leaders taking public positions on racism, poverty, war and immigration. Roughly a third report attending worship settings where their clergy or friends discuss these issues and the importance of politically acting on one’s beliefs.&lt;/p&gt;
+&lt;p&gt;African Americans and Hispanic Americans tend to be more supportive of religious leaders speaking out against racism and attempting to influence poverty and immigration policy. On the whole, African Americans are the most likely to support religious leaders expressing political views on specific issues, from poverty and homelessness to peace, as we examine in our book.&lt;/p&gt;
+&lt;p&gt;Black Americans are also more likely to attend worship settings where clergy and other members encourage them to connect their faith to social justice work. For example, according to a July 2020 Pew Research Center poll, 67% of African American worshippers reported hearing sermons in support of Black Lives Matter, relative to 47% of Hispanics and 36% of whites.&lt;/p&gt;
+&lt;p&gt;Race also affects the relationship between hearing such sermons and supporting related policies. When statistically accounting for religious affiliation, political party and demographic characteristics, attending these types of congregations more strongly associates with white Americans supporting progressive policy positions than it does for Black Americans and Hispanics.&lt;/p&gt;
+&lt;p&gt;White worshippers who hear sermons about race and poverty, for example, are more likely to oppose spending cuts to welfare programs than those who hear no such messages at their place of worship.&lt;/p&gt;
+&lt;p&gt;This is not the case for African Americans and Hispanics, however, who are as likely to oppose social welfare spending cuts regardless of where they worship. In other words, while hearing sermons about social justice issues informs or at least aligns with white progressive policy attitudes, this alignment is not as strong for Blacks and Hispanics.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;The most interesting religion stories from three major news organizations.&lt;/i&gt; Get This Week in Religion.]&lt;/p&gt;
+&lt;p&gt;Clergy of predominantly white worship spaces are often more politically liberal than their congregants. Historically, this has translated into members pushing back when clergy take public positions that are more progressive than their congregation’s.&lt;/p&gt;
+&lt;p&gt;This may explain why white parishioners who chose to attend congregations where they hear social justice-themed sermons tend to be more politically progressive, or more open to sermons challenging previous views, than are other white parishioners.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;From words to action&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;However, when it comes to the connection between hearing sermons and taking political action, race doesn’t matter as much. That is, when taking into account religious affiliation, party affiliation and social demographics, people who hear social justice-themed sermons in their places of worship are more likely than other Americans to engage in political activism, regardless of their race.&lt;/p&gt;
+&lt;p&gt;For example, during the months following Floyd’s murder, Black, white and Hispanic congregants who heard sermons about race and policing were more likely than others to have protested for any purpose in the past 12 months, according to data from the 2020 National Politics Study. More specifically, white Americans who attended houses of worship where they heard those types of sermons were more than twice as likely to participate in a protest as other white worshippers. Black and Hispanic attendees were almost twice as likely to protest, compared to those attending houses of worship where they did not hear sermons about race and policing.&lt;/p&gt;
+&lt;p&gt;The difference between people who attend houses of worship with a social-justice focus and people who did not attend religious services at all is even more striking. White Americans who heard such messages at religious services were almost four times more likely to protest than white Americans who did not attend services; Black and Hispanic Americans were almost three times as likely.&lt;/p&gt;
+&lt;p&gt;Today, many Americans are pessimistic about inequality, political divisions and ethnic conflict. Yet, as these surveys show, social justice-minded congregations inspire members to work for policies that support their vision of the public good.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;R. Khari Brown receives funding from The Louisville Institute and Issachar Fund. &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;R. Khari Brown is my son. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;R. Khari Brown, Associate Professor, Department of Sociology, Wayne State University, Wayne State University&lt;/p&gt;&lt;p&gt;Ronald Brown, Associate Professor of Political Science, Wayne State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 18, 2021</AlphaDate>
+         <StartDate>2021-11-18</StartDate>
+         <EndDate>2021-11-18</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Nov182021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

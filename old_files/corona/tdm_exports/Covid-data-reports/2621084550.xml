@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2621084550</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>CORBEVAX, a new patent-free COVID-19 vaccine, could be a pandemic game changer globally</Title>
+      </TitleAtt>
+      <NumericDate>2022-01-19</NumericDate>
+      <StartDate>2022-01-19</StartDate>
+      <EndDate>2022-01-19</EndDate>
+      <AlphaDate>Jan 19, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2022. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20220119_174672</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20220119_174672</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Jan192022______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Ferran, Maureen</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Maureen</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Maureen Ferran</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Ferran</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Maureen Ferran</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/174672/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Viruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Developing countries--LDCs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>mRNA vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Severe acute respiratory syndrome coronavirus 2</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Funding</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Immune system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Epidemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Proteins</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>India</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="89">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;How was CORBEVAX developed? CORBEVAX was developed by the co-directors of the Texas Children’s Hospital Center for Vaccine Development at Baylor College of Medicine, Drs. Maria Elena Bottazzi and Peter Hotez.
+
+[...]key to global access is that CORBEVAX can be stored in a regular refrigerator.
+
+[...]it is possible to produce millions of doses rapidly and distribute them relatively easily.
+
+While developing countries do have vaccine production capacity, low- and middle-income countries in Africa, Asia and Latin America still need to be able to afford the cost of placing orders.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1078" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The world now has a new COVID-19 vaccine in its arsenal, and at a fraction of the cost per dose.&lt;/p&gt;
+&lt;p&gt;Two years into the COVID-19 pandemic, the world has seen over 314 million infections and over 5.5 million deaths worldwide. Approximately 60% of the world population has received at least one dose of a COVID-19 vaccine. But there is still a glaring and alarming gap in global access to these vaccines. As a virologist who has followed this pandemic closely, I contend that this vaccine inequity should be of grave concern to everyone.&lt;/p&gt;
+&lt;p&gt;If the world has learned anything from this pandemic, it’s that viruses do not need a passport. And yet approximately 72% of vaccine doses were administered in high- and upper-middle-income countries – and only 1% in low-income countries. Wealthy countries are giving boosters, and even fourth doses, while first and second doses are not available to many worldwide.&lt;/p&gt;
+&lt;p&gt;But there is hope that a new vaccine called CORBEVAX will help close this vaccination gap.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How does the CORBEVAX vaccine work?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;All COVID-19 vaccines teach the immune system how to recognize the virus and prepare the body to mount an attack. The CORBEVAX vaccine is a protein subunit vaccine. It uses a harmless piece of the spike protein from the coronavirus that causes COVID-19 to stimulate and prepare the immune system for future encounters with the virus.&lt;/p&gt;
+&lt;p&gt;Unlike the three vaccines approved in the U.S. – Pfizer and Moderna’s mRNA vaccines and Johnson &amp;amp; Johnson’s viral vector vaccine, which provide the body instructions on how to produce the spike protein – CORBEVAX delivers the spike protein to the body directly. Like those other approved COVID-19 mRNA vaccines, CORBEVAX also requires two doses.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;How was CORBEVAX developed?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;CORBEVAX was developed by the co-directors of the Texas Children’s Hospital Center for Vaccine Development at Baylor College of Medicine, Drs. Maria Elena Bottazzi and Peter Hotez.&lt;/p&gt;
+&lt;p&gt;During the 2003 SARS outbreak, these researchers created a similar type of vaccine by inserting the genetic information for a portion of the SARS virus spike protein into yeast to produce large amounts of the protein. After isolating the virus spike protein from the yeast and adding an adjuvant, which helps trigger an immune response, the vaccine was ready for use.&lt;/p&gt;
+&lt;p&gt;The first SARS epidemic was short-lived, and there was little need for Bottazzi and Hotez’s vaccine – until the virus that causes COVID-19, SARS-CoV-2, emerged in 2019. So they dusted off their vaccine and updated the spike protein to match that of SARS-CoV-2, creating the CORBEVAX vaccine.&lt;/p&gt;
+&lt;p&gt;A large U.S.-based clinical trial found the vaccine to be safe, well tolerated and over 90% effective at preventing symptomatic infections. The vaccine received emergency use authorization in India, and other developing countries are expected to follow.&lt;/p&gt;
+&lt;p&gt;Interestingly, the group at Baylor was not able to drum up interest or funding in the U.S. for their vaccine. Instead, newer technologies such as mRNA vaccines raced ahead, even though Bottazzi and Hotez’s vaccine design was more advanced, thanks to their previous work during the 2003 SARS and 2012 MERS outbreaks.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;A vaccine built for the world&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Protein subunit vaccines have an advantage over mRNA vaccines in that they can be readily produced using well-established recombinant DNA technology that is relatively inexpensive and fairly easy to scale up. A similar protein recombinant technology that’s been around for 40 years has been used for the Novavax COVID-19 vaccine, which is available for use in 170 countries, and the recombinant hepatitis B vaccine.&lt;/p&gt;
+&lt;p&gt;This vaccine can be produced at a much larger scale because appropriate manufacturing facilities are already available. Also key to global access is that CORBEVAX can be stored in a regular refrigerator. Therefore, it is possible to produce millions of doses rapidly and distribute them relatively easily. In comparison, producing mRNA vaccines is more expensive and complicated because they are based on newer technologies, rely on highly skilled workers and often require ultralow temperatures for storage and transport.&lt;/p&gt;
+&lt;p&gt;Another major difference is that the CORBEVAX vaccine was developed with global vaccine access in mind. The goal was to make a low-cost, easy-to-produce and -transport vaccine using a well-tested and safe method. Key to this, the researchers were not concerned with intellectual property or financial benefit. The vaccine was produced without significant public funding; the US$7 million needed for development was provided by philanthropists.&lt;/p&gt;
+&lt;p&gt;COBREVAX is currently licensed patent-free to Biological E. Limited (BioE), India’s largest vaccine maker, which plans to manufacture at least 100 million doses per month starting in February 2022. This patent-free arrangement means that other low- and middle-income countries can produce and distribute this cheap, stable and relatively easy-to-scale vaccine locally.&lt;/p&gt;
+&lt;p&gt;Combined, this means that CORBEVAX is one of the cheapest vaccines currently available. How well it works against the omicron variant is under investigation. However, the CORBEVAX story can be used as a model to address vaccine inequity when it is necessary to vaccinate the world population – against COVID-19 and other diseases on the horizon.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The necessity of vaccine equity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;There are many reasons global access to vaccines is inequitable. For example, the governments of wealthy nations purchase vaccines in advance, which limits supply. While developing countries do have vaccine production capacity, low- and middle-income countries in Africa, Asia and Latin America still need to be able to afford the cost of placing orders.&lt;/p&gt;
+&lt;p&gt;The Indian government has ordered 300 million doses of CORBEVAX, and BioE plans to produce more than 1 billion shots for people in developing countries. For context, the U.S. and other G7 nations have pledged to donate over 1.3 billion doses of COVID vaccines, yet only 591 million doses have been shipped. These numbers mean that if BioE is able to produce 1.3 billion doses of CORBEVAX as planned, this vaccine will reach more people than those vaccinated by what’s been donated and shipped by the wealthiest nations.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 140,000 readers rely on The Conversation’s newsletters to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;As the omicron variant has shown, new variants can spread across the world quickly and are much more likely to develop in unvaccinated people and continue to emerge as long as global vaccination rates remain low. It is unlikely that boosters will end this pandemic. Rather, developing globally accessible vaccines like CORBEVAX represent an important first step in vaccinating the world and ending this pandemic.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Maureen Ferran receives funding from The National Institutes of Health.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Maureen Ferran, Associate Professor of Biology, Rochester Institute of Technology&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 19, 2022</AlphaDate>
+         <StartDate>2022-01-19</StartDate>
+         <EndDate>2022-01-19</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Jan192022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

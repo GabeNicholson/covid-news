@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2582961110</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Pritzker lays out I-80 timeline</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>$1.2B reconstruction project through Will County will take 6 years</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2021-10-19</NumericDate>
+      <StartDate>2021-10-19</StartDate>
+      <EndDate>2021-10-19</EndDate>
+      <AlphaDate>Oct 19, 2021</AlphaDate>
+      <RawAlphaDate>20211019</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Oct 19, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>1</StartPage>
+         <DocSection>News</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Oct192021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2021101920211019498237444</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2021101920211019498237444</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1550</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Petrella, Dan</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Dan</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Dan Petrella</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Petrella</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Dan Petrella</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Freishtat, Sarah</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Sarah</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Sarah Freishtat</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Freishtat</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Sarah Freishtat</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Transportation planning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Bipartisanship</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Infrastructure</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Bridges</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Gasoline taxes</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Illinois</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Des Plaines River</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="745" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Gov. J.B. Pritzker on Monday unveiled a six-year timeline for the $1.2 billion reconstruction of Interstate Highway 80 through Will County, including work on aging bridges over the Des Plaines River considered so decrepit a union put up billboards warning "Cross at your own risk" two years ago.   &lt;/p&gt;&lt;p&gt;"In recent decades, this stretch of I-80 has also come to represent the disinvested infrastructure that Illinois used to be notorious for," Pritzker said during a news conference Monday in New Lenox. "That's all changing."&lt;/p&gt;&lt;p&gt;The roadwork is a centerpiece of the $45 billion infrastructure improvement plan passed during Pritzker's first year in office. Development along the I-80 corridor has boomed in recent years, with an influx of warehouses for Amazon and logistics companies. Along with that has come heavy truck traffic and lengthy delays on the aging roadway.&lt;/p&gt;&lt;p&gt;After preliminary work that began this summer, reconstruction of a 16-mile stretch from Ridge Road in Minooka east to U.S. Highway 30 near Joliet will begin next year with work from Ridge Road east to the DuPage River.&lt;/p&gt;&lt;p&gt;The overall project is expected to be completed in 2027, with work on the bridges set to start a year before that.&lt;/p&gt;&lt;p&gt;"It was truly one of the worst pieces of infrastructure in the nation, so this shows a commitment to truly fixing the problem on I-80," said Ed Maher, a spokesman for the International Union of Operating Engineers Local 150, the union that erected the warning billboards near the bridges in 2019.&lt;/p&gt;&lt;p&gt;While construction isn't slated to begin for five years, Maher acknowledged that "with a bridge that size that carries that many vehicles, it's difficult to flip a switch and rebuild it tomorrow."&lt;/p&gt;&lt;p&gt;The stretch of I-80 through Joliet is often troubled by traffic backups and traffic crashes.&lt;/p&gt;&lt;p&gt;"It's certainly music to my ears," said Charlie Gallagher, chairman of both Gallagher Asphalt and the I-80 Coalition, founded a few years ago to lobby for improvements to the highway, said of Pritzker's announcement. "We've been waiting a long time for this. We thought it would happen sooner, but we're certainly happy that it's moving along now."&lt;/p&gt;&lt;p&gt;The coalition, which includes business leaders and local community leaders, has been working to move the project forward for years, said John Grueling, President and CEO of the Will County Center for Economic Development.&lt;/p&gt;&lt;p&gt;When community leaders started pushing for the project in 2017, Grueling said the hope was to have the project completed by 2023. Though it will take longer to complete, Grueling and others said the are happy to start seeing movement on a project that is expected to take six years to complete.&lt;/p&gt;&lt;p&gt;"2027 is starting to look pretty good to us," Grueling said.&lt;/p&gt;&lt;p&gt;Illinois Rep. Larry Walsh Jr., D-Joliet, Monday said the project would help benefit the area, noting that Will County, and his district, is home to the largest inland port in North America.&lt;/p&gt;&lt;p&gt;Walsh also has played a key role in pushing for improvements along the interstate; at one time even suggesting that the state could turn that portion of I-80 into a tollway to help pay for improvements.&lt;/p&gt;&lt;p&gt;While playing up the importance of the improvements, officials also urged drivers to be patient with the process.&lt;/p&gt;&lt;p&gt;"This area will continue to be an active construction zone for the next several years," Illinois Department of Transportation Secretary Omer Osman said. "Drive like you work here."&lt;/p&gt;&lt;p&gt;"It's going to be a long six years, let's realize that," Walsh said. "But let's be patient."&lt;/p&gt;&lt;p&gt;Dubbed "Rebuild Illinois," Pritzker's infrastructure plan was approved with bipartisan support in 2019 and is paid for through a series of tax and fee increases, including a doubling of the gas tax to 38 cents per gallon. The law also tied the gas tax to the rate of inflation, increasing to 39 cents per gallon on July 1.&lt;/p&gt;&lt;p&gt;The plan calls for spending a total of $33.2 billion on transportation improvements, with $5.2 billion spent through the first two years on improving more than 3,000 miles of highway and nearly 300 bridges, according to the governor's office.&lt;/p&gt;&lt;p&gt;President Joe Biden has been trying to push an infrastructure plan through Congress, but his $1 trillion proposal has gotten caught up in infighting among moderate and progressive Democrats over a separate $3.5 trillion spending package for social programs. Pritzker met with Biden and a bipartisan group of mayors and governors in July to discuss the president's agenda.&lt;/p&gt;&lt;p&gt;----------&lt;/p&gt;&lt;p&gt;dpetrella@chicagotribune.com&lt;/p&gt;&lt;p&gt;CAPTION: Photo: Vehicles cross the Interstate 80 bridge over the Des Plaines River in Joliet on April 1. ERIN HOOLEY/CHICAGO TRIBUNE&lt;/p&gt;&lt;p&gt;CREDIT: By Dan Petrella and Sarah Freishtat, Chicago Tribune&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 19, 2021</AlphaDate>
+         <RawDate>20211019</RawDate>
+         <StartDate>2021-10-19</StartDate>
+         <EndDate>2021-10-19</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Oct192021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487136494</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Coronavirus numbers confusing you? Here's how to make sense of them</Title>
+      </TitleAtt>
+      <NumericDate>2020-07-21</NumericDate>
+      <StartDate>2020-07-21</StartDate>
+      <EndDate>2020-07-21</EndDate>
+      <AlphaDate>Jul 21, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20200721_142624</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20200721_142624</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Jul212020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Aaltonen, Pamela M</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Pamela</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Pamela M Aaltonen</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Aaltonen</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>M</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Pamela M. Aaltonen</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Troisi, Catherine Lynne</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Catherine</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Catherine Lynne Troisi</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Troisi</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>Lynne</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Catherine Lynne Troisi</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/142624/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fatalities</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Diagnostic tests</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hospitalization</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="87">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Even the best testing results often take a week to report to public health authorities, and longer to appear on dashboards.
+
+News reports do not always clearly distinguish between diagnostic testing, which shows if you currently have COVID-19, and antibody testing, which shows if you had it in the past, and now harbor antibodies that can fight it.
+
+Pamela M. Aaltonen, Professor Emerita; Immediate Past President, APHA, Purdue University Catherine Lynne Troisi, Associate professor, Management, Policy, and Community Health and Epidemiology, The University of Texas Medical Branch&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="874" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Turn on the TV news, or look at a news website, and you'll see charts, graphics, and dashboards that supposedly indicate the latest with COVID-19 - statistics revealing the number of tests, cases, hospitalizations and deaths, along with where they happened and whether they are rising or falling.&lt;/p&gt;
+&lt;p&gt;Different stories are told depending on the dashboard. But one thing is certain: These indicators lag behind the actions we take, or don't take, on COVID-19. As researcherswho focus on public health, we can tell you that a fully accurate, real-time snapshot of the progress of the virus isn't possible.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Some don't get tested &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;There are many reasons for this. Here's one: diagnostic testing data are incomplete. Someone infected with COVID-19 must first come in contact with the virus either through the air or (less likely) environmental surfaces. Symptoms show between two and 14 days later. But at least 40% of those infected will never manifest symptoms, or show such mild ones they don't even suspect they have COVID-19. So they may never get tested, which means they won't show up in the total number of tests, or the total number of cases.&lt;/p&gt;
+&lt;p&gt;Another example: because of the lack of testing availability - a widespread problem in the U.S. since the start of the pandemic - not everyone who should be tested gets a test.&lt;/p&gt;
+&lt;p&gt;And another: the tests themselves are not perfect. Up to one-third who get a negative result may actually be infected. This happens because they are tested before they have a viral load sufficient enough for detection. Or maybe the sampling is not adequate. Or perhaps the test itself simply failed.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Case numbers don't tell the full story &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This is why problems arise when we use case numbers to determine disease levels in a community. Case counts actually reflect what was happening in a community weeks earlier. Four weeks, for instance, could elapse between the time a person is exposed to the virus and when they are reported as a case. Even the best testing results often take a week to report to public health authorities, and longer to appear on dashboards. Some testing results, seriously delayed, may take ten days or more.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get facts about coronavirus and the latest research.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;Other factors impact the metrics. Laboratory results, often released in batches, may introduce artificial variation in case numbers. Someone who tested two days ago, then got a result back immediately, might be added on the same day as someone who was sick two weeks ago, but whose test results were delayed. To smooth out these variations, it helps to look at a rolling seven-day case average.&lt;/p&gt;
+&lt;p&gt;Hospitalization is a clearer metric for assessing the level of community disease. Those who are seriously ill, in most cases, will be hospitalized whether previously tested or not. Data suggests roughly one in five infected persons are hospitalized. Individuals seem to do okay for the first week, with more life-threatening symptoms showing in the second. That means hospitalizations represent exposures that happened three or four weeks earlier.&lt;/p&gt;
+&lt;p&gt;Again, a seven-day rolling average evens out artificial variations. There is one caveat for this: Though hospitalization is a useful metric, only about 20% of infected people need it. That means hospitalization numbers alone underestimate the number of people infected and what age groups they represent.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; States vary on cause of death &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The death numbers are not a reliable indicator either. In some states, to count as a COVID-19 death, the deceased must have had a test reporting positive. In other states, probable cases are reported.&lt;/p&gt;
+&lt;p&gt;As clinicians learn how to better treat COVID-19, fatality rates are dropping. Deaths, the longest lagging indicator, reflect people who were infected six or eight weeks earlier. When comparing one region to another, deaths are best expressed as rates - a ratio of deaths to population.&lt;/p&gt;
+&lt;p&gt;Another issue: News reports do not always clearly distinguish between diagnostic testing, which shows if you currently have COVID-19, and antibody testing, which shows if you had it in the past, and now harbor antibodies that can fight it. So far, however, antibody testing has not provided a useful picture of who has been infected and who has not. Once that happens, it could provide researchers and clinicians with some indicators on how widely the virus has spread.&lt;/p&gt;
+&lt;p&gt;Though the dashboards are ubiquitous on television, none of these frequently used indicators they feature is perfect. Still, taken together, they provide a reasonable approximation of COVID-19 transmission in communities. But as authorities make decisions, they should take into account the numbers are weeks old.&lt;/p&gt;
+&lt;p&gt;What does this mean to you? Understanding these limitations may help you understand your risk. We are still in the midst of a pandemic that is not under control. Being educated will help all of us from becoming a part of tomorrow's lagging indicators.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Les auteurs ne travaillent pas, ne conseillent pas, ne possèdent pas de parts, ne reçoivent pas de fonds d'une organisation qui pourrait tirer profit de cet article, et n'ont déclaré aucune autre affiliation que leur poste universitaire.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Pamela M. Aaltonen, Professor Emerita; Immediate Past President, APHA, Purdue University&lt;/p&gt;&lt;p&gt;Catherine Lynne Troisi, Associate professor, Management, Policy, and Community Health and Epidemiology, The University of Texas Medical Branch&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 21, 2020</AlphaDate>
+         <StartDate>2020-07-21</StartDate>
+         <EndDate>2020-07-21</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Jul212020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

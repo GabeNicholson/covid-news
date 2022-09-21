@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2540599253</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Opioid overdoses spiked during the COVID-19 pandemic, data from Pennsylvania show</Title>
+      </TitleAtt>
+      <NumericDate>2021-06-14</NumericDate>
+      <StartDate>2021-06-14</StartDate>
+      <EndDate>2021-06-14</EndDate>
+      <AlphaDate>Jun 14, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20210614_161635</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20210614_161635</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Jun142021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>King, Brian</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Brian</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Brian King</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>King</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Brian King</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Rishworth, Andrea</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Andrea</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Andrea Rishworth</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Rishworth</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Andrea Rishworth</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="3">
+            <Author>
+               <NormalizedDisplayForm>Patel, Ruchi</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Ruchi</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Ruchi Patel</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Patel</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Ruchi Patel</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/161635/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Drug overdose</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fatalities</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Narcotics</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Pennsylvania</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="125">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Since the first diagnosed case of COVID-19 in the United States on Jan. 20, 2020, news about infection rates, deaths and pandemic-driven economic hardships has been part of our daily lives.
+
+From 1999 to 2013, increasing death rates from drug abuse, primarily for those from 45 to 54 years of age, contributed to the first decline in life expectancy for white non-Hispanic Americans in decades.
+
+(Naloxone is a drug widely used to reverse the effects of overdose.) Our analysis of both fatal and nonfatal cases of opioid-related overdose from January 2019 through July 2020 revealed statistically significant increases in overdose incidents for both men and women, among whites and Blacks, and across several age groups, most notably the 30-39 and 40-49 groups, following April 1.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1174" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Since the first diagnosed case of COVID-19 in the United States on Jan. 20, 2020, news about infection rates, deaths and pandemic-driven economic hardships has been part of our daily lives.&lt;/p&gt;
+&lt;p&gt;But there is a knowledge gap in how COVID-19 has affected a public health crisis that existed before the pandemic: the opioid epidemic. Prior to 2020, an average of 128 Americans died every day from an opioid overdose. That trend accelerated during the COVID-19 pandemic, according to the Centers for Disease Control and Prevention.&lt;/p&gt;
+&lt;p&gt;We are a team of health and environment geography researchers. When social distancing began in March 2020, addiction treatment experts were concerned that shutdowns might result in a spike in opioid overdose and deaths. In our latest research in the Journal of Drug Issues, we take a closer look at these trends by examining opioid overdoses in Pennsylvania prior to and following the statewide stay-at-home order.&lt;/p&gt;
+&lt;p&gt;Our findings suggest that this public health response to COVID-19 has had unintended consequences for opioid use and misuse.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;History of the opioid epidemic&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Opioid misuse has been a major U.S. health threat for over two decades, largely affecting rural areas and white populations. However, a recent shift in the drugs involved, from prescription opioids to illegally manufactured drugs such as fentanyl, has resulted in an expansion of the epidemic in urban areas and among other racial and ethnic groups.&lt;/p&gt;
+&lt;p&gt;From 1999 to 2013, increasing death rates from drug abuse, primarily for those from 45 to 54 years of age, contributed to the first decline in life expectancy for white non-Hispanic Americans in decades.&lt;/p&gt;
+&lt;p&gt;There was a modest national decline in overdose mortality from prescription opioids from 2017 to 2019, but the COVID-19 pandemic has upended many of these advances. As one of our public health partners explained to us, “We were making progress until COVID-19 hit.”&lt;/p&gt;
+&lt;p&gt;We believe this presents an urgent need for research on the relationships between COVID-19 policy responses and patterns of opioid use and misuse.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Opioid use increases during the pandemic&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Pennsylvania has been among the states hardest hit by the opioid epidemic. It had one of the highest rates of death due to drug overdose in 2018, with 65%, a total of 2,866 fatalities, involving opioids.&lt;/p&gt;
+&lt;p&gt;The state’s stay-at-home order, implemented on April 1, 2020, mandated that residents stay within their homes whenever possible, practice social distancing and wear masks when outside the home. All schools shifted to remote learning, and most businesses were required to operate remotely or close. Only essential services were allowed to continue operating in person.&lt;/p&gt;
+&lt;p&gt;In the following months, the public’s overall cooperation with these mandates contributed to measurable declines in coronavirus infection rates. To learn how these mandates also affected people’s use of opioids, we assessed data from the Pennsylvania Overdose Information Network for changes in monthly incidents of opioid-related overdose before and after April 1, 2020. We also examined the change by gender, age, race, drug class and doses of naloxone administered. (Naloxone is a drug widely used to reverse the effects of overdose.)&lt;/p&gt;
+&lt;p&gt;Our analysis of both fatal and nonfatal cases of opioid-related overdose from January 2019 through July 2020 revealed statistically significant increases in overdose incidents for both men and women, among whites and Blacks, and across several age groups, most notably the 30-39 and 40-49 groups, following April 1. This means there was an acceleration of overdoses within some of the populations most affected by opioids prior to the COVID-19 pandemic. But there were also uneven increases among other groups, such as Black people.&lt;/p&gt;
+&lt;p&gt;We found statistically significant increases in overdoses involving heroin, fentanyl, fentanyl analogs or other synthetic opioids, pharmaceutical opioids and carfentanil. This is consistent with previous research on the main opioid classes contributing to increases in drug overdose and death. The results also affirm that heroin and synthetic opioids such as fentanyl are now the major threats in the epidemic.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;When a pandemic and an epidemic collide&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;While we found significant change in opioid overdoses during the COVID-19 pandemic, the findings say less about some of the driving factors. To better understand these, we have been interviewing public health providers since December 2020.&lt;/p&gt;
+&lt;p&gt;Among the important factors they highlight as contributing to increased opioid use are pandemic-driven economic hardship, social isolation and the disruption of in-person treatment and support services.&lt;/p&gt;
+&lt;p&gt;From March to April 2020, unemployment rates in Pennsylvania shot up from 5% to approximately 16%, resulting in a peak of more than 725,000 unemployment claims filed in April. As workplace shutdowns made it harder to pay for housing, food and other needs, and the opportunities for in-person support disappeared, some people turned to drugs, including opioids.&lt;/p&gt;
+&lt;p&gt;People in the early stages of treatment or recovery from opioid addiction may be particularly vulnerable to relapse, suggested one of our public health partners. “They might be working in industries that are closed down, so they have financial problems … [and] they have their addiction issues on top of that, and now they can’t like go to meetings, and they can’t make those connections.” (Under our clearance with Penn State for doing research with human subjects, our public health informants are kept anonymous.)&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Like what you’ve read? Want more?&lt;/i&gt; Sign up for The Conversation’s daily newsletter.]&lt;/p&gt;
+&lt;p&gt;An addiction treatment counselor told us that especially for those with past or present opioid use problems, or histories of mental health issues, “It’s not a good thing to be alone in your own thoughts. And so, once everybody was kind of locked down … the depression and anxiety hit.”&lt;/p&gt;
+&lt;p&gt;Another counselor also pointed to depression, anxiety and isolation as driving increased opioid misuse. The pandemic “just spun everything out of control,” they said. “Overdoses up, everything up, everything.”&lt;/p&gt;
+&lt;p&gt;One question is whether states like Pennsylvania will continue to support telehealth in the future. While the transition from in-person to telehealth services has increased access to treatment for some, it has raised challenges for populations like the rural and elderly. As one provider explained, “it’s really hard for that [rural] population out there” to utilize telehealth services due to limited internet and broadband connection. In other words, flexible modes of addiction treatment might work for some but not others.&lt;/p&gt;
+&lt;p&gt;The goal of our research is not to criticize efforts to mitigate the spread of COVID-19. Without the mandatory stay-at-home order in Pennsylvania, both infection and death rates would have been worse. However, our research shows that such measures have had unintended consequences for those struggling with addiction and emphasizes the importance of taking a holistic approach to public health as policymakers work to confront both COVID-19 and the addiction crisis in America.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Brian King has received funding from the National Science Foundation. &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Andrea Rishworth and Ruchi Patel do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Brian King, Professor, Department of Geography, Penn State&lt;/p&gt;&lt;p&gt;Andrea Rishworth, Postdoctoral Fellow in Geography, McMaster University&lt;/p&gt;&lt;p&gt;Ruchi Patel, Ph.D. Student in Geography, Penn State&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jun 14, 2021</AlphaDate>
+         <StartDate>2021-06-14</StartDate>
+         <EndDate>2021-06-14</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Jun142021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

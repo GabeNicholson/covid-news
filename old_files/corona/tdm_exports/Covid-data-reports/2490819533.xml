@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2490819533</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>6 important truths about COVID-19 vaccines</Title>
+      </TitleAtt>
+      <NumericDate>2021-02-18</NumericDate>
+      <StartDate>2021-02-18</StartDate>
+      <EndDate>2021-02-18</EndDate>
+      <AlphaDate>Feb 18, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVIL_20210218_154341</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVIL_20210218_154341</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977982_Feb182021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Lynch, Sarah</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Sarah</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Sarah Lynch</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Lynch</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Sarah Lynch</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Nagaraju, Kanneboyina</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Kanneboyina</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Kanneboyina Nagaraju</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Nagaraju</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Kanneboyina Nagaraju</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/154341/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>BioNTech SE</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>541714</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>State University of New York at Binghamton</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>State University of New York</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Pfizer Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>325412</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>339113</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Population</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Antibodies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pharmacy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Professional associations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Severe acute respiratory syndrome coronavirus 2</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Anaphylaxis</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Clinical trials</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Miscarriage</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fertility</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infertility</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Breastfeeding &amp; lactation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Herd immunity</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Proteins</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="88">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]funding and partnerships from government and private firms allowed many of the clinical trial phases to occur in parallel, rather than in series, which is typical testing design.
+
+Because of the urgency of the COVID-19 pandemic, manufacturing and commercial-scale production of these vaccines started at the same time as the human safety clinical trials.
+
+Because the data is limited, professional societies and organizations have been slow to make a clear recommendation despite experts agreeing that the risk of COVID-19 infection outweighs any potential and theoretical risks of vaccination.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1323" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;One of the biggest barriers standing in the way of ending the pandemic isn’t medical or logistical. It’s the misinformation about the COVID-19 vaccines.&lt;/p&gt;
+&lt;p&gt;Demand for vaccine currently exceeds supply, but there are many people who are either unsure whether they should take the vaccine or staunchly against it. This is often because they have heard incorrect information about the vaccine or its effects.&lt;/p&gt;
+&lt;p&gt;Many experts estimate that between 70% and 90% of the population must be vaccinated to block the spread of the virus and reach herd immunity, which occurs when enough individuals are immune to a disease that it prevents its spread. If the American population is to achieve herd immunity, it is important to start dispelling myths so that when there is widespread access to the vaccine, people will not hesitate to get their shot.&lt;/p&gt;
+&lt;p&gt;We are an immunologist and pharmacist. Here are some of the facts behind some of the common myths that we have heard about the COVID-19 mRNA vaccines from patients, friends and family members.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fact: Vaccines were rigorously tested and found to be safe&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The mRNA technology that was used in the Pfizer/BioNTech and Moderna vaccines has existed for more than a decade and is not new in the vaccine development field. Moreover, the approved mRNA vaccines have undergone rigorous testing and clinical trials demonstrating safety and efficacy in people.&lt;/p&gt;
+&lt;p&gt;More than 90,000 people volunteered for these vaccine trials. The Pfizer-BioNTech vaccine reduced disease by 95% and the Moderna vaccine reduced disease by 94% after volunteers completed two doses. The development, clinical trials and approval occurred faster than seen with previous vaccines. There are several reasons.&lt;/p&gt;
+&lt;p&gt;First, mRNA technology has been studied for other viral diseases – Zika virus, rabies virus, respiratory syncytial virus – for the past few years. Scientists were able to apply this familiar technology to the SARS-CoV-2 virus immediately after its discovery.&lt;/p&gt;
+&lt;p&gt;Second, funding and partnerships from government and private firms allowed many of the clinical trial phases to occur in parallel, rather than in series, which is typical testing design. This significantly sped up the process.&lt;/p&gt;
+&lt;p&gt;Third, most of the costly and time-consuming part of vaccine development is scaling up manufacturing and commercial production, and ensuring quality control. This typically happens after phase 3 efficacy trials have been completed. Because of the urgency of the COVID-19 pandemic, manufacturing and commercial-scale production of these vaccines started at the same time as the human safety clinical trials. This meant that once the vaccines were proved safe and effective there was a large stockpile ready to distribute to the public.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fact: Vaccines have no effect on recipients’ genetic material&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;DNA is located inside the nucleus of a cell. The messenger RNA, or mRNA, delivered from the vaccines enters the cell but not the nucleus. The mRNA instructions are used to manufacture the spike protein, which the body recognizes as not belonging, and this evokes an immune response. After being read, these mRNA vaccine molecules degrade quickly through normal cellular processes.&lt;/p&gt;
+&lt;p&gt;COVID-19 mRNA vaccines produce only the spike protein and can’t produce the enzymes that facilitate the host-cell integration. Therefore, chances of altering host DNA are highly unlikely.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fact: The mRNA vaccines cannot give you COVID-19&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The mRNA vaccines cannot cause disease because they do not contain a live virus.&lt;/p&gt;
+&lt;p&gt;Most people have mild side effects like arm pain, aches, chills and fever after vaccination. These symptoms are the expected and healthy reactions to the vaccine and often subside in few days.&lt;/p&gt;
+&lt;p&gt;There have also been some reports of more serious side effects. As of Jan. 18, rates of anaphylaxis – a potentially life-threatening allergic reaction – were 1 in 212,000 in those who received the Pfizer vaccine and 1 in 400,000 in those who received the Moderna vaccine. No one has died from anaphylaxis. There have been reports of death but they do not appear to be due to the vaccine. These deaths have occurred mainly in elderly individuals, a population with higher mortality rates. These deaths are all being investigated, but at this point they are being attributed to underlying conditions.&lt;/p&gt;
+&lt;p&gt;One thing to keep in mind is that as more individuals are vaccinated, there will be more cases of incidental illness. These are illnesses that would be expected to occur at a certain rate in a large population, but may not be related to receiving the vaccine.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fact: Pregnant or breastfeeding women can safely choose to be vaccinated&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The CDC states that pregnant or breastfeeding patients may choose to be vaccinated if eligible.&lt;/p&gt;
+&lt;p&gt;Women who were pregnant or breastfeeding were excluded from the initial trials, which prompted the World Health Organization to initially recommend vaccinating only in high-risk pregnant or breastfeeding individuals.&lt;/p&gt;
+&lt;p&gt;This controversial stance was reversed after pushback from major maternal health organizations, including the American College of Obstetricians and Gynecologists and Society for Maternal-Fetal Medicine, which pointed out that risk of COVID-19 is greater in pregnant populations.&lt;/p&gt;
+&lt;p&gt;Because the data is limited, professional societies and organizations have been slow to make a clear recommendation despite experts agreeing that the risk of COVID-19 infection outweighs any potential and theoretical risks of vaccination.&lt;/p&gt;
+&lt;p&gt;Preliminary animal studies showed no harmful effects and, to date, there have been no reports of harm to the fetus or issues with development]from either mRNA vaccine. Individuals who have questions should speak to their health care provider, but a consultation or approval is not required for vaccination.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fact: COVID-19 vaccines have no effect on fertility&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Some individuals are concerned that the COVID-19 vaccinations may cause infertility, which is not true. This myth originated because a short sequence of amino acids that make up the spike protein of SARS-CoV-2 – necessary to infect human cells – is also shared with a protein called syncytin that is present in the placenta, a vital organ in fetal development.&lt;/p&gt;
+&lt;p&gt;However, the sequence similarity is too short to trigger a dangerous immune reaction that will give rise to infertility, according to experts who study these proteins.&lt;/p&gt;
+&lt;p&gt;Additionally, there are records of successful pregnancy after infection with SARS-CoV-2, with no evidence of increased miscarriages occurring in early pregnancy. The immune response to the virus doesn’t appear to affect fertility. While pregnant people were excluded from the vaccine trials, 23 Pfizer/BioNTech trial participants became pregnant after receiving the vaccine and there were no miscarriages in those who received the vaccine. Although a small number compared with the more than 40,000 individuals enrolled in the study, it adds to the evidence that there is no need for concern about infertility.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Fact: Those who’ve had COVID-19 will benefit from vaccination&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Antibodies from COVID-19 infection are estimated to last approximately two to four months, so those who have had a previous infection should still get vaccinated.&lt;/p&gt;
+&lt;p&gt;The CDC states that individuals who have had COVID-19 infection may choose to wait 90 days after infection because it is expected that they will be protected by the natural antibodies for that three-month period. However, it is safe to get the vaccine as soon as the quarantine period has ended. Those who received monoclonal antibodies, which are synthetic antibodies manufactured in a lab, should wait for at least 90 days before getting the vaccine.&lt;/p&gt;
+&lt;p&gt;With new information being released daily and recommendations changing rapidly, it is difficult to keep up. It’s critical that accurate facts about the COVID-19 vaccines are circulated widely so that anyone can access the information needed to make an educated decision.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Research into coronavirus and other news from science&lt;/i&gt; Subscribe to The Conversation’s new science newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Les auteurs ne travaillent pas, ne conseillent pas, ne possèdent pas de parts, ne reçoivent pas de fonds d'une organisation qui pourrait tirer profit de cet article, et n'ont déclaré aucune autre affiliation que leur organisme de recherche.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Sarah Lynch, Director of Skills Education and Clinical Assistant Professor of Pharmacy Practice, Binghamton University, State University of New York&lt;/p&gt;&lt;p&gt;Kanneboyina Nagaraju, Professor of Pharmacy and Pharmaceutical Sciences, Binghamton University, State University of New York&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Science + Technology</Title>
+         <MpubId>4977982</MpubId>
+         <SortTitle>Conversation : Science + Technology The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVIL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977982</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464264.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Sciences: Comprehensive Works</Subject>
+            <Subject>Technology: Comprehensive Works</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Science + Technology</Title>
+            <SortTitle>Conversation : Science + Technology The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977982</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464264.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 18, 2021</AlphaDate>
+         <StartDate>2021-02-18</StartDate>
+         <EndDate>2021-02-18</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977982_Feb182021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

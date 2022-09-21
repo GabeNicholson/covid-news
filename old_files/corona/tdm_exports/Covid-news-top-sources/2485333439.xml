@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2485333439</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>'Bottom of the Pot' puts a Persian fish stew at the top of our list</Title>
+      </TitleAtt>
+      <NumericDate>2021-02-03</NumericDate>
+      <StartDate>2021-02-03</StartDate>
+      <EndDate>2021-02-03</EndDate>
+      <AlphaDate>Feb 3, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Feb 3, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>E.8</StartPage>
+         <DocSection>Food</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Feb32021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20210203BottomofthePotputsaPersianfishstewatthetb255bec8</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1490</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Druckman, Charlotte</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Charlotte</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Charlotte Druckman</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Druckman</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Charlotte Druckman</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rice</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Recipes</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Iran</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="481" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Persian food is divine. I'm sure you've heard about the tahdig that everyone's talking about; wouldn't you like to try it? To get the bottom of your pot to produce that saffron-dyed golden sunset-colored crust of rice so crispy that the crunch reverberates around the table? (I've done it. It takes practice and patience, but even the iffy results are irresistible.)&lt;/p&gt;
+&lt;p&gt;Wouldn't you love to serve nazkhatoun, a smoky-tart-sweet dip of charred, collapsing eggplant popping with pomegranate seeds at your (eventual) next dinner party? (My hand is raised.) Or offer a warming stew, like the&lt;em&gt; &lt;/em&gt;intensely herbaceous lamb dish khoresh ghormeh sabzi, which cookbook author Naz Deravian says "could very well be the dish of Iran" to your loved ones? (Um, yes.) To appreciate sourness, and the scene-stealing capabilities of fresh herbs? (Thank you for this, Naz!) To waste nothing and feel as though you're eating food fit for royalty? (What silly goose is saying no right now?)&lt;/p&gt;
+&lt;p&gt;You can explore each of these dishes - and many more - in Deravian's "Bottom of the Pot" (Flatiron Books, 2018), that rare cookbook that's both edifying and relatable, probably because Deravian personalizes it.&lt;/p&gt;
+&lt;p&gt;Her family left Tehran when she was a child amid the chaos and violence of the 1979 Iranian revolution, and the comfort of homemade meals of chelo khoresh (rice and stew) shared at the kitchen table. They moved to Rome, the city where her parents met, a "safe haven" where platters of tomatoes and mozzarella were served one night, and chelo kebab (rice and kebab) another. Next, they landed in Canada, where Deravian stayed until moving to Los Angeles after college.&lt;/p&gt;
+&lt;p&gt;Missing "a taste of home," she asked her mother to share the recipes for her favorite Persian dishes. Except they weren't exactly recipes. "This was cooking that relied on intuition, constant tasting and a good dose of lemon juice." In her debut, Deravian translates that cooking into recipes of her own that come attached to stories.&lt;/p&gt;
+&lt;p&gt;Everyone loves a good story, but in our Essential Cookbooks collection, the food has to come first. And if it doesn't pass muster, the whole enterprise is a fail. I shouldn't have to tell you, but "Bottom of the Pot" passes with flying colors.&lt;/p&gt;
+&lt;p&gt;Start with the spicy, herb-packed ghalieh mahi. This stew isn't just memorable, it offers a teachable moment. Deravian uses it for a lesson on "chashnee," a Persian word that describes "a particular ingredient," a spice or special something, "that brightens the dish, bringing it to life, like lemon or vinegar," and it changes from one region to another. In the Persian Gulf region of Iran, chashnee comes from incomparably tangy tamarind and the heat of chile peppers.&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;
+food@washpost.com
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;This is excerpted from Voraciously's Essential Cookbooks newsletter series, Druckman's  list of 10 desert-island cookbooks. For more recipes like this one, sign up for the 10-week series at wapo.st/cookbookseries.&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 3, 2021</AlphaDate>
+         <StartDate>2021-02-03</StartDate>
+         <EndDate>2021-02-03</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Feb32021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2448070951</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>What if Trump Can't Run? Many Steps Are Clear, But Some Get Murky</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[Foreign Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2020-10-03</NumericDate>
+      <StartDate>2020-10-03</StartDate>
+      <EndDate>2020-10-03</EndDate>
+      <AlphaDate>Oct 3, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Oct 3, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.5</StartPage>
+         <Pagination>A.5</Pagination>
+         <DocSection>A</DocSection>
+         <ColumnNumber>0</ColumnNumber>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Oct32020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>750115-20201003</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <FullTextLinkID>https://www.nytimes.com/2020/10/02/us/politics/trump-succession-constitution.html</FullTextLinkID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1620</LexileScore>
+      <Desk>Foreign Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Fandos, Nicholas</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Nicholas</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Nicholas Fandos</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Fandos</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Nicholas Fandos</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Corasaniti, Nick</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Nick</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Nick Corasaniti</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Corasaniti</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Nick Corasaniti</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <DocUrl>https://www.nytimes.com/2020/10/02/us/politics/trump-succession-constitution.html</DocUrl>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Walter Reed Army Medical Center-Washington DC</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>622110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>928110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Congress</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Senate</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>American history</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Nominations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Constitutional law</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Resignations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Succession planning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Speakers of the House</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Presidential succession</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Trump, Donald J</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Pelosi, Nancy</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Johnson, Lyndon Baines (1908-1973)</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Pence, Mike</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1486" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The Constitution says the vice president is next in line if the president dies or can no longer serve, but things get murkier from there.&lt;/p&gt;&lt;p&gt;WASHINGTON -- President Trump's positive coronavirus test has raised the possibility, however remote, that he could become incapacitated or potentially die in office if his symptoms worsen.&lt;/p&gt;&lt;p&gt;While that outcome remains highly unlikely, and few in Washington were willing to discuss it on Friday, when Mr. Trump was taken to Walter Reed National Military Medical Center for treatment, the Constitution and Congress long ago put in place a plan of succession to ensure that the nation is protected from adversaries and internal conflict when the elected president cannot serve.&lt;/p&gt;&lt;p&gt;The Constitution makes clear that the vice president is first in line to succeed the president should he or she die in office, and can step in to temporarily take on the duties of the presidency should the commander in chief become incapacitated. Vice President Mike Pence, 61, tested negative for the coronavirus on Friday.&lt;/p&gt;&lt;p&gt;Other situations become far more complicated and are wrapped in a cloud of legal disagreement over what to do if a president cannot exercise his duties but refuses to give them up, or wins election but cannot serve, or in a case in which the president and the vice president are incapacitated.&lt;/p&gt;&lt;p&gt;Here's how it works:&lt;/p&gt;&lt;p&gt;What happens if Trump dies or cannot serve?&lt;/p&gt;&lt;p&gt;The Constitution and the law are clearest in instances when a president dies or must resign from office. The 25th Amendment states: "In case of the removal of the president from office or of his death or resignation, the vice president shall become president."&lt;/p&gt;&lt;p&gt;The ascension of a vice president under such circumstances has not been that rare in United States history. A vice president has assumed the nation's highest office because of the president's death eight times, most recently in 1963, after the assassination of John F. Kennedy, when Lyndon B. Johnson became president. (In 1974, Vice President Gerald Ford became president after the resignation of President Richard M. Nixon.)&lt;/p&gt;&lt;p&gt;The Constitution leaves it to Congress to decide what should happen if the vice president also dies or cannot serve, and several laws have been enacted to lay out the contingencies.&lt;/p&gt;&lt;p&gt;The most recent, the Presidential Succession Act, was enacted in 1947 after the death of President Franklin D. Roosevelt in 1945. (It was tweaked again in 2006.) The statute says the speaker of the House is next in line, followed by the president pro tempore of the Senate, and then members of the cabinet, starting with the secretary of state.&lt;/p&gt;&lt;p&gt;Speaker Nancy Pelosi, 80, said on Friday that she had tested negative for the virus and was confident that the right plans were in place, should they become necessary.&lt;/p&gt;&lt;p&gt;"Continuity of government is always in place," she said on MSNBC. "I always say it's a relic of the past, but nonetheless, they say we have our job we have to do, and this is what we'll do."&lt;/p&gt;&lt;p&gt;Senator Charles E. Grassley, Republican of Iowa, is the current president pro tempore in the Senate. He is 87.&lt;/p&gt;&lt;p&gt;What if the president is too ill to perform his duties?&lt;/p&gt;&lt;p&gt;Under the 25th Amendment, ratified in the 1960s to clarify presidential disability and succession planning, presidents can voluntarily designate powers to their vice presidents if they become seriously ill or are unable to perform their duties.&lt;/p&gt;&lt;p&gt;If Mr. Trump became gravely ill, he could provide letters to the speaker of the House and the president pro tempore of the Senate saying he was "unable to discharge the powers and duties of his office" to transfer his powers to Mr. Pence, who would, in effect, become acting president. Mr. Trump could reclaim his full authorities when he recovered.&lt;/p&gt;&lt;p&gt;On Friday afternoon, as Mr. Trump was expected to depart for Walter Reed, Judd Deere, a White House spokesman, said the president would remain fully in power.&lt;/p&gt;&lt;p&gt;"No transfer," he said. "The president is in charge."&lt;/p&gt;&lt;p&gt;Since the amendment was ratified in 1967, the vice president has taken power in only three instances, each of them exceedingly brief. In 1985, when President Ronald Reagan was put under anesthesia for a colon procedure, he granted his powers to Vice President George Bush for about eight hours, though he avoided formally invoking the amendment. And in 2002 and 2007, President George W. Bush temporarily transferred his authorities to Vice President Dick Cheney during colonoscopies.&lt;/p&gt;&lt;p&gt;Can the president be involuntarily replaced?&lt;/p&gt;&lt;p&gt;The 25th Amendment also allows for the forcible removal of a president, including if he is too ill to designate his authorities or simply refuses to do so.&lt;/p&gt;&lt;p&gt;To the amendment's authors, these were not merely wild hypotheticals. After he had a stroke in 1919, President Woodrow Wilson spent the remainder of his term partially paralyzed and blinded; his condition was mostly kept a secret.&lt;/p&gt;&lt;p&gt;The amendment grants the vice president, acting together with the cabinet or a group appointed by Congress, powers to intervene. If a majority of either group decides and informs the House and Senate that the president is "unable to discharge the powers and duties of his office," then "the vice president shall immediately assume the powers and duties of the office as acting president." The power has never been used, and political considerations could make it difficult to unlock.&lt;/p&gt;&lt;p&gt;The arrangement would last until the president informed Congress that "no inability exists" and he could perform his duties. If the group that removed his or her powers disagreed, the question would be left to Congress, with a requirement that two-thirds of the House and Senate must agree in order to strip the elected president of power.&lt;/p&gt;&lt;p&gt;What if there is a dispute over who is in power?&lt;/p&gt;&lt;p&gt;Although the presidential succession is clearly enshrined in law, some legal scholars argue that it may not be consistent with the Constitution, posing potentially disastrous problems if the nation's top two leaders could no longer serve.&lt;/p&gt;&lt;p&gt;Some constitutional scholars have raised doubts about whether the speaker of the House and the president pro tempore of the Senate are eligible to step in for the president, arguing that the framers intended for only executive branch officials -- an "officer" is the term in the Constitution -- to qualify.&lt;/p&gt;&lt;p&gt;Jack L. Goldsmith, a Harvard Law School professor, warned this year that the seemingly arcane dispute could cause a clash. It is possible, for instance, that Ms. Pelosi and Secretary of State Mike Pompeo, the next executive branch official in line, could make competing claims to the presidency.&lt;/p&gt;&lt;p&gt;"These are all nightmare scenarios because these points of constitutional law have really never been tested," Mr. Goldsmith said.&lt;/p&gt;&lt;p&gt;It is also unclear what would happen if the president and vice president became temporarily incapacitated. Norman J. Ornstein, a congressional scholar at the American Enterprise Institute who has studied the issue, said that situation could easily result in dueling short-term claims to presidential authority among the White House chief of staff, the secretary of state or other figures.&lt;/p&gt;&lt;p&gt;"You think about ambiguity in the chains of command when we have adversaries around the world," he said. "We could end up with some real issues and a government in effect adrift with some competing power players."&lt;/p&gt;&lt;p&gt;What happens if Trump cannot run anymore?&lt;/p&gt;&lt;p&gt;It gets messy, quickly.&lt;/p&gt;&lt;p&gt;First, the Republican National Committee would have to produce a new nominee, a process that would involve Chairwoman Ronna McDaniel and the 168 national members -- three from each state and territory. But since many states have already started printing, mailing and accepting ballots, and some have begun in-person voting, the name of a new nominee could be unlikely to be printed on ballots in time for Election Day.&lt;/p&gt;&lt;p&gt;Then it would fall to individual states to decide how to proceed, and most have not set rules for this situation.&lt;/p&gt;&lt;p&gt;"It would be a question of what each state's law says or doesn't say about what happens in this eventuality, and many state laws are just silent on this possibility," said Richard L. Hasen, a law professor at the University of California, Irvine, who also discussed the issue on his Election Law blog. "So there may be questions about what to do."&lt;/p&gt;&lt;p&gt;The question would become more complex if Mr. Trump won but was unable to serve. Some but not all states bind their electors to vote for whoever wins the state, but even most states with binding elector laws make no mention of what could happen should a candidate die or be unable to serve.&lt;/p&gt;&lt;p&gt;The question could be resolved by Congress, which certifies the Electoral College vote, or it could end up in the courts.&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;photo_caption&gt;Vice President Mike Pence would serve if President Trump could not. Speaker Nancy Pelosi, at left, would be next in line, according to the Presidential Succession Act, enacted in 1947. Both have tested negative for the virus. (PHOTOGRAPH BY ANNA MONEYMAKER FOR THE NEW YORK TIMES); Lyndon B. Johnson was the last vice president to take office because of a president's death, after the Kennedy assassination. (PHOTOGRAPH BY CECIL STOUGHTON/WHITE HOUSE, VIA THE JOHN FITZGERALD KENNEDY LIBRARY, BOSTON)&lt;/photo_caption&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 3, 2020</AlphaDate>
+         <StartDate>2020-10-03</StartDate>
+         <EndDate>2020-10-03</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Oct32020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

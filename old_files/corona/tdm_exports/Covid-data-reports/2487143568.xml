@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487143568</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>The scent of sickness: 5 questions answered about using dogs - and mice and ferrets - to detect disease</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-13</NumericDate>
+      <StartDate>2021-01-13</StartDate>
+      <EndDate>2021-01-13</EndDate>
+      <AlphaDate>Jan 13, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210113_151832</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210113_151832</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jan132021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Golden, Glen J</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Glen</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Glen J Golden</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Golden</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>J</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Glen J. Golden</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/151832/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Wildlife Research Center</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>339920</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Colorado State University</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Department of Agriculture</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>926140</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Laboratories</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Cancer</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Agriculture</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Feces</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Animals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Wildfowl</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Avian flu</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Dogs</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Colorado</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="83">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The U.S. Department of Agriculture's National Wildlife Research Center in Colorado and the Monell Chemical Senses Center in Pennsylvania have trained mice to detect avian influenza in fecal samples from infected ducks.
+
+[...]the dogs in the U.S. Department of Agriculture's Wildlife Services Canine Disease Detection Program respond with an aggressive alert, such as scratching, when they detect a sample from a duck infected with bird flu.
+
+[...]handlers have to think about how to reinforce the desired response from detection animals in the field.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1115" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Moose, a mixed-breed dog from the Nebraska Humane Society, trains in odor-detection work. Bill Cotton/CSU , CC BY-ND&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Editor's note: As COVID-19 continues to spread worldwide, scientists are analyzing new ways to track it. One promising approach is training dogs to detect people who are infected by smelling samples of human urine or sweat. Research scientist Glen Golden, who has trained dogs and ferrets to detect avian flu in birds, explains why certain animals are well suited to sniff out sickness.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 1. Which species have a nose for disease? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Some animals have highly developed senses of smell. They include rodents; dogs and their wild relatives, like wolves and coyotes; and mustelids - carnivorous mammals such as weasels, otters and ferrets. These species' brains have three or more times more functional olfactory receptor neurons - nerve cells that respond to odors - than species with less keen smelling abilities, including humans and other primates.&lt;/p&gt;
+&lt;p&gt;These neurons are responsible for detecting and identifying volatile olfactory compounds that send meaningful signals, like smoke from a fire or the aroma of fresh meat. A substance is volatile if it changes readily from liquid to gas at low temperatures, like the acetone that gives nail polish remover its fruity smell. Once it vaporizes, it can spread rapidly through the air.&lt;/p&gt;
+&lt;p&gt;When one of these animals detects a meaningful odor, the chemical signal is translated into messages and transported throughout its brain. The messages go simultaneously to the olfactory cortex, which is responsible for identifying, localizing and remembering odor, and to other brain regions responsible for decision-making and emotion. So these animals can detect many chemical signals over great distances and can make rapid and accurate mental associations about them.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 2. How do researchers choose a target scent? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In most studies that have used dogs to detect cancer, the dogs have identified physical samples, such as skin, urine or breath, from patients who either have been diagnosed with cancer or have undiagnosed cancer at an early stage. Scientists don't know what odor cue the dogs use or whether it varies by type of cancer.&lt;/p&gt;
+&lt;p&gt;The U.S. Department of Agriculture's National Wildlife Research Center in Colorado and the Monell Chemical Senses Center in Pennsylvania have trained mice to detect avian influenza in fecal samples from infected ducks. Bird flu is hard to detect in wild flocks, and it can spread to humans, so this work is designed to help wildlife biologists monitor for outbreaks.&lt;/p&gt;
+&lt;p&gt;The Kimball lab at Monell taught the mice to get a reward when they smelled a confirmed positive sample from an infected animal. For example, mice would get a drink of water when they traveled down the arm of a Y-shaped maze that contained feces from a duck infected with avian influenza virus.&lt;/p&gt;
+&lt;p&gt;By chemically analyzing the fecal samples, researchers found that the concentration of volatile chemical compounds in them changed when a duck became infected with bird flu. So they inferred that this altered smell profile was what the mice recognized.&lt;/p&gt;
+&lt;p&gt;Building on that work, we've trained ferrets and dogs to detect avian influenza in fowl, such as wild ducks and domestic chickens, in a collaborative study between Colorado State University and the National Wildlife Research Center that is currently under review for publication.&lt;/p&gt;
+&lt;p&gt;With ferrets, we started by training them to alert, or signal that they had detected the target odor, by scratching on a box that contained high ratios of those volatile compounds and to ignore boxes that contained low ratios. Next we showed the ferrets fecal samples from both infected and noninfected ducks, and the ferrets immediately began alerting to the box containing the fecal sample from an infected duck.&lt;/p&gt;
+&lt;p&gt;This approach is similar to the way that dogs are trained to detect known volatile odors in explosives or illegal drugs. Sometimes, though, we have to let the detector animal determine the odor profile that it will respond to.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 3. Can animals be trained to detect more than one target? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Yes. To avoid confusion about what a trained animal is detecting, we can teach it a different behavioral response for each target odor.&lt;/p&gt;
+&lt;p&gt;For example, the dogs in the U.S. Department of Agriculture's Wildlife Services Canine Disease Detection Program respond with an aggressive alert, such as scratching, when they detect a sample from a duck infected with bird flu. When they detect a sample from a white-tailed deer infected by the prion that causes chronic wasting disease, they respond with a passive alert such as sitting down.&lt;/p&gt;
+&lt;p&gt;Research at the University of Auburn has shown that dogs can remember and respond to 72 odors during an odor memory task. The only limitation is how many ways a dog can communicate about different odor cues.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 4. What kinds of factors can complicate this process? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;First, any organization that trains animals to detect disease needs the right type of laboratory and equipment. Depending on the disease, that could include personal protection equipment and air filtering.&lt;/p&gt;
+&lt;p&gt;Another concern is whether the pathogen might infect the detection animals. If that's a risk, researchers may need to inactivate the samples before they expose the animals. Then they need to see whether that process has altered the volatiles that they are teaching the animals to associate with infection.&lt;/p&gt;
+&lt;p&gt;Finally, handlers have to think about how to reinforce the desired response from detection animals in the field. If they are working in a population of mostly noninfected people - for example, in an airport - and an animal doesn't get a chance to earn a reward, it may lose interest and stop working. We look for animals that have a strong drive to work without stopping, but working for a long time without reward can be challenging for even the most motivated animal.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 5. Why not build a machine that can do this? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Right now we don't have devices that are as sensitive as animals with well-developed senses of smell. For example, a dog's sense of smell is at least 1,000 times more sensitive than any mechanical device. This could explain why dogs have detected cancer in tissue samples that have been medically cleared as not cancerous&lt;/p&gt;
+&lt;p&gt;We also know that ferrets can detect avian flu infection in fecal samples before and after laboratory analysis shows that the virus has stopped shedding. This suggests that for some pathogens, there may be changes in volatiles in individuals who are infected but are asymptomatic.&lt;/p&gt;
+&lt;p&gt;As scientists learn more about how mammals' sense of smell works, they'll have a better chance of creating devices that are as sensitive and reliable in sniffing out disease.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Glen Golden receives funding from the United Stated Department of Agriculture.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Glen J. Golden, Research Scientist/Scholar I, Colorado State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>Moose, a mixed-breed dog from the Nebraska Humane Society, trains in odor-detection work. Bill Cotton/CSU , CC BY-ND</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 13, 2021</AlphaDate>
+         <StartDate>2021-01-13</StartDate>
+         <EndDate>2021-01-13</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jan132021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2549615601</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>'I FEEL 110%, LET'S SAY 200%' [Corrected 07/10/2021]</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>Jimenez's road back from a ruptured pectoral tendon begins with stint in minors</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2021-07-09</NumericDate>
+      <StartDate>2021-07-09</StartDate>
+      <EndDate>2021-07-09</EndDate>
+      <AlphaDate>Jul 9, 2021</AlphaDate>
+      <RawAlphaDate>20210709</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Jul 9, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>1</StartPage>
+         <DocSection>Sports</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Jul92021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2021070920210709487817260</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2021070920210709487817260</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1230</LexileScore>
+      <DateLine>MINNEAPOLIS</DateLine>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Pope, LaMond</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>LaMond</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>LaMond Pope</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Pope</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>LaMond Pope</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Baseball</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Chicago Illinois</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Jimenez, Eloy</Personal>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="805" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Eloy Jimenez's trademark expression "Hi, Mom!" returned as he wrapped up a conference call with reporters Thursday.   &lt;/p&gt;&lt;p&gt;The left fielder soon hopes to bring that enthusiasm -- along with his dangerous bat -- back to the Chicago White Sox.&lt;/p&gt;&lt;p&gt;Jimenez is scheduled to begin a rehab assignment with Class A Winston-Salem on Friday.&lt;/p&gt;&lt;p&gt;"I'm feeling really good," Jimenez said. "Right now I feel really excited. And I feel really good because the team is still winning with a couple of good players out. I feel happy for them and I feel happy that I'm going to be back and help the team."&lt;/p&gt;&lt;p&gt;Jimenez has been out since suffering a ruptured left pectoral tendon in a March 24 Cactus League game against the Oakland Athletics at Camelback Ranch in Glendale, Ariz., while attempting to rob Sean Murphy of a home run.&lt;/p&gt;&lt;p&gt;The original timeline had Jimenez sidelined for five to six months. He was cleared June 14 to resume baseball activities.&lt;/p&gt;&lt;p&gt;"I feel better than spring training," he said. "I feel 110%, let's say 200%. I feel pretty normal. I feel like I can do my swing, finish, with one hand, two hands, whatever and it's not going to hurt."&lt;/p&gt;&lt;p&gt;Jimenez would provide an instant boost to the offense. He earned an American League Silver Slugger Award in 2020 after finishing second on the team in doubles (14), home runs (14), RBIs (41) and slugging percentage (.559). Even without his services, one of several key injuries for the team, the Sox began Thursday with an eight-game lead in the AL Central.&lt;/p&gt;&lt;p&gt;"It's impressive, but at the same time I know they can do that," Jimenez said. "For me, it was like 'OK, good,' because that's what we want. We want to dominate the league. It's good to see the guys, how they are playing right now."&lt;/p&gt;&lt;p&gt;The Sox also are missing center fielder Luis Robert, who has been sidelined since early May after suffering a complete tear of his right hip flexor.&lt;/p&gt;&lt;p&gt;Robert recently received clearance to resume baseball activities.&lt;/p&gt;&lt;p&gt;"I see him, he's going to be back sooner than later too," Jimenez said. "We've been working really hard to go back and play with our team."&lt;/p&gt;&lt;p&gt;Teammates have been thrilled with each update.&lt;/p&gt;&lt;p&gt;"We're happy with how the progress of Eloy and Robert have come," first baseman Jose Abreu said through an interpreter Tuesday before a game against the Minnesota Twins at Target Field. "They've been doing a good job over there in Arizona. The training staff there has been helping them.&lt;/p&gt;&lt;p&gt;"Eloy is in very good shape, very good spirit too. I told him since the first day when he started his rehab process, 'Hey, just take one day at a time, don't try to rush. We need you, but what matters the most is for you to be really healthy.' He knows that."&lt;/p&gt;&lt;p&gt;Rookie Andrew Vaughn has played most often in left field during Jimenez's absence. Jimenez also could see time at designated hitter.&lt;/p&gt;&lt;p&gt;"There's legitimate reasons to think of DHing him a lot," Sox manager Tony La Russa said before Wednesday's game against Twins. "That would be one way to get his bat in and not have to worry so much about his legs. At the same time, the way (Yermín) Mercedes was going, the spot was open for a while and hopefully Yermín gets back (from Triple A).&lt;/p&gt;&lt;p&gt;"The depth we have now in the outfield allows us to think about Eloy maybe getting a lot of swings as a DH."&lt;/p&gt;&lt;p&gt;Jimenez's preference is to play in the field, but he added: "If they need me playing, I'm going to do whatever, but I still don't like DH."&lt;/p&gt;&lt;p&gt;No timeline has been established for when Jimenez could return to the Sox lineup, but he said, "I think I can be around at the end of this month."&lt;/p&gt;&lt;p&gt;He said his teammates have helped him get to this point in his recovery.&lt;/p&gt;&lt;p&gt;"My second family is my team; they support me and that's why I work hard to get back to this point," Jimenez said. "Just playing with them, that's all I want. Play with my team."&lt;/p&gt;&lt;p&gt;CAPTION: Photo: The White Sox's Eloy Jimenez, out since suffering a torn left pectoral tendon on March 24, is scheduled to begin a rehab assignment in Class A Winston-Salem on Friday. He was cleared to resume baseball activities on June 14, nearly three months ahead of schedule. ARMANDO L. SANCHEZ/CHICAGO TRIBUNE  ; Photo: White Sox left fielder Eloy Jimenez (74) earned an American League Silver Slugger Award last season after finishing second on the team in doubles, home runs, RBIs and slugging percentage. BRIAN CASSELLA/CHICAGO TRIBUNE  ; Photo: Sox's Jiménez starts road back from injury  ; Outfielder Eloy Jiménez is scheduled to begin a rehab assignment from a ruptured pectoral with Class AWinston-Salem on Friday. "I'm feeling really good," Jiménez said. "Right now I feel really excited." (News section, Page 1)&lt;/p&gt;&lt;p&gt;CREDIT: By LaMond Pope, Chicago Tribune&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 9, 2021</AlphaDate>
+         <RawDate>20210709</RawDate>
+         <StartDate>2021-07-09</StartDate>
+         <EndDate>2021-07-09</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Jul92021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

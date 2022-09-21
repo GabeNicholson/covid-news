@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2486496392</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Kids' school schedules have never matched parents' work obligations and the pandemic is making things worse</Title>
+      </TitleAtt>
+      <NumericDate>2020-07-15</NumericDate>
+      <StartDate>2020-07-15</StartDate>
+      <EndDate>2020-07-15</EndDate>
+      <AlphaDate>Jul 15, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVED_20200715_142456</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVED_20200715_142456</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977985_Jul152020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Morrissey, Taryn</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Taryn</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Taryn Morrissey</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Morrissey</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Taryn Morrissey</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/142456/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Families &amp; family life</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Preschool children</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Children &amp; youth</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Child care</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Kindergarten</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Working parents</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employment</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="125">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Public pre-K programs and the federally funded Head Start program together enroll only 47% of 4-year-olds and 17% of 3-year-olds and most of these programs are only "half-day," meaning that they run for four hours at most.
+
+[...]for the workers lucky enough to remain employed, work hours have held steady.
+
+[...]social distancing guidelines discourage associating with others outside of the household - which can include nannies and babysitters.
+
+Taryn Morrissey has received funding from the Robert Wood Johnson Foundation, the US2050 Project of the Ford and Peterson Foundations, the Bill and Melinda Gates Foundation, the Heising-Simons Foundation, the Annie E. Casey Foundation, the Pritzker Children's Initiative, the Bainum Family Foundation, and the Perigee Fund, and the U.S. Departments of Health and Human Services and Agriculture.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="808" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Whether I'm looking at the question of why it has always been hard to be a working parent in the United States as a mother with two children under 7, or as a scholar of child and family policy, one reason stands out. The hours employers demand and public school schedules have always been incompatible.&lt;/p&gt;
+&lt;p&gt;While children attend K-12 public schools for an average of 1,195 hours per year, a full-time working parent averages twice as much time, about 2,450 hours per year, working and commuting.&lt;/p&gt;
+&lt;p&gt;This fall, it looks like millions of U.S. children will spend no hours at school at all. And for nearly every parent, the usual complicated dance between their jobs and their kids' daily schedules has become even more complex, as school systems adjust their plans in accordance with what's possible during the COVID-19 pandemic.&lt;/p&gt;
+&lt;p&gt;As of mid-July, for example, New York City - the country's biggest school district - was planning to have children in classrooms only two or three days a week once the new school year gets underway. Los Angeles - the second-largest - was planning to keep learning fully online.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; An issue of inequality &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Finding affordable and reliable child care is especially hard for parents with infants and toddlers, those whose children have special needs, or those working nights, weekends or unpredictable schedules.&lt;/p&gt;
+&lt;p&gt;Public pre-K programs and the federally funded Head Start program together enroll only 47% of 4-year-olds and 17% of 3-year-olds and most of these programs are only "half-day," meaning that they run for four hours at most.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Expertise in your inbox. Sign up for The Conversation's newsletter and get expert takes on today's news, every day.&lt;/i&gt;]&lt;/p&gt;
+&lt;p&gt;Once children are ready for elementary school, only a handful of states require full-day kindergarten.&lt;/p&gt;
+&lt;p&gt;Wealthy and high-earning parents bridge this gulf for their children of all ages with elaborate - and expensive - webs of paid people and programs that can include in-school after-care, enrichment activities, babysitters and nannies.&lt;/p&gt;
+&lt;p&gt;Parents who can't afford those things and have few choices rely instead on their relatives, neighbors and friends to fill the gaps schools don't cover with more informal arrangements.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Now even worse &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Since March 2020, most U.S. parents have faced the daunting task of working full-time while caring for - and at least attempting on school days to help teach - their children all week long.&lt;/p&gt;
+&lt;p&gt;This challenge is widespread. An estimated one-third of U.S. workers have child care obligations.&lt;/p&gt;
+&lt;p&gt;With schools and child care programs largely shuttered, most summer camps canceled or online, and families understandably reluctant to rely on elderly relatives, the hours of child care have gone, in many cases, to zero. But for the workers lucky enough to remain employed, work hours have held steady.&lt;/p&gt;
+&lt;p&gt;Moreover, social distancing guidelines discourage associating with others outside of the household - which can include nannies and babysitters.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Moving on &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;I anticipate that many parents, mostly mothers, will be forced to miss work, cut their hours or quit their jobs. Taking this step might make help make life less hectic and ensure care for their children in the short term. But it also takes a toll on their current and future economic security.&lt;/p&gt;
+&lt;p&gt;I don't think juggling work and parenting has to be this hard, or that things should ever have been as hard as they were before this crisis. After the pandemic ends, the U.S. shouldn't aspire for parents to return to the expensive, exhausting jujitsu of 2019.&lt;/p&gt;
+&lt;p&gt;I argue that the nation should, in the long term, ensure that everyone has access to affordable, high-quality options that span from infancy through the teen years through a combination of child care subsidies and more funding for care for children before and after the school day.&lt;/p&gt;
+&lt;p&gt;More spending on infant and toddler care and summer activities - a time of year during which families often struggle to find and pay for care - could help reduce income gaps in children's readiness for kindergarten and summer learning loss.&lt;/p&gt;
+&lt;p&gt;The COVID-19 pandemic has exposed parents' delicate, very difficult and unsustainable balancing act.&lt;/p&gt;
+&lt;p&gt;This complex crisis offers a time of reckoning. Americans have an opportunity to re-imagine how the government can support family life - to make raising children less expensive, less stressful, more socially just and simply better for everyone.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Taryn Morrissey has received funding from the Robert Wood Johnson Foundation, the US2050 Project of the Ford and Peterson Foundations, the Bill and Melinda Gates Foundation, the Heising-Simons Foundation, the Annie E. Casey Foundation, the Pritzker Children's Initiative, the Bainum Family Foundation, and the Perigee Fund, and the U.S. Departments of Health and Human Services and Agriculture. She is a non-resident fellow at the Urban Institute and in 2020 a Senior Fellow at the Center for American Progress.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Taryn Morrissey, Associate Professor of Public Administration and Policy, American University School of Public Affairs&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Education</Title>
+         <MpubId>4977985</MpubId>
+         <SortTitle>Conversation : Education The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVED</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977985</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464269.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Education</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Education</Title>
+            <SortTitle>Conversation : Education The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977985</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464269.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 15, 2020</AlphaDate>
+         <StartDate>2020-07-15</StartDate>
+         <EndDate>2020-07-15</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977985_Jul152020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

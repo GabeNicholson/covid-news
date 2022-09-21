@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2622843055</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>'Teaching has always been hard, but it's never been like this' – elementary school teachers talk about managing their classrooms during a pandemic</Title>
+      </TitleAtt>
+      <NumericDate>2022-01-26</NumericDate>
+      <StartDate>2022-01-26</StartDate>
+      <EndDate>2022-01-26</EndDate>
+      <AlphaDate>Jan 26, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2022. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20220126_175006</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20220126_175006</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jan262022______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <DisplayForm>Laura Wangsness Willemsen</DisplayForm>
+               <OriginalFormAtt>
+                  <OriginalForm>Laura Wangsness Willemsen</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Cohen, Elisheva L</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Elisheva</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Elisheva L Cohen</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Cohen</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>L</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Elisheva L. Cohen</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/175006/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>American Educational Research Association</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813920</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Teaching</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Educational research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Classrooms</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Elementary school teachers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Elementary schools</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Learning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>School districts</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="110">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Elementary school teachers in our study report needing to address up to nine different academic levels in a single classroom, when they may address two to three in a typical year.
+
+A fifth grade teacher shared that, after being denied funds from the district, her team used field-trip funds to purchase an online extension of their math curriculum to support differentiated learning.
+
+Yet despite the scale of the challenges and the steep personal toll of this work, the teachers in our study and around the country keep showing up for students and families.
+
+[...]we wonder about what will happen to those students and families if, or perhaps when, they can’t.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="933" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;As the omicron wave spikes across the United States, K-12 education is one of many systems buckling under the weight of expanding needs. Recent headlines highlight staff and busing shortages, parental anxieties about both in-person and distance schooling and disputes between unions and districts. Yet teachers’ experiences in their classrooms can be overlooked in these conversations.&lt;/p&gt;
+&lt;p&gt;As part of our research into teaching, since March 2020, we have been following the experiences of a group of elementary school teachers in one suburban school district in the Midwest.&lt;/p&gt;
+&lt;p&gt;We’ve seen variations in teachers’ experiences and well-being over the course of the pandemic, yet our research suggests their situation continues to be incredibly challenging.&lt;/p&gt;
+&lt;p&gt;In January 2022 – halfway through the school year that was supposed to be a return to normal – teachers tell us they are barely hanging on.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;‘Trying to make up for the great divide’&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Teachers tell us they are more worried about student learning than ever before, and their job duties keep expanding while resources dwindle.&lt;/p&gt;
+&lt;p&gt;Struggling with the omicron surge, many previously hopeful teachers describe being utterly overwhelmed, overworked and exhausted.&lt;/p&gt;
+&lt;p&gt;Now in their third disrupted school year, students in the same grade have even more widely varied academic achievement levels than usual.&lt;/p&gt;
+&lt;p&gt;Elementary school teachers in our study report needing to address up to nine different academic levels in a single classroom, when they may address two to three in a typical year. Yet they tell us they are not getting the time, support or resources to develop appropriately different lessons.&lt;/p&gt;
+&lt;p&gt;Teachers are constantly having to figure out how to teach material in appropriate sequences while accommodating student absences. One teacher told us, “It’s just hard when students are gone and I don’t know how much new content to teach when they’re away, and how to get them caught up afterwards.”&lt;/p&gt;
+&lt;p&gt;Teachers say learning gaps, already wide before the 2021-2022 school year, are expanding even further.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;‘It’s actually a nightmare right now’&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Beyond academics, teachers report having to reteach basic school readiness skills, such as raising hands, standing in line and taking turns.&lt;/p&gt;
+&lt;p&gt;Rachel, a fifth grade teacher in our study, described the challenges as follows: “It feels like the beginning of the year. So many unexpected behaviors and responses to redirection. I see a lot of social gaps – not knowing how to cooperate and problem-solve. Self-control needs to be retaught.”&lt;/p&gt;
+&lt;p&gt;Teachers say serious behavior issues like emotional dysregulation, disruption and defiance are more common than they used to be. Even in historically calm schools, physical fights and verbal outbursts are becoming routine. One teacher shared with us that a student spit in her eye right after returning from winter break. The next day, that student tested positive for COVID-19.&lt;/p&gt;
+&lt;p&gt;Teachers are thus forced to spend time restoring order before they can teach. One said, “I realize that so little of my day is spent on true, high-quality instruction.”&lt;/p&gt;
+&lt;p&gt;Worries about students’ mental health keep teachers up at night. They tell us they see more kids than ever who are anxious, depressed and despondent, and suicidal thoughts are appearing at younger ages. Katie, a first grade teacher, shared with us: “There are many kids whose families face issues of food scarcity, job challenges, family relationships that are unstable, several who have suffered losses.”&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;‘Our systems cannot support this reality’&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In the face of mounting crises, teachers would typically partner with school-based social workers, counselors and other support staff. Yet many counselors, administrators, behavior support staff, paraprofessionals and other specialists are being redeployed to classrooms with teachers out sick. Teachers report students in crisis are left waiting.&lt;/p&gt;
+&lt;p&gt;Teachers describe giving up prep time to substitute for sick colleagues and keeping obviously sick kids in class when the nurse’s office is full. With the lack of time and training to teach the multiple levels in one class, teachers are scrambling to find ways to catch kids up. A fifth grade teacher shared that, after being denied funds from the district, her team used field-trip funds to purchase an online extension of their math curriculum to support differentiated learning.&lt;/p&gt;
+&lt;p&gt;Although teachers are used to getting by in underresourced systems, the teachers in our study tell us no amount of creativity will soon overcome the current crisis. As one teacher explained, “There were similar problems before, however with the added stressors of the pandemic, we’re at a breaking point and feel like saying no more.”&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;‘I wonder what it’s all for’&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;While the pandemic has always posed significant challenges, it used to be that even struggling teachers expressed optimism that things would eventually improve.&lt;/p&gt;
+&lt;p&gt;Now, as they contend with years of ever-increasing, cumulative needs colliding with the acute pressures of the omicron wave, teachers are left staggering and overwhelmed.&lt;/p&gt;
+&lt;p&gt;Rachel, the fifth grade teacher, explained: “We entered the year feeling depleted, and now so little is left. I wonder what it’s all for.”&lt;/p&gt;
+&lt;p&gt;Yet despite the scale of the challenges and the steep personal toll of this work, the teachers in our study and around the country keep showing up for students and families. We wonder how long they can continue. Moreover, we wonder about what will happen to those students and families if, or perhaps when, they can’t.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get the best of The Conversation, every weekend.&lt;/i&gt; Sign up for our weekly newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Laura Wangsness Willemsen received funding from the American Educational Research Association.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Elisheva L. Cohen received funding from the American Educational Research Association to fund this study.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Laura Wangsness Willemsen, Associate Professor of Education, Concordia University, Saint Paul&lt;/p&gt;&lt;p&gt;Elisheva L. Cohen, Postdoctoral Fellow in International Issues and Sustainable Development, Indiana University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 26, 2022</AlphaDate>
+         <StartDate>2022-01-26</StartDate>
+         <EndDate>2022-01-26</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jan262022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

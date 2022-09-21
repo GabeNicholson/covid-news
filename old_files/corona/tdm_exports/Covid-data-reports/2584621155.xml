@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2584621155</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>The future of work is hybrid – here's an expert's recommendations for success</Title>
+      </TitleAtt>
+      <NumericDate>2021-10-22</NumericDate>
+      <StartDate>2021-10-22</StartDate>
+      <EndDate>2021-10-22</EndDate>
+      <AlphaDate>Oct 22, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20211022_167432</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20211022_167432</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Oct222021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Mitchell, Alanah</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Alanah</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Alanah Mitchell</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Mitchell</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Alanah Mitchell</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/167432/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Meetings</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>College professors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Corporate culture</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Workers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Collaboration</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Verbal communication</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employees</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="66">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Casual office conversations – a worker walking down the hall for a quick and unscheduled chat with a colleague, for instance – can lead to knowledge-sharing and collaborative problem-solving.
+
+Performance incentives, such as financial rewards or tokens of appreciation including food delivery, help develop a supportive culture that increases employee commitment.
+
+[...]Both managers and employees must be transparent in their communication and understanding of hybrid plans.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="916" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;COVID-19 has changed the way we work.&lt;/p&gt;
+&lt;p&gt;Even before the pandemic, the U.S. workforce increasingly relied on remote collaboration technologies like videoconferencing and Slack. The global crisis accelerated the adoption of these work tools and practices in an unprecedented way. By April 2020, about half of companies reported that more than 80% of their employees worked from home because of COVID-19.&lt;/p&gt;
+&lt;p&gt;That shift was made possible by decades of research into, and then development of, technologies that support remote work, but not everyone uses these technologies with the same ease. As early as 1987, groundbreaking research identified some of the challenges facing women working from home using technology. That included the difficulties of child care, work-home separation and employee growth opportunities.&lt;/p&gt;
+&lt;p&gt;Since that time, we have learned much more about virtual collaboration. As an associate professor of information systems, I’m interested in what we can expect as we eagerly anticipate a post-pandemic future. One thing stands out: Hybrid work arrangements – that is, employees who do some tasks in the office and others virtually – is clearly going to be a big part of the picture.&lt;/p&gt;
+&lt;p&gt;One survey from April 2021 shows 99% of human resources leaders expect employees to work in some kind of hybrid arrangement moving forward. Many have already begun. As just one example, Dropbox, the file hosting service, made a permanent shift during the pandemic, allowing employees to work from home and hold team meetings in the office.&lt;/p&gt;
+&lt;p&gt;The definition of “hybrid” varies in other organizations. Some workers might be in the office a couple days a week or every other day. Other businesses may require only occasional face-to-face time, perhaps meeting in a centralized location once each quarter.&lt;/p&gt;
+&lt;p&gt;Either way, research does show many companies fail in their implementation of a virtual workforce.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Remote work versus in the office&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In-office work promotes structure and transparency, which may increase trust between management and workers. Developing an organizational culture happens naturally. Casual office conversations – a worker walking down the hall for a quick and unscheduled chat with a colleague, for instance – can lead to knowledge-sharing and collaborative problem-solving. That’s difficult to replicate in a virtual environment, which often relies on advance scheduling for online meetings – although that’s still feasible with enough planning and communication.&lt;/p&gt;
+&lt;p&gt;But if you look at different metrics, in-office work loses out to working from home. My recent research discovered remote workers report more productivity and enjoy working from home because of the flexibility, the ability to wear casual clothes, and the shortened or nonexistent commute time. Remote work also saves money. There is a significant cost savings for office space, one of the largest budget line items for organizations.&lt;/p&gt;
+&lt;p&gt;Hybrid arrangements attempt to combine the best of both worlds.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;It’s not perfect&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;It’s true that hybrid work faces many of the same obstacles of face-to-face work. Poor planning and communication, ineffective or unnecessary meetings and confusion about task responsibilities happen remotely as well as in-person.&lt;/p&gt;
+&lt;p&gt;Perhaps the largest issue when working at home: technology and security concerns. Home networks, an easier target for cyberthreats, are typically more vulnerable than office networks. Remote workers are also more likely to share computers with someone else outside of their organization. Hybrid organizations must invest upfront to work through these complicated and often expensive issues.&lt;/p&gt;
+&lt;p&gt;With hybrid work, managers cannot see the work taking place. That means they must measure employee performance based on outcomes with clear performance metrics rather than the traditional focus on employee behavior.&lt;/p&gt;
+&lt;p&gt;Another potential pitfall: Fault lines can develop within hybrid teams – that is, misunderstandings or miscommunication between those in the office and those at home. These two groups may start to divide, potentially leading to tension and conflicts between them – an us-versus-them scenario.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Establishing a hybrid environment&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Numerous recommendations exist on the best way to develop a hybrid model. Here are a few of the best ideas.&lt;/p&gt;
+&lt;p&gt;Meeting too often or with little purpose – that is, meeting for the sake of meeting – leads to fatigue and burnout. Not everyone needs to be at every meeting, yet finesse from management is required to make sure no one feels left out. And meeting-free days can help with productivity and allow employees a block of uninterrupted time to focus on complex projects.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 115,000 readers rely on The Conversation’s newsletter to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;Listening to employees is critical to making sure the hybrid environment is working. Continually seeking feedback, through one-on-one conversations, focus groups or human resources surveys, is important too. So is recognizing and rewarding employees with in-person or virtual kudos for their achievements. Performance incentives, such as financial rewards or tokens of appreciation including food delivery, help develop a supportive culture that increases employee commitment.&lt;/p&gt;
+&lt;p&gt;Finally: Both managers and employees must be transparent in their communication and understanding of hybrid plans. Policies must be in place to define what tasks happen in the office and remotely. Access to reliable communications is essential, particularly for remote work. All employees must receive the same information at the same time, and in a timely manner. After all, whether in the office or online, workers don’t want to feel they’re the last to know.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Alanah Mitchell does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Alanah Mitchell, Associate Professor and Chair of Information Management and Business Analytics, Drake University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 22, 2021</AlphaDate>
+         <StartDate>2021-10-22</StartDate>
+         <EndDate>2021-10-22</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Oct222021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2521214099</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Breakfast After the Bell programs reduce school absenteeism</Title>
+      </TitleAtt>
+      <NumericDate>2021-05-03</NumericDate>
+      <StartDate>2021-05-03</StartDate>
+      <EndDate>2021-05-03</EndDate>
+      <AlphaDate>May 3, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVED_20210503_156533</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVED_20210503_156533</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977985_May32021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Kirksey, Jacob</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jacob</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jacob Kirksey</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Kirksey</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jacob Kirksey</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/156533/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Meals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Absenteeism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="99">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;In a study published in February 2021, my co-author and I explored how the rollout of Breakfast After the Bell programs at high-poverty schools in Colorado and Nevada have been linked to reductions in the number of students who were chronically absent.
+
+In both states, high-poverty schools, where 70% or more students are eligible for free or reduced-priced meals, were mandated to adopt the program.
+
+If breakfast is served as part of the regular school day and in class, there are potential delays and disruptions to classroom learning as teachers allow students to eat their breakfast and clean up.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="736" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;i&gt;The Research Brief is a short take about interesting academic work.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The big idea&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Making a healthy breakfast available to students not only can help alleviate hunger and improve concentration at school; it also appears to encourage regular attendance, according to new research I co-authored.&lt;/p&gt;
+&lt;p&gt;In a study published in February 2021, my co-author and I explored how the rollout of Breakfast After the Bell programs at high-poverty schools in Colorado and Nevada have been linked to reductions in the number of students who were chronically absent. The programs extend free morning meals to learners unable to get into school before classes start.&lt;/p&gt;
+&lt;p&gt;Our study looked at levels of absenteeism in the last year before Breakfast After the Bell was introduced in the states – the 2013-2014 academic year – and two years after. In both states, high-poverty schools, where 70% or more students are eligible for free or reduced-priced meals, were mandated to adopt the program. In the 2015-16 academic year, approximately 25% of the schools met this criterion.&lt;/p&gt;
+&lt;p&gt;Our results show that the initiative increased both the overall number of students eating school breakfasts and how many qualified for free or reduced-priced school meals.&lt;/p&gt;
+&lt;p&gt;We also found that chronic absenteeism – defined as missing 15 days or more in the school year – declined in schools that adopted Breakfast After the Bell programs. On average, chronic absenteeism rates fell by about 8 percentage points. High schools saw twice as large a drop in chronic absenteeism rates compared to elementary and middle schools once the program was introduced.&lt;/p&gt;
+&lt;p&gt;As the state mandates applied only to high-poverty schools, we compared absenteeism in schools that approached that level – with 60%-69% of students on free and reduced lunch – with those just above that line, with 70%-79% of students eligible. We found chronic absenteeism rates were 8 percentage points lower than what we would expect for the 70%-79% group.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Why it matters&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Schools across the country are wrestling with ways to open up fully to students following COVID-19 school closures and remote classes.&lt;/p&gt;
+&lt;p&gt;As more in-person instruction resumes this fall, schools and policymakers must find ways to encourage consistent attendance for students and also address the disproportionate learning impact that the coronavirus has had on students from lower-income families and in communities of color. Findings from our study suggest that one way to not only improve attendance but also improve breakfast participation is to adopt programs like Breakfast After the Bell.&lt;/p&gt;
+&lt;p&gt;As research shows, consistent attendance is a key ingredient to the educational success for students. And expanding the availability and ease of getting breakfast at school would be particularly beneficial for students who depend on school meals as their primary source of nutrition.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What still isn’t known&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;While this study was able to link Breakfast After the Bell programs to reductions in chronic absenteeism, we still do not know much about the underlying reasons for this change.&lt;/p&gt;
+&lt;p&gt;It may be that students or their families are more motivated to come to school since breakfast is included as part of the regular school day. It could also be that such programs, which often include providing free meals to all students, reduce the stigma that could be associated with receiving a “free” meal for students. There is also research that suggests that eating breakfast in smaller settings, like a classroom, reduces the spread of illnesses that are connected to student absenteeism.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What’s next&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;As organizations and policymakers continue to promote the adoption of Breakfast After the Bell programs, it is important that we consider how the implementation of these programs vary with respect to costs.&lt;/p&gt;
+&lt;p&gt;Shifting breakfast times and locations at school does not necessarily involve significant financial costs. But we should consider how Breakfast After the Bell may affect instructional time as well as the duties or responsibilities of teachers and other school staff. If breakfast is served as part of the regular school day and in class, there are potential delays and disruptions to classroom learning as teachers allow students to eat their breakfast and clean up.&lt;/p&gt;
+&lt;p&gt;For us as researchers, one important next step is to figure out how to best way to implement Breakfast After the Bell and mitigate any classroom disruptions.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;The Conversation’s newsletter explains what’s going on with the coronavirus pandemic. Subscribe now.&lt;/i&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;This research was externally funded by No Kid Hungry.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Jacob Kirksey, Assistant Professor Educational Psychology &amp;amp; Leadership, Texas Tech University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Education</Title>
+         <MpubId>4977985</MpubId>
+         <SortTitle>Conversation : Education The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVED</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977985</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464269.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Education</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Education</Title>
+            <SortTitle>Conversation : Education The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977985</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464269.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 3, 2021</AlphaDate>
+         <StartDate>2021-05-03</StartDate>
+         <EndDate>2021-05-03</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977985_May32021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

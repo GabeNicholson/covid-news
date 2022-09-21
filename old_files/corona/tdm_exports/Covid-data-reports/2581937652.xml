@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2581937652</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>More 'disease' than 'Dracula' – how the vampire myth was born</Title>
+      </TitleAtt>
+      <NumericDate>2021-10-14</NumericDate>
+      <StartDate>2021-10-14</StartDate>
+      <EndDate>2021-10-14</EndDate>
+      <AlphaDate>Oct 14, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20211014_167482</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20211014_167482</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Oct142021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Stepanic, Stanley</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Stanley</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Stanley Stepanic</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Stepanic</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Stanley Stepanic</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/167482/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rabies</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Folklore</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>18th century</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Vampires</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Eastern Europe</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="72">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Painful muscle contractions in the esophagus lead rabies victims to avoid eating and drinking, or even swallowing their own saliva, which eventually causes “foaming at the mouth.”
+
+Furthermore, rabies can lead to a fear of light, altered sleep patterns and increased aggression, elements of how vampires are described in a variety of folktales.
+
+The second disease is pellagra, caused by a dietary deficiency of niacin (vitamin B3) or the amino acid tryptophan.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="917" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The vampire is a common image in today’s pop culture, and one that takes many forms: from Alucard, the dashing spawn of Dracula in the PlayStation game “Castlevania: Symphony of the Night”; to Edward, the romantic, idealistic lover in the “Twilight” series.&lt;/p&gt;
+&lt;p&gt;In many respects, the vampire of today is far removed from its roots in Eastern European folklore. As a professor of Slavic studies who has taught a course on vampires called “Dracula” for more than a decade, I’m always fascinated by the vampire’s popularity, considering its origins – as a demonic creature strongly associated with disease.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Explaining the unknown&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The first known reference to vampires appeared in written form in Old Russian in A.D. 1047, soon after Orthodox Christianity moved into Eastern Europe. The term for vampire was “upir,” which has uncertain origins, but its possible literal meaning was “the thing at the feast or sacrifice,” referring to a potentially dangerous spiritual entity that people believed could appear at rituals for the dead. It was a euphemism used to avoid speaking the creature’s name – and unfortunately, historians may never learn its real name, or even when beliefs about it surfaced.&lt;/p&gt;
+&lt;p&gt;The vampire served a function similar to that of many other demonic creatures in folklore around the world: They were blamed for a variety of problems, but particularly disease, at a time when knowledge of bacteria and viruses did not exist.&lt;/p&gt;
+&lt;p&gt;Scholars have put forth several theories about various diseases’ connections to vampires. It is likely that no one disease provides a simple, “pure” origin for vampire myths, since beliefs about vampires changed over time.&lt;/p&gt;
+&lt;p&gt;But two in particular show solid links. One is rabies, whose name comes from a Latin term for “madness.” It’s one of the oldest recognized diseases on the planet, transmissible from animals to humans, and primarily spread through biting – an obvious reference to a classic vampire trait.&lt;/p&gt;
+&lt;p&gt;There are other curious connections. One central symptom of the disease is hydrophobia, a fear of water. Painful muscle contractions in the esophagus lead rabies victims to avoid eating and drinking, or even swallowing their own saliva, which eventually causes “foaming at the mouth.” In some folklore, vampires cannot cross running water without being carried or assisted in some way, as an extension of this symptom. Furthermore, rabies can lead to a fear of light, altered sleep patterns and increased aggression, elements of how vampires are described in a variety of folktales.&lt;/p&gt;
+&lt;p&gt;The second disease is pellagra, caused by a dietary deficiency of niacin (vitamin B3) or the amino acid tryptophan. Often, pellagra is brought on by diets high in corn products and alcohol. After Europeans landed in the Americas, they transported corn back to Europe. But they ignored a key step in preparing corn: washing it, often using lime – a process called “nixtamalization” that can reduce the risk of pellagra.&lt;/p&gt;
+&lt;p&gt;Pellagra causes the classic “4 D’s”: dermatitis, diarrhea, dementia and death. Some sufferers also experience high sensitivity to sunlight – described in some depictions of vampires – which leads to corpselike skin.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Social scare&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Multiple diseases show connections to folklore about vampires, but they can’t necessarily explain how the myths actually began. Pellagra, for example, did not exist in Eastern Europe until the 18th century, centuries after vampire beliefs had originally emerged.&lt;/p&gt;
+&lt;p&gt;Both pellagra and rabies are important, however, because they were epidemic during a key period in vampire history. During the so-called Great Vampire Epidemic, from roughly 1725 to 1755, vampire myths “went viral” across the continent.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 110,000 readers rely on The Conversation’s newsletter to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;As disease spread in Eastern Europe, supernatural causes were often blamed, and vampire hysteria spread throughout the region. Many people believed that vampires were the “undead” – people who lived on in some way after death – and that the vampire could be stopped by attacking its corpse. They carried out “vampire burials,” which could involve putting a stake through the corpse, covering the body in garlic and a variety of other traditions that had been present in Slavic folklore for centuries.&lt;/p&gt;
+&lt;p&gt;Meanwhile, Austrian and German soldiers fighting the Ottomans in the region witnessed this mass desecration of graves and returned home to Western Europe with stories of the vampire.&lt;/p&gt;
+&lt;p&gt;But why did so much vampire hysteria spring up in the first place? Disease was a primary culprit, but a sort of “perfect storm” existed in Eastern Europe at the time. The era of the Great Vampire Epidemic was not just a period of disease, but one of political and religious upheaval as well.&lt;/p&gt;
+&lt;p&gt;During the 18th century, Eastern Europe faced pressure from within and without as domestic and foreign powers exercised their control over the region, with local cultures often suppressed. Serbia, for example, was struggling between the Hapsburg Monarchy in Central Europe and the Ottomans. Poland was increasingly under foreign powers, Bulgaria was under Ottoman rule, and Russia was undergoing dramatic cultural change due to the policies of Czar Peter the Great.&lt;/p&gt;
+&lt;p&gt;This is somewhat analogous to today, as the world contends with the COVID-19 pandemic amid political change and uncertainty. Perceived societal breakdown, whether real or imagined, can lead to dramatic responses in society.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Stanley Stepanic ne travaille pas, ne conseille pas, ne possède pas de parts, ne reçoit pas de fonds d'une organisation qui pourrait tirer profit de cet article, et n'a déclaré aucune autre affiliation que son organisme de recherche.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Stanley Stepanic, Assistant Professor of Slavic Languages and Literatures, University of Virginia&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 14, 2021</AlphaDate>
+         <StartDate>2021-10-14</StartDate>
+         <EndDate>2021-10-14</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Oct142021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

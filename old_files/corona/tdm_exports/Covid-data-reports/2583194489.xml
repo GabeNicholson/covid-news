@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2583194489</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Simple safety tips for trick-or-treating after Fauci greenlighted Halloween 2021</Title>
+      </TitleAtt>
+      <NumericDate>2021-10-19</NumericDate>
+      <StartDate>2021-10-19</StartDate>
+      <EndDate>2021-10-19</EndDate>
+      <AlphaDate>Oct 19, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20211019_170088</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20211019_170088</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Oct192021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Sorg, Meg</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Meg</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Meg Sorg</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Sorg</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Meg Sorg</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/170088/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Parents &amp; parenting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Families &amp; family life</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hands</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Halloween</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Immunization</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="100">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases (NIAID), said that kids can indeed still enjoy a safe, fun Halloween.
+
+Mask up Children under 12 are not yet eligible to receive a COVID-19 vaccination, which means the majority of kids going door to door are still at an increased risk for contracting the virus.
+
+Because COVID-19 spreads through respiratory transmission, masking remains an effective way to reduce the spread of infection for kids age 2 and older.
+
+Unfortunately, Halloween costume masks are not a substitute for masks designed to limit the spread of viral particles.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="586" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The air is getting chillier, pumpkins are perched on porches and kids across the country are planning their spooky costumes. As a professor of pediatric nursing and a mom to four young children, I know the excitement and anxiety that pandemic holidays bring to children and parents alike.&lt;/p&gt;
+&lt;p&gt;Halloween 2020 brought creative ways to trick or treat while minimizing the spread of infection (candy catapult, anyone?). But scientists have since determined that the risk of transmission of COVID-19 via candy wrappers is low.&lt;/p&gt;
+&lt;p&gt;Still, the extremely contagious delta variant of the coronavirus continues to show moderate-to-high rates of infection in many areas of the country, and it continues to sicken children and teens at a higher rate than the dominant strain that devastated the world in 2020. Parents may be wondering if participating in Halloween fun and games is safe, or if they would be better off staying home this year.&lt;/p&gt;
+&lt;p&gt;Dr. Anthony Fauci, director of the National Institute of Allergy and Infectious Diseases (NIAID), said that kids can indeed still enjoy a safe, fun Halloween. But here are a few simple precautions that trick-or-treaters can take.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. Mask up&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Children under 12 are not yet eligible to receive a COVID-19 vaccination, which means the majority of kids going door to door are still at an increased risk for contracting the virus.&lt;/p&gt;
+&lt;p&gt;Because COVID-19 spreads through respiratory transmission, masking remains an effective way to reduce the spread of infection for kids age 2 and older. Unfortunately, Halloween costume masks are not a substitute for masks designed to limit the spread of viral particles. Parents can get creative about making a face mask part of a child’s costume. Or, kids can wear a face mask under their costume mask. Parents should make sure their child is able to breathe comfortably if choosing this option.&lt;/p&gt;
+&lt;p&gt;Children and parents, regardless of vaccination status, should wear a mask when attending indoor parties or when going door to door due to the close interactions with other people. Those giving out candy should also wear a face mask.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. Keep hands clean&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Washing hands and using hand sanitizer remains a priority. Even though the likelihood of spreading COVID-19 via candy wrappers is relatively low, that risk decreases even further when proper hand hygiene is practiced prior to passing out candy.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get The Conversation’s most important coronavirus headlines, weekly in a science newsletter&lt;/i&gt;]&lt;/p&gt;
+&lt;p&gt;Kids should wash their hands before they eat their candy in case they picked up any germs while out and about. The candy wrappers themselves are not considered contagious, so there’s no need to quarantine the candy before eating it.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. Celebrate outside&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Other ways families can celebrate while maintaining a low risk status are to keep gatherings and activities outside, where people are less likely to contract the virus, and to keep groups small.&lt;/p&gt;
+&lt;p&gt;Kids who are demonstrating signs of illness should be kept home to rest and avoid exposing others to their germs. Those 12 years old and older should get the COVID-19 vaccination to protect against serious infection.&lt;/p&gt;
+&lt;p&gt;It feels nice to be staring at the beginning of the 2021 holiday season with some semblance of normalcy. While the risk of COVID-19 isn’t entirely in the past, families should enjoy trick-or-treating while taking reasonable precautions.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Meg Sorg does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Meg Sorg, Clinical Assistant Professor of Nursing, Purdue University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 19, 2021</AlphaDate>
+         <StartDate>2021-10-19</StartDate>
+         <EndDate>2021-10-19</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Oct192021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

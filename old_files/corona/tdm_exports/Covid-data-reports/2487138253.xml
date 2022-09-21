@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487138253</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Older people like President Trump are at more risk from COVID-19 because of how the immune system ages</Title>
+      </TitleAtt>
+      <NumericDate>2020-10-02</NumericDate>
+      <StartDate>2020-10-02</StartDate>
+      <EndDate>2020-10-02</EndDate>
+      <AlphaDate>Oct 2, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVIL_20201002_147391</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVIL_20201002_147391</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977982_Oct22020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Geiss, Brian</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Brian</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Brian Geiss</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Geiss</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Brian Geiss</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/147391/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Viruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Older people</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Viral infections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Immune system</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Pathogens</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>White blood cells</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Trump, Donald J</Personal>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="108">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Before you're even born, your body starts producing specialized B-cells and T-cells - types of white blood cells that can recognize pathogens and help block their growth.
+
+Older immune systems are weaker When a pathogen invades, the difference between illness and health is a race between how fast the pathogen can spread within you and how fast your immune response can react without causing too much collateral damage.
+
+[...]there's still the possibility for virus to contaminate surfaces that infected people have touched or coughed on.
+
+[...]the best way to protect vulnerable older and immunocompromised people is to stay away from them until there is no longer a risk.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="942" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;President Donald Trump's announcement that he's tested positive for COVID-19 is especially concerning because of his age. At 74 years old, Trump is solidly within an age group that's been hit hard during the coronavirus pandemic.&lt;/p&gt;
+&lt;p&gt;People of all ages can get sick from SARS-CoV-2, the virus that causes COVID-19. But the severity of the illness tends to worsen the older the patient is. Through the end of September, 79% of COVID-19 deaths in the United States had been in patients over 65. These statistics are broadly similarin countries around the world.&lt;/p&gt;
+&lt;p&gt;What is it that puts older people at increased risk from viruses like SARS-CoV-2? Scientists think it's primarily due to changes in the human immune system as we age.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Your body's tools to fight off virus infections &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;As you go about your life, your body is constantly bombarded by pathogens - the bacteria, fungi and viruses that can make you sick. A human body is a great place for these organisms to grow and thrive, providing a nice warm environment with plenty of nutrients.&lt;/p&gt;
+&lt;p&gt;That's where your immune system comes in. It's your body's defense system against these kinds of invaders. Before you're even born, your body starts producing specialized B-cells and T-cells - types of white blood cells that can recognize pathogens and help block their growth.&lt;/p&gt;
+&lt;p&gt;During an infection, your B-cells can proliferate and produce antibodies that grab onto pathogens and block their ability to spread within your body. T-cells work by recognizing infected cells and killing them. Together they make up what scientists call your "adaptive" immune system.&lt;/p&gt;
+&lt;p&gt;Maybe your physician has checked your white blood cell levels. That's a measurement of whether you have more B-cells and T-cells in your blood than usual, presumably because they're fighting infection.&lt;/p&gt;
+&lt;p&gt;When you're very young, you don't have a lot of these B- or T-cells. It can be a challenge for your body to control infection because it's simply not used to the job. As you mature, your adaptive immune system learns to recognize pathogens and handle these constant invasions, allowing you to fight off infection quickly and effectively.&lt;/p&gt;
+&lt;p&gt;While white blood cells are powerful people-protectors, they're not enough on their own. Luckily, your immune system has another layer, what's called your "innate" immune response. Every cell has its own little immune system that allows it to directly respond to pathogens quicker than it takes to mobilize the adaptive response.&lt;/p&gt;
+&lt;p&gt;The innate immune response is tuned to pounce on types of molecules that are commonly found on bacteria and viruses but not in human cells. When a cell detects these invader molecules, it triggers production of an antiviral interferon protein. Interferon triggers the infected cell to die, limiting infection.&lt;/p&gt;
+&lt;p&gt;Another type of innate immune cell, called a monocyte, acts as a sort of cellular bouncer, getting rid of any infected cells it finds and signaling the adaptive immune response to shift into gear.&lt;/p&gt;
+&lt;p&gt;The innate and adaptive immune systems can act together as a fine-tuned machine to detect and clear out pathogens.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Older immune systems are weaker &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;When a pathogen invades, the difference between illness and health is a race between how fast the pathogen can spread within you and how fast your immune response can react without causing too much collateral damage.&lt;/p&gt;
+&lt;p&gt;As people age, their innate and adaptive immune responses change, shifting this balance.&lt;/p&gt;
+&lt;p&gt;Monocytes from older individualsproduce less interferon in response to viral infections. They have a harder time killing infected cells and signaling the adaptive immune response to get going.&lt;/p&gt;
+&lt;p&gt;Low-grade chronic inflammation in individuals that commonly occurs during aging can also dull the ability of the innate and adaptive immune responses to react to pathogens. It's similar to becoming used to an annoying sound over time.&lt;/p&gt;
+&lt;p&gt;As you age, the reduced "attention span" of your innate and adaptive immune responses make it harder for the body to respond to viral infection, giving the virus the upper hand. Viruses can take advantage of your immune system's slow start and quickly overwhelm you, resulting in serious disease and death.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Social distancing is vital &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Everyone, no matter their age, needs to protect themselves from infection, not just to keep themselves healthy but also to help protect the most vulnerable. Given the difficulty older individuals have in controlling viral infection, the best option is for these individuals to avoid becoming infected by viruses in the first place.&lt;/p&gt;
+&lt;p&gt;This is where washing hands, avoiding touching your face, self-isolation and social distancing all become important, especially for COVID-19.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The mist ejected by a sneeze can launch viruses airborne, so other people can inhale them. James Gathany, CC BY&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;COVID-19 is caused by a respiratory virus, which can spread via tiny virus-containing droplets. Larger droplets fall to the ground quickly; very small droplets dry up. Mid-range droplets are of most concern because they can float in the air for a few feet before drying. These droplets can be inhaled into the lungs.&lt;/p&gt;
+&lt;p&gt;Keeping at least 6 feet away from other people helps significantly reduce your chance of being infected by these aerosol droplets. But there's still the possibility for virus to contaminate surfaces that infected people have touched or coughed on. Therefore, the best way to protect vulnerable older and immunocompromised people is to stay away from them until there is no longer a risk. By stopping the spread of SARS-CoV-2 throughout the whole population, we help protect those who have a harder time fighting infection.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;This article draws on material from an article originally published on March 19, 2020.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Brian Geiss receives funding from the National Institutes of Health.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Brian Geiss, Associate Professor of Microbiology, Immunology &amp;amp; Pathology, Colorado State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>The mist ejected by a sneeze can launch viruses airborne, so other people can inhale them. James Gathany, CC BY</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Science + Technology</Title>
+         <MpubId>4977982</MpubId>
+         <SortTitle>Conversation : Science + Technology The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVIL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977982</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464264.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Sciences: Comprehensive Works</Subject>
+            <Subject>Technology: Comprehensive Works</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Science + Technology</Title>
+            <SortTitle>Conversation : Science + Technology The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977982</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464264.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 2, 2020</AlphaDate>
+         <StartDate>2020-10-02</StartDate>
+         <EndDate>2020-10-02</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977982_Oct22020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

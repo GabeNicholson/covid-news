@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2626095452</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>5 strategies employers can use to address workplace mental health issues</Title>
+      </TitleAtt>
+      <NumericDate>2022-02-07</NumericDate>
+      <StartDate>2022-02-07</StartDate>
+      <EndDate>2022-02-07</EndDate>
+      <AlphaDate>Feb 7, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2022. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20220207_173818</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20220207_173818</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Feb72022______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Haynes, Patricia L</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Patricia</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Patricia L Haynes</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Haynes</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>L</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Patricia L. Haynes</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/173818/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of Arizona</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Behavior</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Sleep</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Stress</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Occupational health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mental health care</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employees</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Society</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Mental disorders</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Stigma</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Health promotion</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Wellness programs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="105">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]many of these workers – especially those like nurses, doctors and teachers – are reporting elevated levels of anxiety, depression and sleeping problems.
+
+Workplace wellness programs help prevent mental health problems by teaching employees new skills that support resiliency, which can act as a buffer from the negative effects of stress.
+
+Another way to do that is to train dedicated employees to assist colleagues in need and become advocates for mental health and wellness services.
+
+Since some workers may feel more comfortable reaching out to a colleague than a mental health provider, these internal advocates can provide a bridge between employees and mental health care.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1172" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;COVID-19 has inflicted a serious mental health toll on many U.S. workers.&lt;/p&gt;
+&lt;p&gt;Like other Americans, workers have lost loved ones, connections to friends and family, and the comforts of their daily social rhythms. The pandemic has also imposed a unique set of stresses on workers, including the risks of losing their job, rapid adjustments to working from home and additional workloads. And workers on the front line must face an increased risk of infection and increasingly aggressive customer interactions.&lt;/p&gt;
+&lt;p&gt;As a result, many of these workers – especially those like nurses, doctors and teachers – are reporting elevated levels of anxiety, depression and sleeping problems. Americans are also drinking a lot more alcohol and overeating, and engaging in less physical activity. One-third of them have gained weight since the start of the pandemic.&lt;/p&gt;
+&lt;p&gt;I research the negative effects of stress on health and sleep. I also see many of these issues firsthand in my work as a clinical psychologist treating local firefighters for stress and other issues they encounter on the job and in their lives.&lt;/p&gt;
+&lt;p&gt;I’ve learned workers are better able to navigate mental health issues when their employers have a plan in place. Based on my own work as well as other research, I believe there are five key strategies that companies could adopt.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. Creating clear policies&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;With the increased stress levels brought on by the pandemic, managers may see more employees experiencing personal crises or disruptive behavior that is affecting their work performance.&lt;/p&gt;
+&lt;p&gt;Psychological distress can lead to disruptive behavior, such as yelling at colleagues or throwing objects in anger. At the other extreme, employees may isolate themselves or avoid collaborations. Some workers may express suicidal thoughts over social media or by other means.&lt;/p&gt;
+&lt;p&gt;Managers may be at a loss for how to address these types of disruptive behavior, which is often unintentional.&lt;/p&gt;
+&lt;p&gt;A good first step for a company is to craft a clear workplace policy that describes the specific types of disruptive behaviors that signal an individual is not currently capable of performing their job. This policy can discuss the process of temporary release, evaluation and treatment requirements, and conditions for a return to work. A policy like this provides clarity to both employees and managers.&lt;/p&gt;
+&lt;p&gt;For example, suicidal or violent thoughts might necessitate immediate intervention followed by a referral to an occupational health provider. The provider can ensure that the employee completes the required treatment plan prior to returning to work. Workers experiencing grief from a recent loss or flare-up of a mental health disorder might benefit from paid family medical leave or a temporary job reassignment.&lt;/p&gt;
+&lt;p&gt;It should be noted that under the American with Disabilities Act, employers are required to make reasonable accommodation for mental health disorders unless it results in undue hardship for the company.&lt;/p&gt;
+&lt;p&gt;The main thing is that managers need policies and procedures on how to respond to behavioral issues, with specific measures that correspond to the severity of a problem and its effects on colleagues and overall workplace performance.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. Partnering with mental health providers&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Many workers suffering as a result of the pandemic may not be exhibiting clear mental health problems. Rather, they could be experiencing a disruption in their personal lives that is bleeding into their work.&lt;/p&gt;
+&lt;p&gt;An example of this might be an employee who spends a significant amount of time at work talking about a marital conflict that occurred during home quarantine, thus interfering with workplace productivity.&lt;/p&gt;
+&lt;p&gt;In this case, a key mitigation strategy by a manager or colleague would be to refer that employee to a mental health provider or other supportive resource for help. In these cases, it’s useful to have an established partnership with a local provider and for employers to become familiar with the resources that are available.&lt;/p&gt;
+&lt;p&gt;Over half of civilian workers have access to an employee assistance program, which provides free, confidential counseling to employees. Some larger companies may have their own in-house programs that provide direct access to mental health providers. But even smaller companies can set up partnerships that give workers access to counseling on an ad hoc basis.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. Preventing illness with wellness programs&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Workplaces can also take a more proactive stance.&lt;/p&gt;
+&lt;p&gt;Workplace wellness programs help prevent mental health problems by teaching employees new skills that support resiliency, which can act as a buffer from the negative effects of stress.&lt;/p&gt;
+&lt;p&gt;Workplace wellness programs for mental health typically teach stress management skills. Programs that promote positive emotions may also improve productivity.&lt;/p&gt;
+&lt;p&gt;While these programs can have a meaningful, positive impact on health, employee participation is often limited. To increase participation, it is very important to include workers in decisions about which programs to adopt.&lt;/p&gt;
+&lt;p&gt;Participation also improves when managers support the program, which typically requires managerial training on the program and how to promote it among workers.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. Fighting mental health stigma by changing norms&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;People experiencing mental illness or just mental health struggles often face substantial stigma. They might avoid treatment because they are concerned about losing their job or being viewed differently.&lt;/p&gt;
+&lt;p&gt;Employers can tackle stigma at the structural level by thinking and talking about mental health concerns the same way they deal with physical ones and also by increasing mental health literacy within their company.&lt;/p&gt;
+&lt;p&gt;Another way to do that is to train dedicated employees to assist colleagues in need and become advocates for mental health and wellness services. Since some workers may feel more comfortable reaching out to a colleague than a mental health provider, these internal advocates can provide a bridge between employees and mental health care.&lt;/p&gt;
+&lt;p&gt;Companies can also develop programs in which workers can hear people with mental illness describe their own challenges and how they overcame them. Research shows creating these social contacts can reduce stigma, at least in the short term.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;5. Nurturing social support through teamwork&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Finally, a large body of research demonstrates that social support buffers the impact of stress.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Over 140,000 readers rely on The Conversation’s newsletters to understand the world.&lt;/i&gt; Sign up today.]&lt;/p&gt;
+&lt;p&gt;Social connections to the people around you can inspire what psychologists call “collective efficacy,” or a shared belief in a group’s ability to work together and overcome challenges to accomplish goals. Collective efficacy improves group performance and is also a key ingredient in trauma recovery.&lt;/p&gt;
+&lt;p&gt;The COVID-19 pandemic has fueled what some describe as a mental health crisis. Employers are in a strong position to help curb it.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Patricia L. Haynes has received research funding from the National Institutes of Health, the Department of Defense, the Institute for Mental Health Research, the American Sleep Medicine Foundation, and the University of Arizona Canyon Ranch Center for Health Promotion and Treatment. Through her University of Arizona appointment, she engages in a professional services agreement with the City of Tucson to provide clinical services to employees. She is a member of the American Psychological Assocation, Sleep Research Society, Society for Behavioral Medicine, Society for Behavioral Sleep Medicine, and Society for Occupational Health Psychology.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Patricia L. Haynes, Associate Professor of Health Promotion Sciences, University of Arizona&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 7, 2022</AlphaDate>
+         <StartDate>2022-02-07</StartDate>
+         <EndDate>2022-02-07</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Feb72022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

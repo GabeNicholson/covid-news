@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2588102149</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>How to help kids with 'long COVID' thrive in school</Title>
+      </TitleAtt>
+      <NumericDate>2021-10-29</NumericDate>
+      <StartDate>2021-10-29</StartDate>
+      <EndDate>2021-10-29</EndDate>
+      <AlphaDate>Oct 29, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20211029_169076</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20211029_169076</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Oct292021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Davies, Susan</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Susan</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Susan Davies</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Davies</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Susan Davies</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Walsh-Messinger, Julie</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Julie</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Julie Walsh-Messinger</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Walsh-Messinger</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Julie Walsh-Messinger</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/169076/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>University of Dayton</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Collaboration</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Children &amp; youth</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Schools</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Brain research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Concussion</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Extracurricular activities</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="79">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The wide-ranging estimates likely reflect differences in how study participants were recruited, how long after having acute COVID-19 they participated in the study, the symptoms researchers assessed and other methodological differences.
+
+Reduce physical activity and minimize exposure to overstimulating environments to prevent fatigue and headaches. 3.
+
+The symptoms, recovery rate and trajectory will vary for each student.
+
+[...]a gradual and monitored return to activity is important to help ensure that symptoms don’t worsen when students engage in more activity.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="743" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Children who get COVID-19 typically recover quickly and will not require special support upon return to school. However, some people who contract the disease experience persistent symptoms and post-viral complications. These complications can include fatigue, shortness of breath, brain fog, changes in taste and smell, and headaches. This post-viral syndrome is called long-haul COVID-19, more commonly referred to as “long COVID” in the medical community.&lt;/p&gt;
+&lt;p&gt;Children who experience long COVID will need support at school. Some symptoms – such as fatigue, brain fog and memory impairment – are similar to those experienced after a concussion. But because these symptoms are challenging to identify or to track, it can be difficult for teachers to know how to help.&lt;/p&gt;
+&lt;p&gt;We are researchers who study how schools manage concussions and the prevalence of long COVID and associated mental health outcomes. We believe strategies that schools use to support students with concussions may also help those with prolonged COVID-19 symptoms.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Kids and long COVID&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Not all physical symptoms experienced after COVID-19 illness indicate long COVID. When symptoms do last more than a few weeks, a thorough medical evaluation by a pediatrician with knowledge of long COVID is recommended. Pediatric post-COVID clinics are an excellent way to find such doctors. However, at this time, these clinics aren’t widespread in the United States.&lt;/p&gt;
+&lt;p&gt;Post-COVID complications have been reported frequently by adults. However, research on long COVID in children is scarce, with estimates of persistent symptoms varying widely. The wide-ranging estimates likely reflect differences in how study participants were recruited, how long after having acute COVID-19 they participated in the study, the symptoms researchers assessed and other methodological differences.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;School accommodations&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Students who continue to experience symptoms after they’ve tested negative and been cleared to return to school should notify the school of persistent issues. Even if the child is not officially diagnosed with long COVID, a gradual return to school and activities, as well as academic and environmental accommodations, can support children during recovery.&lt;/p&gt;
+&lt;p&gt;We recommend that parents, teachers and doctors work together to support the child’s recovery. This is what’s called collaborative care. It is helpful if a school-based professional – such as a school nurse, counselor or psychologist – serves as a central communicator. This involves sharing accommodations with teachers, talking with doctors (with a signed release) and communicating progress back to the family.&lt;/p&gt;
+&lt;p&gt;Together, these collaborative care teams can establish temporary accommodations for the affected student, such as:&lt;/p&gt;
+&lt;p&gt;1.&lt;/p&gt;
+&lt;p&gt;Allow a flexible attendance schedule with rest breaks to minimize fatigue.&lt;/p&gt;
+&lt;p&gt;2.&lt;/p&gt;
+&lt;p&gt;Reduce physical activity and minimize exposure to overstimulating environments to prevent fatigue and headaches.&lt;/p&gt;
+&lt;p&gt;3.&lt;/p&gt;
+&lt;p&gt;Modify the workload. This might include, for example, removing high-stakes projects and nonessential work, providing alternate assignments and allowing the student to drop classes without penalty. Base grades on adjusted work so the child is not penalized for memory problems.&lt;/p&gt;
+&lt;p&gt;4.&lt;/p&gt;
+&lt;p&gt;Provide extra time to complete assignments and tests so a child with brain fog can process information.&lt;/p&gt;
+&lt;p&gt;5.&lt;/p&gt;
+&lt;p&gt;Develop an emotional support plan for the student to prevent anxiety and depression. This might include identifying an adult at school to talk with if the child feels overwhelmed, or providing a support group for students to discuss their experiences and recovery.&lt;/p&gt;
+&lt;p&gt;6.&lt;/p&gt;
+&lt;p&gt;Encourage the student to explore alternative extracurricular activities that are nonphysical and not cognitively taxing.&lt;/p&gt;
+&lt;p&gt;We recommend that schools front-load adjustments for a student with long COVID and gradually withdraw them as the student recovers. The symptoms, recovery rate and trajectory will vary for each student. Therefore, a gradual and monitored return to activity is important to help ensure that symptoms don’t worsen when students engage in more activity. If symptoms do get worse, then accommodations should resume.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;An evolving illness&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;We have much to learn about the long-term effects of COVID-19 and the prognosis for those who develop long COVID. These guidelines are based on what is known at this time and should be considered preliminary.&lt;/p&gt;
+&lt;p&gt;As COVID rates and treatments evolve, it is important for parents, educators and medical providers to continue talking with one another about persistent symptoms and effective treatments.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Research into coronavirus and other news from science&lt;/i&gt; Subscribe to The Conversation’s new science newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Susan Davies, Professor, School Psychology, University of Dayton&lt;/p&gt;&lt;p&gt;Julie Walsh-Messinger, Associate Professor of Psychology, University of Dayton&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 29, 2021</AlphaDate>
+         <StartDate>2021-10-29</StartDate>
+         <EndDate>2021-10-29</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Oct292021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

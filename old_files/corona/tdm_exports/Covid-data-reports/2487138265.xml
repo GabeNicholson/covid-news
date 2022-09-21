@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487138265</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Disinformation campaigns are murky blends of truth, lies and sincere beliefs - lessons from the pandemic</Title>
+      </TitleAtt>
+      <NumericDate>2020-07-23</NumericDate>
+      <StartDate>2020-07-23</StartDate>
+      <EndDate>2020-07-23</EndDate>
+      <AlphaDate>Jul 23, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVIL_20200723_140677</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVIL_20200723_140677</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977982_Jul232020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Starbird, Kate</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Kate</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Kate Starbird</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Starbird</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Kate Starbird</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/140677/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Wireless communications</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political activism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Verbal communication</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Narratives</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Gossip</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Wildfires</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>False information</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Conspiracy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Presidential elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="TRD">
+            <GenSubjValue>Digital media</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="93">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;In this environment, false narratives - the virus was "planned," that it originated as a bioweapon, that COVID-19 symptoms are caused by 5G wireless communications technology - have spread like wildfire across social media and other communication platforms.
+
+[...]this challenge is not getting any easier as efforts to understand and respond to COVID-19 get caught up in the political machinations of this year's presidential election.
+
+What's ahead In the United States, as COVID-19 blurs into the presidential election, we're likely to continue to see disinformation campaigns employed for political, financial and reputational gain.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1281" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The COVID-19 pandemic has spawned an infodemic, a vast and complicated mix of information, misinformation and disinformation.&lt;/p&gt;
+&lt;p&gt;In this environment, false narratives - the virus was "planned," that it originated as a bioweapon, that COVID-19 symptoms are caused by 5G wireless communications technology - have spread like wildfire across social media and other communication platforms. Some of these bogus narratives play a role in disinformation campaigns.&lt;/p&gt;
+&lt;p&gt;The notion of disinformation often brings to mind easy-to-spot propaganda peddled by totalitarian states, but the reality is much more complex. Though disinformation does serve an agenda, it is often camouflaged in facts and advanced by innocent and often well-meaning individuals.&lt;/p&gt;
+&lt;p&gt;As a researcher who studies how communications technologies are used during crises, I've found that this mix of information types makes it difficult for people, including those who build and run online platforms, to distinguish an organic rumor from an organized disinformation campaign. And this challenge is not getting any easier as efforts to understand and respond to COVID-19 get caught up in the political machinations of this year's presidential election.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Rumors, misinformation and disinformation &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Rumors are, and have always been, common during crisis events. Crises are often accompanied by uncertainty about the event and anxiety about its impacts and how people should respond. People naturally want to resolve that uncertainty and anxiety, and often attempt to do so through collective sensemaking. It's a process of coming together to gather information and theorize about the unfolding event. Rumors are a natural byproduct.&lt;/p&gt;
+&lt;p&gt;Rumors aren't necessarily bad. But the same conditions that produce rumors also make people vulnerable to disinformation, which is more insidious. Unlike rumors and misinformation, which may or may not be intentional, disinformation is false or misleading information spread for a particular objective, often a political or financial aim.&lt;/p&gt;
+&lt;p&gt;Disinformation has its roots in the practice of dezinformatsiya used by the Soviet Union's intelligence agencies to attempt to change how people understood and interpreted events in the world. It's useful to think of disinformation not as a single piece of information or even a single narrative, but as a campaign, a set of actions and narratives produced and spread to deceive for political purpose.&lt;/p&gt;
+&lt;p&gt;Lawrence Martin-Bittman, a former Soviet intelligence officer who defected from what was then Czechoslovakia and later became a professor of disinformation, described how effective disinformation campaigns are often built around a true or plausible core. They exploit existing biases, divisions and inconsistencies in a targeted group or society. And they often employ "unwitting agents" to spread their content and advance their objectives.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Black Lake in the Czech Republic was the site of a Soviet-era disinformation campaign against West Germany involving real Nazi documents and a duped Czech television crew. Ladislav Boháč/Flickr, CC BY-SA&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Regardless of the perpetrator, disinformation functions on multiple levels and scales. While a single disinformation campaign may have a specific objective - for instance, changing public opinion about a political candidate or policy - pervasive disinformation works at a more profound level to undermine democratic societies.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The case of the ‘Plandemic' video &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Distinguishing between unintentional misinformation and intentional disinformation is a critical challenge. Intent is often hard to infer, especially in online spaces where the original source of information can be obscured. In addition, disinformation can be spread by people who believe it to be true. And unintentional misinformation can be strategically amplified as part of a disinformation campaign. Definitions and distinctions get messy, fast.&lt;/p&gt;
+&lt;p&gt;Consider the case of the "Plandemic" video that blazed across social media platforms in May 2020. The video contained a range of false claims and conspiracy theories about COVID-19. Problematically, it advocated against wearing masks, claiming they would "activate" the virus, and laid the foundations for eventual refusal of a COVID-19 vaccine.&lt;/p&gt;
+&lt;p&gt;Though many of these false narratives had emerged elsewhere online, the "Plandemic" video brought them together in a single, slickly produced 26-minute video. Before being removed by the platforms for containing harmful medical misinformation, the video propagated widely on Facebook and received millions of YouTube views.&lt;/p&gt;
+&lt;p&gt;As it spread, it was actively promoted and amplified by public groups on Facebook and networked communities on Twitter associated with the anti-vaccine movement, the QAnon conspiracy theory community and pro-Trump political activism.&lt;/p&gt;
+&lt;p&gt;But was this a case of misinformation or disinformation? The answer lies in understanding how - and inferring a little about why - the video went viral.&lt;/p&gt;
+&lt;p&gt;The video's protagonist was Dr. Judy Mikovits, a discredited scientist who had previously advocated for several false theories in the medical domain - for example, claiming that vaccines cause autism. In the lead-up to the video's release, she was promoting a new book, which featured many of the narratives that appeared in the Plandemic video.&lt;/p&gt;
+&lt;p&gt;One of those narratives was an accusation against Dr. Anthony Fauci, director of the National Institute for Allergy and Infectious Diseases. At the time, Fauci was a focus of criticism for promoting social distancing measures that some conservatives viewed as harmful to the economy. Public comments from Mikovits and her associates suggest that damaging Fauci's reputation was a specific goal of their campaign.&lt;/p&gt;
+&lt;p&gt;In the weeks leading up to the release of the Plandemic video, a concerted effort to lift Mikovits' profile took shape across several social media platforms. A new Twitter account was started in her name, quickly accumulating thousands of followers. She appeared in interviews with hyperpartisan news outlets such as The Epoch Times and True Pundit. Back on Twitter, Mikovits greeted her new followers with the message: "Soon, Dr Fauci, everyone will know who you ‘really are'."&lt;/p&gt;
+&lt;p&gt;This background suggests that Mikovits and her collaborators had several objectives beyond simply sharing her misinformed theories about COVID-19. These include financial, political and reputational motives. However, it is also possible that Mikovits is a sincere believer of the information that she was sharing, as were millions of people who shared and retweeted her content online.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What's ahead &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In the United States, as COVID-19 blurs into the presidential election, we're likely to continue to see disinformation campaigns employed for political, financial and reputational gain. Domestic activist groups will use these techniques to produce and spread false and misleading narratives about the disease - and about the election. Foreign agents will attempt to join the conversation, often by infiltrating existing groups and attempting to steer them towards their goals.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;For example, there will likely be attempts to use the threat of COVID-19 to frighten people away from the polls. Along with those direct attacks on election integrity, there are likely to also be indirect effects - on people's perceptions of election integrity - from both sincere activists and agents of disinformation campaigns.&lt;/p&gt;
+&lt;p&gt;Efforts to shape attitudes and policies around voting are already in motion. These include work to draw attention to voter suppression and attempts to frame mail-in voting as vulnerable to fraud. Some of this rhetoric stems from sincere criticism meant to inspire action to make the electoral systems stronger. Other narratives, for example unsupported claims of "voter fraud," seem to serve the primary aim of undermining trust in those systems.&lt;/p&gt;
+&lt;p&gt;History teaches that this blending of activism and active measures, of foreign and domestic actors, and of witting and unwitting agents, is nothing new. And certainly the difficulty of distinguishing between these is not made any easier in the connected era. But better understanding these intersections can help researchers, journalists, communications platform designers, policymakers and society at large develop strategies for mitigating the impacts of disinformation during this challenging moment.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Kate Starbird receives funding from the National Science Foundation, the Knight Foundation, and the Hewlett Foundation.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Kate Starbird, Associate Professor of Human Centered Design &amp;amp; Engineering, University of Washington&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>Black Lake in the Czech Republic was the site of a Soviet-era disinformation campaign against West Germany involving real Nazi documents and a duped Czech television crew. Ladislav Boháč/Flickr, CC BY-SA</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Science + Technology</Title>
+         <MpubId>4977982</MpubId>
+         <SortTitle>Conversation : Science + Technology The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVIL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977982</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464264.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Sciences: Comprehensive Works</Subject>
+            <Subject>Technology: Comprehensive Works</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Science + Technology</Title>
+            <SortTitle>Conversation : Science + Technology The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977982</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464264.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jul 23, 2020</AlphaDate>
+         <StartDate>2020-07-23</StartDate>
+         <EndDate>2020-07-23</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977982_Jul232020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

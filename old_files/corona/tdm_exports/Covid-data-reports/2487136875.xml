@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487136875</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Getting COVID-19 vaccines to rural Americans is harder than it looks - but there are ways to lift the barriers</Title>
+      </TitleAtt>
+      <NumericDate>2020-12-28</NumericDate>
+      <StartDate>2020-12-28</StartDate>
+      <EndDate>2020-12-28</EndDate>
+      <AlphaDate>Dec 28, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVHL_20201228_152377</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVHL_20201228_152377</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977983_Dec282020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Doughty, Bennett</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Bennett</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Bennett Doughty</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Doughty</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Bennett Doughty</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <DisplayForm>Pamela Stewart Fahs</DisplayForm>
+               <OriginalFormAtt>
+                  <OriginalForm>Pamela Stewart Fahs</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/152377/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>State University of New York at Binghamton</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>State University of New York</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>611310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Pfizer Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>325412</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>339113</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rural health care</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pharmacy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Drug stores</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rural areas</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Urban areas</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Immunization</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="71">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The current vaccines' cold storage requirements and shipping rules mean many rural hospitals can't serve as vaccination distribution hubs.
+
+[...]the vaccine distribution efforts will favor hubs that cater to more populated areas to avoid wasting any vaccine or leaving patients unable to get their second dose.
+
+Allowing community pharmacies to offer the vaccine - particularly if independent pharmacies are included - could eventually help expand the distribution network in rural areas.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1026" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The enormous job of vaccinating the nation is underway, but for rural Americans, getting a COVID-19 vaccine becomes harder the farther they are from urban centers.&lt;/p&gt;
+&lt;p&gt;The current vaccines' cold storage requirements and shipping rules mean many rural hospitals can't serve as vaccination distribution hubs. That can leave rural residents - about 20% of the U.S. population in all - traveling long distances, if they're able to travel at all.&lt;/p&gt;
+&lt;p&gt;Getting the word to rural residents about when they can be vaccinated isn't easy either, and the extraordinary amount of misinformation downplaying the risk of the coronavirus this past year has had an impact on rural residents' willingness to get the vaccine.&lt;/p&gt;
+&lt;p&gt;We work in ruralhealth care settings and have been examining the barriers to health care for these patients to find ways to ensure health and safety.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The problem with big batches and cold storage &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The first two authorized vaccines - one made by Pfizer and BioNTech and the other by Moderna - are mRNA vaccines. It's a new type of vaccine that uses the molecular instructions for building virus proteins rather than injecting parts of the weakened virus itself. Both must be kept in very cold temperatures.&lt;/p&gt;
+&lt;p&gt;To ensure stability, the vaccine doses are shipped in special containers with dry ice, and for now, vaccines are being delivered only in large batches. The Pfizer vaccine is shipped in increments of 975 doses at a time, which creates a challenge for small hospitals.&lt;/p&gt;
+&lt;p&gt;Urban areas will be able to quickly distribute those doses, but finding enough patients to vaccinate quickly in rural areas may prove more difficult.&lt;/p&gt;
+&lt;p&gt;Moderna's vaccine is somewhat more manageable, with a minimum order of 100 doses.&lt;/p&gt;
+&lt;p&gt;Both vaccines also require two doses per person, with the second dose of Pfizer's vaccine given 21 days later and Moderna's 28 days.&lt;/p&gt;
+&lt;p&gt;As a result, the vaccine distribution efforts will favor hubs that cater to more populated areas to avoid wasting any vaccine or leaving patients unable to get their second dose.&lt;/p&gt;
+&lt;p&gt;Cold storage is another challenge, since small hospitals are less likely to have expensive freezers. The Pfizer vaccine must be stored at minus 94 degrees Fahrenheit (minus 70 Celsius) and Moderna's at minus 4 Fahrenheit. There are limits on how many times the vaccine shipping containers can be opened and how quickly the vaccines must be distributed. Once thawed and prepared, the Pfizer vaccine must be used within five days and Moderna's within 30 days.&lt;/p&gt;
+&lt;p&gt;Each patient must receive both doses of the vaccine from the same manufacturer to ensure safety and effectiveness, adding to the challenge. Manufacturers have included personal dosing cards for patients to carry with them to help address this challenge.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Rural America's take on COVID-19 and vaccines &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Rural America already has difficult barriers to health care access.&lt;/p&gt;
+&lt;p&gt;It has fewer health care providers serving a more geographically diverse population than in metropolitan communities. And in many of these areas, rural hospitals have been closing at an alarming rate, leaving people to travel farther for care. The population is also older. Public transportation that could help poor or elderly residents reach hospitals is rare, and distance and geography, such as mountain roads, can mean driving to those sites takes time.&lt;/p&gt;
+&lt;p&gt;Getting accurate information about the vaccine and how to receive it into rural areas has also proved difficult. Many rural counties still have limited access to broadband internet connections, smartphone service and other technologies. That often means residents rely on television, newspapers and radio for news, which can limit the depth and scope of information.&lt;/p&gt;
+&lt;p&gt;While some rural counties have started getting the word out, many don't not seem to have specific plans on how to inform their residents about how and when each person can get the vaccine, let alone specific plans for actually giving it. They often rely just on local press releases that many residents never see.&lt;/p&gt;
+&lt;p&gt;Rural nonprofit health care organizations have tried to bridge that gap and improve rural communications about vaccines and the pandemic. Care Compass Network, which coordinates organizations across southern New York, has offered educational webinars with the latest information about the virus and the vaccines, for example. But there is still much work to do.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get facts about coronavirus and the latest research.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;Rural Americans' views on vaccines are influenced by media and word of mouth, politics and religion, as well as previous experience with vaccinations and, perhaps most importantly, the difficulty of accessing health care.&lt;/p&gt;
+&lt;p&gt;In a survey conducted by the Kaiser Family Foundation in December, about 35% of rural Americans said they probably or definitely would not get the vaccine, higher than the 27% nationwide.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Small batches, new vaccines and pharmacies &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Getting enough of the U.S. vaccinated to eventually end the pandemic will require more work in all of these areas. That includes improving shipping and storage processes so orders can be broken up and distributed to smaller hospitals, distributing more vaccine doses, and improving communication.&lt;/p&gt;
+&lt;p&gt;With Moderna's vaccine arriving in smaller batches and not requiring such low temperatures for stability, it may prove to be more accessible for rural areas in the near future. Utah has already taken advantage of those characteristics to get initial doses to smaller hospitals outside its urban areas and has started vaccinating health care providers. Pfizer has said it may be able to offer smaller batches by April.&lt;/p&gt;
+&lt;p&gt;Other vaccines on the horizon are also expected to have less stringent storage requirements and may potentially be delivered in a one-shot method rather than a two-dose series. The falling number of rural hospitals still remains a challenge for getting vaccines to patients, though. Allowing community pharmacies to offer the vaccine - particularly if independent pharmacies are included - could eventually help expand the distribution network in rural areas.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Bennett Doughty, Clinical Assistant Professor, Pharmacy Practice, Binghamton University, State University of New York&lt;/p&gt;&lt;p&gt;Pamela Stewart Fahs, Professor of Rural Nursing, Binghamton University, State University of New York&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Health</Title>
+         <MpubId>4977983</MpubId>
+         <SortTitle>Conversation : Health The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVHL</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977983</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464271.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Public Health And Safety</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Health</Title>
+            <SortTitle>Conversation : Health The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977983</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464271.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 28, 2020</AlphaDate>
+         <StartDate>2020-12-28</StartDate>
+         <EndDate>2020-12-28</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977983_Dec282020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

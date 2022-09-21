@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2476744432</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>White nationalists emboldened by Trump loom as a difficult challenge</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-12</NumericDate>
+      <StartDate>2021-01-12</StartDate>
+      <EndDate>2021-01-12</EndDate>
+      <AlphaDate>Jan 12, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Jan 12, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.11</StartPage>
+         <DocSection>A-Section</DocSection>
+         <DocEdition>RegionalgionalE</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Jan122021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20210112WhitenationalistsemboldenedbyTrumploomas8a060538</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1670</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Zapotosky, Matt</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Matt</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Matt Zapotosky</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Zapotosky</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Matt Zapotosky</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Department of Homeland Security</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>922120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Congress</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Federal Bureau of Investigation--FBI</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>922120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Extremism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Violence</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rule of law</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Nominations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>International organizations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hate crimes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>National security</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Civil rights</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Social networks</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>White supremacy</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1241" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Administration will face pressure to do more &lt;/p&gt;
+&lt;p&gt;to fight hate crimes&lt;/p&gt;
+&lt;p&gt;When Joe Biden formally announced his entry into the presidential race in 2019, he said he was moved to do so while watching President Trump talk about a white nationalist rally that turned violent in Charlottesville. A woman protesting the racist demonstrators had been killed in the mayhem, but rather than condemning the white nationalists, Trump said there were "very fine people on both sides."&lt;/p&gt;
+&lt;p&gt;"With those words, the president of the United States assigned a moral equivalence between those spreading hate and those with the courage to stand against it," Biden said. "And at that moment, I knew the threat to this nation was unlike any I had ever seen in my lifetime."&lt;/p&gt;
+&lt;p&gt;As Biden enters the White House, he will now have to address that threat himself, as hate crimes are on the rise and analysts say white supremacists and other domestic extremists have been emboldened by Trump. The acute challenge he will face was crystallized on Wednesday, when a mob of Trump supporters stormed the Capitol.&lt;/p&gt;
+&lt;p&gt;"I wish we could say we couldn't see it coming," Biden said Thursday. "But that isn't true. We could see it coming. The past four years, we've had a president who's made his contempt for our democracy, our Constitution, the rule of law clear in everything he has done."&lt;/p&gt;
+&lt;p&gt;Analysts say a change in presidential rhetoric will help, and the FBI and the Department of Homeland Security have been able to take some steps to try to tamp down on domestic extremism, sometimes in spite of Trump. Biden will face pressure to do even more.&lt;/p&gt;
+&lt;p&gt;Federal appellate judge Merrick Garland, whom Biden has nominated as his attorney general, has a background in prosecuting domestic terrorism cases. He oversaw the prosecution of the 1995 bombing of the federal building in Oklahoma City that killed 168 people. He also oversaw the prosecution of Ted Kaczynski, the Unabomber, who eluded authorities for years while mailing bombs to people.&lt;/p&gt;
+&lt;p&gt;At a news conference where his nomination was announced, Garland noted that the Justice Department was founded after the Civil War - in part to enforce constitutional amendments abolishing slavery and ensuring people of color the right to vote - and that the principles at that time remained relevant in the modern era.&lt;/p&gt;
+&lt;p&gt;"They echo today in the priorities that lie before us, from ensuring racial equity in our justice system, to meeting the evolving threat of violent extremism," Garland said. "If confirmed, those are the principles to which I will be devoted as attorney general. President elect-Biden understands this."&lt;/p&gt;
+&lt;p&gt;Garland also referred to the riots from a day earlier, saying, "As everyone who watched yesterday's events in Washington now understands, if they did not understand before, the rule of law is not just some lawyers' turn of phrase. It is the very foundation of our democracy."&lt;/p&gt;
+&lt;p&gt;Kristen Clarke, whom Biden nominated to head the Justice Department's Civil Rights Division, said in an interview before she was chosen for the job that she would like to see that division intensify its efforts to prosecute hate crimes and crack down on white supremacists.&lt;/p&gt;
+&lt;p&gt;"We need a division that is using its enforcement powers to counteract those efforts, to send a strong message to white supremacists that this conduct will not be tolerated in our country," said Clarke, president of the Lawyers' Committee for Civil Rights Under Law. "We have seen some prosecutions of the most violent offenders, but they need to do more, given the spike in activity. We need to see more from the Civil Rights Division in this area."&lt;/p&gt;
+&lt;p&gt;Some advocates have pushed for a law that would give officials the ability to designate domestic terrorist organizations the same way they do international organizations, and then charge those who support them. Such legislation - which would require congressional approval - would probably run into significant First Amendment and civil liberties challenges. &lt;/p&gt;
+&lt;p&gt;During the Trump administration, they could never be seriously discussed, because Trump showed little interest in the issue, and his relationship with Congress was not conducive to getting tough legislation passed, said Elizabeth Neumann, who served as the assistant secretary for threat prevention and security policy in the Trump administration's Department of Homeland Security.&lt;/p&gt;
+&lt;p&gt;"There was no opportunity for any sort of tough conversation like this to happen because there was a leadership vacuum at the White House," she said.&lt;/p&gt;
+&lt;p&gt;Neumann said that Biden simply installing a functioning government to work with Congress to study the issue using normal processes might help.&lt;/p&gt;
+&lt;p&gt;"If you had the ability to designate a terrorist organization or if you had [the] ability to designate somebody as a domestic terrorist actor, then hypothetically you would be able to watch-list them," she said, although she conceded that such measures probably would face legal challenges and that domestic terrorist groups may not be as easily tagged as international ones, because they are far less organized.&lt;/p&gt;
+&lt;p&gt;"Given that many of the groups are not really groups as much as decentralized, amorphous goo, it's not maybe the panacea that some people assume it might be," she said.&lt;/p&gt;
+&lt;p&gt;Jonathan Greenblatt, chief executive of the Anti-Defamation League, which tracks extremism nationwide, said Biden might consider creating a White House task force to address hate crime. The FBI, he noted, has been tracking steady increases in such offenses - although many police departments don't adequately report data - and in 2019, his organization tracked the highest number of anti-Semitic incidents ever.&lt;/p&gt;
+&lt;p&gt;"The reality is, extremists feel emboldened in this environment," Greenblatt said.&lt;/p&gt;
+&lt;p&gt;The FBI during the Trump administration charged several suspected members of neo-Nazi or white supremacist groups, including Atomwaffen Division and the Base, in connection with alleged plots, and FBI Director Christopher A. Wray has said repeatedly that he takes domestic extremism seriously. But he also has noted that the FBI's role is to investigate and arrest those who perpetrate violence, rather than taking aim at a particular ideology. Biden, officials said, will have to look elsewhere to try to prevent white supremacist violence, and to de-radicalize potential attackers.&lt;/p&gt;
+&lt;p&gt;The Trump administration drew criticism early for not funding a DHS program created to counter violent extremism, and for not focusing on white supremacy. Neumann said that later on, though, the department formulated a strategy and asked Congress for $80 million in new money to focus on preventing violence and intervening with people before they become fully radicalized.&lt;/p&gt;
+&lt;p&gt;Such funding was included in a $2.3 trillion spending bill for fiscal 2021.&lt;/p&gt;
+&lt;p&gt;"There's good news," she said. "But it's going to take a while for that to come to fruition." &lt;/p&gt;
+&lt;p&gt;Also key for the incoming administration will be leaning on tech companies such as Facebook, whose algorithms can magnify white supremacist content, Greenblatt said.&lt;/p&gt;
+&lt;p&gt;"Social media has played a central role in radicalizing domestic extremists," he said. "I think addressing the issues of hate online is imperative if we really want to have an effective whole-of-government solution to stopping the spread of domestic terror."&lt;/p&gt;
+&lt;p&gt;Neumann said Biden also will have to contend with the legacy Trump has left behind, as tens of millions of people continue to embrace his conspiracy theories and racist ideas.&lt;/p&gt;
+&lt;p&gt;"He's clearly not going to go quietly, so there's clearly going to be a Trump side to this," she said. "My concern there is that now we have this massive pool who are vulnerable to getting recruited into a darker movement."&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;matt.zapotosky@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 12, 2021</AlphaDate>
+         <StartDate>2021-01-12</StartDate>
+         <EndDate>2021-01-12</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Jan122021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

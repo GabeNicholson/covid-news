@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2544967990</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Closures of Black K-12 schools across the nation threaten neighborhood stability</Title>
+      </TitleAtt>
+      <NumericDate>2021-06-25</NumericDate>
+      <StartDate>2021-06-25</StartDate>
+      <EndDate>2021-06-25</EndDate>
+      <AlphaDate>Jun 25, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210625_162072</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210625_162072</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jun252021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Morris, Jerome</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jerome</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jerome Morris</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Morris</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jerome Morris</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/162072/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public schools</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Enrollments</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Achievement tests</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Black students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Charter schools</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Elementary schools</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Families &amp; family life</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Community</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Activism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Historically Black Colleges &amp; Universities</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Demonstrations &amp; protests</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Neighborhoods</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Civil rights</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Secondary schools</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Education</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>School closures</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Black Lives Matter movement</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Missouri</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Atlanta Georgia</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="80">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;According to the National Center for Education Statistics, 1,310 schools closed in 2017-18, affecting 267,000 students.
+
+Rarely factored into the equation are the historical and social circumstances and policies – racism, persistent underfunding of Black education, redlining, disinvestment in Black neighborhoods and desegregation – that gave rise to those statistics.
+
+[...]missing from these analyses are the human costs related to closing schools in already struggling neighborhoods.
+
+[...]the circumstances for Black students who abruptly leave closed schools do not get better.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1109" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;A June 2021 protest to keep Dunbar Elementary School in St. Louis from becoming a virtual-only school. Tenille Rose Martin , CC BY-NC-ND&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Residents of the St. Louis neighborhood known as The Ville have been fighting for years to stop the closing of Charles H. Sumner High School, the oldest historically Black high school west of the Mississippi River.&lt;/p&gt;
+&lt;p&gt;Sumner High School has been under repeated threats of closure from the school board and the superintendent, who cite declining enrollment. The most recent such threat arose in December 2020.&lt;/p&gt;
+&lt;p&gt;Established in 1875, Sumner High is named after a former U.S. senator who vehemently opposed slavery. The school’s alumni represent a who’s who of Black people, including rock stars Tina Turner and Chuck Berry, comedian and civil rights activist Dick Gregory and tennis legend Arthur Ashe.&lt;/p&gt;
+&lt;p&gt;Throughout Black people’s history in the U.S., predominantly Black K-12 schools have served as pillars in Black communities. Their importance is second only in significance to the Black church. Neighborhood schools help stabilize communities and foster a sense of belonging for children, serving as a foundation for academic achievement.&lt;/p&gt;
+&lt;p&gt;This is why many parents, community members, activists and even researchers like me who have studied contemporary Black K-12 schools find the shuttering of predominantly Black schools – despite the rich history and success of some of these schools – to be disconcerting.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Epidemic of closings&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Sumner High has been spared for the time being.&lt;/p&gt;
+&lt;p&gt;But other historically Black schools, such as Paul Laurence Dunbar Elementary in St. Louis, have not been so lucky. Dunbar Elementary, named after the famous Black poet and writer, will no longer physically enroll students. District leaders said they want to convert Dunbar to a virtual school beginning in August 2021. This led parents, community members and activists to protest the superintendent and school board’s decision, asserting that the physical closing of the school removes a key pillar in the historic Black Jeff-Vander-Lou neighborhood.&lt;/p&gt;
+&lt;p&gt;Two urban schools that I have researched, both renowned for educating low-income Black students, were also recently shuttered. Gentrification and the emergence of charter schools contributed to an enrollment decline at Whitefoord Elementary in Atlanta, leading it to close its doors in 2017 after serving the community for 93 years. Farragut Elementary in St. Louis – also located in The Ville – closed in May 2021. The rationale once more: declining enrollment.&lt;/p&gt;
+&lt;p&gt;As recently as the early 2000s, Black students attending Whitefoord and Farragut outperformed Black students at other schools in their respective cities, including those at magnet and charter schools, on standardized tests.&lt;/p&gt;
+&lt;p&gt;These school closings are part of an epidemic of Black public school closures in U.S. cities across the country, including in Atlanta, St. Louis, New Orleans, Baltimore and Chicago.&lt;/p&gt;
+&lt;p&gt;According to the National Center for Education Statistics, 1,310 schools closed in 2017-18, affecting 267,000 students.&lt;/p&gt;
+&lt;p&gt;Black and poor students are disproportionately affected by these closures. For example, Black students comprise 31% of the students in urban public schools but represent 61% of students in those that closed.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Human costs&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Sumner High School stands just 10 miles from the streets of Ferguson, Missouri, where protesters marched throughout the summer of 2014 to demand justice for the police killing of Michael Brown.&lt;/p&gt;
+&lt;p&gt;Amid national rallying cries and hashtags that “Black Lives Matter,” I believe greater attention needs to be given to efforts aimed at stopping the closing of Black K-12 public schools. Just as the Black Lives Matter movement demands a stop to the unjust killing of Black people, residents of predominantly Black communities throughout the U.S. are also fighting to stop the killing of their communities through school closures.&lt;/p&gt;
+&lt;p&gt;Superintendents and school boards often present their cases for closing schools using race-neutral language and statistics about low performance, dwindling enrollments and high operating costs. Rarely factored into the equation are the historical and social circumstances and policies – racism, persistent underfunding of Black education, redlining, disinvestment in Black neighborhoods and desegregation – that gave rise to those statistics.&lt;/p&gt;
+&lt;p&gt;Moreover, missing from these analyses are the human costs related to closing schools in already struggling neighborhoods. When policymakers remove schools from vulnerable communities, they remove some of the few stabilizing institutions. These buildings often sit vacant for years and become eyesores and objects of vandalism.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Racial reckoning&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;I raise these concerns within this time of racial reckoning that purports to value Black institutions. A rush of philanthropic and governmental dollars as a result of protests for Black lives has recently targeted Black businesses, civil rights and social justice organizations, as well as historically Black colleges and universities, or HBCUs.&lt;/p&gt;
+&lt;p&gt;HBCUs have rightfully received additional resources for their work educating generations of Black students. But I believe that to serve Black children, proponents of Black education must extend this support to include Black K-12 public schools. I see three main reasons for this.&lt;/p&gt;
+&lt;p&gt;First, of the 7.7 million Black children who attend public elementary or high schools today, 3.3 million go to schools that are 50% or more Black. Almost 2 million Black students attend schools that are at least 75% Black. Conversely, roughly 200,000 Black students attended the nation’s HBCUs in 2018.&lt;/p&gt;
+&lt;p&gt;I find it disingenuous for governmental agencies and philanthropies to provide economic support to Black students at the university level but not at the K-12 level, which comprises the most critical phases of their educational and social development.&lt;/p&gt;
+&lt;p&gt;Second, the circumstances for Black students who abruptly leave closed schools do not get better. Students from closed schools often experience a decline in math test scores, rarely transfer to better-performing schools and suffer social and academic disruption.&lt;/p&gt;
+&lt;p&gt;And finally, saving Black K-12 public schools is linked to broader efforts to support Black communities, families and children. In supporting Black schools, policymakers can help re-anchor struggling Black communities. This holistic focus entails supporting families with education and job-training programs, stimulating local Black-owned businesses and supporting neighborhood organizations that serve kids and families.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get the best of The Conversation, every weekend.&lt;/i&gt; Sign up for our weekly newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Next steps&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;How can this be done? As with the recent passage of stimulus bills to stabilize the economy and families affected by COVID-19, governmental and philanthropic dollars must complement local dollars to counter funding gaps for schools that predominantly serve Black students and improve the infrastructure of those schools.&lt;/p&gt;
+&lt;p&gt;Providing financial support to end the massive closing of K-12 Black public schools – which are charged with educating millions of Black students on the racial and economic margins – would make an emphatic statement that Black lives truly matter.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Jerome Morris receives funding from Spencer Foundation. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Jerome Morris, Professor of Urban Education, University of Missouri-St. Louis&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>A June 2021 protest to keep Dunbar Elementary School in St. Louis from becoming a virtual-only school. Tenille Rose Martin , CC BY-NC-ND</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jun 25, 2021</AlphaDate>
+         <StartDate>2021-06-25</StartDate>
+         <EndDate>2021-06-25</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jun252021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

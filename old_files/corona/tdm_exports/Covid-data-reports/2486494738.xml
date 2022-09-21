@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2486494738</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>COVID-19 lockdowns expose the digital have-nots in rural areas - here's which policies can get them connected</Title>
+      </TitleAtt>
+      <NumericDate>2020-09-02</NumericDate>
+      <StartDate>2020-09-02</StartDate>
+      <EndDate>2020-09-02</EndDate>
+      <AlphaDate>Sep 2, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVEB_20200902_144324</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVEB_20200902_144324</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977986_Sep22020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Whitacre, Brian</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Brian</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Brian Whitacre</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Whitacre</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Brian Whitacre</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Gallardo, Roberto</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Roberto</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Roberto Gallardo</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Gallardo</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Roberto Gallardo</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/144324/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Department of Agriculture</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>926140</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Digital divide</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>State government</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Broadband</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rural areas</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Internet access</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Funding</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Competition</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Tennessee</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Oklahoma</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="103">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The problem has spurred many state governments to take an active role in trying to connect more rural communities to high-speed internet, whether it's by incentivizing providers to serve rural areas or creating dedicated offices aimed at helping more people get online.
+
+Why broadband matters The pandemic has brought home the importance of high-speed internet access in all manner of everyday life.
+
+Brian Whitacre receives funding from USDA Rural Utilities Service, USDA Economic Research Service, U.S. Department of Health and Human Services, Regional Rural Development Centers, Institute of Museum and Library Services, Health Research Services Administration, and the Oklahoma State Department of Health.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1083" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The current public health emergency has shown just how critical adequate and affordable broadband infrastructure is for communities and individuals trying to work, access health care and attempt to teach kids from home.&lt;/p&gt;
+&lt;p&gt;Yet over one-fifth of rural Americans lack access to broadband, while some estimates suggest that figure could be much higher.&lt;/p&gt;
+&lt;p&gt;The problem has spurred many state governments to take an active role in trying to connect more rural communities to high-speed internet, whether it's by incentivizing providers to serve rural areas or creating dedicated offices aimed at helping more people get online.&lt;/p&gt;
+&lt;p&gt;As part of our ongoing research on how broadband access affects economic development, we conducted a study that examined which of these state policies are actually working.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Why broadband matters &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The pandemic has brought home the importance of high-speed internet access in all manner of everyday life.&lt;/p&gt;
+&lt;p&gt;Recent studies have found that broadband matters for jobs, income, business relocation, civic engagement and health.&lt;/p&gt;
+&lt;p&gt;While availability has generally increased over the past decade, there is still a significant "digital divide" in terms of who has access to broadband. The latest data available shows that in some states, less than 50% of rural residents have a broadband connection available where they live.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Policies meant to increase access &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Many state governments have adopted one or more of three approaches that can affect broadband availability: establishing broadband offices, increasing funding and restricting municipal networks.&lt;/p&gt;
+&lt;p&gt;In 2018, 25 states, including Minnesota, Tennessee and North Carolina, had offices with full-time employees devoted to getting more residents connected to high-speed internet. In general, they work with providers and communities to find ways to connect those without high-speed connections and to improve adoption rates where broadband already exists.&lt;/p&gt;
+&lt;p&gt;A total of 18 states, such as Colorado and California, had special funding programs that help subsidize broadband deployment in rural areas. These programs offer financial incentives to providers to install broadband infrastructure in lower-density areas where obtaining a profit is more difficult.&lt;/p&gt;
+&lt;p&gt;Utah, Wisconsin and 18 other states have adopted policies that restrict the ability of cities, utilities and other public entities to build their own broadband networks. Supporters of these restrictions, which aren't intended to increase access, argue that municipal networks represent unfair competition to private providers.&lt;/p&gt;
+&lt;p&gt;We wanted to know how these policies affected the share of rural Americans connected to either standard broadband - with download speeds of at least 25 megabits per second - or a fiber-optic network. We also considered how the policies affected competition, defined as access to two or more providers. We analyzed data from 2012 to 2018 on all 3,143 U.S. counties and focused on the changes in the rural portions of each county since a policy was put in place. We performed a regression analysis to tease out the impact of each individual policy in states that implemented more than one.&lt;/p&gt;
+&lt;p&gt;We controlled for a variety of characteristics that might also affect broadband availability, such as population density, income and education. We also factored in political ideology, under the assumption that more conservative residents and legislatures are less likely to support a broadband office or funding and more likely to impose municipal broadband restrictions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Assessing the impact &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Overall, rural areas saw an average increase in broadband availability of 47 percentage points, rising from 24% in 2012 - around when many states began implementing policies - to 71% in 2018. Access to faster fiber climbed 16.5 points to 23%.&lt;/p&gt;
+&lt;p&gt;But these figures varied widely depending on which state a rural American lived in - and what policies were in place.&lt;/p&gt;
+&lt;p&gt;Having a dedicated funding program turned out to have the greatest positive impact on getting more people in rural areas connected to broadband and fiber. Our analysis found that the policy increased broadband access by an average of 1.8 percentage points compared with states without the policy in place. Gains for fiber were even higher at 2.1 percentage points. The share of counties with access to more than one broadband provider climbed 1.4 points above what would otherwise be expected.&lt;/p&gt;
+&lt;p&gt;Imposing restrictions on municipal broadband, on the other hand, had a significant dampening effect on internet access. Counties whose states imposed such restrictions experienced broadband access gains 3.7 percentage points less than what they would have enjoyed without the policies in place. Fiber access was 1.6 points less, while the policy had a negligible impact on competition.&lt;/p&gt;
+&lt;p&gt;We found that state broadband offices had little impact on the availability of broadband or on the number of competitors, though they did lead to higher fiber availability, raising access by 1.5 percentage points more than in states without the policy. Recent research has emphasized the importance of the faster speeds that fiber provides for economic growth and employment.&lt;/p&gt;
+&lt;p&gt;But since broadband offices are relatively new, we believe the jury is still out on how effective they are. Other research has found benefits to broadband offices, such as better planning and outreach. It may just take more time for more of their benefits to show up in the data.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Moving in the right direction &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Putting it all together, we would estimate that a state like Louisiana - with restrictions on municipal broadband and no dedicated funding program - could improve rural access to broadband by 5 percentage points above their normal rates of growth over the next six to seven years by changing those two policies.&lt;/p&gt;
+&lt;p&gt;And it seems like some states may already be aware of the advantages of doing so. In 2019, seven more states put in place funding programs to encourage broadband, and five softened their restrictions on municipal networks. Tennessee is currently considering removing its restrictions entirely.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;On the whole, states have made significant gains in narrowing the rural-urban digital divide. Hopefully, states that have seen less improvement will learn from their neighbors.&lt;/p&gt;
+&lt;p&gt;But access is only part of the equation. Another important factor is affordability, which is why it's important for states to pursue policies that can increase competition and reduce prices, too.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Brian Whitacre receives funding from USDA Rural Utilities Service, USDA Economic Research Service, U.S. Department of Health and Human Services, Regional Rural Development Centers, Institute of Museum and Library Services, Health Research Services Administration, and the Oklahoma State Department of Health.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Roberto Gallardo receives funding from USDA, EDA and several Indiana state agencies. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Brian Whitacre, Professor and Neustadt Chair in Agricultural Economics, Oklahoma State University&lt;/p&gt;&lt;p&gt;Roberto Gallardo, Director of the Purdue Center for Regional Development, Purdue University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation :  Economy + Business</Title>
+         <MpubId>4977986</MpubId>
+         <SortTitle>Conversation :  Economy + Business The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVEB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977986</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464265.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation :  Economy + Business</Title>
+            <SortTitle>Conversation :  Economy + Business The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977986</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464265.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Sep 2, 2020</AlphaDate>
+         <StartDate>2020-09-02</StartDate>
+         <EndDate>2020-09-02</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977986_Sep22020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2574916117</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Boy Scouts Press Ahead With Chapter 11 Bankruptcy Plan; Committee for sex-abuse victims wanted judge to delay consideration of plan voting materials</Title>
+      </TitleAtt>
+      <NumericDate>2021-09-21</NumericDate>
+      <StartDate>2021-09-21</StartDate>
+      <EndDate>2021-09-21</EndDate>
+      <AlphaDate>Sep 21, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2021 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <DocSection>WSJ Pro</DocSection>
+         <ColumnHeader>Pro Bankruptcy Bankruptcy</ColumnHeader>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>117310</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_117310_Sep212021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WSJOWSJO2021092167CC87D603BF6496BB437C05FF484DB1</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1770</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Randles, Jonathan</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jonathan</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jonathan Randles</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Randles</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jonathan Randles</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <ClassTerm ClassTermType="Classification" TermSource="DBLookup" TermVocab="NAICS">         
+            <ClassCode>81341</ClassCode>
+            <ClassExpansion>Civic and Social Organizations</ClassExpansion>
+         </ClassTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Committees</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Settlements &amp; damages</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Court hearings &amp; proceedings</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Bankruptcy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Boys clubs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Sex crimes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Youth organizations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Bankruptcy reorganization</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="551" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;The Boy Scouts of America is pushing forward with a plan to exit bankruptcy that includes nearly $1.9 billion in cash for sex-abuse survivors, overcoming advocates for some victims who sought to pause the youth group's efforts and who also want to propose their preferred compensation program.&lt;/p&gt;
+&lt;p&gt;Judge Laurie Selber Silverstein of the U.S. Bankruptcy Court in Wilmington, Del. on Tuesday denied a bid by a committee representing abuse victims to delay her consideration of materials the Boy Scouts intend to send victims and other creditors ahead of a vote on a broader restructuring plan that the youth organization is advancing.&lt;/p&gt;
+
+&lt;p&gt;A lawyer for the committee said it needs more time to review hundreds of pages of documents released by the Boy Scouts just a few days ago. The committee has a pending request to wrest control of the chapter 11 process from the Boy Scouts so a rival restructuring plan can potentially be sent to creditors.&lt;/p&gt;
+&lt;p&gt;Judge Silverstein said during a hearing Tuesday she was mindful of the committee's concerns but that it was important to start the process of addressing legal challenges to the voting documents and make changes to solicitation materials to make it easier for abuse survivors to understand proposed settlements.&lt;/p&gt;
+&lt;p&gt;Disputes over the chapter 11 voting materials follow important financial settlements with insurance carrier Hartford Financial Services Group Inc. and the Church of Jesus Christ of Latter-day Saints, a close partner of the Boy Scouts for decades. Hartford and the Church of Latter-day Saints agreed last week to settle claims by abuse victims for $787 million and $250 million, respectively.&lt;/p&gt;
+&lt;p&gt;Despite opposition from the victims committee, the settlements are supported by law firms representing more than 65,000 of the roughly 82,000 men who have filed claims in the bankruptcy case over childhood sexual abuse.&lt;/p&gt;
+&lt;p&gt;The Boy Scouts are among several nonprofits, including a number of Catholic dioceses and USA Gymnastics, that sought chapter 11 bankruptcy protection to resolve sexual-abuse liabilities. The Boy Scouts filed for chapter 11 protection in February 2020 and has been working to build support for deals to resolve thousands of sexual abuse claims and allow the youth group to emerge from bankruptcy.&lt;/p&gt;
+&lt;p&gt;Tuesday's hearing previewed a looming legal fight with the committee, which said in a court filing last week that the settlements "fail to capture the billions in value they promised would pay the sexual abuse claims of survivors."&lt;/p&gt;
+&lt;p&gt;Committee lawyer Jim Stang said during the hearing that the Boy Scouts must provide abuse survivors with information about how the organization evaluated abuse claims and compare the value of the deals to assets held by the institution, its local councils and religious groups like the Mormon Church that sponsored troops.&lt;/p&gt;
+&lt;p&gt;A lawyer for the Boy Scouts said the youth group will incorporate some suggestions raised by Mr. Stang and others in the final voting materials.&lt;/p&gt;
+&lt;p&gt;Mr. Stang said Tuesday he anticipates the committee will seek discovery into the proposed settlements. The Boy Scouts and the affiliated local councils, which aren't in bankruptcy, have separately agreed to contribute up to $820 million in cash, property and other assets for survivors.&lt;/p&gt;
+&lt;p&gt;Judge Silverstein is expected to continue evaluating the voting materials on Wednesday.&lt;/p&gt;
+&lt;p&gt;Write to Jonathan Randles at Jonathan.Randles@wsj.com &lt;/p&gt;
+&lt;p&gt; Boy Scouts Press Ahead With Chapter 11 Bankruptcy Plan &lt;/p&gt;
+&lt;p&gt;Credit: By Jonathan Randles &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal (Online)</Title>
+         <MpubId>105983</MpubId>
+         <SortTitle>Wall Street Journal (Online)</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <JournalCode>WSJO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18890101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>117310</Name>
+            </Locator>
+            <Locator Type="ELECISSN">
+               <Name>25749579</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>46848.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal (Online)</Title>
+            <SortTitle>Wall Street Journal (Online)</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>117310</Name>
+               </Locator>
+               <Locator Type="ELECISSN">
+                  <Name>25749579</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>46848.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 8, 2010</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20100108</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Sep 21, 2021</AlphaDate>
+         <StartDate>2021-09-21</StartDate>
+         <EndDate>2021-09-21</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_117310_Sep212021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

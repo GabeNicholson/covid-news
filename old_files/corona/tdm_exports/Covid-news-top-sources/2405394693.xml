@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2405394693</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Deliveries go from hassle to lifeline for breweries</Title>
+      </TitleAtt>
+      <NumericDate>2020-05-22</NumericDate>
+      <StartDate>2020-05-22</StartDate>
+      <EndDate>2020-05-22</EndDate>
+      <AlphaDate>May 22, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post May 22, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>T.5</StartPage>
+         <DocSection>Weekend</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_May222020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20200522Deliveriesgofromhassletolifelineforbrewe72dc4144</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1570</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Hahn, Fritz</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Fritz</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Fritz Hahn</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Hahn</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Fritz Hahn</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Corporate profiles</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Experiments</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Consumers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Customers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Restaurants</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Postal codes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Jurisdiction</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Breweries</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Beer</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Maryland</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Virginia</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1450" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p/&gt;
+&lt;p&gt;When Denizens Brewing opened in 2014, the Silver Spring brewery received a license allowing the delivery of growlers to customers living within a five-mile radius. But with business focused on sales in the taproom and beer garden, and cans available in stores across the region, delivery was little more than an insurance policy. "We just never used it because we didn't need to," Denizens co-founder Julie Verratti says. "The logistics didn't seem worth the squeeze" on their profits.&lt;/p&gt;
+&lt;p&gt;Since early March, however, Verratti has logged thousands of miles on the road delivering cases of beer to front doors and porches across suburban Maryland, from Germantown to Hyattsville. "I'm in the car four to five hours a day," she says, adding that she's "burning through a lot of books on Audible." She never set out to become a delivery driver, she says, but every little bit helps Denizens hang on. "Are we making a profit right now? No. But we can pay our bills and pay the staff."&lt;/p&gt;
+&lt;p&gt;Coronavirus-related closures have forced restaurants and bars to rethink their business models to find new ways of reaching customers. But the pandemic became a double whammy for brewers: Not only did they lose sales from those closed restaurants, which aren't doing the same volume in draft or package sales, but they had to shutter in-house taprooms, which have become an increasingly important source of revenue in recent years.&lt;/p&gt;
+&lt;p&gt;Faced with declines on two fronts, breweries in the Washington area have turned to a tool in their arsenal that most had never used or even considered: direct-to-consumer delivery. &lt;/p&gt;
+&lt;p&gt;Alcohol delivery in this region is a patchwork of laws, depending on jurisdiction: Breweries in the District have the inherent right to deliver to consumers with no middleman, while Virginia breweries can apply for state licenses that cover shipping and delivering. In Maryland, each jurisdiction handles it differently. (Both Maryland and Virginia have modified laws to make it easier for breweries to sell directly to consumers during the coronavirus pandemic.)&lt;/p&gt;
+&lt;p&gt;For Bluejacket, in the Navy Yard, delivery became an experiment. "We started looking into it as soon as we started canning" in 2018, says Greg Engert, the beer director for the Neighborhood Restaurant Group, which includes Bluejacket as well as ChurchKey and other well-known craft bars. But "there's a ton of costs associated with delivery. I think there was a concern that, without proof of concept, it wasn't something we'd invest in."&lt;/p&gt;
+&lt;p&gt;Besides, as any brewer will tell you, the highest profit margins come from customers physically visiting taprooms: Buying a tasting flight, having a pint, getting something to eat, leaving with a six-pack and a brewery T-shirt or some other swag adds up to a lot more than selling a case of beers. But these days, things are different.&lt;/p&gt;
+&lt;p&gt;Even before Maryland Gov. Larry Hogan (R) shut down bars and restaurants on March 16, Denizens began delivering to Zip codes around its two locations in Silver Spring and Riverdale, with a small group of employees, including Verratti, using their personal vehicles to drop off beer. It was the beginning of a grind that hasn't let up. The team has made 124 deliveries on a Saturday, though 25 to 40 is the norm on weekdays, Verratti says. "It feels a little like Groundhog Day," she says. "It's exhausting." &lt;/p&gt;
+&lt;p&gt;While most breweries now deliver, figuring out where, when and how can be a chore for customers. Making life easier is Biermi (pronounced "beer me"), an online tool that allows consumers to enter their address and  browse a list of breweries that deliver to their front door. Biermi began as a customizable platform to help Rockville's True Respite Brewing manage its home delivery orders, but once brewery co-founder Brendan O'Leary began using it, "we realized this is too powerful to keep to ourselves," he says. Shortly after Biermi launched on March 16, O'Leary went on an industry Facebook group and offered it free to any brewery that could use it. "We got almost 100 requests to onboard that first day," O'Leary says. "It was like drinking through a fire hose." &lt;/p&gt;
+&lt;p&gt;Biermi is now used by 127 producers across 30 states, drawn by the ability to simplify the ordering process on both ends. For example, O'Leary says, "A brewery can say, 'On Tuesday, we deliver to Frederick between 5 and 8 p.m.' so when a customer logs on and enters their address, they can see the delivery windows" and know when beer is available. (This may sound simple, but anyone who tried to order beers right after the pandemic closures began, when many breweries asked customers to enter their orders through ad hoc Google web forms, knows that's not always the case.) &lt;/p&gt;
+&lt;p&gt;So far, O'Leary says, sales through Biermi have totaled $1.9 million, with almost half that coming from 41 Maryland breweries, wineries and cidermakers. True Respite had never before offered delivery, so he's pleased to see strong demand from drinkers in Anne Arundel and Howard counties and the city of Baltimore, "far from the usual taproom traffic," O'Leary says. "I'd assume those folks are regular customers who see the opportunity to support the brewery."&lt;/p&gt;
+&lt;p&gt;To stand out, some breweries are offering something beyond just the convenience of beer on your doorstep. The District's 3 Stars Brewing recently launched its CSB - a CSA for beer, explains co-founder Dave Coleman - with weekly or monthly deliveries featuring exclusive beers and barrel-aged offerings. The first drop, released in early May, included an unlabeled six-pack of Can't You See the Sunshine, a light and refreshing sour brewed with limes, which will be the brewery's summer seasonal, plus beers that had been tapped or canned the day before. "Normally we'd have a release party at an on-premise account or in the taproom," Coleman says. "Now the release party is the CSB. We're giving you a unique product that no one is going to see," as well as virtual events, such as happy hours and brewer Q&amp;amp;As conducted on Instagram live.&lt;/p&gt;
+&lt;p&gt;3 Stars had unveiled its greatly expanded taproom and event space earlier this year, so it's trying "to give the experience of the brewery," Coleman says, with delivery and the CSB, offering the small, one-off style beers that delight beer lovers who are always on a quest to try something new. "We're using this as an opportunity for R&amp;amp;D," Coleman says, "an opportunity to keep developing new recipes and to let our brewers explore their own creativity," though, he admits, "there's no making up for [losing on-premise] distribution in seven states."&lt;/p&gt;
+&lt;p&gt;As the CSB expands, Coleman says they're planning partnerships with small local businesses that will allow delivery of, say, pickles from Gordy's Pickle Jar, a pizza-making kit from All-Purpose, or a featured beer pairing: The return of Zombie Date Night, a porter made with raspberries and chocolate, might be accompanied by chocolate from a local confectioner. "As a community of small business owners, we can drive each other in a way that makes us all more viable," Coleman says. "It's not just ordering from Grubhub." &lt;/p&gt;
+&lt;p&gt;For brewers, selling directly to consumers, also has its surprises. While Bluejacket's Engert says that IPAs are "even more dominant than before, even double IPAs," he's also "seeing a return to classic international styles," such as mild and dunkel. In Droves, a low-alcohol dark lager, and Palace at 4 a.m., a sweet stout brewed with coffee, are both selling better in cans "than when they were on tap here." &lt;/p&gt;
+&lt;p&gt;True Respite's O'Leary also sees changing tastes. Before, if True Respite released a Belgian-style dubbel, a vanilla porter, a lager and an IPA, "a retailer might say, 'I'll take three cases of the IPA and one of the lager,'" because those are the most mainstream styles, he explains. But True Respite customers, tracked through Biermi, have been more willing to experiment. "Our non-IPA styles have skyrocketed in popularity," O'Leary says. "Our vanilla porter has become a hot commodity, but retail was hesitant to take a chance on it."&lt;/p&gt;
+&lt;p&gt;As states move slowly toward reopening taprooms and restaurants, breweries across the board are adamant that delivery should be a permanent offering, and not just a temporary fix. "When people can start going out, it's not going to be everybody,"  Verratti says. "I think consumers are going to be frustrated if regulators say, 'Well, that was a fun experiment,'" and things go back to the way they were, with Denizens' delivery customers limited to just a few Zip codes. At this point, she says, "The toothpaste is out of the tube."&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;fritz.hahn@washpost.com&lt;/p&gt;
+&lt;/p&gt;
+&lt;b&gt;If You Go&lt;/b&gt;
+&lt;b&gt;Getting there&lt;/b&gt;
+&lt;p/&gt;
+&lt;b&gt;Where to stay&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;:&lt;/em&gt; 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;:&lt;/em&gt; 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;:&lt;/em&gt; 
+&lt;/p&gt;
+&lt;b&gt;Where to eat&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;:&lt;/em&gt; 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;:&lt;/em&gt; 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;:&lt;/em&gt; 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;:&lt;/em&gt; 
+&lt;/p&gt;
+&lt;b&gt;What to do&lt;/b&gt;
+&lt;p&gt;
+&lt;em&gt;:&lt;/em&gt; 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;:&lt;/em&gt; 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;:&lt;/em&gt; 
+&lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;:&lt;/em&gt; 
+&lt;/p&gt;
+&lt;b&gt;Information&lt;/b&gt;
+&lt;p/&gt;
+&lt;p/&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 22, 2020</AlphaDate>
+         <StartDate>2020-05-22</StartDate>
+         <EndDate>2020-05-22</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_May222020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

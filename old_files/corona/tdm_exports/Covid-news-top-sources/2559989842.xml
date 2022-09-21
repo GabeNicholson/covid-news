@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2559989842</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Giolito: 'controlled anger' fuels his success [Corrected 08/11/2021]</Title>
+      </TitleAtt>
+      <NumericDate>2021-08-11</NumericDate>
+      <StartDate>2021-08-11</StartDate>
+      <EndDate>2021-08-11</EndDate>
+      <AlphaDate>Aug 11, 2021</AlphaDate>
+      <RawAlphaDate>20210811</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Aug 11, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>1</StartPage>
+         <DocSection>Sports</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Aug112021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2021081120210811491192457</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2021081120210811491192457</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1370</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Pope, LaMond</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>LaMond</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>LaMond Pope</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Pope</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>LaMond Pope</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Giolito, Lucas</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="782" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Lucas Giolito had a four-run lead before he threw his first pitch Monday in Minnesota.  &lt;/p&gt;&lt;p&gt;But Giolito took catcher Seby Zavala's advice to approach each inning as if the Sox were ahead by the slimmest of margins.&lt;/p&gt;&lt;p&gt;"When the guys come out of the gate strong like that, it just brings the energy level up," Giolito said Monday. "Pitching with a big lead, it's less stressful.&lt;/p&gt;&lt;p&gt;"At the same time, Seby kept reminding me: 'Hey, it's a 1-0 ballgame. We're focused. We're going out there for each inning. It's 1-0. We're going to attack these guys. We're not going to give in and start throwing heaters down the middle.' We stayed with that mentality."&lt;/p&gt;&lt;p&gt;The plan worked. Giolito had one of his best starts of the season, allowing one run on two hits with eight strikeouts in eight innings in an 11-1 victory against the Twins at Target Field in Minneapolis.&lt;/p&gt;&lt;p&gt;Giolito exited after four innings in his previous start, allowing six runs on eight hits Aug. 4 against the Kansas City Royals. He said "having that little bit of anger behind each pitch" helped him rebound.&lt;/p&gt;&lt;p&gt;"It's controlled anger," Giolito said. "That helps to bring the focus level up on executing each individual pitch. My game plan as far as my approach was to really lock in on each individual pitch as opposed to being out there for a whole inning. It's one pitch at a time."&lt;/p&gt;&lt;p&gt;Sox manager Tony La Russa approves of the "controlled anger" approach.&lt;/p&gt;&lt;p&gt;"I'm all for that edge," La Russa said before Tuesday's game against the Twins. "We just watched 'The Last Dance' with Michael (Jordan), and he would look for ways to put a chip on his shoulder. Anger, adrenaline, something to prove -- that gives you that extra focus and strength. I embrace it. I love it when I see it."&lt;/p&gt;&lt;p&gt;Giolito didn't allow a hit until the fifth, when Luis Arraez's comebacker bounced off Giolito's calf for an infield single to begin the inning. Miguel Sanó homered off Giolito in the eighth.&lt;/p&gt;&lt;p&gt;Giolito improved to 9-8 while lowering his ERA to 3.81. He is fifth in the American League with 153 strikeouts.&lt;/p&gt;&lt;p&gt;He couldn't pinpoint one pitch that worked best Monday, saying "we had a really good mix going."&lt;/p&gt;&lt;p&gt;"Even brought the curveball out a few times," Giolito said. "But it was more the sequencing. I was able to get swing and miss on the changeup when I would show that elevated heater, or leave it at the top of the zone and get the swing and miss on the slider when I'm working that slider away, away, away, or pop one in or when the fastball's down, I can use the slider off that.&lt;/p&gt;&lt;p&gt;"It was really Seby reading the situation and the next pitch would be dictated by what he was seeing in the hitter's approach, what I'm seeing in the hitter's approach, in their swings and just the sequences of pitches."&lt;/p&gt;&lt;p&gt;La Russa was impressed with how Giolito handled pitching with a sizable lead.&lt;/p&gt;&lt;p&gt;"It's great to get a big lead, but too often you'll see it's not easy for a pitcher because he doesn't want to walk anybody, so he gives up balls down the middle and all of a sudden it's 5-2, 5-4," La Russa said. "And what Gio did so good (Monday) -- he's a complete pitcher, so he had four pitches that he could keep throwing up there with command -- but he had that incentive to pitch with a little anger or however you would define it. It's a very good way to play this game. Get some adrenaline going."&lt;/p&gt;&lt;p&gt;Giolito's next start is scheduled for Sunday against the New York Yankees at Guaranteed Rate Field. He'll look to continue a strong second half. After going 7-6 with a 4.15 ERA before the All-Star break, he's 2-2 with a 2.73 ERA in five starts after the break.&lt;/p&gt;&lt;p&gt;And as Monday showed, he's capable of pitching with anger with a result that will leave him smiling.&lt;/p&gt;&lt;p&gt;Giolito said he'll sometimes create the anger out of thin air or choose something.&lt;/p&gt;&lt;p&gt;"Find something to tick myself off," he said. "Whether I have to get on myself or finding a little thing that batters are doing, just kind of letting that fuel me.&lt;/p&gt;&lt;p&gt;"I'm not sitting there looking for specific things. I feel like I'm much better when I have a controlled emotion as opposed to being robotic or just going through the motions and trying to make pitches. It's going to be a lot easier to make pitches and execute where I want to throw when I have something behind it each and every pitch."&lt;/p&gt;&lt;p&gt;CAPTION: Photo: White Sox pitcher Lucas Giolito throws against the Twins on  Monday in Minneapolis. JIM MONE/AP&lt;/p&gt;&lt;p&gt;CREDIT: By LaMond Pope, Chicago Tribune&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 11, 2021</AlphaDate>
+         <RawDate>20210811</RawDate>
+         <StartDate>2021-08-11</StartDate>
+         <EndDate>2021-08-11</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Aug112021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

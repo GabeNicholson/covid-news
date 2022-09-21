@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487143757</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Obstacles to voting: 6 essential reads on the challenges of election 2020</Title>
+      </TitleAtt>
+      <NumericDate>2020-10-26</NumericDate>
+      <StartDate>2020-10-26</StartDate>
+      <EndDate>2020-10-26</EndDate>
+      <AlphaDate>Oct 26, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20201026_145436</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20201026_145436</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Oct262020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Holmes, Catesby</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Catesby</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Catesby Holmes</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Holmes</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Catesby Holmes</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/145436/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Workforce planning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Workers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Voting machines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Texas</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Russia</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Georgia</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="99">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Pandemic-induced chaos For an example of just how bad things could get this year, look at Georgia's presidential primary election in June.
+
+Because absentee ballots went undelivered and the election website crashed, some voters weren't sure if they needed to vote in person, while others didn't know where to vote.
+
+In New Jersey's 1981 governor's race, some 200 armed, uniformed men patrolled polling sites, demanding voter ID cards from Black voters and chasing Latino voters away.
+
+[...]tell your friends and family to vote, urges Dacey, because "every vote that is cast is a vital contribution to the nation's future."&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="959" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Plots to kidnap governors. White militias patrolling city streets. Partisan enmity that boils over into bar brawls. Disappearing ballot boxes. A hobbled mail system. Russian trolls. Oh, and a pandemic.&lt;/p&gt;
+&lt;p&gt;The U.S. has held elections in worse times than now - during the Civil War, for example - but this year brings daunting challenges to voting.&lt;/p&gt;
+&lt;p&gt;Here, academic experts describe five major threats to election 2020 - and one has tips to make sure your vote is counted anyway.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 1. Pandemic-induced chaos &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;For an example of just how bad things could get this year, look at Georgia's presidential primary election in June.&lt;/p&gt;
+&lt;p&gt;Because absentee ballots went undelivered and the election website crashed, some voters weren't sure if they needed to vote in person, while others didn't know where to vote. And with 10% of Georgia's polling places closed due to COVID-19 restrictions and staffing shortages, lines grew exceptionally long, according to Adrienne Jones, who studies voter suppression at Morehouse College.&lt;/p&gt;
+&lt;p&gt;"Hundreds of voters, many in majority Black areas, waited up to seven hours to cast their ballots," writes Jones. "Some even faced down police seeking to send them home without having voted."&lt;/p&gt;
+&lt;p&gt;Some Georgia voting machines also broke on primary day.&lt;/p&gt;
+&lt;p&gt;Jones calls Georgia's primary a "nightmare mix of inefficiency and discrimination" coupled with pandemic-related restrictions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 2. Protracted waits &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Long lines in Texas's March primary election forced officials in some places to extend voting hours to accommodate the crowd. But that helps only voters who can stick around for hours.&lt;/p&gt;
+&lt;p&gt;"Long wait times discourage people from voting," writes Jonathan Coopersmith of Texas A&amp;amp;M University.&lt;/p&gt;
+&lt;p&gt;In the 2012 election, prolonged wait times prevented an estimated 500,000 to 700,000 out of 123 million American voters from casting their ballot. Most of them were "poorer people with less flexibility at work," writes Coopersmith.&lt;/p&gt;
+&lt;p&gt;While a 2014 U.S. government report says that no citizen should wait more than 30 minutes to vote, there is no federal law governing wait times.&lt;/p&gt;
+&lt;p&gt;Expanding early voting and giving people paid time off to vote during the work day could reduce delays, writes Coopersmith, "so that someday no voter will have to wait more than 30 minutes to have their voice heard."&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 3. Poll worker shortages &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;One big reason for long lines is staffing shortages. Voting in the U.S. is overseen by an army of civilians who check voters in, verify their identity, determine their eligibility, trouble-shoot technical problems and answer questions.&lt;/p&gt;
+&lt;p&gt;Poll work is a tough job that pays modestly. And that's one reason these "gatekeepers of democracy" are generally older people, says Thessalia Merivaki, an expert on poll workers at Mississippi State University.&lt;/p&gt;
+&lt;p&gt;"Most are retirees, who arguably have more free time on their hands," she writes. "They also have a strong sense of civic duty."&lt;/p&gt;
+&lt;p&gt;But many veteran poll workers are reluctant to serve in a pandemic because of their age, so local officials have been recruiting younger volunteers to staff roughly 230,000 polling sites in November. At least 350,000 people had volunteered as of early September, Merivaki finds. For perspective, 917,694 poll workers worked the 2016 presidential election.&lt;/p&gt;
+&lt;p&gt;These new recruits are younger and more diverse than regular poll workers, who are typically older white women, says Merivaki. That's a positive change, since "minority voters report more positive experiences when they interact with poll workers who look like them."&lt;/p&gt;
+&lt;p&gt;But the new recruits will also be inexperienced, which may lead to some problems on Election Day. Election officials provide training to new recruits, but Merivaki says "training is no match for years on the job."&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 4. Voter intimidation &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Alleging that election fraud was likely in November, Donald Trump has urged his supporters to "go into the polls and watch very carefully."&lt;/p&gt;
+&lt;p&gt;To Rutgers University Newark history professor Mark Krasovic, the president seemed to be encouraging voter intimidation, a "practice long used in the U.S. by political parties to suppress one side's vote and affect an election's outcome."&lt;/p&gt;
+&lt;p&gt;The GOP has historically made particular use of this electoral strategy, Krasner says.&lt;/p&gt;
+&lt;p&gt;In New Jersey's 1981 governor's race, some 200 armed, uniformed men patrolled polling sites, demanding voter ID cards from Black voters and chasing Latino voters away. The interference was so egregious that a court forbade Republicans nationwide from engaging in voter intimidation.&lt;/p&gt;
+&lt;p&gt;But that court order expired in 2018.&lt;/p&gt;
+&lt;p&gt;"The 2020 election will be the first in nearly 40 years conducted without the protections afforded by that decree," writes Krasovic.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 5. Russian hacking &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;For cybercrimes expert Douglas W. Jones, "we should be worried" about Russian cyberinterference in the 2020 U.S. election.&lt;/p&gt;
+&lt;p&gt;"Four years ago, Russia managed to penetrate systems in several states, but there's no evidence that they ‘pulled the trigger'" to actually manipulate vote counts, he writes.&lt;/p&gt;
+&lt;p&gt;This year Russia may not hold back.&lt;/p&gt;
+&lt;p&gt;"My impression is that they're getting better at disinformation campaigns," writes Jones, adding: "I think it's safe to assume that they're also getting better at digging into the actual machinery of elections."&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; 6. Get your vote counted anyway &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;That's a lot of obstacles, but voters should not be deterred, says Amy Dacey of American University.&lt;/p&gt;
+&lt;p&gt;"Do not be intimidated or afraid," she writes. "It is your right to vote. Exercise that right proudly and make your voice heard."&lt;/p&gt;
+&lt;p&gt;Dacey offers tips to make sure that happens.&lt;/p&gt;
+&lt;p&gt;One is to make a voting plan, whether you're casting your ballot by mail or in person. And track your ballot by mail, if possible. Set reminders to vote, too, just as you would for any other important event, writes Dacey.&lt;/p&gt;
+&lt;p&gt;Finally, tell your friends and family to vote, urges Dacey, because "every vote that is cast is a vital contribution to the nation's future."&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Catesby Holmes, International Editor  and Politics Editor, The Conversation US&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 26, 2020</AlphaDate>
+         <StartDate>2020-10-26</StartDate>
+         <EndDate>2020-10-26</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Oct262020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2504589818</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Meisha Porter is the first Black woman chancellor of NYC schools – here are the challenges she will face</Title>
+      </TitleAtt>
+      <NumericDate>2021-03-24</NumericDate>
+      <StartDate>2021-03-24</StartDate>
+      <EndDate>2021-03-24</EndDate>
+      <AlphaDate>Mar 24, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210324_156725</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210324_156725</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Mar242021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Litow, Stanley S</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Stanley</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Stanley S Litow</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Litow</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>S</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Stanley S. Litow</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/156725/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public schools</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hispanic Americans</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Minority students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hispanic students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Election results</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Tenure</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Multiculturalism &amp; pluralism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Black students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Learning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>School districts</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York City New York</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="111">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;According to the American Association of School Administrators, only about 27% of superintendents are women, with only 8.6% of all superintendents being people of color.
+
+[...]a Brown University paper found that having a Black principal increases the number of Black teachers, which has a positive effect on learning for Black students but also increases the likelihood that Black teachers remain in their posts.
+
+New York City has mayoral control of schools, which provides the mayor the opportunity to select the next schools chancellor.
+
+Since Mayor de Blasio is term-limited with an election for the next mayor coming up on Nov. 2, the likelihood is that Porter’s tenure will be very short.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="958" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;New York City schools chancellor Meisha Porter speaks at a press conference. Photographer/Mayoral Photography Office, CC BY-NC-ND&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Meisha Porter on March 15 became the first Black woman selected as chancellor of the New York City public school system. Here, Stanley S. Litow, former deputy chancellor of the city’s school system, explains the significance of this development. He also addresses the challenges that Porter faces for what will likely be a limited tenure at the helm of the nation’s largest public school system as government leaders seek to fully reopen the nation’s schools.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. Why are her race and gender significant?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This is of real significance not only in New York City but throughout the nation. According to the American Association of School Administrators, only about 27% of superintendents are women, with only 8.6% of all superintendents being people of color. Yet, Hispanic students make up 27.6% of all public school students, and Black students represent 15%, federal data show.&lt;/p&gt;
+&lt;p&gt;In the late 1980s I led the search committee that selected New York City’s first Black school chancellor, Richard Green. Since then, there have been 11 chancellors, and not one has been a Black woman until now.&lt;/p&gt;
+&lt;p&gt;Research has shown that Black leadership in education matters. For instance, a Brown University paper found that having a Black principal increases the number of Black teachers, which has a positive effect on learning for Black students but also increases the likelihood that Black teachers remain in their posts. All of this points to the positive results that emanate from diversity in school leadership.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. How can people judge her record?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Porter served as a principal for the Bronx School for Law, Government and Justice and as a community superintendent for New York City’s Community School District 11 with overall responsibility for some of the most challenged schools in The Bronx. The Bronx is the borough with the lowest achievement levels in the city of New York.&lt;/p&gt;
+&lt;p&gt;Her detractors have pointed out that she has been accused of an ethical lapse in arranging a party – one that featured a mandatory cash contribution – to celebrate her selection as a local superintendent. A city schools watchdog dropped the investigation in 2019.&lt;/p&gt;
+&lt;p&gt;In 2007, when the city graded schools based on student achievement, the school she had led for 10 years got a letter grade of “F.” Yet, many parents criticized the letter grade system for judging schools solely on how test scores improve year to year. The grading system was discontinued by mayor Bill de Blasio and then New York City school chancellor Carmen Fariña in 2014.&lt;/p&gt;
+&lt;p&gt;Porter has pledged to focus on safe school reopenings and diversity and inclusion in the city’s schools. Safe school opening will be a challenge, given the need to vaccinate teachers and all staff, the size and age of the system’s roughly 1,800 schools and the need to continue testing, tracing and social distancing.&lt;/p&gt;
+&lt;p&gt;While the passage of the COVID-19 relief bill will in large measure resolve the resource issues, the logistical challenges will still be enormously significant.&lt;/p&gt;
+&lt;p&gt;The diversity issue is equally challenging. It goes far beyond the few specialized high schools where the admissions process largely excludes Black and Latino students. But admissions to those schools is embodied in state law and requires state action. In the city, far too many schools at all levels have admission screens that consider test scores, grades and other measures that have tended to deny students of color access to the best schools. The issue has led to a lawsuit in March that accuses the system of worsening inequality by sorting students into different tracks early in their school careers.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. What are the top challenges that lie ahead?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Beyond the challenge of a safe reopening, over the long term there will be challenges to address the lag in student achievement caused by the pandemic. This is particularly for low-income, Black and Hispanic students for whom school attendance has been unacceptably low over the past year.&lt;/p&gt;
+&lt;p&gt;The most immediate opportunity to address this will be in planning and executing an effective use of the summer schedule. Research shows that students, especially those who lag behind in academic achievement, lose ground during the summer recess. A more effective use of the summer break could address this challenge.&lt;/p&gt;
+&lt;p&gt;But a plan for the fall semester ought to include a longer school day that integrates after-school programs with the standard school day. In 2013, Casimir Pulaski Elementary School in Meriden, Connecticut extended its school day by 100 minutes a day, adding up to a total of 40 additional school days to the school year. Improvements in test scores followed.&lt;/p&gt;
+&lt;p&gt;Porter will also need to make more effective use of remote learning on days when schools are closed due to weather.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. How long does she have on the job?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;New York City has mayoral control of schools, which provides the mayor the opportunity to select the next schools chancellor.&lt;/p&gt;
+&lt;p&gt;Since Mayor de Blasio is term-limited with an election for the next mayor coming up on Nov. 2, the likelihood is that Porter’s tenure will be very short. And while it is not impossible that her tenure might be extended, chances are it will not be since only one of 10 political insiders think positively about Mayor de Blasio’s performance. This, I believe, makes it highly unlikely that whoever wins the mayoral election will ask Mayor de Blasio’s final choice as chancellor to stay on.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Stanley S. Litow does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Stanley S. Litow, Visting Professor of the Pratice, Public Policy, Duke University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>New York City schools chancellor Meisha Porter speaks at a press conference. Photographer/Mayoral Photography Office, CC BY-NC-ND</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Mar 24, 2021</AlphaDate>
+         <StartDate>2021-03-24</StartDate>
+         <EndDate>2021-03-24</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Mar242021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

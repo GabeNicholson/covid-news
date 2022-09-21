@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2470543901</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>SPORTS; BASKETBALL; LAKERS 112, PHOENIX 107; James, Davis finally get their game going; Lakers' two stars play for the first time in preseason with varying success.</Title>
+      </TitleAtt>
+      <NumericDate>2020-12-17</NumericDate>
+      <StartDate>2020-12-17</StartDate>
+      <EndDate>2020-12-17</EndDate>
+      <AlphaDate>Dec 17, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Los Angeles Times Dec 17, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.7</StartPage>
+         <Pagination>B.7</Pagination>
+         <DocSection>California; Part B; Sports Desk</DocSection>
+         <DocEdition>HOME EDITION</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7683</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7683_Dec172020</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>LATMLATM2020121722547</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>LATMLATM2020121722547</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1450</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Turner, Broderick</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Broderick</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Broderick Turner</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Turner</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Broderick Turner</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Staples Center</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>711310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Professional basketball</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Hotels &amp; motels</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="595" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;LeBron James raised his hand with 5 minutes, 16 seconds left in the first quarter of his first exhibition game with the Lakers, a signal that he needed a rest. About a minute later, James took a seat on the bench to collect his breath.&lt;/p&gt;
+&lt;p&gt;When he returned later in the second quarter, James went on a tear, making four straight shots, his game back just like that.&lt;/p&gt;
+&lt;p&gt;James and Anthony Davis were scheduled to play in the first half, Lakers coach Frank Vogel said before his team's 112-107 victory over the Phoenix Suns, and both did.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;In 15 minutes, James produced 11 points, two rebounds and two assists. He was four for 10 from the field, and he missed both of his three-point attempts.&lt;/p&gt;
+&lt;p&gt;"We anticipated a little bit rusty first stretch and I thought that played out," Vogel said. "Once he got his legs underneath him, I think he settled in and looked great. I think it was anticipated and as I anticipated and it's going to be a matter of getting his legs back under him again."&lt;/p&gt;
+&lt;p&gt;The key, though, is to ease James and Davis back and for them to build their stamina as best they can before the Lakers open the regular season Tuesday night against the Clippers at Staples Center.&lt;/p&gt;
+&lt;p&gt;In his 18 minutes, Davis, also playing his first exhibition game of the season, had 10 points, four rebounds and one block.&lt;/p&gt;
+&lt;p&gt;"I felt great, honestly," Davis said. "Coming in I thought I'd be a little winded. You can try to get in shape all you want, but there's nothing like getting into basketball shape, in game shape. I was kind of hesitant about that, but I felt fine. I could have played more. Probably going to play more Friday, but I felt physically fine."&lt;/p&gt;
+&lt;p&gt;James and Davis started alongside Dennis Schroder, Marc Gasol and Kyle Kuzma, who led the Lakers with 23 points in 32 minutes.&lt;/p&gt;
+&lt;p&gt;Vogel said Schroder suffered a mind ankle sprain in the third quarter. "We'll see how he feels tomorrow and Friday," Vogel said.&lt;/p&gt;
+&lt;p&gt;It was the Lakers' first game away from Staples Center since March 1, when they played at New Orleans. The Lakers did play a "road game" against the Clippers on March 8 at Staples before the NBA was halted because of the COVID-19 pandemic and games were moved to the bubble in July near Orlando, Fla.&lt;/p&gt;
+&lt;p&gt;While the Lakers are in Phoenix for three days, knowing this environment is not as safe as when they played on the ESPN Wide World of Sports Complex, Vogel said the idea is, "Let's be as safe as possible type of mind-set."&lt;/p&gt;
+&lt;p&gt;For Vogel, that meant staying in the hotel Wednesday night.&lt;/p&gt;
+&lt;p&gt;The NBA announced earlier Wednesday that one new player tested positive out of the 549 players who were tested for COVID-19 since Dec. 10.&lt;/p&gt;
+&lt;p&gt;Knowing this, the Lakers made plans for the team to do things together at the team hotel while in Phoenix. The Lakers were a close-knit team last season, doing dinners and hanging out together -- whether it was in the bubble or before the season was suspended.&lt;/p&gt;
+&lt;p&gt;"We had some things available for our guys last night," Vogel said, "and we have some things available Thursday night as well at the hotel."&lt;/p&gt;
+&lt;p&gt;--&lt;/p&gt;
+&lt;p&gt;Etc.&lt;/p&gt;
+&lt;p&gt;Vogel said Kentavious Caldwell-Pope didn't play because of hip soreness, but the coach also said that it was "not an injury [and] was just dealing with some soreness, so we're going to play that safe." Alex Caruso also didn't play because of hip soreness.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Los Angeles Times</Title>
+         <MpubId>46999</MpubId>
+         <SortTitle>Los Angeles Times</SortTitle>
+         <Qualifier>Los Angeles, Calif.</Qualifier>
+         <JournalCode>ANGE</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18860101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Los Angeles Times Communications LLC</PublisherName>
+            <PublisherAddress>
+               <City>Los Angeles</City>
+               <Province>CA</Province>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7683</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>04583035</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60200.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Los Angeles Times</Title>
+            <SortTitle>Los Angeles Times</SortTitle>
+            <Qualifier>Los Angeles, Calif.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7683</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>04583035</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60200.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Los Angeles Daily Times</Title>
+               <Qualifier>Los Angeles, Calif.</Qualifier>
+               <EndIssueDate>18861022</EndIssueDate>
+               <CatalogNum>60200.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Dec 4, 1996</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19961204</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 17, 2020</AlphaDate>
+         <StartDate>2020-12-17</StartDate>
+         <EndDate>2020-12-17</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7683_Dec172020</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

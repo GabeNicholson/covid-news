@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2486058902</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>President-elect Biden's new COVID-19 task force gives the US a fresh chance to turn around a public health disaster</Title>
+      </TitleAtt>
+      <NumericDate>2020-11-13</NumericDate>
+      <StartDate>2020-11-13</StartDate>
+      <EndDate>2020-11-13</EndDate>
+      <AlphaDate>Nov 13, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVCO_20201113_149906</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVCO_20201113_149906</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977987_Nov132020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Troisi, Catherine Lynne</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Catherine</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Catherine Lynne Troisi</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Troisi</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>Lynne</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Catherine Lynne Troisi</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/149906/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Infectious diseases</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public health</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Task forces</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Multiculturalism &amp; pluralism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Severe acute respiratory syndrome coronavirus 2</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="114">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Experts at the helm reflect the US Biden's advisory board is headed by three eminently qualified co-chairs: the former director of the Centers for Disease Control and Prevention, David Kessler; former Surgeon General Vivek Murthy; and researcher-scientist Marcella Nunez-Smith, an expert in health equity issues.
+
+The other committee members are all experienced public health experts and physicians with years of experience in combating infectious diseases; among them are Michael Osterholm from the University of Minnesota's Center for Infectious Disease Research and Policy and Atul Gawande, noted author and physician at Harvard Medical School.
+
+Catherine Lynne Troisi, Associate Professor of Management, Policy, and Community Health and Epidemiology, University of Texas Health Science Center at Houston&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="925" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;A change in administration in January will bring a new pandemic strategy for the United States. President-elect Joe Biden has announced his transition COVID-19 advisory council, and there are high expectations that its recommendations to combat the pandemic will be backed by science and reflect public health best practices.&lt;/p&gt;
+&lt;p&gt;As an infectious disease epidemiologist, I'm looking forward to research-based guidance at the federal level that I hope will help get the coronavirus under control.&lt;/p&gt;
+&lt;p&gt;The United States is currently experiencing a major increase in COVID-19 cases, with over 1 million new cases logged in just the first 10 days of November. Over 240,000 people with COVID-19 have died in the U.S. to date. The Trump administration's tactics of pretending this upsurge is not happening, dismissing the benefits of mask-wearing and physical distancing and blaming increases in case counts on increased testing are not viable methods to control the pandemic.&lt;/p&gt;
+&lt;p&gt;The United States has 4.4% of the world's population and 20% of the COVID-19 cases. Clearly, the U.S. has not done an adequate job of controlling the pandemic within its shores. A change in administration and coronavirus-fighting strategy will hopefully help the U.S. change course.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Experts at the helm reflect the US &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Biden's advisory board is headed by three eminently qualified co-chairs: the former director of the Centers for Disease Control and Prevention, David Kessler; former Surgeon General Vivek Murthy; and researcher-scientist Marcella Nunez-Smith, an expert in health equity issues.&lt;/p&gt;
+&lt;p&gt;The other committee members are all experienced public health experts and physicians with years of experience in combating infectious diseases; among them are Michael Osterholm from the University of Minnesota's Center for Infectious Disease Research and Policy and Atul Gawande, noted author and physician at Harvard Medical School.&lt;/p&gt;
+&lt;p&gt;Not only do these task force members bring a high level of expertise to the table, but the group itself mirrors the country - there are five women and nine persons of color among the 13 members. This gender and racial/ethnic diversity will likely result in better decision-making and lend greater credence to the task force's decisions and recommendations.&lt;/p&gt;
+&lt;p&gt;The demographic diversity of the task force is particularly important because many communities of color distrust the government and its handling of the coronavirus. Unfortunately, these are the same communities that are being affected the most by the pandemic, with high rates of infection, hospitalization and death compared with non-Hispanic whites. Cultural competence will be necessary to convey messages that all Americans will believe and adhere to.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Planning now to hit the ground running Jan. 20 &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Priorities for the task force have been set, and they read like a public health expert's wish list. Top concerns include:&lt;/p&gt;
+&lt;p&gt;* Managing the surge in cases that is affecting most of the U.S.&lt;/p&gt;
+&lt;p&gt;* Protecting at-risk populations.&lt;/p&gt;
+&lt;p&gt;* Increasing the manufacturing of PPE, including N95 masks.&lt;/p&gt;
+&lt;p&gt;* Increasing availability of testing.&lt;/p&gt;
+&lt;p&gt;* Working with governors and mayors on mask mandates.&lt;/p&gt;
+&lt;p&gt;These are all matters that have not yet been dealt with adequately, contributing to the current surge in cases nationwide.&lt;/p&gt;
+&lt;p&gt;Another top priority is equitable distribution of an effective, safe and free COVID-19 vaccine once readily available. A vaccine will be crucial to protect people and achieve herd immunity. Developing a realistic plan now, based on these guidelines, is absolutely necessary for the success of an eventual vaccine rollout.&lt;/p&gt;
+&lt;p&gt;There's already good preliminary news about an effective vaccine, but the logistics of distributing future vaccines are formidable. The Pfizer vaccine must be transported and stored at an ultralow temperature, something never previously attempted. Record keeping for a two-dose vaccine will be a nightmare. Reaching rural populations and those without regular access to health care will be difficult. Planning for effective vaccine distribution must begin now.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; A cohesive message, from the top &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;I anticipate that the guidance coming out of Biden's task force will represent the best known science. The committee will keep abreast of new scientific findings and revise messages to reflect emerging information. Biden's communications will be consistent with his task force's recommendations, which, by cutting confusion, should lead to better public compliance with prevention recommendations.&lt;/p&gt;
+&lt;p&gt;I also expect the Biden administration's COVID-19 advisory board will work with the CDC to develop consistent guidelines for state and local health departments to follow. Most public health efforts happen at the state and local levels. While not every health department will fully embrace all recommendations, a unified national strategy will improve on the whack-a-mole approach seen to date as cases pop up in one area of the country and then another. States and municipalities do not exist in a vacuum, and community transmission in one area can affect other jurisdictions.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;Pandemic fatigue is real - everyone's tired of this pandemic, and we want our lives to get back to normal. Unfortunately, the virus doesn't care, and the U.S. is in for a hard winter. SARS-CoV-2 is still out there, and it's an infectious, sometimes deadly virus. The new Biden administration will be taking over the reins during a public health disaster in January. But I'm optimistic that while the COVID-19 task force will have its hands full, it has the people and tools necessary to get the coronavirus under control.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Catherine Lynne Troisi does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Catherine Lynne Troisi, Associate Professor of Management, Policy, and Community Health and Epidemiology, University of Texas Health Science Center at Houston&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : COVID-19</Title>
+         <MpubId>4977987</MpubId>
+         <SortTitle>Conversation : COVID-19 The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVCO</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977987</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464268.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Health Facilities And Administration</Subject>
+            <Subject>Medical Sciences</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : COVID-19</Title>
+            <SortTitle>Conversation : COVID-19 The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977987</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464268.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 13, 2020</AlphaDate>
+         <StartDate>2020-11-13</StartDate>
+         <EndDate>2020-11-13</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977987_Nov132020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

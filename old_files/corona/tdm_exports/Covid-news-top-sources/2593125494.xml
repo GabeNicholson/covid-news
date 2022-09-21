@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2593125494</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>5 Takeaways From the First Days of the Climate Summit</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-04</NumericDate>
+      <StartDate>2021-11-04</StartDate>
+      <EndDate>2021-11-04</EndDate>
+      <AlphaDate>Nov 4, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Nov 4, 2021</CopyrightData>
+      </Copyright>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Nov42021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>NYT20211104XeOYm6eBXuzOrnKXGVEnBg</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1380</LexileScore>
+      <DateLine>2021-11-04 @ 17:59</DateLine>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Friedman, Lisa</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Lisa</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Lisa Friedman</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Friedman</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Lisa Friedman</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>New York Times Co</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511120</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515112</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>United Nations--UN</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>928120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Fossil fuels</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Emissions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Presidents</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>False information</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Prime ministers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coal</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Accountability</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Summit conferences</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Russia</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Glasgow Scotland</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>Scotland</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United Kingdom--UK</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Australia</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>China</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Brazil</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Biden, Joseph R Jr</Personal>
+         </Term>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>World</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Medicine And Health</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Epidemics</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Economic Conditions And Trends</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Social Conditions And Trends</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Global Warming</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Treaties</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Economy, Commerce And Industry</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Energy And Power</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Vietnam</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>United States</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Scotland</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Russia</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Poland</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Paris (France)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Morocco</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>India</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Great Britain</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Glasgow (Scotland)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Fiji</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Egypt</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>China</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Chile</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Brazil</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Australia</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>United Nations</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Xi Jinping</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Trump, Donald J</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Putin, Vladimir V</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Morrison, Scott (1968  )</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Bolsonaro, Jair (1955  )</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Biden, Joseph R Jr</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Bainimarama, Frank</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>United States Economy</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Environment</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Third World And Developing Countries</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>International Relations</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Coronavirus (2019 Ncov)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Coal</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Greenhouse Gas Emissions</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>United Nations Framework Convention On Climate Change</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1014" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, demand greater accountability from corporations and called out “greenwashing.” (Andrew Testa/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+&lt;p&gt;GLASGOW, Scotland — Presidents and prime ministers have left town. Now the hard work starts, with diplomats hunkering down in a cavernous tent complex at the U.N. climate talks here for the next week and a half, trying to hammer out deals to cut planet-warming emissions.&lt;/p&gt;
+&lt;p&gt;More nations than ever are pledging to reduce emissions, move away from coal, eliminate deforestation and deliver money to help poor countries adapt. Environmental groups and poor nations are not as optimistic. They have seen promises come and go before.&lt;/p&gt;
+&lt;p&gt;Here are five take-aways from the early, frenetic days of the climate conference:&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Holding a global conference in a pandemic is hard.&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;More than 39,000 people are registered for the summit. One problem: Capacity in the main venue is limited to 10,000 people because of COVID restrictions.&lt;/p&gt;
+&lt;p&gt;That has led to bottlenecks, long security lines and frustration, especially among civil society groups that were already angry that the U.N. had capped their presence inside the negotiating halls.&lt;/p&gt;
+&lt;p&gt;Everyone entering the venue, known as the “blue zone,” is asked to take a daily rapid coronavirus test. But for all the talk of strict controls, participants simply self-report their results. It is basically an honor system.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The United States ‘showed up.’&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;For nearly four years, the United States worked to undermine the progress of climate talks. Former President Donald Trump withdrew the United States from the Paris climate agreement and vowed to burn more, not less, gas, oil and coal.&lt;/p&gt;
+&lt;p&gt;President Joe Biden arrived in Glasgow and flipped the script. He promised to show the world that the United States is “leading by the power of our example.”&lt;/p&gt;
+&lt;p&gt;Asked about the leaders of other countries, particularly those of China and Russia, who did not attend, Biden said, “We showed up.”&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;But some pivotal leaders didn’t.&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;The absences of Presidents Xi Jinping of China, Vladimir Putin of Russia and Jair Bolsonaro of Brazil were notable.&lt;/p&gt;
+&lt;p&gt;Prime Minister Scott Morrison of Australia did show up — but with an emissions target that experts said falls far short of what is needed. Brazil pledged to end deforestation by 2028. Activists are skeptical that Bolsonaro will follow through.&lt;/p&gt;
+&lt;p&gt;Both Russia and China have targets that, experts say, are not enough to keep the planet on a relatively safe trajectory. Leaving Glasgow, Biden scolded Xi and Putin for not attending. Officials in Beijing hit back, noting Biden was unable to persuade his own party to vote for climate legislation necessary to meet the United States’ aggressive targets.&lt;/p&gt;
+&lt;p&gt;Sparring will not solve the climate crisis. And it remains unclear whether the two biggest emitters, China and the United States, can move past tensions over trade and human rights to work together.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Money was pledged, but will it flow?&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;Banks and other lenders said they had $130 trillion to finance projects that aim to get companies and countries to net-zero emissions. The number, more than five times the size of the U.S. economy, grabbed headlines.&lt;/p&gt;
+&lt;p&gt;Environmentalists quickly threw cold water on it, arguing that scant details were provided and that banks still invest hundreds of billions of dollars in fossil fuels each year.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The next target: Ending coal&lt;/b&gt;
+&lt;/p&gt;
+&lt;p&gt;Poland, Vietnam, Egypt, Chile and Morocco are among 18 countries that will pledge Thursday to phase out coal-fired generation and stop building new plants. The British hosts of the U.N. conference want to leave their mark by ensuring the end of coal “is in sight.”&lt;/p&gt;
+&lt;p&gt;Yet the issue is deeply contentious. At the start of the summit, the prime minister of Fiji, Frank Bainimarama, told Morrison of Australia that “coal has no place in this century.” Morrison has clearly said he will not discuss fossil fuel mandates or bans.&lt;/p&gt;
+&lt;p&gt;Expect more pushback in the coming days from Australia, as well as China, India and Russia, to any language formalizing a phaseout of coal in any final decision from the summit.
+This article originally appeared in The New York Times.
+&lt;/p&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="2"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;From left; British Prime Minister Boris Johnson, President of Congo Felix Tshisekedi, and President Joe Biden at the United Nations’ COP26 summit in Glasgow, Scotland on Tuesday, Nov. 2, 2021. (Erin Schaff/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="3"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Police watch protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, who demanded greater accountability from corporations and called out “greenwashing.” (Andrew Testa/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="4"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, demand greater accountability from corporations and called out “greenwashing.” (Andrew Testa/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="5"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The lounge area at the United Nations’ COP26 summit in Glasgow, Scotland on Nov. 1, 2021. Presidents and prime ministers have left town. Now the hard work starts, with diplomats hunkering down in a cavernous tent complex at the UN climate talks here for the next week and a half, trying to hammer out deals to cut planet-warming emissions. (Kieran Dodds/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="6"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Thronging the delegates’ pavilion zone at the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021. (Kieran Dodds/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="7"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, demand greater accountability from corporations and called out “greenwashing.” (Andrew Testa/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="8"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;A person watches protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, demanding greater accountability from corporations and calling out “greenwashing.” (Andrew Testa/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="9"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, demand greater accountability from corporations and called out “greenwashing.” (Andrew Testa/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="10"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;A meeting room at the main summit venue at the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021. President Biden and other heads of state have wrapped up their big speeches at the international climate summit in Glasgow. Now, the tough negotiations begin, largely behind closed doors. (Kieran Dodds/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>Protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, demand greater accountability from corporations and called out “greenwashing.” (Andrew Testa/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>From left; British Prime Minister Boris Johnson, President of Congo Felix Tshisekedi, and President Joe Biden at the United Nations’ COP26 summit in Glasgow, Scotland on Tuesday, Nov. 2, 2021. (Erin Schaff/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>2</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>Police watch protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, who demanded greater accountability from corporations and called out “greenwashing.” (Andrew Testa/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>3</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>Protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, demand greater accountability from corporations and called out “greenwashing.” (Andrew Testa/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>4</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>The lounge area at the United Nations’ COP26 summit in Glasgow, Scotland on Nov. 1, 2021. Presidents and prime ministers have left town. Now the hard work starts, with diplomats hunkering down in a cavernous tent complex at the UN climate talks here for the next week and a half, trying to hammer out deals to cut planet-warming emissions. (Kieran Dodds/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>5</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>Thronging the delegates’ pavilion zone at the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021. (Kieran Dodds/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>6</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>Protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, demand greater accountability from corporations and called out “greenwashing.” (Andrew Testa/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>7</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>A person watches protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, demanding greater accountability from corporations and calling out “greenwashing.” (Andrew Testa/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>8</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>Protesters near the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021, demand greater accountability from corporations and called out “greenwashing.” (Andrew Testa/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>9</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>A meeting room at the main summit venue at the United Nations’ COP26 summit in Glasgow, Scotland on Wednesday, Nov. 3, 2021. President Biden and other heads of state have wrapped up their big speeches at the international climate summit in Glasgow. Now, the tough negotiations begin, largely behind closed doors. (Kieran Dodds/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>10</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 4, 2021</AlphaDate>
+         <StartDate>2021-11-04</StartDate>
+         <EndDate>2021-11-04</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Nov42021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

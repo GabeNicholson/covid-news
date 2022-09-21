@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487141999</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Llamas are having a moment in the US, but they've been icons in South America for millennia</Title>
+      </TitleAtt>
+      <NumericDate>2020-12-18</NumericDate>
+      <StartDate>2020-12-18</StartDate>
+      <EndDate>2020-12-18</EndDate>
+      <AlphaDate>Dec 18, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20201218_138790</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20201218_138790</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Dec182020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Wakild, Emily</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Emily</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Emily Wakild</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Wakild</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Emily Wakild</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/138790/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Farmers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Native peoples</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Alpacas</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Wool</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>South America</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Peru</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="56">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Scientists are also testing synthetic versions of llama nanobodies as technologies for treating diseases such as cystic fibrosis.
+
+Investors who bought llamas and alpacas as livestock didn't fare so well, as there wasn't much of a U.S. market for their milk or wool.
+
+Emily Wakild, Professor of History and Director, Environmental Studies Program, Boise State University&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1016" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;With their long eyelashes, banana-shaped ears, upturned mouths and stocky bodies covered with curly wool, llamas look like creatures that walked out of a Dr. Seuss story. And now they're celebrities in the U.S.&lt;/p&gt;
+&lt;p&gt;Because of their gentle and docile demeanor, llamas are often favorites at petting zoos. They appear at festivals and weddings and have even been deployed as therapy animals.&lt;/p&gt;
+&lt;p&gt;Llamas have also made medical news in 2020. Their immune systems produce nanobodies - tiny antibody fragments much smaller than human antibodies - that have potential as COVID-19 treatments. Scientists are also testing synthetic versions of llama nanobodies as technologies for treating diseases such as cystic fibrosis.&lt;/p&gt;
+&lt;p&gt;But there's much more to know about these engaging animals. In my work as a historian of Latin America, I've studied their long relationship with humans in their Andean mountain homelands. These interactions have shaped everything about llamas, from the length and color of their wool to their dispositions and reproductive habits.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; A camel lineage &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Llamas are the descendants of animals known as wild guanaco, which were domesticated in South America around 4500 B.C. Llamas and guanaco are two of four South American members of the camel family. The others are the alpaca and the vicuña, a wild species renowned for its soft wool.&lt;/p&gt;
+&lt;p&gt;Breeders regularly pair female llamas with male alpacas to create offspring endowed with fine, valuable alpaca wool. Male llamas are bred with female alpacas to increase the wool's weight.&lt;/p&gt;
+&lt;p&gt;These animals were important to the economy of the Incan Empire, which flourished in Peru from about A.D. 1400 to 1533. Incas used their wool to make fabric, which doubled as a form of currency. The animals also provided meat and carried goods over some 25,000 miles of Inca roads.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Miniature gold llama figurine, Peru, Inca, about A.D. 1500, British Museum. BabelStone/Wikipedia, CC BY-SA&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;But the Incas didn't view llamas and their kin just as livestock. Rather, they were deeply woven into the region's culture and spiritual beliefs. Incas and pre-Incas sacrificed llamas and alpacas in religious ceremonies to promote fertility in their herds. They served the animals' meat at state-sponsored celebrations to honor rain gods. And they sacrificed and buried these creatures on newly conquered lands to legitimize Inca presence.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Expertise in your inbox. Sign up for The Conversation's newsletter and get expert takes on today's news, every day.&lt;/i&gt;]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The finest wool &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Archaeologists have unearthed mummified alpacas and llamas in Peru that were more than a thousand years old. The animals had been sacrificed and buried with beads, wool and silver pieces.&lt;/p&gt;
+&lt;p&gt;Analysis of these perfectly preserved specimens revealed their handlers' masterful selective breeding techniques. These animals had soft, wispy, quickly growing wool - finer than today's best cashmere. So what happened to the genes that produced such high-quality wool?&lt;/p&gt;
+&lt;p&gt;They disappeared.&lt;/p&gt;
+&lt;p&gt;After the Spanish took control of the Inca empire in the 1540s, Spanish rulers viewed llamas and alpacas as beasts of burden or sources of meat. Many of the animals died from diseases introduced by the Spaniards' imported sheep and cattle. It took nearly 300 years for Peruvians to achieve independence, and longer for indigenous Andean peoples' population and traditional husbandry practices to resume.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="2"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Indigenous people still adorn their llamas, a tradition that dates back millennia. Tydence Davis/Flicker, CC BY&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Llama dressing &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Today it's not unusual to see llamas dressed in colorful costumes in public squares in Andean towns. This is a longstanding cultural tradition, symbolizing power, respect and reverence among indigenous people, especially in Bolivia and Peru. For example, the Qhapaq Qolla dance, celebrated each July in Paucartambo, Peru, recognizes llamas and their herders as powerful parts of an Andean "cosmovision," or understanding of the universe.&lt;/p&gt;
+&lt;p&gt;Andean cultures possess a holistic worldview that encompasses humans, plants, animals, the land, rivers, mountains, rain, snow and, of course, llamas. Many Andeans associate animals with supernatural beings. Herders in Peru's Ayacucho region believe that their llama and alpaca flocks do not belong to them - they're the property of the "wamani" - spirits that reside within waters or mountain peaks.&lt;/p&gt;
+&lt;p&gt;They believe that llamas act as an essential conduit between people and the wamani, and herders maintain that connection through ritual obligations that often involve the animals. They may adorn llamas, dress up the animals or "marry" llamas to each other on a wedding bed. Docile animals that cooperate in these ceremonies are kept around, reproducing longer and creating future generations with easygoing temperaments.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The ‘modern' llama &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Llamas first arrived in the U.S. in the 19th century, imported for zoos and menageries. In 1914 the mayor of Buenos Aires famously gave one to then-Secretary of State William Jennings Bryan, though it wasn't allowed into the country because it was infected with foot and mouth disease.&lt;/p&gt;
+&lt;p&gt;By the 1980s llamas had become staple attractions at petting zoos, fairs, dude ranches and private parties. Ranchers bought them to chase coyotes away from their sheep. Back-country guides loaded llamas onto jet boats and herded them into Cessnas for "llama packing" adventures and hunting excursions.&lt;/p&gt;
+&lt;p&gt;Investors who bought llamas and alpacas as livestock didn't fare so well, as there wasn't much of a U.S. market for their milk or wool. Lobbyists managed to help the industry in the early 2000s by including alpacas in Section 179 deductions intended to grow small businesses. These measures, which were extended in 2010 and remain in force, treat the purchase of alpacas like tractors or other new equipment.&lt;/p&gt;
+&lt;p&gt;Regardless of these incentives and llamas' cultural popularity, llama ownership in the U.S. has declined from nearly 145,000 animals in 2002 to under 40,000 in 2017. While llamas and alpacas can be found in every state, their populations are largely concentrated in Arizona and the Pacific Northwest.&lt;/p&gt;
+&lt;p&gt;Andean cultures have long fostered relationships of reciprocity between humans and other animals. As medical findings about llama nanobodies suggest, that outlook may be wiser than indigenous South Americans could likely have imagined.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Emily Wakild has received funding from the National Science Foundation, the National Endowment for the Humanities and the Fulbright foundation. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Emily Wakild, Professor of History and Director, Environmental Studies Program, Boise State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>Miniature gold llama figurine, Peru, Inca, about A.D. 1500, British Museum. BabelStone/Wikipedia, CC BY-SA</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>Indigenous people still adorn their llamas, a tradition that dates back millennia. Tydence Davis/Flicker, CC BY</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>2</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 18, 2020</AlphaDate>
+         <StartDate>2020-12-18</StartDate>
+         <EndDate>2020-12-18</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Dec182020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

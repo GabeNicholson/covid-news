@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2627912596</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Decision Delayed On Shots For Young Children</Title>
+      </TitleAtt>
+      <NumericDate>2022-02-12</NumericDate>
+      <StartDate>2022-02-12</StartDate>
+      <EndDate>2022-02-12</EndDate>
+      <AlphaDate>Feb 12, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData HTMLContent="true">Copyright 2022 Dow Jones &amp; Company, Inc. All Rights Reserved.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.1</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7510</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7510_Feb122022______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>DWJNWSJ20220212wjco20220212000099</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1690</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Hopkins, Jared S</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Jared</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Jared S Hopkins</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Hopkins</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>S</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Jared S. Hopkins</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Food &amp; Drug Administration--FDA</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>922190</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Pfizer Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>325412</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>339113</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>BioNTech SE</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>541714</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <PQBCompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="BUSCORP">
+               <CompanyName>Pfizer Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyTickerAtt>
+               <CompanyTicker>PFE</CompanyTicker>
+            </CompanyTickerAtt>
+            <CompanyIDAtt TermVocab="BUSCORP">
+               <CompanyID>246651</CompanyID>
+            </CompanyIDAtt>
+            <CompanyType>Public</CompanyType>
+            <CompanyHQLocation>United States</CompanyHQLocation>
+            <CompanyWebsite>http://www.pfizer.com</CompanyWebsite>
+            <CompanyStockExchange>NYSE</CompanyStockExchange>
+         </PQBCompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Decision making</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical research</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Children &amp; youth</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="958" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;U.S. health regulators said they need more time to decide whether to authorize the Covid-19 vaccine from Pfizer Inc. and BioNTech SE for children under 5 years, after the drugmakers notified them of additional data from a continuing study.&lt;/p&gt;
+&lt;p&gt;The Food and Drug Administration said Friday that it was delaying a decision to consider data from testing under way evaluating a third dose of the vaccine, not just the first two.&lt;/p&gt;
+
+&lt;p&gt;The agency didn't specify the additional data that it had received and had prompted its action, but it said it made the move to include data on the third dose in an authorization decision.&lt;/p&gt;
+&lt;p&gt;"The data that we saw made us realize that we needed to see data from a third dose in the ongoing trial in order to make a determination that we could proceed with doing an authorization," said Peter Marks, who directs the FDA's vaccines division.&lt;/p&gt;
+&lt;p&gt;The FDA had been considering a request by the companies to clear the use of two doses of the vaccine. The agency was then going to look at expanding the authorization to a third dose, should the study show it works safely.&lt;/p&gt;
+&lt;p&gt;The new move will delay the rollout of the shot for children younger than 5, the last age group without access to vaccination.&lt;/p&gt;
+&lt;p&gt;Pfizer and BioNTech said they expect results on whether three doses of the vaccine works safely in early April. Researchers are collecting more data, including from more children in the study who have become infected as more time has passed.&lt;/p&gt;
+&lt;p&gt;Dr. Marks said some of these new Covid-19 cases in the study were subjects infected with the Omicron variant. He said the FDA decided to seek more time because the data from additional infected study subjects was coming in rapidly. Including data from more infected study participants, he said, might enable the FDA to assess the efficacy of the vaccine, rather than simply look to see whether immune responses generated by the shot are comparable to those seen in older people. The FDA was going to make its decision by looking at the immune response.&lt;/p&gt;
+&lt;p&gt;The announcements came on the day that the FDA was expected to release a staff review of the application for use in young children. Instead, the agency didn't release a report and postponed a meeting, scheduled for next week, of vaccine experts who advise the agency on regulatory requests.&lt;/p&gt;
+&lt;p&gt;Some health experts have urged the FDA to hold off on authorization because the testing so far didn't find that the vaccine produced a strong immune response in 2- to 4-year-olds, but only in children under 2. The critics say the agency should wait for results of testing a third, or booster, dose to see if that generates a sufficient immune response.&lt;/p&gt;
+&lt;p&gt;Pfizer and BioNTech were going to wait for results from testing a booster dose before seeking FDA authorization in children under age 5. Yet the FDA urged Pfizer and BioNTech to seek clearance, rather than wait for the booster data.&lt;/p&gt;
+&lt;p&gt;Before the latest move, the government had been making plans to begin distributing the shots. The Centers for Disease Control and Prevention had told local health officials they should be ready to receive shipments by Feb. 21.&lt;/p&gt;
+&lt;p&gt;Rollout of the first two doses for young children would have accelerated their access to a booster, if that third dose were found to work safely and authorized, The Wall Street Journal reported.&lt;/p&gt;
+&lt;p&gt;Yet some vaccine experts said the FDA would face a thorny decision -- and risk undermining its reputation for making decisions based on scientific evidence -- if testing didn't show the booster works.&lt;/p&gt;
+&lt;p&gt;The FDA also could find itself in the difficult position, the experts said, of having cleared for use a vaccine that wasn't found to work in some of the people the agency authorized it for. The FDA says it only clears medicines that research shows are safe and effective.&lt;/p&gt;
+&lt;p&gt;Each dose for the younger children is one-tenth the dose given to older children and adults.&lt;/p&gt;
+&lt;p&gt;Dr. Marks expressed hope that the delay would show parents the agency is conducting a thorough review. "I hope this reassures people that the process has a standard, that the process is one that we follow," he said.&lt;/p&gt;
+&lt;p&gt;In the study evaluating the vaccine in young children, the first two doses didn't provide the kind of immune response researchers say is needed to protect against symptomatic Covid-19 in children 2 to 5 years.&lt;/p&gt;
+&lt;p&gt;Some outside researchers have said children have less mature antibody responses than adults, so they might need an extra dose to get the desired immune response. The companies have declined to speculate.&lt;/p&gt;
+&lt;p&gt;The vaccine did generate a sufficiently strong immune response in children under 2 years.&lt;/p&gt;
+&lt;p&gt;The companies said they hadn't observed any serious safety concerns in testing.&lt;/p&gt;
+&lt;p&gt;Approximately 19 million children in the U.S. are under 5 years. Some parents are eager to vaccinate their children -- a group that was hospitalized in larger numbers during the recent Omicron surge than previously in the pandemic. Many of the hospitalized children had underlying health conditions or were admitted for non-Covid-19 reasons, but also tested positive for the virus, according to research and the government.&lt;/p&gt;
+&lt;p&gt;Pediatricians and health authorities already faced an uphill climb in vaccinating the youngsters before the FDA faced questions whether it would authorize a shot that wasn't found to work in 2- to 5-year-olds.&lt;/p&gt;
+&lt;p&gt;Some 31% of parents of children under 5 years surveyed said they would get their child vaccinated immediately; 12% said they would vaccinate their children only if required to do so, 29% said they would wait, and 26% said they wouldn't seek the vaccine at all, according to a Kaiser Family Foundation survey.&lt;/p&gt;
+
+&lt;p&gt;Credit: By Jared S. Hopkins &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Wall Street Journal</Title>
+         <MpubId>10482</MpubId>
+         <SortTitle>Wall Street Journal</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Eastern edition</Edition>
+         <JournalCode>WSJ</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19590101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Dow Jones &amp; Company Inc</PublisherName>
+            <PublisherAddress>
+               <Address1>U.S. Highway 1 at Ridge Road</Address1>
+               <City>South Brunswick</City>
+               <Province>NJ</Province>
+               <ZipCode>08852</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.dowjones.com/</URL>
+            <PublisherNote>The following are trademarks or service marks
+of Dow Jones &amp; Company, Inc.:
+  The Wall Street Journal (R)
+  Barron's (R)
+  The Wall Street Journal (R) Europe
+  The Asian Wall Street Journal (R)
+  The Wall Street Journal (R) Classroom Edition</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7510</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>00999660</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60541.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics--Banking And Finance</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Wall Street Journal</Title>
+            <SortTitle>Wall Street Journal</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Eastern edition</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7510</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>00999660</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60541.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Wall Street Journal</Title>
+               <SortTitle>Wall Street Journal The</SortTitle>
+               <Qualifier>New York</Qualifier>
+               <EndIssueDate>19590213</EndIssueDate>
+               <Locators>
+                  <Locator Type="ISSN">
+                     <Name>25749552</Name>
+                  </Locator>
+               </Locators>
+               <CatalogNum>60541.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 2, 1984</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19840102</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 12, 2022</AlphaDate>
+         <StartDate>2022-02-12</StartDate>
+         <EndDate>2022-02-12</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7510_Feb122022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

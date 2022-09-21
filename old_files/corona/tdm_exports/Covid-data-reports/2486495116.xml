@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2486495116</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Immigrants are still sending lots of money home despite the coronavirus job losses - for now</Title>
+      </TitleAtt>
+      <NumericDate>2020-10-21</NumericDate>
+      <StartDate>2020-10-21</StartDate>
+      <EndDate>2020-10-21</EndDate>
+      <AlphaDate>Oct 21, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVEB_20201021_148387</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVEB_20201021_148387</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977986_Oct212020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Caron, Laura</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Laura</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Laura Caron</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Caron</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Laura Caron</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Tiongson, Erwin R</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Erwin</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Erwin R Tiongson</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Tiongson</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>R</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Erwin R. Tiongson</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/148387/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>International Bank for Reconstruction &amp; Development--World Bank</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>928120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Migrant workers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Developing countries--LDCs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Gross Domestic Product--GDP</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Unemployment</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Remittances</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Coronavirus Aid Relief &amp; Economic Security Act 2020-US</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Noncitizens</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Bangladesh</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Mexico</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Philippines</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Germany</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Vietnam</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Pakistan</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>El Salvador</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="127">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]the International Organization for Migration interviewed migrants from Mexico and Central America in June and found that 41% had stopped sending remittances, while over 80% of those still sending money had reduced the amounts.
+
+The Organization for Economic Cooperation and Development issued a report on Oct. 19 indicating that the number of visas and residence permits countries issued in the first half of the year fell by 46% from 2019.
+
+The Bill &amp;amp; Melinda Gates Foundation, UKaid through the Department for International Development and the William and Flora Hewlett Foundation are the main funders of 3ie and the World Bank is among its supporters.
+
+Laura Caron, PhD student in Economics, Columbia University Erwin R. Tiongson, Professor of the Practice and Deputy Director, Global Human Development, Georgetown University&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1220" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Banks and aid agencies have been warning of a pandemic-related plunge in the amount of money sent by migrants to family back home who rely on the income. In a typical year, more than 270 million migrants living and working abroad send these cash transfers, known as remittances, to their home countries.&lt;/p&gt;
+&lt;p&gt;Yet so far, despite the lockdowns that have devastated wealthier economies and caused massive unemployment, remittances have generally held up this year. In some cases they've even been higher than usual, based on our review of the latest available data and press releases for top remittance recipient countries. Remittances to Mexico, for example, surged 9.4% in the first eight months of the year. Pakistan is also experiencing a record increase, while cash transfers to such countries as Vietnam and the Philippines have held steady.&lt;/p&gt;
+&lt;p&gt;There a few likely reasons for the positive news for these and other countries - but there's also reason to worry.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; The importance of remittances &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Remittances normally flow from rich countries like the U.S., the United Arab Emirates and Germany to lower- and middle-income countries.&lt;/p&gt;
+&lt;p&gt;In 2019, migrants sent a record US$554 billion home, 20% more than the previous year. This is more than the sum of all investments made by foreign companies in such developing countries and over triple the amount of aid governments provide.&lt;/p&gt;
+&lt;p&gt;Remittances are also more dependable than either international aid or investment. During bad times, remittances tend to increase, while foreign investments usually fall. And beyond directly supporting the intended recipient, they are essential for helping poorer nations fight poverty and improve health care and education.&lt;/p&gt;
+&lt;p&gt;Our research with Michael Clemens on Filipino workers in South Korea, for example, found that overseas work increased investment in their children's education and health care by several hundred percent. In such South Asian countries as Nepal, Pakistan and Bangladesh, remittances have helped reduce poverty.&lt;/p&gt;
+&lt;p&gt;In some countries, remittances are a substantial part of the national economy, in some cases making up as much as 30% of GDP.&lt;/p&gt;
+&lt;p&gt;This is why forecasts of a sharp drop in remittances due to the coronavirus pandemic and lockdowns were so alarming. In April, the World Bank projected a 20% decline in remittances to low- and middle-income countries. This would have amounted to more than $100 billion in lost income, equivalent to two-thirds of all foreign aid distributed by governments in 2019.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Remittances stay strong &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Many countries did experience an initial hit to remittances in the spring, but summer cash transfers mostly made up for it. And some countries have experienced rising remittances throughout the pandemic.&lt;/p&gt;
+&lt;p&gt;Mexico, which took in over $38 billion last year, received the most remittances in a single month ever in March, with cash transfers continuing to surge through the summer. Egypt is seeing a nearly 8% jump this year.&lt;/p&gt;
+&lt;p&gt;In the Philippines, where remittances make up 10% of GDP, money transfers decreased in the spring but mostly recovered later in the year. The story was similar in Vietnam, Bangladesh, El Salvador and Honduras.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Some likely causes &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;So what explains these rising or steady remittance flows? While there's no definitive answer because of a lack of data, there are a few possibilities.&lt;/p&gt;
+&lt;p&gt;Despite the onset of severe recessions, many migrant workers have been able to keep earning income. For one thing, they tend to be employed in essential businesses such as agriculture and construction that have not suffered as much during the pandemic. In Europe, in certain essential sectors, migrant workers account for a third of all workers.&lt;/p&gt;
+&lt;p&gt;And governments in some countries such as Italy and Portugalhave implemented reforms that are making it easier for undocumented workers to access services or even offering temporary citizenship to some. France, Spain and Germany, meanwhile, are opening up sectors of their economy to migrants and asylum seekers that were previously closed to them.&lt;/p&gt;
+&lt;p&gt;All of this makes it easier for migrant workers to keep earning and sending money home to their families, who may be struggling a lot more than their relatives in their wealthy host countries.&lt;/p&gt;
+&lt;p&gt;Research has found that migrant workers often send more remittances home when their countries of origin are experiencing economic hardship. This altruism is the reason many workers choose to migrate abroad in the first place. Jesus Perlera, a worker from El Salvador who has not stopped sending remittances to his mother despite his own economic challenges, told The New York Times: "If I don't support her, how will she eat?"&lt;/p&gt;
+&lt;p&gt;Another factor likely driving remittances is government stimulus spending. While a lot of pandemic aid isn't available to undocumented immigrants in the U.S., California, for one, let them access the $1,200 economic impact checks sent out as part of the coronavirus relief bill. Goldman Sachs credited this coronavirus spending for the strong remittances to Mexico, while the World Bank cited social protection programs such as unemployment and in-kind transfers for shoring up migrant workers around the world.&lt;/p&gt;
+&lt;p&gt;For migrants who are having more difficulty finding work, the decision to move back home may also spur a flurry of remittance activity as they send their savings ahead of their own departures.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;You're smart and curious about the world. So are The Conversation's authors and editors.&lt;/i&gt;You can get our highlights each weekend.]&lt;/p&gt;
+&lt;p&gt;It's also possible some of the apparent increase in remittances, as in Pakistan, is artificial. Traditionally, large amounts of remittances have been sent through informal means, such as cash sent or carried by migrants when they visit home. The pandemic has forced more people to make digital transfers, which are a lot easier to track but don't necessarily indicate an increase in remittances.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; A crash may still come &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;While the fact that remittances have held up is good news for developing countries and their populations, which have been hit especially hard by the pandemic, there are worrying signs that we may yet see the predicted crash.&lt;/p&gt;
+&lt;p&gt;The return of migrants to their home countries means they're no longer able to earn extra money that they can send back to their families. Some 78,000 migrant workers from Bangladesh, for example, have already returned home since April because of the pandemic. And the International Organization for Migration interviewed migrants from Mexico and Central America in June and found that 41% had stopped sending remittances, while over 80% of those still sending money had reduced the amounts.&lt;/p&gt;
+&lt;p&gt;Even as some countries lift restrictions on migrant workers, others are adding new ones or denying visas. The Organization for Economic Cooperation and Development issued a report on Oct. 19 indicating that the number of visas and residence permits countries issued in the first half of the year fell by 46% from 2019.&lt;/p&gt;
+&lt;p&gt;Given how much so many people depend on remittances, we believe aid agencies and governments should monitor the data carefully and do what they can to protect this fragile lifeline.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Laura Caron consults for the World Bank.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Erwin R. Tiongson consults for the World Bank. Some of his previous migration research was funded by 3ie (https://www.3ieimpact.org/). The Bill &amp;amp; Melinda Gates Foundation, UKaid through the Department for International Development and the William and Flora Hewlett Foundation are the main funders of 3ie and the World Bank is among its supporters.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Laura Caron, PhD student in Economics, Columbia University&lt;/p&gt;&lt;p&gt;Erwin R. Tiongson, Professor of the Practice and Deputy Director, Global Human Development, Georgetown University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation :  Economy + Business</Title>
+         <MpubId>4977986</MpubId>
+         <SortTitle>Conversation :  Economy + Business The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVEB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977986</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464265.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Business And Economics</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation :  Economy + Business</Title>
+            <SortTitle>Conversation :  Economy + Business The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977986</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464265.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 21, 2020</AlphaDate>
+         <StartDate>2020-10-21</StartDate>
+         <EndDate>2020-10-21</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977986_Oct212020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

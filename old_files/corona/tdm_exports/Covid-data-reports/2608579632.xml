@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2608579632</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Union battles at Amazon and Starbucks are hot news – which can only be good for the labor movement</Title>
+      </TitleAtt>
+      <NumericDate>2021-12-10</NumericDate>
+      <StartDate>2021-12-10</StartDate>
+      <EndDate>2021-12-10</EndDate>
+      <AlphaDate>Dec 10, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20211210_172932</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20211210_172932</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Dec102021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Logan, John</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>John</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>John Logan</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Logan</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>John Logan</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/172932/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Starbucks Corp</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>722515</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Senate</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>National Labor Relations Board--NLRB</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>926150</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Employees</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Labor law</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Legislation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Unionization</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Labor relations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Media coverage</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Alabama</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="86">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;In a closely watched Nov. 29, 2021, decision, the National Labor Relations Board ruled that Amazon had committed serious violations of federal labor law during a union campaign at a warehouse in Bessemer, Alabama.
+
+[...]at 68%, support for unions is at its highest level since 1965.
+
+A recent poll found that 59% of respondents supported strengthening labor laws through proposals such as penalizing companies that retaliate against workers trying to unionize and eliminating “right-to-work” laws that allow employees to benefit from union contracts without paying dues.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1209" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Union drives have suddenly become hot news.&lt;/p&gt;
+&lt;p&gt;In a closely watched Nov. 29, 2021, decision, the National Labor Relations Board ruled that Amazon had committed serious violations of federal labor law during a union campaign at a warehouse in Bessemer, Alabama. In the decision, the NLRB attacked Amazon’s “flagrant disregard” for election rules, saying it “essentially hijacked the process.” The online retail giant won the union vote, held earlier this year, by a 2-1 margin but will now be forced into a do-over election.&lt;/p&gt;
+&lt;p&gt;Meanwhile in Buffalo, New York, baristas at Starbucks voted to unionize on Dec. 9, making them the coffee chain’s only unionized workforce in the United States in what has been touted as a “watershed” moment.&lt;/p&gt;
+&lt;p&gt;As a labor scholar who has tracked unionization efforts for 20 years, I believe we could be on the cusp of a new labor relations order, spurred in large part by increased media and public interest generated by these high-profile campaigns.&lt;/p&gt;
+&lt;p&gt;The organizing drive at an Amazon warehouse in Alabama by the Retail, Wholesale Department Store Union from January to March 2021 was one of the most closely watched union campaigns in decades. It generated media coverage of Amazon’s anti-union behavior and even arguably helped revive the so-called “labor beat” in newsrooms after years of languishing.&lt;/p&gt;
+&lt;p&gt;The NLRB decision provided negative headlines for Amazon. “Amazon made ‘free and fair’ Bessemer union election ‘impossible,’ labor official rules,” ran the headline of the Alabama news site Al.com. The Jeff Bezos-owned Washington Post ran with: “Labor board calls for revote at Amazon warehouse in Alabama in major victory for union.”&lt;/p&gt;
+&lt;p&gt;Even if it were to win the second ballot without violating the law, Amazon is highly sensitive about negative media, and company officials will likely loathe any coverage of another high-profile union election.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Labor rights go mainstream&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The NLRB order itself was arguably less interesting – despite its huge potential significance at Amazon – than the fact that it resulted in lengthy articles in several major media outlets.&lt;/p&gt;
+&lt;p&gt;Over the past year or so, organized labor has seemingly entered the mainstream again. It follows decades of apparent dwindling interest in union drives in the public sphere. A Google Ngram – which charts the use of terms in publications – shows a decline in the appearance of “unionization” and “union drive” from the late 1970s to the late 2010s.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Labor organizing terms have dwindled in publications.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;This decline correlates with the growing weakness of unions over that period: Unions represent only 10.8% of American workers today, down from 20% four decades ago.&lt;/p&gt;
+&lt;p&gt;Into this decline has come a recent wave of positive press for unions. It corresponds to almost record-high rates of public approval in unions. In fact, at 68%, support for unions is at its highest level since 1965. In addition, most Americans think union decline has hurt working people.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Labor law reform&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The issue of labor rights has seemingly garnered the nation’s attention like nothing I have seen in my lifetime or even in the past half-century. And growing awareness of the issue could have an impact on efforts to improve the legislative environment for unionizing.&lt;/p&gt;
+&lt;p&gt;A recent poll found that 59% of respondents supported strengthening labor laws through proposals such as penalizing companies that retaliate against workers trying to unionize and eliminating “right-to-work” laws that allow employees to benefit from union contracts without paying dues.&lt;/p&gt;
+&lt;p&gt;In the past, lack of public awareness has helped torpedo labor law reform campaigns. In 2009-2010, during the campaign for the Employee Free Choice Act, it was rare to encounter anyone without a professional labor interest who had ever heard of the legislation, which attracted only lackluster support from the Obama White House and died in the Senate.&lt;/p&gt;
+&lt;p&gt;At present, the Biden-supported legislation aimed at strengthening the right to choose a union, the Protecting the Right to Organize Act, is firmly on the back burner despite support from a majority of voters.&lt;/p&gt;
+&lt;p&gt;In the face of opposition from Republicans and three Democrats, the legislation is seen as a long shot in the Senate, which historically has been the graveyard for labor reforms. The PRO Act might similarly die there, although pro-union advocates hope that meaningful financial penalties for employer violations will at least make it into the $2 trillion Build Back Better bill.&lt;/p&gt;
+&lt;p&gt;For the PRO Act to become a live proposition, it would likely need to convert its popular support into pressure on members of Congress.&lt;/p&gt;
+&lt;p&gt;This is the only way, in my view, to achieve meaningful change and make unionizing easier.&lt;/p&gt;
+&lt;p&gt;Headlines that focus on the coercive power that big corporations like Amazon exert over workers participating in elections could go some way to bolster support for union drives.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Labor is hot&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Unions are set to continue to be a talking point in the national media with the Starbucks vote.&lt;/p&gt;
+&lt;p&gt;The coffee chain had been engaged in what was been described as “aggressive” anti-union tactics ahead of the vote, including forcing employees to attend mandatory anti-union meetings. Although it involves only a few dozen workers, the Workers United-SEIU union victory at Starbucks in Buffalo is seen as one of the most important labor organizing victories in several decades.&lt;/p&gt;
+&lt;p&gt;Corporate America has employed brutal anti-union campaigns for decades. What has changed, from my perspective, is that such activities are now seen as newsworthy – at least when the companies involved are household names.&lt;/p&gt;
+&lt;p&gt;This coverage provides a stark contrast with past media coverage, which often depicted unionized workers as “overpaid, greedy and undeserving of their wealth.”&lt;/p&gt;
+&lt;p&gt;In the words of a New York Times article on Nov. 7, 2021, the “media loves labor now.”&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;The Conversation’s Politics + Society editors pick need-to-know stories.&lt;/i&gt; Sign up for Politics Weekly.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Talking union&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In addition to Amazon and Starbucks, in recent months an expanding number and variety of employees have been talking about forming unions at their own workplaces. In the past few months alone we have seen media, tech and museum workers form unions and either stage or threaten strikes.&lt;/p&gt;
+&lt;p&gt;Coverage of the union campaign at Amazon is one reason talk of unionizing is seemingly spreading. But there are other factors, including the COVID-19 pandemic, which has spurred numerous labor fights – big and small – and safety struggles by Amazon warehouse workers and Amazon-owned Whole Foods workers. Meanwhile, the advent of social media has made it easier to create buzz around pro-union campaigns, such as the recent “#Striketober” hashtag campaign.&lt;/p&gt;
+&lt;p&gt;Organizing, it appears, can be contagious – under the right conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Seizing the moment?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;It’s not yet clear that unions and their allies can capitalize on this apparent newfound public attention and convert it into increased membership levels or changes in legislation.&lt;/p&gt;
+&lt;p&gt;But I believe we are at a unique moment in U.S. labor history. The question is, will unions take advantage of the increased media attention – and the negative headlines for high-profile companies attempting to quash workers’ rights – and spur a new era of labor activism?&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;John Logan does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;John Logan, Professor and Director of Labor and Employment Studies, San Francisco State University&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 10, 2021</AlphaDate>
+         <StartDate>2021-12-10</StartDate>
+         <EndDate>2021-12-10</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Dec102021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

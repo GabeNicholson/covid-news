@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2610681634</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>FDA relaxes restriction to obtain abortion pill</Title>
+      </TitleAtt>
+      <NumericDate>2021-12-17</NumericDate>
+      <StartDate>2021-12-17</StartDate>
+      <EndDate>2021-12-17</EndDate>
+      <AlphaDate>Dec 17, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Dec 17, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.1</StartPage>
+         <DocSection>A-Section</DocSection>
+         <DocEdition>Suburban</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Dec172021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20211217FDArelaxesrestrictiontoobtainabortionpil43272fe8</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1570</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>McGinley, Laurie</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Laurie</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Laurie McGinley</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>McGinley</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Laurie McGinley</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Shepherd, Katie</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Katie</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Katie Shepherd</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Shepherd</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Katie Shepherd</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Food &amp; Drug Administration--FDA</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>922190</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Bans</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Medicaid</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Telemedicine</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Gynecology</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>FDA approval</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Uterus</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Restrictions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Election results</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pregnancy complications</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Prescription drugs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Abortion</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Congressional elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>State laws</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Texas</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1857" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;But stricter regulations in 19 states may make decision irrelevant&lt;/p&gt;
+&lt;p&gt;The Biden administration on Thursday ended a long-standing restriction on a medication used to terminate early-stage pregnancies, even as politicians across the United States intensified efforts that represent the most serious challenge to abortion rights in decades.&lt;/p&gt;
+&lt;p&gt;The elimination of the rule by the Food and Drug Administration means abortion pills can be prescribed through telehealth consultations with providers and mailed to patients in states where permitted by law. Previously, the pills could not be mailed, though that regulation had been temporarily suspended by the FDA.&lt;/p&gt;
+&lt;p&gt;In large swaths of the nation, however, strict state rules will dampen the impact. Several states ban sending abortion pills by mail and impose other restrictions.&lt;/p&gt;
+&lt;p&gt;The medication, mifepristone, was approved by the FDA in 2000 for what's known as medication abortion. It is used with a second drug, misoprostol. The FDA required patients to pick up mifepristone in person at a hospital, clinic or medical office. There is no FDA requirement that the medication, also known as RU-486, be taken in a clinical setting, and most patients take it at home.&lt;/p&gt;
+&lt;p&gt;In April, the FDA waived the in-person dispensing requirement during the pandemic, saying research showed the action did not raise "serious safety concerns." It then launched a scientific review to see whether restrictions on mifepristone should be lifted permanently, with Thursday as the deadline.&lt;/p&gt;
+&lt;p&gt;The agency, writing to a medical group that had sued the FDA over the rule, said it was dropping the in-person dispensing requirement "to minimize the burden on the health care delivery system" and "to ensure that the benefits of the drug outweigh the risks." The FDA did not give an effective date for the change.&lt;/p&gt;
+&lt;p&gt;The FDA decision comes as the battle over abortion rights in the United States heats up, with conservative legislatures in states such as Texas passing laws sharply restricting abortion access. The Supreme Court is considering whether to uphold a Mississippi law that violates a key precedent set in &lt;em&gt;Roe v. Wade&lt;/em&gt;, the 1973 decision establishing abortion as a fundamental right protected by the Constitution. The court's decision on the politically charged issue could have far-reaching implications for reproductive health and congressional elections next year and the presidential contest in 2024.&lt;/p&gt;
+&lt;p&gt;The FDA left in place a requirement that prescribers register with the manufacturers, buy mifepristone ahead of time and dispense the medication themselves - something that requires extra work and, abortion rights advocates say, discourages some physicians from prescribing the drug. The agency also kept a requirement that patients sign an additional consent form when receiving the drug and that dispensing pharmacies be certified.&lt;/p&gt;
+&lt;p&gt;Abortion rights groups, while praising the FDA change on in-person dispensing, expressed disappointment that the agency did not get rid of the other restrictions. Antiabortion groups denounced the decision as jeopardizing safety.&lt;/p&gt;
+&lt;p&gt;Mifepristone is used to end pregnancies in more than 60 other countries, according to the FDA, including in at least 14 nations in Europe.&lt;/p&gt;
+&lt;p&gt;The two-drug combination for medication abortion consists of mifepristone, a drug that blocks the hormone progesterone, which is needed for pregnancy, and misoprostol, which empties the uterus. The medication is approved as safe and effective for use in the first 10 weeks of pregnancy, although it is sometimes used "off label" after that.&lt;/p&gt;
+&lt;p&gt;Mifepristone, known by the brand name Mifeprex, is made by Danco Laboratories. A generic version is made by GenBioPro.&lt;/p&gt;
+&lt;p&gt;In 2017, 339,640 patients received medication abortions - about 39 percent of all abortions that year, according to data collected by the Guttmacher Institute, a nonprofit research center based in New York and Washington that supports abortion rights. The FDA estimates that 3.7 million women took the medication between 2000 and 2018.&lt;/p&gt;
+&lt;p&gt;Coverage by health insurance varies widely. Many health plans that cover surgical abortion also pay for abortion drugs, according to Danco. Some states restrict private plan coverage of surgical and medication abortions, while a few states require private insurers to cover them. Medicaid rarely covers the drug; the Hyde Amendment bars using federal dollars for abortion except in cases of rape, incest or when a mother's life is in danger. Some states use their own money to cover abortion medication through Medicaid, but others do not pay for it even when a pregnancy results from rape or incest.&lt;/p&gt;
+&lt;p&gt;Abortion rights advocates called the FDA's lifting of restrictions long overdue - and right on time.&lt;/p&gt;
+&lt;p&gt;"With &lt;em&gt;Roe v. Wade&lt;/em&gt; hanging by a thread, it is especially urgent that the federal government do everything in its power to expand access to this medication," said Julia Kaye, a staff attorney for the American Civil Liberties Union, which sued the FDA over the restrictions on behalf of abortion providers and medical groups.&lt;/p&gt;
+&lt;p&gt;Kaye said that there is no reason to treat mifepristone differently than other prescription drugs and that the in-person pickup requirement imposed a significant burden.&lt;/p&gt;
+&lt;p&gt;"Women have to arrange for transportation and child care, take off work," Kaye said. The change "will allow many patients to access care earlier with fewer burdens and costs."&lt;/p&gt;
+&lt;p&gt;Antiabortion groups decried the FDA step.&lt;/p&gt;
+&lt;p&gt;"The further along in the pregnancy that you use the pills, the greater the complications, the greater the failure rate and then the greater opportunity to get infected or end up in the emergency room," said Susan Liebel, state director for the Susan B. Anthony List, an antiabortion group.&lt;/p&gt;
+&lt;p&gt;Mifepristone may be less effective later in pregnancy, but it is highly effective if used within the first 10 weeks of pregnancy as authorized by regulators. The risk of infection after taking mifepristone is very low, according to the FDA.&lt;/p&gt;
+&lt;p&gt;Liebel and other antiabortion activists argued that an in-person visit with a physician is essential because some rare conditions can result in complications after a medication abortion, and those conditions may not be discovered during a telehealth consultation. They say ultrasounds could detect extremely rare ectopic pregnancies, in which the fertilized egg implants outside of the uterus, which can be life-threatening.&lt;/p&gt;
+&lt;p&gt;In 2019, the American Association of ProLife Obstetricians and Gynecologists petitioned the FDA to strengthen the safety rules and to beef up reporting requirements for complications.&lt;/p&gt;
+&lt;p&gt;Donna Harrison, the group's  chief executive, said the FDA does not have an accurate view of complication rates. "So to say that distribution without medical supervision is safe - that is ridiculous," she said.&lt;/p&gt;
+&lt;p&gt;But a recent study that reviewed medication abortions in Canada after mifepristone became available with a normal prescription in 2017 showed that adverse events and complications remained stable, compared with the period when mifepristone was available only under restriction. Groups including the American College of Obstetricians and Gynecologists and the American Medical Association called for the end of restrictions on the drug.&lt;/p&gt;
+&lt;p&gt;The FDA says that adverse events after taking the medication are rare. Among the estimated 3.7 million patients who took the pill between 2000 and 2018, there have been 24 deaths, with two linked to ectopic pregnancies, according to data collected by the FDA. The agency determined that those deaths cannot be causally attributed to mifepristone because of other health conditions and concerns. The agency also reported 412 infections, with 69 qualifying as severe, among patients who took mifepristone through 2018.&lt;/p&gt;
+&lt;p&gt;Loosening the federal restrictions will not change abortion access in many states with stricter regulations on the pills. Nineteen states have banned receiving the drugs through telehealth appointments, making the relaxed FDA rules irrelevant in places including Alabama, Arizona and Missouri. Some states impose other limitations on medication abortion, including allowing only physicians to prescribe the drug and mandating that patients take the pills under a doctor's supervision rather than at home.&lt;/p&gt;
+&lt;p&gt;As federal officials have moved to ease restrictions on the drug, many states have tightened access. At least 16 states have proposed new restrictions on medication abortions this year, said Elizabeth Nash, state policy analyst for the Guttmacher Institute.&lt;/p&gt;
+&lt;p&gt;"State legislatures have been watching very carefully what happens at the federal level," Nash said.&lt;/p&gt;
+&lt;p&gt;The highest-profile limitations were enacted in Texas, where lawmakers made it a felony to provide abortion pills after seven weeks of pregnancy and outlawed sending the drugs through the mail. Texas also banned nearly all abortion within the state by making any form of abortion illegal after about six weeks of pregnancy, though that law is being challenged in the courts.&lt;/p&gt;
+&lt;p&gt;The differing rules have the potential to widen disparities in abortion access, Nash said.&lt;/p&gt;
+&lt;p&gt;"Access looks very different depending on where you live," Nash said. "Abortion access will continue to be very limited in states in the South, in the Plains and in the Midwest, and more accessible in states along the West Coast and the Northeast. . . . That's problematic in and of itself, and could become an even bigger divide."&lt;/p&gt;
+&lt;p&gt;When mifepristone was approved by the FDA, the agency imposed safety rules because there was limited clinical data from the United States, according to Jane E. Henney, who was the agency's commissioner at the time.&lt;/p&gt;
+&lt;p&gt;In a 2019 opinion article in the New England Journal of Medicine, Henney and Helene D. Gayle, a public health expert who co-chaired a National Academies of Science, Engineering, and Medicine review of medication and surgical abortion, urged the FDA to drop the restrictions as outmoded.&lt;/p&gt;
+&lt;p&gt;The federal restrictions have been the target of legal action for years. In 2017, the ACLU, on behalf of a group of health providers, filed a legal challenge saying the safety requirements were unnecessary. In 2020, the American College of Obstetricians and Gynecologists and another group sued the agency to compel it to waive the in-person dispensing requirement during the pandemic. Acting on that suit, a federal judge in 2020 agreed the rule was unduly burdensome and barred the FDA from enforcing it. But in January 2021, the Supreme Court agreed with the Trump administration, which reinstated the rule.&lt;/p&gt;
+&lt;p&gt;Democrats in Congress have been pressing the FDA for years to get rid of the restrictions on mifepristone.&lt;/p&gt;
+&lt;p&gt;"Needless restrictions are making it harder for women to access the care they need," Rep. Diana DeGette (D-Colo.) said in a statement in August, when more than 70 House members called on the FDA to act.&lt;/p&gt;
+&lt;p&gt;Restrictive state laws are spurring an increase in some areas of what's known as "self-managed abortions" in which patients buy illegal medication on the Internet and terminate pregnancies without interacting with the health-care system.&lt;/p&gt;
+&lt;p&gt;While some see this as a dangerous trend, others say the situation is sharply improved from decades earlier - because of the abortion pills.&lt;/p&gt;
+&lt;p&gt;Abigail Aiken, assistant professor of public affairs at the University of Texas at Austin, said she is often asked whether the country is headed to "back-alley abortions and infections" if &lt;em&gt;Roe v. Wade&lt;/em&gt; is struck down.&lt;/p&gt;
+&lt;p&gt;"One of the things we have that we didn't have in the '60s and '70s is access to abortion pills that are very safe, very effective if you have the right instructions," Aiken said. "Self management is a safety net. And it's also an ability to take your health care into your own hands when the state legislature is trying to block access."&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;
+laurie.mcginley@washpost.com
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;
+katie.shepherd@washpost.com
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 17, 2021</AlphaDate>
+         <StartDate>2021-12-17</StartDate>
+         <EndDate>2021-12-17</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Dec172021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

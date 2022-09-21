@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2500628722</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Vaccine passports may be on the way – but are they a reason for hope or a cause for concern?</Title>
+      </TitleAtt>
+      <NumericDate>2021-03-12</NumericDate>
+      <StartDate>2021-03-12</StartDate>
+      <EndDate>2021-03-12</EndDate>
+      <AlphaDate>Mar 12, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210312_156534</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210312_156534</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Mar122021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Asi, Yara M</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Yara</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Yara M Asi</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Asi</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>M</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Yara M. Asi</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/156534/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>World Health Organization</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>923120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Privacy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Disease transmission</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>China</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Israel</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United Kingdom--UK</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="97">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;In the U.S., President Joe Biden has directed government agencies to “assess the feasibility” of some form of digital vaccine certificate, analogous to the concept of a vaccine passport.
+
+Globally, rich countries have ordered almost all of the currently available vaccines, meaning that the average citizen in a high-income country is much more likely to receive a vaccine than a health care worker or high-risk citizen in lower-income countries.
+
+The World Health Organization has called on nations to make sure that, if implemented, vaccine passports are not responsible for “increasing health inequities or increasing the digital divide.”&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1134" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;After a year of canceled concerts, closed-door sporting events and restricted air travel, vaccine passports are being touted as a way to quicken the route back to normalcy.&lt;/p&gt;
+&lt;p&gt;The premise is straightforward: A digital or paper document will indicate whether individuals have received a COVID-19 vaccination or, in some cases, recently tested negative for the coronavirus. This could allow them to travel more freely within their communities, enter other countries or engage in leisure activities that have largely been closed off during the pandemic.&lt;/p&gt;
+&lt;p&gt;Vaccine passports seem like a desirable alternative to continuing lockdowns until herd immunity – estimated to occur at about a 70%-85% vaccination rate – is achieved.&lt;/p&gt;
+&lt;p&gt;As a global health management researcher, I can certainly see the benefits of vaccine passports. But I’m also aware of the pitfalls. While vaccine passports may open the world to many, they may lead to discrimination – especially against the poor.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Return to the skies&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Undoubtedly there is a desire to get back to normality as quickly as possible.&lt;/p&gt;
+&lt;p&gt;For the tourism industry, which is estimating more than US$1 trillion in losses due to COVID-19, a reopening of travel would be much-needed relief. Even for those able to travel during the pandemic, arrival in most countries has required significant restrictions, often including a hotel quarantine of up to 14 days.&lt;/p&gt;
+&lt;p&gt;Vaccination passports could allow families separated by local lockdowns, or state or country border restrictions, to meet in person.&lt;/p&gt;
+&lt;p&gt;Pushing the case for a digital passport, an executive from Air New Zealand told The Guardian, “Reassuring customers that travel is, in fact, safe is one of our priorities. By using the app, customers can have confidence that everyone onboard meets the same government health requirements they do.”&lt;/p&gt;
+&lt;p&gt;And it isn’t just travel. Passports could also open the door to everyday pursuits that seemed normal before the pandemic. In Israel, the country with the fastest vaccination rate, citizens with a vaccination “green pass” will be allowed entry to gyms, hotels, concerts and indoor dining at restaurants.&lt;/p&gt;
+&lt;p&gt;And some employers are considering requiring proof of vaccination to return to work.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Getting a green pass&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In short, the concept of vaccine passports is no longer theoretical, as it was early in the pandemic, when the World Health Organization recommended against their use.&lt;/p&gt;
+&lt;p&gt;It has even been suggested that the lure of a vaccine passport could result in more people stepping forward to get vaccinated.&lt;/p&gt;
+&lt;p&gt;Israel instituted its green pass program on Feb. 21, both to reopen the economy and to encourage young people to get vaccinated.&lt;/p&gt;
+&lt;p&gt;Other countries are monitoring the success of Israel’s program. The U.K. has shown interest in the idea of vaccine passports, and the 27 member states of the European Union are considering some form of vaccine-certification system to allow easier cross-border travel in the EU.&lt;/p&gt;
+&lt;p&gt;In the U.S., President Joe Biden has directed government agencies to “assess the feasibility” of some form of digital vaccine certificate, analogous to the concept of a vaccine passport.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Pandemic inequities&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This potential opening up of the world after months of restrictions is welcomed. But the concern is that the benefits will not be distributed equitably, and as a result some groups will be disadvantaged.&lt;/p&gt;
+&lt;p&gt;After all, a pandemic once considered a “great equalizer” soon turned out to be anything but.&lt;/p&gt;
+&lt;p&gt;As with most health crises, racial minorities made up a higher proportion of those affected in the U.S. – as seen in their higher rates of hospitalizations and deaths.&lt;/p&gt;
+&lt;p&gt;Disparities along income and racial lines have persisted in vaccination campaigns. In the United States, for example, Black Americans have received the vaccine at half the rate of white Americans, and the disparity is even larger for Hispanic Americans. Globally, rich countries have ordered almost all of the currently available vaccines, meaning that the average citizen in a high-income country is much more likely to receive a vaccine than a health care worker or high-risk citizen in lower-income countries.&lt;/p&gt;
+&lt;p&gt;It is also likely that demographic groups with higher levels of trust in authorities and medical institutions are the most willing to be vaccinated, and this may adversely affect marginalized communities. A recent study found that Black Americans – who have legitimate reasons to distrust the medical establishment – were the least likely of any racial group in the U.S. to say they’d get vaccinated against the coronavirus.&lt;/p&gt;
+&lt;p&gt;As such, vaccination passports could perpetuate existing inequities within countries if those who are vaccinated can enjoy the freedom to move about their community while others remain in lockdown.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;A world divided?&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Given the global imbalance of vaccine availability, it is not difficult to imagine a situation where the citizens of rich countries may regain their rights to travel to environments where local populations are still in some form of lockdown.&lt;/p&gt;
+&lt;p&gt;This potential to further divide the global rich from the global poor is a significant concern. Once economies start to “open” and those with vaccine passports are able to go about their business as usual, the urgency to deal with COVID-19 in marginalized communities may dissipate.&lt;/p&gt;
+&lt;p&gt;Further, vaccination passports may give populations an inaccurate level of risk perception. It is still unclear how long immunity will last. It is also unclear the extent to which virus transmission is limited once one is vaccinated. Public health authorities still suggest that vaccinated individuals wear masks and maintain distancing in public for now, especially if interacting with unvaccinated people.&lt;/p&gt;
+&lt;p&gt;These recommendations have led to concerns that vaccinated tourists, diners and shoppers may act in ways that might risk the unvaccinated service and hospitality employees with whom they are interacting.&lt;/p&gt;
+&lt;p&gt;There are also privacy concerns with vaccine passports, which are primarily being proposed in a digital format.&lt;/p&gt;
+&lt;p&gt;In the U.K., the proposed vaccine certification would come in the form of an app, which could be scanned to gain entry to restaurants and venues. It has sparked concerns that digital passports may infringe on the rights to privacy, freedom of movement and peaceful assembly.&lt;/p&gt;
+&lt;p&gt;Countries that rank low in global freedom indices, such as Bahrain, Brunei and China, are also using apps, often with troubling implications. In China, the app was found to be linked to law enforcement, and as people checked into locations across the city, their locations were tracked by the software.&lt;/p&gt;
+&lt;p&gt;Despite the upsides of vaccines passports, these concerns remain. The World Health Organization has called on nations to make sure that, if implemented, vaccine passports are not responsible for “increasing health inequities or increasing the digital divide.”&lt;/p&gt;
+&lt;p&gt;The danger is that thus far, at every stage the pandemic has exposed society’s inequities. Vaccine passports may perpetuate these inequities as well.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Yara M. Asi is a Non-resident Fellow at the Arab Center DC and a Policy Member of Al-Shabaka.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Yara M. Asi, Post-Doctoral Scholar, Health Management and Informatics, University of Central Florida&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Mar 12, 2021</AlphaDate>
+         <StartDate>2021-03-12</StartDate>
+         <EndDate>2021-03-12</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Mar122021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

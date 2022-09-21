@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2530142245</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>¿Vuelves a la oficina? La temperatura más fría podría provocar un aumento de peso</Title>
+      </TitleAtt>
+      <NumericDate>2021-05-21</NumericDate>
+      <StartDate>2021-05-21</StartDate>
+      <EndDate>2021-05-21</EndDate>
+      <AlphaDate>May 21, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210521_161070</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210521_161070</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_May212021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>McLeod, Kenneth</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Kenneth</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Kenneth McLeod</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>McLeod</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Kenneth McLeod</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/161070/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="86">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;Steelcase.com/Wikipedia, CC BY-NC-SA Con millones de personas vacunadas contra el COVID-19, muchos trabajadores han trabajado desde casa durante el último año volverán a la oficina en 2021.
+
+Esto significa que la tasa metabólica en reposo de una persona con una temperatura corporal de 38.3˚ (el extremo superior de lo normal) es hasta un 30% mayor que si su temperatura fuera de 36.1˚ (el extremo inferior).
+
+Kenneth McLeod, Professor of Systems Science and Director, Clinical Science and Engineering Research Laboratory, Binghamton University, State University of New York&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="796" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Trabajar en un entorno frío durante periodos prolongados puede reducir la temperatura corporal central. Eso disminuye la tasa metabólica -- la rapidez con la que quemamos calorías. Steelcase.com/Wikipedia, CC BY-NC-SA&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Con millones de personas vacunadas contra el COVID-19, muchos trabajadores han trabajado desde casa durante el último año volverán a la oficina en 2021. Adaptarse a las nuevas rutinas es un reto que puede afectar a nuestra salud y a nuestra forma física. Hemos sido más sedentarios o más activos, hemos ganado peso o hemos perdido kilos.&lt;/p&gt;
+&lt;p&gt;Como parte de mi trabajo como ingeniero biomédico, estudio cómo los factores físicos influyen en el metabolismo humano. Esto incluye la altura y el peso, la gravedad – y la temperatura del aire. Mis colegas de investigación y yo hemos descubierto que vivir o trabajar en un entorno frío durante periodos prolongados puede reducir la temperatura corporal central. Eso disminuye la tasa metabólica – la rapidez con la que quemamos calorías – y suele provocar un aumento de peso.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Mantener la temperatura corporal central&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Los humanos somos homeotermos – es decir, mantenemos una temperatura corporal relativamente constante. En concreto, mantenemos nuestra temperatura corporal en el rango de 36.1˚C a 38.3˚C incluso en ambientes fríos. Tres tipos diferentes de actividad metabólica mantienen nuestro cuerpo caliente.&lt;/p&gt;
+&lt;p&gt;El primero es el metabolismo basal. Alrededor de dos tercios de las calorías que quemamos cada día alimentan las funciones corporales básicas, todas las cuales generan calor: la respiración, la circulación sanguínea, el crecimiento celular, la función cerebral y la digestión de los alimentos. Cualquier tipo de movimiento físico también genera calor a través de las reacciones químicas que hacen que los músculos se contraigan.&lt;/p&gt;
+&lt;p&gt;Un tercer proceso de generación de calor tiene lugar en un tejido especializado llamado “grasa marrón”. Se trata de una adaptación evolutiva que nos impidió congelarnos durante las edades de hielo. Se activa cuando nuestra temperatura central desciende a niveles muy bajos, pero la mayoría de las personas pierden su grasa marrón a medida que envejecen.&lt;/p&gt;
+&lt;p&gt;Al aumentar la temperatura corporal, nuestro ritmo metabólico aumenta y quemamos más calorías. Esto genera más calor y eleva aún más nuestra temperatura corporal, creando un proceso de retroalimentación positiva que suele mantener nuestra temperatura corporal en el rango saludable.&lt;/p&gt;
+&lt;p&gt;Pero este proceso es muy sensible a la temperatura. Por cada descenso de un grado en la temperatura corporal, nuestra tasa metabólica puede disminuir en más de un 7%. Esto significa que la tasa metabólica en reposo de una persona con una temperatura corporal de 38.3˚ (el extremo superior de lo normal) es hasta un 30% mayor que si su temperatura fuera de 36.1˚ (el extremo inferior). El aumento de la temperatura corporal en cuatro grados puede quemar más calorías en el transcurso del día que las que quema una persona media como resultado de toda su actividad física diaria.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;La temperatura corporal frente al ejercicio físico&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Por eso, cambiar el entorno físico puede alterar sustancialmente el funcionamiento del cuerpo - y repercutir tanto en la salud como en la forma física. Si estás ganando peso y no está seguro de por qué, comprueba el termostato del lugar donde vive o trabaja.&lt;/p&gt;
+&lt;p&gt;La mayoría de las oficinas tienden a mantenerse cerca de los 21˚C. Por eso muchos de tus compañeros de trabajo se quejan de tener frío, llevan suéteres o chaquetas, o usan un calentador. Esto tiende a ser demasiado frío para la mayoría de las mujeres - y muchos hombres - que se sientan en un escritorio todo el día. Pero más que incómodo, no es saludable.&lt;/p&gt;
+&lt;p&gt;La temperatura ambiente “correcta” es aquella en la que uno se siente cómodo: ni demasiado caliente ni demasiado frío. Por lo general, la temperatura se sitúa entre los 22.2˚C y los 27.2˚C con una humedad moderada, pero puede oscilar entre los 18.3˚C y los 29.4˚C.&lt;/p&gt;
+&lt;p&gt;Trabajar en una oficina fría ralentiza el metabolismo. Además de dificultar el control del peso, la lentitud del metabolismo está relacionada con la disminución de la respuesta inmunitaria, el daño cardíaco y el aumento del riesgo de desarrollar diabetes de tipo 2.&lt;/p&gt;
+&lt;p&gt;Si no puedes controlar el termostato, aún tienes algunas opciones además de llevar un abrigo todo el día. Las nuevas tecnologías incluyen un dispositivo personal vestible que cambia la percepción del calor y el frío; un dispositivo de ejercicio pasivo que aumenta la tasa metabólica incrementando el gasto cardíaco (tengo una participación en Sonostics, la empresa que fabrica este dispositivo); y una versión “inteligente” del tradicional calefactor. Sea como sea, haz lo posible por mantenerte cómodamente caliente en tu futuro lugar de trabajo.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Este artículo fue traducido por Univision.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Kenneth McLeod tiene una participación accionaria en Sonostics. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Kenneth McLeod, Professor of Systems Science and Director, Clinical Science and Engineering Research Laboratory, Binghamton University, State University of New York&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>Trabajar en un entorno frío durante periodos prolongados puede reducir la temperatura corporal central. Eso disminuye la tasa metabólica -- la rapidez con la que quemamos calorías. Steelcase.com/Wikipedia, CC BY-NC-SA</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>May 21, 2021</AlphaDate>
+         <StartDate>2021-05-21</StartDate>
+         <EndDate>2021-05-21</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_May212021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487143430</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Why the flag of South Vietnam flew at US Capitol siege</Title>
+      </TitleAtt>
+      <NumericDate>2021-01-12</NumericDate>
+      <StartDate>2021-01-12</StartDate>
+      <EndDate>2021-01-12</EndDate>
+      <AlphaDate>Jan 12, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20210112_152937</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20210112_152937</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Jan122021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Bui, Long T</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Long</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Long T Bui</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Bui</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>T</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Long T. Bui</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/152937/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>US Capitol</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political campaigns</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Anti-communism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Asian Americans</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Rebellions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Riots</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Democracy</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>South Vietnam</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Vietnam</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="66">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]the rioters flying the South Vietnamese flag were more likely Vietnamese American supporters of Donald Trump.
+
+A nationalist flag After Vietnam gained independence from French colonial rule in 1954, the country split into two, sparking a civil war.
+
+Participants at the Capitol's armed takeover have only begun to be identified, but media outlets captured what appear to be Vietnamese Americans holding up the South Vietnamese flag.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="654" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The violent mob that laid siege to the U.S. Capitol on Jan. 6 carried symbols expressing the purpose of their insurrectionist campaign to derail Joe Biden's electoral certification.&lt;/p&gt;
+&lt;p&gt;Alongside American flags, anti-Semitic banners and Confederate battle flags flew the yellow-and-red striped flag of the former South Vietnam. This confounded many onlookers. One reddit user wondered why the mostly white "anarchist mob" had "coopted" South Vietnamese iconography.&lt;/p&gt;
+&lt;p&gt;In fact, the rioters flying the South Vietnamese flag were more likely Vietnamese American supporters of Donald Trump.&lt;/p&gt;
+&lt;p&gt;Election surveys find that Vietnamese Americans were the only Asian American group in which a majority voted for Trump last year. They are attracted to Trump's hard-line stance against China, anti-communist rhetoric and self-avowed commitment to protecting America against all enemies, foreign and domestic, according to journalists and researchers.&lt;/p&gt;
+&lt;p&gt;The South Vietnamese flag recalls Vietnam's own "failed" democracy - and the people's struggle to save their nation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; A nationalist flag &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;After Vietnam gained independence from French colonial rule in 1954, the country split into two, sparking a civil war. The U.S. helped establish and back South Vietnam, a pro-Western democratic republic that fought communist North Vietnam. American ground troops formally joined the war to defend the south in 1965.&lt;/p&gt;
+&lt;p&gt;In 1975, opposition forces overtook the South Vietnamese capital, Saigon. Crashing through the gates of the main palace, they seized the building and raised the flag of the revolutionary northern government.&lt;/p&gt;
+&lt;p&gt;The fall of Saigon was the turning point of the Vietnam War, which caused over 1 million North Vietnamese deaths, military and civilian, and a quarter-million South Vietnamese casualties. The war killed nearly 50,000 American troops and displaced about half a million people.&lt;/p&gt;
+&lt;p&gt;Many Vietnamese refugees sought asylum in the United States. Today, they invoke the ongoing cultural value of this "fallen" regime by flying the South Vietnam flag at Lunar New Year parades and musical concerts.&lt;/p&gt;
+&lt;p&gt;The flag reflects community solidarity, but it also has a more fraught symbolic meaning.&lt;/p&gt;
+&lt;p&gt;As I wrote in my 2018 book "Returns of War: South Vietnam and the Price of Refugee Memory," some Vietnamese Americans view their fallen homeland as an extension of the American push for freedom and democracy worldwide. I have interviewed Vietnamese American soldiers who fear American freedom is failing and fervently believe in the United States' activity in places like Iraq and Afghanistan.&lt;/p&gt;
+&lt;p&gt;For them, flying the South Vietnam flag is a show of nationalism - a militarized patriotism that is simultaneously South Vietnamese and American.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Changing political loyalties &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;I have also observed how Trump employs old anti-communist tactics that appeal to some conservatives in this community.&lt;/p&gt;
+&lt;p&gt;Last year, he tweeted for his followers to "liberate" the country by force from COVID-19 lockdowns. Hours before the Capitol insurrection, he urged supporters to "fight like hell" to defend his administration.&lt;/p&gt;
+&lt;p&gt;A handful of Vietnamese Americans heeded that call, participating in local "stop the steal" rallies in California. Participants at the Capitol's armed takeover have only begun to be identified, but media outlets captured what appear to be Vietnamese Americans holding up the South Vietnamese flag.&lt;/p&gt;
+&lt;p&gt;These protesters likely believed the United States needed to be saved from socialists - which is what Republicans falsely paint Biden to be - as their white counterparts claimed to believe. Different from their white counterparts, they were inspired to subvert democracy by the memory and politics of the fall of Saigon.&lt;/p&gt;
+&lt;p&gt;Vietnamese fealty to the Republican Party may be waning. Social scientists find younger Vietnamese Americans lean more progressive. Born after 1975, they never fought communism nor fled it as refugees. Like their parents, though, these Vietnamese Americans live in a country at war with itself.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Long T. Bui does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Long T. Bui, Associate Professor of Global and International Studies, University of California, Irvine&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 12, 2021</AlphaDate>
+         <StartDate>2021-01-12</StartDate>
+         <EndDate>2021-01-12</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Jan122021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

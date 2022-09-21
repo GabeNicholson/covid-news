@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2486496312</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>California vetoed ethnic studies requirements for public high school students, but the movement grows</Title>
+      </TitleAtt>
+      <NumericDate>2020-11-25</NumericDate>
+      <StartDate>2020-11-25</StartDate>
+      <EndDate>2020-11-25</EndDate>
+      <AlphaDate>Nov 25, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVED_20201125_148486</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVED_20201125_148486</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977985_Nov252020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Au, Wayne</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Wayne</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Wayne Au</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Au</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Wayne Au</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/148486/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Teaching</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hispanic Americans</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Native North Americans</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Legislation</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Asian Americans</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Multiculturalism &amp; pluralism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Core curriculum</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Race</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Secondary schools</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Secondary school students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Education</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Ethnic studies</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Chicago Illinois</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Connecticut</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Arizona</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Los Angeles California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>San Francisco California</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="109">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;The state government then took aim at the Tucson Unified School District's Mexican American Studies program.
+
+State legislation The current struggle in California highlights how K-12 ethnic studies has become a matter of state policy too.
+
+Since the 2012 ban in Arizona, nine U.S. states - California, Connecticut, Indiana, Nevada, Oregon, Texas, Vermont, Virginia and Washington - and the District of Columbia have passed laws or policies that establish standards, create committees or authorize courses for K-12 ethnic studies specifically, or multicultural history more generally.
+
+[...]an analysis of Tucson's banned Mexican American studies program found that participating in the program increased the likelihood of passing state tests and graduating.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1181" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;California Gov. Gavin Newsom surprised many supporters in his state earlier this fall when he vetoed a bill that would have required public high school students to take ethnic studies. The move was unexpected as, just a few weeks earlier, the state had made ethnic studies mandatory for the California State University system.&lt;/p&gt;
+&lt;p&gt;Furthermore, in 2016 the state passed a measure establishing a commission to create a model ethnic studies curriculum for high schools.&lt;/p&gt;
+&lt;p&gt;Newsom vetoed the bill after a mix of liberals and conservatives argued the curriculum was too radical, and that as drafted it would not encompass all of California's many ethnic communities. In Newsom's opinion, the model curriculum "still needs revision."&lt;/p&gt;
+&lt;p&gt;Despite the veto, California's struggle highlights a growing national movement to teach ethnic studies in K-12 classrooms. As a professor, a scholar of educational justice and the co-editor of the book "Rethinking Ethnic Studies," I have tracked this movement for years.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; What is ethnic studies? &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ethnic studies focuses on student and community identity, history and culture.&lt;/p&gt;
+&lt;p&gt;While it originally emphasized race, ethnic studies now also looks at how gender, sexuality, language and economic class - among other aspects of identity - intersect with race and ethnicity. It requires students to develop an understanding of systematic oppression and encourages them to participate in community activism.&lt;/p&gt;
+&lt;p&gt;For instance, an ethnic studies class might analyze textbooks for omissions about which U.S. presidents were slave owners and then write to the textbook companies. Or it might teach students about the links between anti-Chinese racism and plague in the U.S. at the turn of the 20th century and again today in response to the coronavirus pandemic.&lt;/p&gt;
+&lt;p&gt;Ethnic studies might also teach students about the myths of Thanksgiving and encourage them to challenge these myths at school or at home - and learn more about the experiences of Native American communities.&lt;/p&gt;
+&lt;p&gt;There are a variety of K-12 ethnic studies frameworks in different schools, districts and states. Most include concepts of critical self-reflection, community transformation, social justice in the face of ongoing injustice, caring for self and community, histories of colonization and processes of decolonization, and healing from historical traumas such as slavery and attempted genocide.&lt;/p&gt;
+&lt;p&gt;K-12 ethnic studies also emphasizes teaching through dialogue and other interactive methods - as opposed to lectures and rote memorization. Teachers can then draw on their students' own personal experiences and what they know about their cultures.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; San Francisco students strike &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ethnic studies became an official academic field in 1968 after a coalition of Black, Latino, Asian American and Native American students - known as the Third World Liberation Front - at San Francisco State College (now SFSU) went on strike. Their demands included establishing an ethnic studies department and hiring faculty to teach African American studies and other courses.&lt;/p&gt;
+&lt;p&gt;The rise of ethnic studies on that campus was emblematic of the times, and several K-12 schools across the country followed suit. In the 1970s, African-centered schools opened in Chicago, Los Angeles and other cities. A handful of high schools introduced electives in African American, Asian American, Native American and Mexican American studies.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Arizona bans Mexican American studies &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;However, the current K-12 ethnic studies movement took off when Arizona lawmakers passed HB 2281 in 2010.&lt;/p&gt;
+&lt;p&gt;That law prohibited any course deemed to "promote the overthrow of the United States government or promote resentment toward a race or class of people," or any classes that "advocate ethnic solidarity instead of the treatment of pupils as individuals."&lt;/p&gt;
+&lt;p&gt;The state government then took aim at the Tucson Unified School District's Mexican American Studies program. The program had been under attack by conservative state officials. They claimed it was un-American and biased against white people.&lt;/p&gt;
+&lt;p&gt;When HB 2281 took effect in 2012, officials stopped the Mexican American studies classes in Tucson and removed banned books from classrooms - sometimes while classes were in session.&lt;/p&gt;
+&lt;p&gt;The ban became a flashpoint for educators and activists.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; A national movement grows &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A few large public school districts like Philadelphia and San Francisco created ethnic studies courses before the Arizona ban. But between 2013 and 2018, districts up and down the West Coast like Seattle, Portland, Oakland, Sacramento, Los Angeles and San Diego adopted courses and established departments. In some cases, these school systems made taking ethnic studies classes a graduation requirement.&lt;/p&gt;
+&lt;p&gt;During the same period, ethnic studies programs and courses also began popping up in Austin, Atlanta, Chicago, Bridgeport, Connecticut and Providence, among other cities.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; State legislation &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The current struggle in California highlights how K-12 ethnic studies has become a matter of state policy too.&lt;/p&gt;
+&lt;p&gt;Since the 2012 ban in Arizona, nine U.S. states - California, Connecticut, Indiana, Nevada, Oregon, Texas, Vermont, Virginia and Washington - and the District of Columbia have passed laws or policies that establish standards, create committees or authorize courses for K-12 ethnic studies specifically, or multicultural history more generally.&lt;/p&gt;
+&lt;p&gt;In the same time period, 12 other states have introduced legislation in support of ethnic studies or multicultural history, but those bills have gotten stuck in committee, been postponed or failed.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Teaching about Native Americans &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;It is important to note that K-12 Native American education standards and curriculum have their own history outside of the movement for ethnic studies. Federal and state offices for Native American education have existed for decades.&lt;/p&gt;
+&lt;p&gt;As a 2019 study by the National Congress of American Indians highlights, at least 10 states have standards for, and require, a Native American education curriculum. About a dozen more have standards for teaching content about Native Americans.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; An Arizonan resurgence &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;K-12 ethnic studies has even seen a resurgence in Arizona.&lt;/p&gt;
+&lt;p&gt;A federal judge ruled in 2017 that Arizona's law banning ethnic studies was driven by "racial animus," and therefore unconstitutional. During the 2020 session, Arizona state lawmakers considered Senate Bill 1589, legislation aimed to develop a new "Model Ethnic Studies Curriculum."&lt;/p&gt;
+&lt;p&gt;It never became law, but the fact that it was even introduced in Arizona speaks volumes.&lt;/p&gt;
+&lt;p&gt;Districts and states may be more open to ethnic studies because the research on its effectiveness is promising. For instance, an analysis of Tucson's banned Mexican American studies program found that participating in the program increased the likelihood of passing state tests and graduating. Meanwhile, a study of San Francisco's pilot program found that ethnic studies courses increased attendance by 21%, raised cumulative GPAs by 1.4 points, and increased students' credits toward graduation significantly.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Get the best of The Conversation, every weekend.&lt;/i&gt;Sign up for our weekly newsletter.]&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Inclusive courses in demand &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Given the demographics of the country's students, the movement for ethnic studies should come as no surprise. More than half of the 50 million K-12 students enrolled in U.S. public schools are students of color.&lt;/p&gt;
+&lt;p&gt;Alongside the rise of the Black Lives Matter movement, students are often leading demands for racial justice in education once again. They want a curriculum that includes the voices and perspectives of communities of color, and that desire has increased the demand for ethnic studies in a wide range of communities.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Wayne Au is affiliated with Rethinking Schools. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Wayne Au, Professor of Education, University of Washington, Bothell&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Education</Title>
+         <MpubId>4977985</MpubId>
+         <SortTitle>Conversation : Education The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVED</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977985</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464269.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Education</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Education</Title>
+            <SortTitle>Conversation : Education The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977985</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464269.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 25, 2020</AlphaDate>
+         <StartDate>2020-11-25</StartDate>
+         <EndDate>2020-11-25</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977985_Nov252020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

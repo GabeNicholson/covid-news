@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2432698577</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Italian Sausage, Squash and Pasta Skillet</Title>
+      </TitleAtt>
+      <NumericDate>2020-08-12</NumericDate>
+      <StartDate>2020-08-12</StartDate>
+      <EndDate>2020-08-12</EndDate>
+      <AlphaDate>Aug 12, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Aug 12, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>E.3</StartPage>
+         <DocSection>Food</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Aug122020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20200812ItalianSausageSquashandPastaSkillet0b0124dc</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1510</LexileScore>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Recipes</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pasta</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="431" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;b&gt;Italian Sausage, Squash and Pasta Skillet
+6 servings 
+&lt;/b&gt;
+&lt;p&gt;The saltiness and spiciness of the Italian sausage varies, so taste the mixture after it is browned and add salt and additional heat, if desired.  &lt;/p&gt;
+&lt;p&gt;MAKE AHEAD: The sausage and squash mixture can be made 3 days in advance. Rewarm in a skillet before adding the cooked pasta.&lt;/p&gt;
+&lt;p&gt;Refrigerate leftovers in an airtight container for up to 4 days.&lt;/p&gt;
+&lt;p&gt;From recipes editor Ann Maloney.&lt;/p&gt;
+&lt;b&gt;Ingredients&lt;/b&gt;
+&lt;p&gt;2 teaspoons extra-virgin olive oil&lt;/p&gt;
+&lt;p&gt;1 pound fresh hot Italian sausage, casings removed&lt;/p&gt;
+&lt;p&gt;
+1/2
+cup (about 2 ounces), chopped yellow onion (from 
+1/2
+onion)&lt;/p&gt;
+&lt;p&gt;3 zucchini and/or yellow squash (1 to 1
+1/4
+pounds, total), sliced 
+1/4
+-inch thick&lt;/p&gt;
+&lt;p&gt;3 cloves garlic, thinly sliced&lt;/p&gt;
+&lt;p&gt;
+1/2
+teaspoon dried basil&lt;/p&gt;
+&lt;p&gt;
+1/2
+teaspoon dried oregano&lt;/p&gt;
+&lt;p&gt;
+1/4
+teaspoon dried thyme&lt;/p&gt;
+&lt;p&gt;
+1/2
+teaspoon crushed red pepper flakes, plus more to taste&lt;/p&gt;
+&lt;p&gt;1 (28-ounce) can no-salt finely chopped tomatoes, with their juices&lt;/p&gt;
+&lt;p&gt;
+1/2
+cup water, if needed&lt;/p&gt;
+&lt;p&gt;1 pound whole-wheat or white mezzi rigatoni&lt;/p&gt;
+&lt;p&gt;Finely grated Parmesan cheese, for serving (optional)&lt;/p&gt;
+&lt;p&gt;Fresh basil leaves, for serving (optional)&lt;/p&gt;
+&lt;b&gt;Steps&lt;/b&gt;
+&lt;p&gt;In a large skillet over medium-high heat, heat the oil until shimmering. Add the sausage and cook, breaking up any large pieces with a wooden spoon, until just browned, about 8 minutes.&lt;/p&gt;
+&lt;p&gt;Add the onion and cook, stirring, until just softened, about 3 minutes. Add the zucchini, yellow squash, garlic, basil, oregano, thyme and pepper flakes, stir to combine and cook until fragrant, about 2 minutes.&lt;/p&gt;
+&lt;p&gt;Add the tomatoes and their juices, increase the heat to high, stir and bring the mixture to a boil. Reduce the heat to low, cover, and simmer until the squash is softened, stirring occasionally, about 8 minutes. Add about 
+1/2
+cup water to the tomato can and swish it around. If the mixture  gets too dry, add splashes of the tomato water.&lt;/p&gt;
+&lt;p&gt;Bring a large pot of water to a rolling boil over high heat. While the sausage mixture is simmering, boil the pasta, about 3 minutes less than the package directions indicate. Drain, reserving the pasta water.&lt;/p&gt;
+&lt;p&gt;Add the drained pasta to the skillet and toss it with the sausage mixture to coat. Simmer, adding splashes of pasta water if the mixture is too dry, for 2 to 3 minutes, until the pasta is al dente.&lt;/p&gt;
+&lt;p&gt;Serve the pasta, topping with grated Parmesan and basil, if desired.&lt;/p&gt;
+&lt;p&gt;Nutrition | Per serving: 621 calories, 28 g protein, 64 g carbohydrates, 28 g fat, 9 g saturated fat, 58 mg cholesterol, 594 mg sodium, 9 g dietary fiber, 8 g sugar&lt;/p&gt;
+&lt;p&gt;Recipe tested by Ann Maloney; email questions to food@washpost.com&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 12, 2020</AlphaDate>
+         <StartDate>2020-08-12</StartDate>
+         <EndDate>2020-08-12</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Aug122020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

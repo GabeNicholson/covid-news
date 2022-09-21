@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2355478000</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Trump's Prying Breeds Distress At Justice Dept.</Title>
+      </TitleAtt>
+      <SubTitleAtt HTMLContent="true">
+         <SubTitle>[National Desk]</SubTitle>
+      </SubTitleAtt>
+      <NumericDate>2020-02-16</NumericDate>
+      <StartDate>2020-02-16</StartDate>
+      <EndDate>2020-02-16</EndDate>
+      <AlphaDate>Feb 16, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Feb 16, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>A.1</StartPage>
+         <Pagination>A.1</Pagination>
+         <DocSection>A</DocSection>
+         <ColumnNumber>0</ColumnNumber>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Feb162020______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>816523-20200216</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <FullTextLinkID>https://www.nytimes.com/2020/02/15/us/politics/trump-barr-justice-department.html</FullTextLinkID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1670</LexileScore>
+      <Desk>National Desk</Desk>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Benner, Katie</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Katie</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Katie Benner</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Benner</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Katie Benner</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Lafraniere, Sharon</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Sharon</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Sharon Lafraniere</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Lafraniere</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Sharon Lafraniere</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="3">
+            <Author>
+               <NormalizedDisplayForm>Hong, Nicole</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Nicole</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Nicole Hong</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Hong</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Nicole Hong</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <DocUrl>https://www.nytimes.com/2020/02/15/us/politics/trump-barr-justice-department.html</DocUrl>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Congress</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>921120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="Editorial">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Department of Justice</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>922130</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Evidence</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political activism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Defense contracts</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Attorneys general</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>National security</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Public prosecutors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Criminal sentences</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Presidents</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Congressional investigations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Criminal investigations</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Political ethics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Scandals</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Reputations</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Russia</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="Editorial" TermVocab="PERS">
+            <Personal>Trump, Donald J</Personal>
+         </Term>
+         <Term TermSource="Editorial" TermVocab="PERS">
+            <Personal>Flynn, Michael T</Personal>
+         </Term>
+         <Term TermSource="Editorial" TermVocab="PERS">
+            <Personal>Stone, Roger J</Personal>
+         </Term>
+         <Term TermSource="Editorial" TermVocab="PERS">
+            <Personal>Barr, William P</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1763" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;After a week of tumult, some career prosecutors expressed concerns about political interference and the attorney general's response to the president weighing in on the prosecution of an associate.&lt;/p&gt;&lt;p&gt;WASHINGTON -- In an email a few days ago to the 270 lawyers he oversees, Nicola T. Hanna, the United States attorney in Los Angeles, offered a message of reassurance: I am proud of the work you do, he wrote.&lt;/p&gt;&lt;p&gt;Other U.S. attorneys in the Justice Department's far-flung 93 field offices relayed similar messages of encouragement after President Trump's efforts to influence a politically fraught case provoked the kind of consternation the department has rarely seen since the Watergate era. "All I have to say," another United States attorney wrote to his staff, "is keep doing the right things for the right reasons."&lt;/p&gt;&lt;p&gt;But the fact that the department's 10,000-odd lawyers needed reassurances seemed like cause for worry all by itself.&lt;/p&gt;&lt;p&gt;In more than three dozen interviews in recent days, lawyers across the federal government's legal establishment wondered aloud whether Mr. Trump was undermining the Justice Department's treasured reputation for upholding the law without favor or political bias -- and whether Attorney General William P. Barr was able or willing to protect it.&lt;/p&gt;&lt;p&gt;Mr. Trump elicited those fears by denouncing federal prosecutors who had recommended a prison sentence of up to nine years for his longtime friend and political adviser Roger J. Stone Jr. Mr. Barr fanned them by scrapping the recommendation in favor of a far more lenient one, leading the prosecutors to quit the case in protest.&lt;/p&gt;&lt;p&gt;Mr. Barr then took to national television to complain that Mr. Trump's angry tweets were undermining him and his department's credibility -- a sign to some current and former lawyers that the department's freedom from political influence is in imminent danger. Their worries are compounded by the fact that people in Mr. Trump's circle have been mired in so many criminal or ethical scandals that practically any legal action on those cases could be seen through a political lens.&lt;/p&gt;&lt;p&gt;As many of the department lawyers and some recently departed colleagues see it, Mr. Barr has devoted much of his authority and stature to bolster the president since he took office a year ago.&lt;/p&gt;&lt;p&gt;In ever stronger terms, he has attacked the F.B.I.'s investigation into whether the Trump campaign conspired with Russia to influence the 2016 presidential election. He has said it was mounted on "the thinnest of suspicions" and advanced despite a lack of evidence. The special counsel, Robert S. Mueller III, ultimately found insufficient evidence that the president or his advisers engaged in a criminal conspiracy with Russia but documented their openness to Moscow's sabotage effort.&lt;/p&gt;&lt;p&gt;While he has pledged that the department will not pursue politically motivated investigations, Mr. Barr said this month that he had created an "intake process" for the president's personal lawyer Rudolph W. Giuliani to forward supposed proof of misconduct in Ukraine. Mr. Giuliani has claimed to have evidence damaging to former Vice President Joseph R. Biden Jr. and his son.&lt;/p&gt;&lt;p&gt;This month, Mr. Barr ordered reviews of several politically sensitive cases handled by career prosecutors in Washington, including that of the president's former national security adviser Michael T. Flynn, which has become a flash point for pro-Trump activists.&lt;/p&gt;&lt;p&gt;Meanwhile, Mr. Barr's expansive view of presidential authority has helped Mr. Trump fight off congressional oversight. It was the Justice Department, for instance, that decided it was unnecessary to give Congress the whistle-blower complaint that ultimately led to the president's impeachment.&lt;/p&gt;&lt;p&gt;Mr. Barr's critics say those and other moves have all but invited increasingly aggressive demands from the White House. His supporters in the Justice Department counter that he has used his political capital to protect the department and national security interests. But they sound increasingly worried about whether he will be able to manage the expectations of an ever more volatile president.&lt;/p&gt;&lt;p&gt;Mr. Barr's effort this week to scale back those expectations, officials said, was born of necessity. He is said to have told the president privately that he will not open politically inspired inquiries on Mr. Trump's behalf and that the president's public comments about specific criminal cases are damaging the department's work.&lt;/p&gt;&lt;p&gt;When the president's public outburst over the prosecutors' sentencing recommendation for Mr. Stone made it clear that Mr. Barr's message had not sunk in, Mr. Barr and a few trusted advisers elected to deliver it again in a way that has repeatedly proved effective in grabbing the president's attention: on television, this time in a nationally broadcast interview with ABC News.&lt;/p&gt;&lt;p&gt;By the end of the week, many at the Justice Department's headquarters were uncertain whether that interview would resolve what some called an increasingly untenable situation. Some steeled themselves for a stream of presidential invective or even Mr. Barr's departure in response.&lt;/p&gt;&lt;p&gt;In the legal trenches where the department's lawyers handle controversial cases on a daily basis, some expressed relief that Mr. Barr had defended the department and tried to set boundaries for a president seemingly intent on erasing the red line between political motivations and individual criminal cases that has prevailed since Watergate.&lt;/p&gt;&lt;p&gt;"Thank God," one lawyer said. "I was beginning to be really upset over the sentencing, but I really admire that he told Trump to shut up," said another. A third wrote in a memo: "Barr was EXACTLY right."&lt;/p&gt;&lt;p&gt;But others questioned Mr. Barr's sincerity, saying he was already too closely aligned with Mr. Trump's political priorities to accept his words at face value.&lt;/p&gt;&lt;p&gt;One described Mr. Barr's timing as self-serving, saying that the president had attacked the department before but Mr. Barr spoke up only when he felt his own credibility was on the line. Another suggested that the best way for Mr. Barr to demonstrate his integrity would be to resign.&lt;/p&gt;&lt;p&gt;All spoke on the condition of anonymity because they were not authorized to speak to journalists, or for fear of job repercussions. A spokeswoman for Mr. Barr declined to comment.&lt;/p&gt;&lt;p&gt;The supervisor of one team of prosecutors questioned whether the Stone case portended a presidential crusade to use the department's legal powers to damage his political enemies and help his friends. Is it "a one-off or a trend?" another supervisor in a different office asked.&lt;/p&gt;&lt;p&gt;Some former senior officials predicted that government lawyers, especially those with politically sensitive cases, would face new skepticism in court about the department's motivations.&lt;/p&gt;&lt;p&gt;"I'm sure that some D.O.J. attorneys feel that judges are not going to look at them in the same way," said Mary McCord, a former assistant attorney general for the department's national security division. "And I'm sure there are judges who are going to wonder, 'Can we credit what you say, or is D.O.J. going to come back tomorrow and say something different?"'&lt;/p&gt;&lt;p&gt;Generally, lawyers across the department's vast legal apparatus said they were simply trying to ignore the political drama unfolding in Washington and concentrate on their own work.&lt;/p&gt;&lt;p&gt;In the capital, the Justice Department has been grappling with Mr. Trump's tweets almost since he took office. Amazon is suing the government over its loss of a &lt;span&gt;$&lt;/span&gt;10 billion defense contract, saying Mr. Trump's tweets prove his animosity toward its owner, Jeff Bezos. A team of Justice Department lawyers moved to withdraw from a case over the addition of a citizenship question to the 2020 census after Mr. Trump blindsided them by declaring on Twitter that their assertions in court were "fake."&lt;/p&gt;&lt;p&gt;Until last spring, the impact of Mr. Trump's outbursts about criminal prosecutions were blunted somewhat by the fact that he largely aimed them at Mr. Mueller, whose stature with Congress and the public made it unlikely he would be fired.&lt;/p&gt;&lt;p&gt;Even then, Mr. Trump or his legal team hinted broadly at the prospect of pardons for some associates who faced criminal charges brought by the Mueller team. And Mr. Trump publicly praised one defendant, his former campaign chairman Paul Manafort, even as a federal jury deliberated whether to convict him on financial fraud charges.&lt;/p&gt;&lt;p&gt;But United States attorneys lack the political buffer that Mr. Mueller enjoyed. So Mr. Trump's attacks on the career prosecutors in Mr. Stone's case carry different weight.&lt;/p&gt;&lt;p&gt;In his interview with ABC News, Mr. Barr seemed concerned about the possibility of more mass defections. Three prosecutors withdrew from the Stone case while the fourth resigned from the department entirely the week before Judge Amy Berman Jackson of Federal District Court in the District of Columbia was scheduled to sentence Mr. Stone.&lt;/p&gt;&lt;p&gt;"I hope there are no more resignations," Mr. Barr said. "We, we like our prosecutors and hope they stay."&lt;/p&gt;&lt;p&gt;As Mr. Trump has pointed out on Twitter, two of those prosecutors -- Aaron Zelinsky and Adam C. Jed -- helped carry out the special counsel's investigation, which Mr. Trump detested. Their supervisors reassured them this week that they would suffer no retaliation for withdrawing from the Stone case.&lt;/p&gt;&lt;p&gt;Timothy J. Shea, a close ally of Mr. Barr's who took over this month as interim U.S. attorney for the District of Columbia, sent his staff an email of support this week. "While there are times where reasonable minds may disagree, I respect the work that each of you do, and I will do my best to support our work," he wrote.&lt;/p&gt;&lt;p&gt;Mr. Shea's role is especially fraught because the Washington office, the largest in the country with 300 lawyers, often handles politically sensitive cases and inherited several prosecutions begun under Mr. Mueller. At least some in that office privately complained that Mr. Trump and Mr. Barr both treated Mr. Shea's predecessor, Jessie K. Liu, shabbily.&lt;/p&gt;&lt;p&gt;Ms. Liu, a Trump appointee, was viewed in the office as a leader who helped protect prosecutors from political meddling. But her relationship with other department officials grew strained, especially after she decided there was insufficient evidence to seek an indictment of Andrew G. McCabe, the former deputy director of the F.B.I. and a frequent target of the president, according to two people familiar with the situation.&lt;/p&gt;&lt;p&gt;She was nominated for a top job at the Treasury Department and transferred there this month to await her confirmation. Then this week, the president decided to rescind her nomination, even over Mr. Barr's objections, according to three people familiar with the discussions.&lt;/p&gt;&lt;p&gt;Treasury Secretary Steven Mnuchin delivered the news in a meeting, according to one of them. He gave her no reason for the reversal, and Ms. Liu resigned from the government.&lt;/p&gt;&lt;p&gt;Katie Benner and Sharon LaFraniere reported from Washington, and Nicole Hong from New York. Adam Goldman and Charlie Savage contributed reporting from Washington. Susan Beachy contributed research.&lt;/p&gt;&lt;p&gt;Adam Goldman contributed reporting and Susan Beachy contributed research.&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="Photograph" /&gt;&lt;param name="mstar_entity_inline" value="Y" /&gt;&lt;div class="Photograph_content"&gt;&lt;photo_caption&gt;Many government lawyers are wondering if President Trump is undermining their independence and whether Attorney General William P. Barr can protect them. (PHOTOGRAPH BY DOUG MILLS/THE NEW YORK TIMES) (A22)&lt;/photo_caption&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 16, 2020</AlphaDate>
+         <StartDate>2020-02-16</StartDate>
+         <EndDate>2020-02-16</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Feb162020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2630964051</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Review: At Rothko Chapel, a Composer Is Haunted by a Hero</Title>
+      </TitleAtt>
+      <NumericDate>2022-02-21</NumericDate>
+      <StartDate>2022-02-21</StartDate>
+      <EndDate>2022-02-21</EndDate>
+      <AlphaDate>Feb 21, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright New York Times Company Feb 21, 2022</CopyrightData>
+      </Copyright>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7818</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7818_Feb212022______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>NYT20220221H5jKdNla3wdbPETf5q1GQw</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1520</LexileScore>
+      <DateLine>2022-02-21 @ 15:19</DateLine>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Woolfe, Zachary</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Zachary</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Zachary Woolfe</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Woolfe</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Zachary Woolfe</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>New York Times Co</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511110</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>511120</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515112</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Houston Chamber Choir</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>711130</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Madison Square Garden Co</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>711310</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Piano</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Choirs</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Musicians &amp; conductors</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Musical performances</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Political conventions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Light</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Painting</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Schick, Steven</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Eilish, Billie</Personal>
+         </Term>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Entertainment</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Arts</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Social Conditions And Trends</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Arts, Culture And Entertainment</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Culture (Arts)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Mehretu, Julie</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Mahler, Gustav</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Sellars, Peter</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Park Avenue Armory (Manhattan, Ny)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Rothko, Mark</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Quartet For The End Of Time (Musical Work)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Messiaen, Olivier</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Feldman, Morton</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Tines, Davone</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>New York Times</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Sorey, Tyshawn</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Monochromatic Light (Afterlife) (Musical Work)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Rothko Chapel (Musical Work)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Rothko Chapel</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Houston (Tex)</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Voice And Speech</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Art</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Violins And Violas</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Classical Music</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>Musical Instruments</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1716" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+&lt;p&gt;HOUSTON — The canvases that surround you at the Rothko Chapel here can at first seem merely dark. Entering the space after nightfall Saturday, the interior dimly lit, I struggled to see much of anything in them at all.&lt;/p&gt;
+&lt;p&gt;But even in that calm gloom, my eyes slowly acclimated to the 14 grandly saturnine paintings made by Mark Rothko in the late 1960s. Shadowy rectangles began to emerge, floating over shadow. During a return Sunday afternoon, cloudy gray filtering through the skylight, they seemed practically colorful, layered veils of purple, green, red, blue, brown: a prismatic black. “Dark” both described them and didn’t.&lt;/p&gt;
+&lt;p&gt;As that word has been attached to these Rothkos, though, so have “still” and “glacial” and “spare” been to the music of Morton Feldman — whose “Rothko Chapel” was commissioned around the time of the space’s 1971 opening — and Tyshawn Sorey, whose “Monochromatic Light (Afterlife),” written to honor its 50th anniversary, premiered there this weekend.&lt;/p&gt;
+&lt;p&gt;The surfaces of the paintings, impassively smooth at first glance, gradually offer up textures, depths, hues. And immersion in these patient, seemingly minimal musical responses likewise reveals unexpected densities, whorls, colors, confrontations, uneasy harmonies. Saying these two pieces are “spare” and “glacial” is accurate — and inadequate.&lt;/p&gt;
+&lt;p&gt;Sorey, who has called Feldman his hero, has responded to the chapel and its paintings — as well as to one of late-20th-century music’s classic works — bravely, with a small group of instruments virtually identical to those of “Rothko Chapel.” His differences sometimes even intensify the connection: One of the new elements he introduces — a piano, in addition to Feldman’s celesta — seems, while adding some tonal richness, also to be a nod to Feldman piano works like “Palais de Mari.”&lt;/p&gt;
+&lt;p&gt;“Rothko Chapel” and “Monochromatic Light,” both spacious yet intimate, share a certain ritualistic sobriety, with a choir textlessly hovering over soft, somber beats of percussion. Both feature a solo violist whose phrases — sometimes halting, sometimes expressive — exist in something like a duet of duets. The more immediate pairing is with a punctuating, interrogating keyboardist; more distant, more refracted, more delayed is the viola’s echo in a solo vocalist, who also sings enigmatic phrases without text and is the only other performer permitted lyrical expansion.&lt;/p&gt;
+&lt;p&gt;Both pieces unfold as single movements without clear pulse or meter; the music pauses only occasionally for momentary rests, and both composers’ emphasis on the natural decay of sound means that even those brief silences seem hazily saturated.&lt;/p&gt;
+&lt;p&gt;But “Monochromatic Light,” which will be staged by Peter Sellars this fall at the Park Avenue Armory in New York City, alongside panels by another abstractionist, Julie Mehretu, is roughly double the 25-minute length of “Rothko Chapel.” While Feldman is hardly known for his economy, the earlier piece is almost brisk, its structure compressed and clear, by comparison. And Feldman’s sense of ritual — you always get the feeling that his ensemble is standing side by side, facing you and &lt;i&gt;announcing&lt;/i&gt; the piece — is subtly different than Sorey’s, who implies more of a conversation, a circle. Sorey has shifted Feldman’s vocal soloist, a high female voice, to a low male one, and what was an evocation of the angelic has become something more medieval — a monk chanting in his cloister — and also more human.&lt;/p&gt;
+&lt;p&gt;Commissioned by the chapel and the presenting organization DaCamera, “Monochromatic Light” opens with the faintest shiver of tubular bells, like a carillon heard from miles away, as the performers enter the space, the choir processing down the aisles. The violist eventually plays a quietly piercing, glassy high note, to which the celesta adds another bell-like, candied element.&lt;/p&gt;
+&lt;p&gt;Uncrowded piano chords linger in the air, periodic amens to the viola’s soulful prayers. The choir sings in suspended, shifting yet precise washes of voices. At one point a perfectly luminous chord, spread through the Houston Chamber Choir’s tenors and basses, was cut off by a bleak, sepulchral cluster in the piano and celesta. Questions often go unanswered, Sorey seems to be saying, and sometimes the answer is no.&lt;/p&gt;
+&lt;p&gt;That is also the charged word that bass-baritone Davóne Tines couldn’t help but suggest when he vocalized on the vowel “oh.” But “no” is never an ending in this work. Particularly with Tines and supremely eloquent violist Kim Kashkashian, the dual protagonists, sharing a tone solid yet airy, and seductively keening, the mood of the music was of a patience that burns, with impatience at its energizing core.
+&lt;/p&gt;&lt;p&gt;
+Saturday evening, under spotlights, the purples of the paintings seemed forcibly pulled out, and the music took on a similarly vivid theatricality. On Sunday afternoon, bathed in natural light, the canvases were more serene in their looming brooding, and “Monochromatic Light” felt calmer, too, a touch more fragile. Sensitive percussionist Steven Schick played the opening shimmer of bells with even profounder quiet, and there were more flickers in Kashkashian’s tone.&lt;/p&gt;
+&lt;p&gt;Beyond the omnipresence of Feldman, Sorey glimpses other music. A longing viola motif, as of a hand reaching tentatively toward the sky, evokes Messiaen’s “Quartet for the End of Time.” At one point, I heard in the viola a sliver of the opening of Mahler’s song “Ich bin der Welt abhanden gekommen” (“I am lost to the world”).&lt;/p&gt;
+&lt;p&gt;In such a suggestive work, read into those references, those titles, what you will.&lt;/p&gt;
+&lt;p&gt;
+Unresolved ambiguities abound. Is the viola trying to enter into dialogue with the keyboardist (Sarah Rothenberg, endlessly unflappable), or trying to free herself from it? Do the steadily building beats of bass drum under the choir in one crucial passage represent progress — the choir’s march forward — or the ominous forces pursuing it?&lt;/p&gt;
+&lt;p&gt;And what is the relationship between the violist and the vocalist? Are they aspects of the same character? A promise and a fulfillment? Two composers who looked at the same paintings but never met?&lt;/p&gt;
+&lt;p&gt;A mother and a son? Their intertwining was clearest near the end, if still oblique, when Tines hummed along, barely audible, as Kashkashian played the melody of the spiritual “Sometimes I Feel Like a Motherless Child” over tranquil chords in the piano and vibraphone. This opening out of the music into the realm of social and historical experience and anguish echoes the end of “Rothko Chapel,” when Feldman gives his violist what he called a “quasi-Hebraic melody,” invoking his Jewish heritage, and Rothko’s.&lt;/p&gt;
+&lt;p&gt;For Sorey to interpolate his own invocation, his own heritage, history and memory, is a gesture of both respect and daring. Rarely does a composer present a new work haunted so openly and pervasively by a predecessor’s. But “Monochromatic Light” feels less like a nostalgia trip than a broadening of Feldman’s path deep into the pain and community of our time and the distant but resonant past.
+This article originally appeared in The New York Times.
+&lt;/p&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="2"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The violist Kim Kashkashian and the bass-baritone Davóne Tines perform with the Houston Chamber Choir in Tyshawn Sorey’s new work “Monochromatic Light (Afterlife)” at the Rothko Chapel in Houston, Feb. 19, 2022. Sorey’s “Monochromatic Light (Afterlife),” for the 50th anniversary of the Houston space, closely echoes Morton Feldman’s “Rothko Chapel.” (Michael Starghill Jr./The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="3"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="4"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="5"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="6"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="7"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="8"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Tyshawn Sorey leads the Houston Chamber Choir, the keyboardist Sarah Rothenberg, the violist Kim Kashkashian, the bass-baritone Davóne Tines and the percussionist Steven Schick in his new work “Monochromatic Light (Afterlife)” at the Rothko Chapel in Houston, Feb. 19, 2022. Sorey’s “Monochromatic Light (Afterlife),” for the 50th anniversary of the Houston space, closely echoes Morton Feldman’s “Rothko Chapel.” (Michael Starghill Jr./The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="9"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="10"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="11"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The percussionist Steven Schick plays the tubular bells at the start of Tyshawn Sorey’s new work “Monochromatic Light (Afterlife)” with the Houston Chamber Choir at the Rothko Chapel in Houston, Feb. 19, 2022. Sorey’s “Monochromatic Light (Afterlife),” for the 50th anniversary of the Houston space, closely echoes Morton Feldman’s “Rothko Chapel.” (Michael Starghill Jr./The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="12"/&gt;
+&lt;param name="mstar_lm_alignment" value="Center"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>The violist Kim Kashkashian and the bass-baritone Davóne Tines perform with the Houston Chamber Choir in Tyshawn Sorey’s new work “Monochromatic Light (Afterlife)” at the Rothko Chapel in Houston, Feb. 19, 2022. Sorey’s “Monochromatic Light (Afterlife),” for the 50th anniversary of the Houston space, closely echoes Morton Feldman’s “Rothko Chapel.” (Michael Starghill Jr./The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>2</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>3</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>4</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>5</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>6</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>7</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>Tyshawn Sorey leads the Houston Chamber Choir, the keyboardist Sarah Rothenberg, the violist Kim Kashkashian, the bass-baritone Davóne Tines and the percussionist Steven Schick in his new work “Monochromatic Light (Afterlife)” at the Rothko Chapel in Houston, Feb. 19, 2022. Sorey’s “Monochromatic Light (Afterlife),” for the 50th anniversary of the Houston space, closely echoes Morton Feldman’s “Rothko Chapel.” (Michael Starghill Jr./The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>8</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>9</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>10</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>The percussionist Steven Schick plays the tubular bells at the start of Tyshawn Sorey’s new work “Monochromatic Light (Afterlife)” with the Houston Chamber Choir at the Rothko Chapel in Houston, Feb. 19, 2022. Sorey’s “Monochromatic Light (Afterlife),” for the 50th anniversary of the Houston space, closely echoes Morton Feldman’s “Rothko Chapel.” (Michael Starghill Jr./The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>11</mstar_lm_media_id>
+         </Child>
+         <Child>
+            <Caption>The artist Billie Eilish performs at Madison Square Garden in New York, Feb. 19, 2022. The 20-year-old musician’s staging at Madison Square Garden was minimal compared to many pop extravaganzas. The concert’s power was fueled by her animated presence. (Nicole Fara Silver/The New York Times)</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>12</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>New York Times</Title>
+         <MpubId>11561</MpubId>
+         <SortTitle>New York Times</SortTitle>
+         <Qualifier>New York, N.Y.</Qualifier>
+         <Edition>Late Edition (East Coast)</Edition>
+         <JournalCode>NYT</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18570101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>New York Times Company</PublisherName>
+            <PublisherAddress>
+               <Address1>620 8th Ave</Address1>
+               <City>NEW YORK</City>
+               <Province>NY</Province>
+               <ZipCode>10018</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.nytimes.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7818</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>03624331</Name>
+            </Locator>
+            <Locator Type="CODEN">
+               <Name>NYTIAO</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60001.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>New York Times</Title>
+            <SortTitle>New York Times</SortTitle>
+            <Qualifier>New York, N.Y.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Edition>Late Edition (East Coast)</Edition>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7818</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>03624331</Name>
+               </Locator>
+               <Locator Type="CODEN">
+                  <Name>NYTIAO</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60001.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>1</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jun 1, 1980</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19800601</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 21, 2022</AlphaDate>
+         <StartDate>2022-02-21</StartDate>
+         <EndDate>2022-02-21</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7818_Feb212022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

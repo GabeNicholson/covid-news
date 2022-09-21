@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2578534312</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Millions for housing misspent, report says</Title>
+      </TitleAtt>
+      <NumericDate>2021-10-03</NumericDate>
+      <StartDate>2021-10-03</StartDate>
+      <EndDate>2021-10-03</EndDate>
+      <AlphaDate>Oct 3, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright WP Company LLC d/b/a The Washington Post Oct 3, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>C.5</StartPage>
+         <DocSection>Metro</DocSection>
+         <DocEdition>Suburban</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7653</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7653_Oct32021______</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>WPXXWP20211003Millionsforhousingmisspentreportsays69ad3932</MSTARLegacyID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1720</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Lang, Marissa J</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Marissa</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Marissa J Lang</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Lang</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>J</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Marissa J Lang</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Site planning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Conflicts of interest</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Family income</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Councils</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Affordable housing</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Low income groups</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Community development</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Trust funds</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1004" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;
+&lt;p&gt;Findings come as city grapples with severe lack of affordable housing&lt;/p&gt;
+&lt;p&gt;D.C. officials in fiscal 2020 misspent nearly $82 million of affordable-housing funds earmarked for extremely low-income residents, according to a report from the Office of the Inspector General.&lt;/p&gt;
+&lt;p&gt;The report, which was released Thursday, describes what it says is the District's failure to properly monitor the vast majority of projects funded through the Housing Production Trust Fund - the city's primary tool for financing affordable housing amid a persistent and dire shortage - and to recoup more than $10 million in past-due loans. It also raises questions about the District's process in awarding contracts for affordable-housing development, deals the OIG found often went to lower-scoring applicants.&lt;/p&gt;
+&lt;p&gt;The OIG's findings come amid deepening anxiety in the District over a severe lack of affordable housing as rising costs continue to transform the city by attracting an influx of newcomers and pricing longtime residents out of their neighborhoods.&lt;/p&gt;
+&lt;p&gt;In the coming months, evictions in D.C. are poised to gradually resume after an 18-month-long stoppage imposed because of the ongoing coronavirus pandemic.&lt;/p&gt;
+&lt;p&gt;The Department of Housing and Community Development, which administers the District's affordable-housing programs, wrote in an emailed statement Saturday that the agency expects to put $63.2 million toward "deeply affordable units" in fiscal 2022, roughly $5 million more than the entire Housing Production Trust Fund contained the year Muriel E. Bowser (D) took office as mayor in 2015.&lt;/p&gt;
+&lt;p&gt;"This report ignores this tremendous success of Housing Production Trust Fund," spokesman Richard Livingstone wrote. "We know we have more work to do, and together we will continue to deliver unprecedented numbers of affordable units for our residents."&lt;/p&gt;
+&lt;p&gt;The report noted that although at least 50 percent of Housing Production Trust Fund spending is legally required to provide housing to households with incomes below 30 percent of the median annual family income - which in D.C. is to about $38,700 for a family of four - far less of the affordable housing created using city funds was affordable for the city's poorest residents. Most of the affordable housing created was instead meant for households considered to be very-low-income (50 percent of the median family income or $64,500 for a family of four) or low-income (80 percent of the median family income or $82,300 for a family of four).&lt;/p&gt;
+&lt;p&gt;"I am pleased that the OIG report confirms that our intentional approach to targeting the lower income bands is working," Polly Donaldson, who has just retired as director of the D.C. Department of Housing and Community Development, wrote in a response to the OIG. "However, as I have acknowledged to the D.C. Council and the general public, we know we need to do more to coordinate HPTF investment at extremely low-income levels."&lt;/p&gt;
+&lt;p&gt;The OIG found that D.C. officials could not guarantee that 88 percent of 209 development deals backed by D.C. loans specifically created to underwrite affordable-housing projects - to the tune of nearly $795 million in public funds - actually built or preserved affordable housing units.&lt;/p&gt;
+&lt;p&gt;In several cases, the report stated, D.C. overpaid developers beyond what had been requested in project proposals and without seeing the number of affordable housing units in those buildings increase accordingly. This overpayment, the OIG found, resulted in a loss of more than $14 million in fiscal 2020.&lt;/p&gt;
+&lt;p&gt;Even after the buildings were constructed, investigators wrote, problems persisted.&lt;/p&gt;
+&lt;p&gt;In several cases, OIG officials found landlords overcharging tenants in affordable housing units beyond the maximum allowable rents D.C. law permits. In one apartment complex surveyed, which was built using affordable housing funds, 14 of 19 affordable housing units were being rented at rates higher than D.C. law allows, according to the report.&lt;/p&gt;
+&lt;p&gt;This is not the first time the District's housing arm has come under fire for its mismanagement of affordable housing dollars.&lt;/p&gt;
+&lt;p&gt;In 2017, the Office of the D.C. Auditor found that program had let millions of dollars in loan repayments go uncollected from developers while many low-cost apartments were filled by tenants whose incomes were not verified before they moved in.&lt;/p&gt;
+&lt;p&gt;The OIG this past week issued 20 recommendations to the D.C. Department of Housing and Community Development to improve its management of the affordable housing fund, according to a letter sent to that agency on Thursday. DHCD has begun to implement about half of the proposals, according to the report, but did not agree with others.&lt;/p&gt;
+&lt;p&gt;The agency refused to implement eight of the recommendations, including establishing a conflict of interest disclosure procedure for all DHCD employees engaged in selecting development projects. The agency wrote in a response that "there are no instances of any conflict of interest issues amongst DHCD employees engaged in project selection." DHCD also refused to create a process to obtain a written waiver from the D.C. Council before backing projects that fall below the affordable housing funding obligations required by D.C. law, saying it is unfeasible to do so.&lt;/p&gt;
+&lt;p&gt;"The DC Council is aware that the statutory requirements have never been met since established in 2002 and even framed them as aspirational goals," Livingstone said in an emailed statement. "The report foolhardily paints missing aspirational goals as a misuse of funds."&lt;/p&gt;
+&lt;p&gt;Bowser announced Thursday that an additional $400 million would be made available via the Housing Production Trust Fund, a step she touted as moving the District closer to its goal of adding 36,000 new homes by 2025. Bowser has infused the affordable housing fund with $1 billion since 2015, her office said.&lt;/p&gt;
+&lt;p&gt;"But now there's more work to do and more housing to build," she said in a statement.&lt;/p&gt;
+&lt;p&gt;The mayor's financial plan for fiscal years 2021 and 2022 also establishes a Local Rent Supplement Program to "better target funds to deeply affordable units" meant to provide housing to families at or below 30 percent of the median family income. The mayor's office noted that these investments are poised to deliver an estimated 2,700 units of affordable housing over the next three years, with up to 1,100 of those being "deeply affordable."&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;
+marissa.lang@washpost.com
+&lt;/p&gt;
+&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Washington Post</Title>
+         <MpubId>10327</MpubId>
+         <SortTitle>Washington Post The</SortTitle>
+         <Qualifier>Washington, D.C.</Qualifier>
+         <JournalCode>TWP</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19740101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>WP Company LLC d/b/a The Washington Post</PublisherName>
+            <PublisherAddress>
+               <Address1>1301 K Street, N.W.</Address1>
+               <City>Washington</City>
+               <Province>DC</Province>
+               <ZipCode>20071</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <URL>http://www.washingtonpost.com/</URL>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7653</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>01908286</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60208.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="LION_CONTENT_TYPE">Reviews</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Washington Post</Title>
+            <SortTitle>Washington Post The</SortTitle>
+            <Qualifier>Washington, D.C.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7653</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>01908286</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60208.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>The Washington Post</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19540317</EndIssueDate>
+               <CatalogNum>60208.A0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post, Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19731231</EndIssueDate>
+               <CatalogNum>60208.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>The Washington Post and Times Herald</Title>
+               <Qualifier>Washington, D.C.</Qualifier>
+               <EndIssueDate>19590827</EndIssueDate>
+               <CatalogNum>60208.B0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Feb 01, 1988</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <StartVolume>111</StartVolume>
+            <StartIssue>58</StartIssue>
+            <NumericStartDate>19880201</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Oct 3, 2021</AlphaDate>
+         <StartDate>2021-10-03</StartDate>
+         <EndDate>2021-10-03</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7653_Oct32021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

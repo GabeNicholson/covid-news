@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2487141719</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Nature and nurture both contribute to gender inequality in leadership - but that doesn't mean patriarchy is forever</Title>
+      </TitleAtt>
+      <NumericDate>2020-08-18</NumericDate>
+      <StartDate>2020-08-18</StartDate>
+      <EndDate>2020-08-18</EndDate>
+      <AlphaDate>Aug 18, 2020</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20200818_123311</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20200818_123311</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Aug182020______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <DisplayForm>Christopher von Rueden</DisplayForm>
+               <OriginalFormAtt>
+                  <OriginalForm>Christopher von Rueden</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/123311/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Gender differences</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Men</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Leadership</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Social exclusion</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Females</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Evolution</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Women</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Inequality</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Patriarchy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Egalitarianism</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Males</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Competition</GenSubjValue>
+         </GenSubjTerm>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="67">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]people should call attention to those traits that help elevate many unqualified men to positions of power.
+
+[...]people should scrutinize the extent to which organizations reward men's more than women's preferred forms of competition and cooperation.
+
+In other contexts, perhaps the majority, leader effectiveness may depend more on risk aversion, less direct forms of competition, and more empathy-driven forms of relationship-building - on average favoring women leaders.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1038" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Kamala Harris' candidacy as vice president of the United States provoked familiar criticism, based in part on her identity as a woman. Critics find her too angry, too confident, too competitive. But when women do act less competitively, they are seen as less capable of leadership. This is the "double-bind" women face when aspiring to leadership positions.&lt;/p&gt;
+&lt;p&gt;To overcome it, we need to understand where it comes from. Why do gender norms privilege men as leaders?&lt;/p&gt;
+&lt;p&gt;Some psychologists tie the origins of gender norms to aspects of our nature - the greater physical strength of men and pregnancy and breastfeeding in women. The idea is that in our hunter-gatherer ancestors, physical strength made men more efficient at, and thus more likely to specialize in, tasks like hunting or warfare. Ancestral women specialized in tasks like infant care, which could be compromised by excessive risk-taking or competitiveness. This got the ball rolling, so the argument goes, toward gender norms that women be less competitive than men, including in the pursuit of leadership.&lt;/p&gt;
+&lt;p&gt;As an evolutionary anthropologist who studies leadership, I think this evolutionary explanation is not especially persuasive on its own. My view is that gender norms are not just influenced by the evolution of our bodies, but also by the evolution of our minds.&lt;/p&gt;
+&lt;p&gt;Men didn't specialize in tasks like hunting just because of greater muscle mass, but also because men evolved to take risks to "show-off" and to overtly compete more than women. These are only average differences - many women are more overtly competitive than the average man.&lt;/p&gt;
+&lt;p&gt;Nevertheless, evolved sex differences in behavior contribute to - but neither determine nor ethically justify - the gender norms that societies create. I suggest that taking an evolutionary perspective can actually help reduce gender inequality in leadership.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Evolutionary origins of sex differences in competition &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Across animal species, males tend to compete more violently and more frequently than females. Many evolutionary biologists theorize this is due to sex differences in parental investment. As females spend time bearing and nursing young, males have access to a smaller remaining pool of potential mates. Facing greater competition over mates, males tend to evolve greater body mass, weaponry such as horns, and physical aggression to prevail against rivals. Females tend to evolve greater selectivity in their use of aggression, in part because injury can impede parenting.&lt;/p&gt;
+&lt;p&gt;Do human beings fit these trends? A man of average physical strength is stronger than 99% of women. Even in the most egalitarian small-scale societies, studies find that men are likely to be more physically aggressive and more likely to directly compete against others.&lt;/p&gt;
+&lt;p&gt;Across studies, women are more often observed to engage in indirect competition, such as gossip or social exclusion. Women's willingness to compete may also be more selective. For example, when competition directly benefits their children or when results are not made public, women, on average, can be as competitive as men.&lt;/p&gt;
+&lt;p&gt;Men may also have evolved greater motivation to compete by forming large, hierarchical coalitions of same-sex peers. Men can be quicker to resolve low-level conflicts - which goes along with valuing relationships based on how much they help with coalition-building. Women's same-sex coalitions tend to be smaller and more egalitarian, enforced through threat of social exclusion.&lt;/p&gt;
+&lt;p&gt;Historically, these average sex differences influenced the creation of gender norms to which women and men were expected to conform. These norms restricted women's activities beyond the household and increased men's control over politics.&lt;/p&gt;
+&lt;p&gt;Importantly, different environments can strengthen or weaken sex differences. Evolution is not deterministic when it comes to human behavior. For example, in societies where warfare was frequent or food production was more reliant on men's labor, you're more likely to find cultural emphasis on male competitiveness and coalition-building and restriction of women's opportunities.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt; Implications for dismantling patriarchy &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Recognizing the influence of evolution on behavior and gender norms isn't just of academic interest. I think it can suggest ways to reduce gender inequality in leadership in the real world.&lt;/p&gt;
+&lt;p&gt;First, trying to get women and men to on average behave the same - like simply encouraging women to "lean in" - is unlikely to have tremendous effect.&lt;/p&gt;
+&lt;p&gt;Second, people should call attention to those traits that help elevate many unqualified men to positions of power. These traits include larger body size, and men's greater tendency to self-promote and to exaggerate their competence.&lt;/p&gt;
+&lt;p&gt;Third, people should scrutinize the extent to which organizations reward men's more than women's preferred forms of competition and cooperation. Organizational goals can suffer when competitive masculinity dominates an organization's culture.&lt;/p&gt;
+&lt;p&gt;Fourth, organizations that have a more equitable mix of male and female leaders have access to more diverse leadership styles. This is a good thing when it comes to tackling all kinds of challenges. In certain scenarios, leader effectiveness may hinge more on risk-seeking, direct competitiveness and creation of rigid hierarchies - on average favoring male leaders.&lt;/p&gt;
+&lt;p&gt;In other contexts, perhaps the majority, leader effectiveness may depend more on risk aversion, less direct forms of competition, and more empathy-driven forms of relationship-building - on average favoring women leaders. This case has been made for responses of women-led governments to the current coronavirus pandemic, particularly relative to the bravado of presidents like Donald Trump or Jair Bolsonaro.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Deep knowledge, daily.&lt;/i&gt;Sign up for The Conversation's newsletter.]&lt;/p&gt;
+&lt;p&gt;Finally, people can rely on other human tendencies - including the impulse to emulate the prestigious - to chip away at gender norms that favor men as leaders. The more that existing leaders, male or female, promote women as leaders, the more it normalizes women at the top. A now-famous study in India randomly assigned villages to elect women as chief councilors; girls in those villages subsequently completed more years of formal education and were more likely to aspire to careers outside the home.&lt;/p&gt;
+&lt;p&gt;Patriarchy is not an inevitable consequence of human nature. Rather, better understanding of the latter is key to ending the "double-bind" that keeps women out of leadership.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Christopher von Rueden does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Christopher von Rueden, Associate Professor of Leadership Studies, University of Richmond&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Aug 18, 2020</AlphaDate>
+         <StartDate>2020-08-18</StartDate>
+         <EndDate>2020-08-18</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Aug182020______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

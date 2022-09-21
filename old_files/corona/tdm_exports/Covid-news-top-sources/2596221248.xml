@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2596221248</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Draft maps split Latino district apart; Rep. Roybal-Allard would lose seat under redistricting plan that experts say will hurt group's voting power.</Title>
+      </TitleAtt>
+      <NumericDate>2021-11-12</NumericDate>
+      <StartDate>2021-11-12</StartDate>
+      <EndDate>2021-11-12</EndDate>
+      <AlphaDate>Nov 12, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Los Angeles Times Nov 12, 2021</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>B.1</StartPage>
+         <Pagination>B.1</Pagination>
+         <DocSection>California; Part B; Metro Desk</DocSection>
+         <DocEdition>HOME EDITION</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7683</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7683_Nov122021</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>LATMLATM2021111219242</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>LATMLATM2021111219242</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1530</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Mehta, Seema</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Seema</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Seema Mehta</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Mehta</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Seema Mehta</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Republican Party</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>813940</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Maps</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Hispanic Americans</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Censuses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Redistricting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Candidates</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Congressional elections</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Voter behavior</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>California</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Los Angeles California</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Roybal-Allard, Lucille</Personal>
+         </Term>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>ROYBAL, LUCILLE</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>CALIFORNIA</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>REAPPORTIONMENT</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>CITIZENS REDISTRICTING COMMISSION</TitleKeyword>
+         </FlexTerm>
+         <FlexTerm TermSource="EXT">
+            <TitleKeyword>HISPANICS</TitleKeyword>
+         </FlexTerm>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="787" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Veteran Rep. Lucille Roybal-Allard would lose her district that includes South and East Los Angeles under draft congressional maps approved by the state's redistricting commission, a blow to Latino representation in California, according to political analysts.&lt;/p&gt;
+&lt;p&gt;The Downey congresswoman did not respond to questions about the fate of her district or her plans but acknowledged unhappiness with the commission's proposal.&lt;/p&gt;
+&lt;p&gt;"I am aware of the current draft map and I have concerns about the protections of Voting Rights [Act] districts and in particular the diluting of the vote in our Latino communities," Roybal-Allard said in a statement to The Times. "I look forward to the commission appropriately addressing these issues before final maps are approved."&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The 80-year-old represents the 40th Congressional District, which was determined to have the most Latino voters of any district in the country after the 2010 census. In addition to parts of East and South Los Angeles, it includes Bell, Bell Gardens, Commerce, Cudahy, Downey, Huntington Park, Maywood, Paramount, Vernon and a section of Bellflower.&lt;/p&gt;
+&lt;p&gt;Roybal-Allard has served in Congress since 1993, and her father served in the House for the three decades prior. She has been the subject of speculation about whether she would retire, in part because Roybal-Allard has raised very little money this year for her reelection.&lt;/p&gt;
+&lt;p&gt;Under the proposal, Roybal-Allard's district is effectively eliminated and she is drawn into a district with fellow Democrat Rep. Alan Lowenthal of Long Beach that heavily favors him.&lt;/p&gt;
+&lt;p&gt;The commission proposed 13 districts that would have a majority of Latino voters, though some questioned whether there should be more given the growing Latino population in California.&lt;/p&gt;
+&lt;p&gt;"We are deeply concerned that we continue to reduce the power of our communities as the turnout of the maps was not what our community had been hoping for," said Kimberly Fuentes, spokeswoman for the California chapter of the League of United Latin American Citizens.&lt;/p&gt;
+&lt;p&gt;Roybal-Allard is not the only incumbent who is under threat in the draft maps. Others are endangered because their districts were drawn to include more voters from their rival political party, most notably GOP Rep. Devin Nunes of Tulare and Democratic Rep. Josh Harder of Turlock, according to redistricting analysts in both parties. Reps. Mike Garcia of Santa Clarita, Michelle Steel of Seal Beach and Darrell Issa of Bonsall are among the members of the California delegation who could see their reelection bids become more competitive.&lt;/p&gt;
+&lt;p&gt;But overall, the California congressional delegation's partisan mix is likely to stay relatively stable under the draft maps.&lt;/p&gt;
+&lt;p&gt;Darry Sragow, a Democratic strategist and publisher of the nonpartisan California Target Book, said that if national Democrats are looking at California to flip enough seats to affect control of the House, they should look elsewhere.&lt;/p&gt;
+&lt;p&gt;"You look at these maps and we'll do extremely well to exit the November 2022 elections with 42 Democrats," the current number in the delegation, he said. "The notion that somehow maybe Democrats pick up some extra seats in California that would be critical in keeping the majority is a pretty remote possibility."&lt;/p&gt;
+&lt;p&gt;California's congressional delegation today is comprised of 42 Democrats and 11 Republicans. But the state is losing a seat for the first time in its history because its population growth slowed compared to other parts of the country.&lt;/p&gt;
+&lt;p&gt;Congressional districts are redrawn every decade after the U.S. census releases new population counts. California is one of a handful of states that has an independent panel draw the maps rather than partisans who gerrymander or are motivated by political convenience.&lt;/p&gt;
+&lt;p&gt;The commission must map districts that contain about 761,000 people, that do not disenfranchise minorities and that attempt to keep similar communities together. Controversies over that last goal are brewing around the state, including in Sacramento and Long Beach, which were split in half in the draft maps.&lt;/p&gt;
+&lt;p&gt;The panel's task was made more difficult this year because of the loss of a seat and because the census data that the maps are based upon were delayed for months, largely because of the pandemic.&lt;/p&gt;
+&lt;p&gt;Matt Rexroad, a GOP redistricting expert, said the conjecture about the maps was meaningless because the commissioners said they plan to modify the drafts significantly before they finalize them.&lt;/p&gt;
+&lt;p&gt;"The only thing we know for sure is there are going to be a lot of changes," he said.&lt;/p&gt;
+&lt;p&gt;The 14-member California Citizens Redistricting Commission's unanimous vote to approve the draft maps on Wednesday kicked off two weeks of public review.&lt;/p&gt;
+&lt;p&gt;The panel must release final maps by Dec. 23 and vote on them by Dec. 27.&lt;/p&gt;
+&lt;p&gt;Caption: PHOTO: DOWNEY DEMOCRATIC Rep. Lucille Roybal-Allard may not have a district in which to run for reelection under draft redistricting maps unveiled this week.&lt;/p&gt;
+&lt;p&gt;PHOTOGRAPHER:Kent Nishimura Los Angeles Times&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Los Angeles Times</Title>
+         <MpubId>46999</MpubId>
+         <SortTitle>Los Angeles Times</SortTitle>
+         <Qualifier>Los Angeles, Calif.</Qualifier>
+         <JournalCode>ANGE</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>18860101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Los Angeles Times Communications LLC</PublisherName>
+            <PublisherAddress>
+               <City>Los Angeles</City>
+               <Province>CA</Province>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7683</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>04583035</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60200.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Los Angeles Times</Title>
+            <SortTitle>Los Angeles Times</SortTitle>
+            <Qualifier>Los Angeles, Calif.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7683</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>04583035</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60200.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Los Angeles Daily Times</Title>
+               <Qualifier>Los Angeles, Calif.</Qualifier>
+               <EndIssueDate>18861022</EndIssueDate>
+               <CatalogNum>60200.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Dec 4, 1996</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19961204</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Nov 12, 2021</AlphaDate>
+         <StartDate>2021-11-12</StartDate>
+         <EndDate>2021-11-12</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7683_Nov122021</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

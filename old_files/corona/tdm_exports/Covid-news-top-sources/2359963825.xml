@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2359963825</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Cubs Marquee network launch delayed on Hulu</Title>
+      </TitleAtt>
+      <NumericDate>2020-02-22</NumericDate>
+      <StartDate>2020-02-22</StartDate>
+      <EndDate>2020-02-22</EndDate>
+      <AlphaDate>Feb 22, 2020</AlphaDate>
+      <RawAlphaDate>20200222</RawAlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>Copyright Tribune Publishing Company, LLC Feb 22, 2020</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>7</StartPage>
+         <DocSection>News</DocSection>
+         <DocEdition>Final</DocEdition>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <PMID>7684</PMID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>PQ_7684_Feb222020</PCID>
+         </ObjectID>
+         <ObjectID>
+            <MSTARLegacyID>TRIBTRIB2020022220200221425951488</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>TRIBTRIB2020022220200221425951488</PublisherXID>
+         </ObjectID>
+     </ObjectIDs>
+      <LexileScore>1620</LexileScore>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Channick, Robert</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Robert</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Robert Channick</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Channick</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Robert Channick</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Oakland Athletics</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>711211</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Comcast Corp</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>517311</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>517312</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>517919</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Chicago Cubs</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>711211</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>NBC Sports</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>AT&amp;T Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>517311</CompanyNAIC>
+            </CompanyNAICAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>517312</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Sinclair Broadcast Group Inc</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>515120</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Streaming media</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Customer services</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Chicago Illinois</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Banks, Ernie</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Bryant, Kris</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Murray, Bill</Personal>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="PERS">
+            <Personal>Baez, Javier</Personal>
+         </Term>
+     </Terms>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="643" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;The Cubs first spring training game Saturday has been pushed back until 7:10 p.m. Chicago time due to inclement weather. &lt;/p&gt;&lt;p&gt;The launch of the Marquee Sports Network on streaming service Hulu + Live TV could be pushed back a lot further -- perhaps until opening day on March 26.&lt;/p&gt;&lt;p&gt;The exclusive TV home of the Chicago Cubs, Marquee on Monday announced it had partnered with Hulu to broadcast the entire season on the streaming service. But on Friday, Hulu said subscribers would not be able to watch Marquee when the network debuts Saturday, promising that it would be live ahead of the regular season opener next month.&lt;/p&gt;&lt;p&gt;That news may come as a disappointment to customers who signed up for the $54.99 monthly streaming package on Hulu in anticipation of seeing the Cubs' full 28-game spring training TV schedule, including the first game against the Oakland Athletics.&lt;/p&gt;&lt;p&gt;"The provider determines the launch date for the service," Cubs spokesman Julian Green said Friday.&lt;/p&gt;&lt;p&gt;A partnership between the Cubs and Sinclair Broadcast Group, Marquee has lined up a number of cable and satellite providers to carry the fledgling regional sports network, including AT&amp;amp;T and RCN in the Chicago area. The network is still is trying to reach an agreement with Comcast to secure a spot on the cable giant's Chicago-area channel lineup.&lt;/p&gt;&lt;p&gt;On Friday, the Cubs issued a news release clarifying which cable providers will carry Marquee when the network begins broadcasting at 1 p.m. Saturday.&lt;/p&gt;&lt;p&gt;"As soon as we learned that there are some services that would not broadcast the first spring training game, we wanted to be proactive with our fans to let them know, because we were sure there were fans making decisions today, trying to decide whether they should stay with their current service or switch to another one," Green said.&lt;/p&gt;&lt;p&gt;Marquee is scheduled to air at least 145 regular-season games. It also will feature expanded pregame and postgame coverage, classic broadcasts from the archives and other programming.&lt;/p&gt;&lt;p&gt;Saturday's programming lineup includes a documentary on Ernie Banks and contributions from actor and comedian Bill Murray, the Wilmette native and Cubs superfan who was in Chicago last week filming segments for Marquee's inaugural broadcast.&lt;/p&gt;&lt;p&gt;RCN Chicago, which is available to about 380,000 homes in Chicago, Evanston, Lincolnwood and Skokie, is set to go live Saturday when Marquee flips the switch, with the network airing on channels 377 and 679 (HD). AT&amp;amp;T will carry the network at its launch on U-verse and DirecTV.&lt;/p&gt;&lt;p&gt;Tom McKay, general manager of RCN Chicago, said the cable provider was looking to leverage its Marquee partnership to sign up Cubs fans who couldn't watch the games on Comcast or other platforms.&lt;/p&gt;&lt;p&gt;"We're expecting, once this thing launches this weekend, that we should benefit," McKay said. "We service a lot of the North Side of Chicago, which is Cubs town. The Comcast customers that are going to be missing it will be coming this way."&lt;/p&gt;&lt;p&gt;A dozen Cubs regular-season games are reserved for national broadcasts, but Marquee became the exclusive local TV home this season after the team parted ways with NBC Sports Chicago, the regional sports network it formed in 2004 with the Bulls, Blackhawks and White Sox.&lt;/p&gt;&lt;p&gt;The Cubs also exited local over-the-air TV after 71 years, pulling the plug on WGN-9 and ABC-7 and moving a combined 70 games to Marquee this season.&lt;/p&gt;&lt;p&gt;Marquee and NBC Sports Chicago are battling it out for sports viewers and a share of carriage fees -- the amount cable and satellite providers pay for programming. Those fees show up on many cable bills as a line item for sports programming.&lt;/p&gt;&lt;p&gt;For RCN Chicago customers who subscribe to the company's most popular programming package, the addition of Marquee will add $2.75 per month to the sports fee, McKay said.&lt;/p&gt;&lt;p&gt;----------&lt;/p&gt;&lt;p&gt;rchannick@chicagotribune.com&lt;/p&gt;&lt;p&gt;CAPTION: Photo: Chicago Cubs players Kris Bryant, Anthony Rizzo, and Javier Baez get ready for batting practice Friday in Mesa, Ariz. ARMANDO L. SANCHEZ/CHICAGO TRIBUNE&lt;/p&gt;&lt;p&gt;CREDIT: By Robert Channick&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>Chicago Tribune</Title>
+         <MpubId>46852</MpubId>
+         <SortTitle>Chicago Tribune</SortTitle>
+         <Qualifier>Chicago, Ill.</Qualifier>
+         <JournalCode>CTRB</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <StartDate>19630101</StartDate>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>Tribune Publishing Company, LLC</PublisherName>
+            <PublisherAddress>
+               <Address1>435 N. Michigan Ave.</Address1>
+               <Address2>-</Address2>
+               <City>Chicago</City>
+               <Province>IL</Province>
+               <ZipCode>60611</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+            <PublisherNote>Formerly Tribune Interactive, LLC</PublisherNote>
+         </publisher>
+         <Locators>
+            <Locator Type="PQPMID">
+               <Name>7684</Name>
+            </Locator>
+            <Locator Type="ISSN">
+               <Name>10856706</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>60190.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">N</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PRIMARY_SOURCE_FLAG">N</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_NONE</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">Y</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">N</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>Chicago Tribune</Title>
+            <SortTitle>Chicago Tribune</SortTitle>
+            <Qualifier>Chicago, Ill.</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="PQPMID">
+                  <Name>7684</Name>
+               </Locator>
+               <Locator Type="ISSN">
+                  <Name>10856706</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>60190.00</CatalogNum>
+         </CurrentTitle>
+         <PubHistory>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>19630216</EndIssueDate>
+               <CatalogNum>60190.D0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18721006</EndIssueDate>
+               <CatalogNum>60190.C0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Press and Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18601024</EndIssueDate>
+               <CatalogNum>60190.B0</CatalogNum>
+            </History>
+            <History>
+               <Title>Chicago Daily Tribune</Title>
+               <Qualifier>Chicago, Ill.</Qualifier>
+               <EndIssueDate>18580630</EndIssueDate>
+               <CatalogNum>60190.A0</CatalogNum>
+            </History>
+         </PubHistory>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jan 1, 1989</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>19890101</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Feb 22, 2020</AlphaDate>
+         <RawDate>20200222</RawDate>
+         <StartDate>2020-02-22</StartDate>
+         <EndDate>2020-02-22</EndDate>
+         <Locators>
+            <Locator Type="PQPCID">
+               <Name>PQ_7684_Feb222020</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

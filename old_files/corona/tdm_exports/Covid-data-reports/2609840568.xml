@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2609840568</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Pandemic, war and environmental disaster push scientists to deliver quick answers – here's what it takes to do good science under pressure</Title>
+      </TitleAtt>
+      <NumericDate>2021-12-14</NumericDate>
+      <StartDate>2021-12-14</StartDate>
+      <EndDate>2021-12-14</EndDate>
+      <AlphaDate>Dec 14, 2021</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2021. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVSU_20211214_164152</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVSU_20211214_164152</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977988_Dec142021______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Greenland, Fiona</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Fiona</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Fiona Greenland</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Greenland</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Fiona Greenland</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Fabiani, Michelle D</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Michelle</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Michelle D Fabiani</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Fabiani</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>D</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Michelle D. Fabiani</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/164152/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>National Science Foundation</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>923110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Researchers</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>COVID-19 vaccines</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Scientists</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Collaboration</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Looting</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Archaeology</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Ethics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Pandemics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Medical research</GenSubjValue>
+         </GenSubjTerm>
+         <Term SubTermType="Country" TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>Greenland</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="66">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;[...]researchers involved on a part-time basis expressed higher confidence in the quality of other collaborators’ work.
+
+[...]sharing responsibility for outcomes motivated researchers to generate rapid findings for policy and public-interest needs.
+
+[...]they could do their work with the knowledge that they stood with a team – producing accurate findings that could be used to combat artifact looting and trafficking was not any one individual’s sole responsibility.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1035" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;How can you know that science done quickly during a crisis is good science?&lt;/p&gt;
+&lt;p&gt;This question has taken on new relevance with the COVID-19 vaccine rollout. Researchers developed vaccines in under a year – easily breaking the previous record of four years. But that pace of development may be part of the reason about 1 in 7 unvaccinated adults in the U.S. say they will never get the COVID-19 shot. This is in spite of continued assurances from infectious disease experts that the vaccines are safe.&lt;/p&gt;
+&lt;p&gt;Scientists are called on to come up with answers under pressure whenever there is a crisis, from the Challenger space shuttle explosion to the 2020 California wildfires. As they shift from “regular” to “crisis” research, they must maintain rigorous standards despite long hours, mentally demanding tasks and persistent outside scrutiny. Thankfully, science produced under urgent conditions can be just as robust and safe as results produced under normal conditions.&lt;/p&gt;
+&lt;p&gt;We are two social scientists interested in understanding how researchers can best work on urgent problems and deliver useful findings.&lt;/p&gt;
+&lt;p&gt;In a recent study, we focused on “conflict archaeologists,” an interdisciplinary group tasked with rapid assessments of archaeological destruction in Syria during the war between 2014 and 2017. Observers feared that one particular form of destruction, artifact looting, was a major source of revenue for terrorist groups, including the Islamic State. Prominent policymakers, security officials and a worried public wanted clear answers, quickly.&lt;/p&gt;
+&lt;p&gt;&lt;div&gt;
+&lt;object class="mstar_link_to_media"&gt;
+&lt;param name="mstar_lm_media_type" value="Illustration"/&gt;
+&lt;param name="mstar_lm_media_id" value="1"/&gt;
+&lt;param name="mstar_lm_alignment" value="Left"/&gt;
+&lt;param name="mstar_lm_display_control" value="Embed"/&gt;
+&lt;param name="mstar_lm_pred_equation" value="N"/&gt;
+&lt;div class="mstar_lm_caption"&gt;Then-Secretary of State John Kerry praised the work of crisis archaeologists as ‘the gold standard’ in a 2014 speech about the looting of cultural artifacts. U.S. Department of State, CC BY&lt;/div&gt;
+&lt;/object&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;By any measure, conflict archaeologists succeeded. They produced findings that improved scientific knowledge. Their research led to a landmark bipartisan bill signed by President Obama. Perhaps most importantly, they raised public awareness of the problems associated with looting and smuggling archaeological materials.&lt;/p&gt;
+&lt;p&gt;Our latest research aimed to understand how work cultures played a role in these achievements – and what lessons can be applied in crisis science across disciplines.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;What worked for conflict archaeologists&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To investigate, we interviewed 35 conflict archaeologists and other scientists who worked with them. We also observed work in satellite labs and team meetings, and talked to people who used the data and analysis created by conflict archaeologists.&lt;/p&gt;
+&lt;p&gt;Those we interviewed worked in different physical locations and across multiple disciplines. If they met, they would do so remotely. And yet they were generally aware of what others in this research area were doing. Collaboration is central to doing good urgent science, and we found three key factors behind successfully working together during a crisis.&lt;/p&gt;
+&lt;p&gt;First, the percentage and distribution of effort matters. We call this “temporal control.” We found that full-time devotion to crisis science was not necessarily the only way to produce good work. In fact, researchers involved on a part-time basis expressed higher confidence in the quality of other collaborators’ work. We think part-timers were able to maintain a more comprehensive perspective on the collaboration overall.&lt;/p&gt;
+&lt;p&gt;And keeping a hand in their usual scientific practices seemed to help researchers stay sharp. It meant that when they turned to urgent science tasks, they could do so with fresh eyes and renewed attention to methodological precision.&lt;/p&gt;
+&lt;p&gt;Second, sharing responsibility for outcomes motivated researchers to generate rapid findings for policy and public-interest needs. We call this “responsibility control.” Effective conflict archaeologists distributed credit among collaborators. They translated their objectives and priorities for policymakers and set boundaries and expectations for understanding and using their findings. As a result, they could do their work with the knowledge that they stood with a team – producing accurate findings that could be used to combat artifact looting and trafficking was not any one individual’s sole responsibility.&lt;/p&gt;
+&lt;p&gt;[&lt;i&gt;Too busy to read another daily email?&lt;/i&gt; Get one of The Conversation’s curated weekly newsletters.]&lt;/p&gt;
+&lt;p&gt;Finally, it was important to have limits around the extent of an individual’s personal involvement. This is “scope control,” a work environment that helped scientists set boundaries between the research and their personal lives. “It was exhausting,” one respondent told us. “I tried not to take the work home with me, but I know it was starting to affect my family life.”&lt;/p&gt;
+&lt;p&gt;Scientists who were able to control the scope of their work, and to speak openly about their challenges, were more likely to stick with the project and express confidence in the strength of the research. We hypothesize that those who are able to set borders around what and how much work they took on were in a better position to assess the strength of both their own research and that of others – and thus feel confident in it.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Creating the conditions for good crisis science&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Generating high-quality, safe and reliable scientific research under pressure is not a matter of having a heroic personality or superhuman stamina. It is a matter of thoughtful, deliberate work environments and being part of professional fields that support their members even as they hold them to high standards of rigor and ethics.&lt;/p&gt;
+&lt;p&gt;To be sure, no two crises are identical. At the same time, crisis science best practices can be adapted to fit the specific circumstances of the project. Global pandemics or imminent environmental catastrophe may require short, intensive, full-time bursts of work. Some research projects are lab- or equipment-sensitive and require specific personnel. As our findings show, science conducted with a supportive infrastructure, with rigor and ethics built into the process, can produce reliable results under pressure.&lt;/p&gt;
+&lt;p&gt;Like COVID-19 researchers, conflict archaeologists worked with tight deadlines under intense scrutiny. Both groups also emphasized the need for researchers to continue to employ high ethical standards in the research process.&lt;/p&gt;
+&lt;p&gt;And understanding how scientists maintain their ethics and rigor while working under difficult conditions is essential for maintaining the public’s trust in science.&lt;/p&gt;
+&lt;p&gt;This much is certain: Crises aren’t going away. As long as society is relying on scientists for solutions, it’s important to create conditions conducive to effective research.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Fiona Greenland receives funding from the National Science Foundation.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Michelle D. Fabiani receives funding from the National Science Foundation. &lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Fiona Greenland, Assistant Professor of Sociology, University of Virginia&lt;/p&gt;&lt;p&gt;Michelle D. Fabiani, Assistant Professor of Criminal Justice, University of New Haven&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DerivedData>
+      <ObjectChildren>
+         <Child>
+            <Caption>Then-Secretary of State John Kerry praised the work of crisis archaeologists as ‘the gold standard’ in a 2014 speech about the looting of cultural artifacts. U.S. Department of State, CC BY</Caption>
+            <ImageCategory>Illustration</ImageCategory>
+            <ImageCategory>Figure</ImageCategory>
+            <mstar_lm_media_id>1</mstar_lm_media_id>
+         </Child>
+      </ObjectChildren>
+   </DerivedData>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation U.S.</Title>
+         <MpubId>4977988</MpubId>
+         <SortTitle>Conversation U.S. The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVSU</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977988</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464284.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>General Interest Periodicals--United States</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation U.S.</Title>
+            <SortTitle>Conversation U.S. The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977988</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464284.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 1, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200701</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Dec 14, 2021</AlphaDate>
+         <StartDate>2021-12-14</StartDate>
+         <EndDate>2021-12-14</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977988_Dec142021______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>

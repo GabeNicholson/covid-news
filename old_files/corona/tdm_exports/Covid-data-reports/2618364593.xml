@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><RECORD>
+   <GOID>2618364593</GOID>
+   
+   <Obj>
+      <SourceRollupType>Newspapers</SourceRollupType>
+      <ObjectTypes>
+         <other ObjectTypeOrigin="EXT">News</other>
+         <mstar>News</mstar>
+      </ObjectTypes>
+      <ObjectRollupType>Articles - All Types</ObjectRollupType>
+      <TitleAtt HTMLContent="true">
+         <Title>Watch for these conflicts over education in 2022</Title>
+      </TitleAtt>
+      <NumericDate>2022-01-10</NumericDate>
+      <StartDate>2022-01-10</StartDate>
+      <EndDate>2022-01-10</EndDate>
+      <AlphaDate>Jan 10, 2022</AlphaDate>
+      <Language>       
+         <RawLang>English</RawLang>
+     </Language>
+      <Language IsPrimary="true">       
+         <ISO>         
+            <ISOCode>ENG</ISOCode>
+            <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+         </ISO>
+     </Language>
+      <Copyright>
+         <CopyrightData>© 2022. This work is published under https://creativecommons.org/licenses/by-nd/4.0/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.</CopyrightData>
+      </Copyright>
+      <PrintLocation>       
+         <StartPage>n/a</StartPage>
+     </PrintLocation>
+      <ObjectIDs>       
+         <ObjectID>
+            <MSTARLegacyID>ICACVUS_CVED_20220110_171457</MSTARLegacyID>
+         </ObjectID>
+         <ObjectID>
+            <PublisherXID>ICACVUS_CVED_20220110_171457</PublisherXID>
+         </ObjectID>
+         <ObjectID>
+            <PCID>MSTAR_4977985_Jan102022______</PCID>
+         </ObjectID>
+     </ObjectIDs>
+      <Contributors>       
+         <Contributor ContribOrder="1">
+            <Author>
+               <NormalizedDisplayForm>Ferrare, Joseph J</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Joseph</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Joseph J Ferrare</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Ferrare</LastName>
+               </LastNameAtt>
+               <MiddleNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <MiddleName>J</MiddleName>
+               </MiddleNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Joseph J. Ferrare</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+         <Contributor ContribOrder="2">
+            <Author>
+               <NormalizedDisplayForm>Phillippo, Kate</NormalizedDisplayForm>
+               <FirstNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <FirstName>Kate</FirstName>
+               </FirstNameAtt>
+               <ContribPersonNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <ContribPersonName>Kate Phillippo</ContribPersonName>
+               </ContribPersonNameAtt>
+               <LastNameAtt IsNormalized="true" ContribOrigin="AuthorNormalization">
+                  <LastName>Phillippo</LastName>
+               </LastNameAtt>
+               <OriginalFormAtt>
+                  <OriginalForm>Kate Phillippo</OriginalForm>
+               </OriginalFormAtt>
+            </Author>
+         </Contributor>
+     </Contributors>
+      <Links>       
+         <OtherLink>
+            <PixelTracker>https://counter.theconversation.com/content/171457/count.gif?distributor=republish-lightbox-advanced</PixelTracker>
+         </OtherLink>
+     </Links>
+      <Terms>       
+         <CompanyTerm TermSource="AutoCatNstein">         
+            <CompanyNameAtt TermVocab="CORP">
+               <CompanyName>Department of Education</CompanyName>
+            </CompanyNameAtt>
+            <CompanyNAICAtt>
+               <CompanyNAIC>923110</CompanyNAIC>
+            </CompanyNAICAtt>
+         </CompanyTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Students</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Education policy</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQSUBJ">
+            <GenSubjValue>Coronaviruses</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="AutoCatNstein" TermVocab="PQBUS">
+            <GenSubjValue>Labor unions</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Politics</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>School boards</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Gifted education</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Distance learning</GenSubjValue>
+         </GenSubjTerm>
+         <GenSubjTerm TermSource="Editorial" TermVocab="PQSUBJ">
+            <GenSubjValue>Affirmative action</GenSubjValue>
+         </GenSubjTerm>
+         <Term TermSource="AutoCatNstein" TermVocab="GEOG">
+            <Geographic>New York City New York</Geographic>
+         </Term>
+         <Term SubTermType="Country" TermSource="DBLookup" TermVocab="GEOG">
+            <Geographic>United States--US</Geographic>
+         </Term>
+     </Terms>
+      <Abstract>
+         <Medium Provider="Auto(ECMS)" WordCount="101">
+            <Language>
+               <RawLang>English</RawLang>
+            </Language>
+            <Language IsPrimary="true">
+               <ISO>
+                  <ISOCode>ENG</ISOCode>
+                  <ISOExpansion ISOCode="ENG">English</ISOExpansion>
+               </ISO>
+            </Language>
+            <AbsText HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name="ValidationSchema" content="http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd" /&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;At school board meetings across the country in 2021, parents engaged in physical altercations, shouted at school board members and threatened them as well.
+
+[...]we also saw the successful use of less common efforts to challenge local, state and federal education policy, such as canceled business investments, classroom sit-ins, a student hunger strike, school board recall votes, teacher panhandling, pointed valedictorian speeches and even college football players’ threat to walk out on scheduled revenue-generating games.
+
+Joseph J. Ferrare has received funding from the National Science Foundation, Alfred P. Sloan Foundation, Spencer Foundation, and U.S. Department of Education's Institute of Education Sciences.&lt;/body&gt;&lt;/html&gt;</AbsText>
+         </Medium>
+      </Abstract>
+   </Obj>
+   <TextInfo>       
+      <Text WordCount="1079" HTMLContent="true">&lt;html&gt;&lt;head&gt;&lt;meta name='ValidationSchema' content='http://www.w3.org/2002/08/xhtml/xhtml1-strict.xsd'/&gt;&lt;title&gt;&lt;/title&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;At school board meetings across the country in 2021, parents engaged in physical altercations, shouted at school board members and threatened them as well.&lt;/p&gt;
+&lt;p&gt;These disagreements entered state politics, too, such as the 2021 Virginia governor’s race, which was largely shaped by conflicts over the how issues of race and racism are taught in the K-12 curriculum, and transgender student rights.&lt;/p&gt;
+&lt;p&gt;Our September 2021 article in Educational Policy explains that the short-term conflicts that generate media attention – such as about critical race theory across the nation – are part of long-standing ideological debates about education. These conflicts are about issues such as who deserves academic opportunity, what the parameters of public education are and whether schools and universities ought to promote a positive image of the U.S. or explore its shortcomings.&lt;/p&gt;
+&lt;p&gt;As researchers who study conflicts in education, we see clashes like these continuing into 2022.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1. Virtual education&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In 2022, expect conflicts over virtual school offerings to intensify, especially as the omicron variant surges and as some states push toward vaccine mandates for all students. At stake is whether parents should have control over how public funds are spent on educating their children, and the potential effects of diverting those funds away from traditional public schools.&lt;/p&gt;
+&lt;p&gt;In fall 2021, U.S. school leaders largely shifted their services back to in-person instruction after shutdowns and remote instruction dominated the initial response to the coronavirus pandemic.&lt;/p&gt;
+&lt;p&gt;However, demand for home-schooling and virtual schooling has risen, as some parents discover that these forms of education offer greater flexibility in scheduling, control over curriculum and safety from the coronavirus. In Washington state, for example, enrollments in publicly funded virtual schools operated by for-profit companies have increased dramatically, such as Washington Virtual Academies, which expanded enrollments by an estimated 85% between the 2019-2020 and 2020-2021 school years. Similar trends happened in school districts across the country.&lt;/p&gt;
+&lt;p&gt;Enrollment data for the 2021-2022 school year are still emerging, but some school choice experts have argued that parental demand for virtual education is here to stay. However, in another research project, one of us found that students who switch to online schools experience substantial learning losses in reading and math during each of the three years after switching. That evidence has forced policymakers to consider greater regulation of online schools, even as more parents consider taking their children out of traditional public schools and putting them in virtual ones.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2. Affirmative action&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Affirmative action and similar policies in college admissions have always generated controversy, and 2022 will likely be no different. This year, a case that began in 2014 will reach the U.S. Supreme Court. That case, Students for Fair Admissions vs. Harvard University, alleges that Harvard’s race-conscious admissions policies discriminate against Asian applicants.&lt;/p&gt;
+&lt;p&gt;The case has worked its way through the court system with a national roster of affluent plaintiffs. This group has filed multiple unsuccessful lawsuits across the U.S., including an October 2021 loss in a similar case over admissions at the University of North Carolina at Chapel Hill.&lt;/p&gt;
+&lt;p&gt;Similar lawsuits have also sprung up in San Francisco and Boston over school districts’ efforts to make access to academically selective public schools more representative of student populations. These suits reflect broader ideological tensions over who deserves a well-funded, elite education and the government’s responsibility to protect that access.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3. Teachers unions&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In 2022, look to teachers unions to continue to assert themselves in the face of ongoing efforts by parent and advocacy groups to limit their power.&lt;/p&gt;
+&lt;p&gt;Over the past year teachers unions effectively negotiated the implementation of health safeguards against the spread of COVID-19 in Chicago, New York City and Los Angeles. These unions secured protective measures such as virtual instruction, priority vaccine access for teachers, medical and personal leave related to COVID-19, explicit metrics to determine when schools would close, district-provided personal protective equipment for teachers and classroom air filtration systems.&lt;/p&gt;
+&lt;p&gt;While the pandemic dominates union activity at present, and many unions have not negotiated significant concessions, these wins signal unions’ strategic and legal capacity to negotiate around issues such as compensation and working conditions. Given current shortages of qualified teachers, unions’ negotiation power may intensify.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4. Gifted programs&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In 2022, gifted education may become a national debate. So far it has been prominent in New York City, but that may spread.&lt;/p&gt;
+&lt;p&gt;Mayor Eric Adams said he intends to keep gifted programs in place. Gifted programs offer accelerated learning opportunities for students who score at the top of their class on standardized tests. Critics, such as the School Diversity Advisory Group commissioned by former Mayor Bill de Blasio, argue that gifted programs segregate students by race, since research has shown that students of color are underrepresented in these programs.&lt;/p&gt;
+&lt;p&gt;In California, policymakers have unveiled a plan to address this issue by grouping students of different mathematical ability in the same classrooms until their junior year. Only then will students be able to select advanced math courses, such as calculus or statistics.&lt;/p&gt;
+&lt;p&gt;This move may revive the 1980s’ so-called “tracking wars,” an intense debate over whether students should be offered different levels of curriculum based on their test scores. As other states and districts consider overhauling their own gifted programs, these short-term conflicts will likely add energy to the existing national fight concerning what role the education system should play in addressing inequality in the United States.&lt;/p&gt;
+&lt;p&gt;In all of these conflicts, be prepared in 2022 for policy advocates to use both conventional and unconventional strategies to advance their efforts. Further, expect those advocates to include politically and economically powerful actors as well as those who rarely have a voice in policy conversations.&lt;/p&gt;
+&lt;p&gt;In our research, which spanned the years 2010 to 2020, we saw conventional conflict actions such as teacher strikes, community protests and lawsuits. However, we also saw the successful use of less common efforts to challenge local, state and federal education policy, such as canceled business investments, classroom sit-ins, a student hunger strike, school board recall votes, teacher panhandling, pointed valedictorian speeches and even college football players’ threat to walk out on scheduled revenue-generating games.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Joseph J. Ferrare has received funding from the National Science Foundation, Alfred P. Sloan Foundation, Spencer Foundation, and U.S. Department of Education's Institute of Education Sciences. &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Kate Phillippo has received funding from the Spencer Foundation and the U.S. Department of Education.&lt;/i&gt;&lt;/p&gt;&lt;object class="mstar_text_entity"&gt;&lt;param name="mstar_entity_type" value="AuthorAffiliation"/&gt;&lt;param name="mstar_entity_inline" value="Y"/&gt;&lt;div class="AuthorAffiliation_content"&gt;&lt;p&gt;Joseph J. Ferrare, Assistant Professor of Education Policy and Data Visualization, University of Washington, Bothell&lt;/p&gt;&lt;p&gt;Kate Phillippo, Professor of Social Work and Education, Loyola University Chicago&lt;/p&gt;&lt;/div&gt;&lt;/object&gt;&lt;/body&gt;&lt;/html&gt;</Text>
+     </TextInfo>
+   <DFS>
+      <PubFrosting>
+         <Title>The Conversation : Education</Title>
+         <MpubId>4977985</MpubId>
+         <SortTitle>Conversation : Education The</SortTitle>
+         <Qualifier>Boston</Qualifier>
+         <JournalCode>CVED</JournalCode>
+         <SourceType>Newspapers</SourceType>
+         <EndDate>99991231</EndDate>
+         <publisher>
+            <PublisherName>The Conversation US, Inc.</PublisherName>
+            <PublisherAddress>
+               <Address1>89 South Street - Suite 202</Address1>
+               <City>Boston</City>
+               <Province>MA</Province>
+               <ZipCode>02111</ZipCode>
+               <Country>United States</Country>
+            </PublisherAddress>
+         </publisher>
+         <Locators>
+            <Locator Type="MSTARPMID">
+               <Name>4977985</Name>
+            </Locator>
+         </Locators>
+         <CatalogNum>464269.00</CatalogNum>
+         <Languages>
+            <Language>eng</Language>
+         </Languages>
+         <Flags>
+            <Flag Type="BLOCK_BY_PUB">N</Flag>
+            <Flag Type="ARTICLE_TRANSLATION">Y</Flag>
+            <Flag Type="ALERTING_FLAG">Y</Flag>
+            <Flag Type="DOC_USAGE_ROYALTIES">N</Flag>
+            <Flag Type="UNSTRUCTURED_DATA">N</Flag>
+            <Flag Type="PAC_STATUS">PublicAccessComplete</Flag>
+            <Flag Type="OPEN_LAYER_RIGHTS">OL_IN_ALL</Flag>
+            <Flag Type="OL_CRAWL_BLOCKED">N</Flag>
+            <Flag Type="EXCLUDE_FROM_TDM">N</Flag>
+            <Flag Type="EXCLUDE_FROM_GOOGLE_SCHOLAR">N</Flag>
+            <Flag Type="INCLUDE_IN_PAC">P</Flag>
+         </Flags>
+         <Subjects>
+            <Subject>Education</Subject>
+         </Subjects>
+         <CurrentTitle>
+            <Title>The Conversation : Education</Title>
+            <SortTitle>Conversation : Education The</SortTitle>
+            <Qualifier>Boston</Qualifier>
+            <EndIssueDate>99991231</EndIssueDate>
+            <Locators>
+               <Locator Type="MSTARPMID">
+                  <Name>4977985</Name>
+               </Locator>
+            </Locators>
+            <CatalogNum>464269.00</CatalogNum>
+         </CurrentTitle>
+         
+         <CoverImageType>None</CoverImageType>
+         <BrowseType>IssueDateBrowse</BrowseType>
+         <EmbargoDays>0</EmbargoDays>
+         <HasGaps>0</HasGaps>
+         <CoverageRange>
+            <AlphaStartDate>Jul 2, 2020</AlphaStartDate>
+            <AlphaEndDate>Current</AlphaEndDate>
+            <NumericStartDate>20200702</NumericStartDate>
+            <NumericEndDate>99990101</NumericEndDate>
+         </CoverageRange>
+         <PubFrequencies/>
+         <ContentModel>CM_DEFAULT</ContentModel>
+      </PubFrosting>
+      <GroupFrosting>
+         <AlphaDate>Jan 10, 2022</AlphaDate>
+         <StartDate>2022-01-10</StartDate>
+         <EndDate>2022-01-10</EndDate>
+         <Locators>
+            <Locator Type="MSTARPCID">
+               <Name>MSTAR_4977985_Jan102022______</Name>
+            </Locator>
+         </Locators>
+      </GroupFrosting>
+
+      
+   </DFS>
+   
+</RECORD>
