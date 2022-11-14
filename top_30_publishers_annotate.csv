@@ -1,31 +1,51 @@
-,publisher,political_ideology
-New York Times (Online),65653,L
-CNN Wire Service,59649,L
-USA Today (Online),55162,L
-Daily Herald,54037,R
-Washington Post (Online) The,51331,L
-Wall Street Journal (Online),48552,C
-Chicago Tribune (Online),40849,C
-New York Times,39415,L
-Los Angeles Times (Online),32860,L
-Washington Examiner,32695,R
-Boston Globe (Online),30293,L
-Washington Post The,28001,L
-Wall Street Journal,27084,C
-Los Angeles Times,24292,L
-Politico,23909,L
-Chicago Tribune,21731,C
-Boston Globe,20894,L
-USA TODAY,20666,L
-Arizona Republic,19921,C
-Telegraph - Herald,19806,C
-Orlando Sentinel,18001,R
-South Florida Sun - Sentinel,17682,C
-Pittsburgh Post - Gazette,17343,C
-Portland Press Herald,16877,L
-Newsday,15424,C
-Austin American Statesman,15041,L
-Des Moines Register,14605,C
-Daily Times,14516,C
-Baltimore Sun (Online) The,14475,C
-Hartford Courant (Online),14259,L
+,publisher,political_ideology,nuanced
+New York Times (Online),65653,L,
+CNN Wire Service,59649,L,
+USA Today (Online),55162,L,
+Daily Herald,54037,R,
+Washington Post (Online) The,51331,L,
+Wall Street Journal (Online),48552,C,
+Chicago Tribune (Online),40849,C,
+New York Times,39415,L,
+Los Angeles Times (Online),32860,L,
+Washington Examiner,32695,R,
+Boston Globe (Online),30293,L,
+Washington Post The,28001,L,
+Wall Street Journal,27084,C,
+Los Angeles Times,24292,L,
+Politico,23909,L,
+Chicago Tribune,21731,C,
+Boston Globe,20894,L,
+USA TODAY,20666,L,
+Arizona Republic,19921,R,
+Telegraph - Herald,19806,C,
+Orlando Sentinel,18001,R,
+South Florida Sun - Sentinel,17682,C,
+Pittsburgh Post - Gazette,17343,C,
+Portland Press Herald,16877,L,
+Newsday,15424,C,
+Austin American Statesman,15041,L,
+Des Moines Register,14605,C,
+Daily Times,14516,C,
+Baltimore Sun (Online) The,14475,L,
+Hartford Courant (Online),14259,C,
+Honolulu Star - Advertiser,,L,
+Morning Sentinel,,L,
+Orlando Sentinel (Online),,R,
+Cincinnati Enquirer,,R,
+Atlanta Journal - Constitution The,,C,
+Insider,,C,
+Axios,,C,
+Tennessean The,,C,
+Star Tribune,,L,
+New York Daily News,,L,
+Tampa Bay Times (Online),,C,
+Kennebec Journal,,L,
+Lansing State Journal,,,
+Asbury Park Press,,R,
+Detroit Free Press,,,
+Hartford Courant,,,
+Journal News The,,,
+New Haven Register,,C,LC
+Baltimore Sun The,,C,LC
+LNP,,,
