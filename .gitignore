@@ -12,3 +12,5 @@ old_files/(1)TDM_data_preprocessing_exploratory.ipynb
 csv/owid-covid-data.json
 .DS_Store
 .DS_Store
+us_news_sentiment_bruce.csv
+*.DS_Store
